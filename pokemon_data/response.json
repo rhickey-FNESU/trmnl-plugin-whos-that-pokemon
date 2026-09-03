@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T17:48:44.226808",
+  "timestamp": "2026-09-03T18:01:17.560432",
   "pokemon_data": {
-    "id": "0650",
-    "name": "Chespin",
-    "types": "Grass",
-    "species": "Spiny Nut Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "9.0 kg",
-    "abilities": "Overgrow, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+    "id": "0744",
+    "name": "Rockruff",
+    "types": "Rock",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.2 kg",
+    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
   }
 }
