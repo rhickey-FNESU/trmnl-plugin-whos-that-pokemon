@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T18:50:50.536872",
+  "timestamp": "2026-09-03T19:01:11.674270",
   "pokemon_data": {
-    "id": "0350",
-    "name": "Milotic",
-    "types": "Water",
-    "species": "Tender Pok\u00e9mon",
-    "height": "6.2 m",
-    "weight": "162.0 kg",
-    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+    "id": "0346",
+    "name": "Cradily",
+    "types": "Rock, Grass",
+    "species": "Barnacle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "60.4 kg",
+    "abilities": "Suction-Cups, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
   }
 }
