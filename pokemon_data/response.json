@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T21:33:23.850584",
+  "timestamp": "2026-09-03T21:46:12.142736",
   "pokemon_data": {
-    "id": "0109",
-    "name": "Koffing",
-    "types": "Poison",
-    "species": "Poison Gas Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate, Neutralizing-Gas, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    "id": "0788",
+    "name": "Tapu-Fini",
+    "types": "Water, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "21.2 kg",
+    "abilities": "Misty-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
   }
 }
