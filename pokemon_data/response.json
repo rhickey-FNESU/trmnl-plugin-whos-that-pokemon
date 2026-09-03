@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T20:46:17.685362",
+  "timestamp": "2026-09-03T21:01:34.472226",
   "pokemon_data": {
-    "id": "0023",
-    "name": "Ekans",
-    "types": "Poison",
-    "species": "Snake Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "6.9 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+    "id": "0986",
+    "name": "Brute-Bonnet",
+    "types": "Grass, Dark",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
   }
 }
