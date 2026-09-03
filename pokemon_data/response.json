@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T18:01:17.560432",
+  "timestamp": "2026-09-03T18:25:40.052128",
   "pokemon_data": {
-    "id": "0744",
-    "name": "Rockruff",
-    "types": "Rock",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.2 kg",
-    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+    "id": "0232",
+    "name": "Donphan",
+    "types": "Ground",
+    "species": "Armor Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "120.0 kg",
+    "abilities": "Sturdy, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
   }
 }
