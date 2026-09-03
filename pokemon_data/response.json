@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T16:35:09.808750",
+  "timestamp": "2026-09-03T16:49:13.407693",
   "pokemon_data": {
-    "id": "0135",
-    "name": "Jolteon",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Volt-Absorb, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    "id": "0737",
+    "name": "Charjabug",
+    "types": "Bug, Electric",
+    "species": "Battery Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.5 kg",
+    "abilities": "Battery",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
   }
 }
