@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T16:21:11.566528",
+  "timestamp": "2026-09-03T15:49:12.468530",
   "pokemon_data": {
-    "id": "0870",
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "id": "0143",
+    "name": "Snorlax",
+    "types": "Normal",
+    "species": "Sleeping Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "460.0 kg",
+    "abilities": "Immunity, Thick-Fat, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
   }
 }
