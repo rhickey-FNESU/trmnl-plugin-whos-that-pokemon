@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T23:31:21.741918",
+  "timestamp": "2026-09-03T23:45:57.837653",
   "pokemon_data": {
-    "id": "0837",
-    "name": "Rolycoly",
-    "types": "Rock",
-    "species": "Coal Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "12.0 kg",
-    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+    "id": "0918",
+    "name": "Spidops",
+    "types": "Bug",
+    "species": "Trap Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "16.5 kg",
+    "abilities": "Insomnia, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
   }
 }
