@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T20:21:23.998556",
+  "timestamp": "2026-09-03T20:34:12.158428",
   "pokemon_data": {
-    "id": "0499",
-    "name": "Pignite",
-    "types": "Fire, Fighting",
-    "species": "Fire Pig Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "55.5 kg",
-    "abilities": "Blaze, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+    "id": "0902",
+    "name": "Basculegion-Male",
+    "types": "Water, Ghost",
+    "species": "Big Fish Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   }
 }
