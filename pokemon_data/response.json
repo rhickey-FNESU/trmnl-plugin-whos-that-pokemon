@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T22:32:22.950408",
+  "timestamp": "2026-09-03T22:45:55.332439",
   "pokemon_data": {
-    "id": "0899",
-    "name": "Wyrdeer",
-    "types": "Normal, Psychic",
-    "species": "Big Horn Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "95.1 kg",
-    "abilities": "Intimidate, Frisk, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png"
+    "id": "0152",
+    "name": "Chikorita",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
   }
 }
