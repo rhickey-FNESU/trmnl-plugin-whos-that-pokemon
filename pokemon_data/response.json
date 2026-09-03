@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T21:01:34.472226",
+  "timestamp": "2026-09-03T21:21:22.307564",
   "pokemon_data": {
-    "id": "0986",
-    "name": "Brute-Bonnet",
-    "types": "Grass, Dark",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "21.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
+    "id": "0125",
+    "name": "Electabuzz",
+    "types": "Electric",
+    "species": "Electric Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "abilities": "Static, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
   }
 }
