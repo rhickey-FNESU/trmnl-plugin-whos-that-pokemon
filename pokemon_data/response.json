@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T21:21:22.307564",
+  "timestamp": "2026-09-03T21:33:23.850584",
   "pokemon_data": {
-    "id": "0125",
-    "name": "Electabuzz",
-    "types": "Electric",
-    "species": "Electric Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "30.0 kg",
-    "abilities": "Static, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+    "id": "0109",
+    "name": "Koffing",
+    "types": "Poison",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "abilities": "Levitate, Neutralizing-Gas, Stench",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
   }
 }
