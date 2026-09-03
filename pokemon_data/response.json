@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T23:19:21.085118",
+  "timestamp": "2026-09-03T23:31:21.741918",
   "pokemon_data": {
-    "id": "0120",
-    "name": "Staryu",
-    "types": "Water",
-    "species": "Star Shape Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "34.5 kg",
-    "abilities": "Illuminate, Natural-Cure, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+    "id": "0837",
+    "name": "Rolycoly",
+    "types": "Rock",
+    "species": "Coal Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "12.0 kg",
+    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
   }
 }
