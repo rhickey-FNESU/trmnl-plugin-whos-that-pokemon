@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T15:49:12.468530",
+  "timestamp": "2026-09-03T16:01:05.127267",
   "pokemon_data": {
-    "id": "0143",
-    "name": "Snorlax",
-    "types": "Normal",
-    "species": "Sleeping Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "460.0 kg",
-    "abilities": "Immunity, Thick-Fat, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+    "id": "0592",
+    "name": "Frillish-Male",
+    "types": "Water, Ghost",
+    "species": "Floating Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "33.0 kg",
+    "abilities": "Water-Absorb, Cursed-Body, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
   }
 }
