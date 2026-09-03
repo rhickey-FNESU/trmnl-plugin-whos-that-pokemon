@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T19:31:04.776558",
+  "timestamp": "2026-09-03T19:46:28.591182",
   "pokemon_data": {
-    "id": "0073",
-    "name": "Tentacruel",
-    "types": "Water, Poison",
-    "species": "Jellyfish Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "55.0 kg",
-    "abilities": "Clear-Body, Liquid-Ooze, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+    "id": "0606",
+    "name": "Beheeyem",
+    "types": "Psychic",
+    "species": "Cerebral Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "34.5 kg",
+    "abilities": "Telepathy, Synchronize, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
   }
 }
