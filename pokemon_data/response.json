@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T04:01:26.648436",
+  "timestamp": "2026-09-04T04:22:40.437509",
   "pokemon_data": {
-    "id": "0972",
-    "name": "Houndstone",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "15.0 kg",
-    "abilities": "Sand-Rush, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+    "id": "0497",
+    "name": "Serperior",
+    "types": "Grass",
+    "species": "Regal Pok\u00e9mon",
+    "height": "3.3 m",
+    "weight": "63.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
   }
 }
