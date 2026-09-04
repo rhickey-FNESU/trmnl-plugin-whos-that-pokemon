@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T09:22:58.052594",
+  "timestamp": "2026-09-04T09:34:56.599767",
   "pokemon_data": {
-    "id": "0332",
-    "name": "Cacturne",
-    "types": "Grass, Dark",
-    "species": "Scarecrow Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "77.4 kg",
-    "abilities": "Sand-Veil, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
+    "id": "0469",
+    "name": "Yanmega",
+    "types": "Bug, Flying",
+    "species": "Ogre Darner Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "51.5 kg",
+    "abilities": "Speed-Boost, Tinted-Lens, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png"
   }
 }
