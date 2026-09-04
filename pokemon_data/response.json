@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T20:01:12.474112",
+  "timestamp": "2026-09-04T20:21:39.911734",
   "pokemon_data": {
-    "id": "0824",
-    "name": "Blipbug",
-    "types": "Bug",
-    "species": "Larva Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.0 kg",
-    "abilities": "Swarm, Compound-Eyes, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
+    "id": "0530",
+    "name": "Excadrill",
+    "types": "Ground, Steel",
+    "species": "Subterrene Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "40.4 kg",
+    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
   }
 }
