@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T16:46:32.345076",
+  "timestamp": "2026-09-04T17:00:59.932255",
   "pokemon_data": {
-    "id": "0090",
-    "name": "Shellder",
-    "types": "Water",
-    "species": "Bivalve Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "4.0 kg",
-    "abilities": "Shell-Armor, Skill-Link, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+    "id": "0441",
+    "name": "Chatot",
+    "types": "Normal, Flying",
+    "species": "Music Note Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.9 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
   }
 }
