@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T10:48:29.820966",
+  "timestamp": "2026-09-04T11:01:03.005966",
   "pokemon_data": {
-    "id": "0280",
-    "name": "Ralts",
-    "types": "Psychic, Fairy",
-    "species": "Feeling Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.6 kg",
-    "abilities": "Synchronize, Trace, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png"
+    "id": "0153",
+    "name": "Bayleef",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "15.8 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
   }
 }
