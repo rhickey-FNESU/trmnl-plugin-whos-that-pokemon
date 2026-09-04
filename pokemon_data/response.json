@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T16:22:59.566878",
+  "timestamp": "2026-09-04T16:34:10.750530",
   "pokemon_data": {
-    "id": "0674",
-    "name": "Pancham",
-    "types": "Fighting",
-    "species": "Playful Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+    "id": "0482",
+    "name": "Azelf",
+    "types": "Psychic",
+    "species": "Willpower Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png"
   }
 }
