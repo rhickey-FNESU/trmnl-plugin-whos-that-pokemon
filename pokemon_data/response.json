@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T14:01:11.485296",
+  "timestamp": "2026-09-04T14:21:51.930620",
   "pokemon_data": {
-    "id": "1022",
-    "name": "Iron-Boulder",
-    "types": "Rock, Psychic",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "162.5 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png"
+    "id": "0528",
+    "name": "Swoobat",
+    "types": "Psychic, Flying",
+    "species": "Courting Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "10.5 kg",
+    "abilities": "Unaware, Klutz, Simple",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
   }
 }
