@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T16:34:10.750530",
+  "timestamp": "2026-09-04T16:46:32.345076",
   "pokemon_data": {
-    "id": "0482",
-    "name": "Azelf",
-    "types": "Psychic",
-    "species": "Willpower Pok\u00e9mon",
+    "id": "0090",
+    "name": "Shellder",
+    "types": "Water",
+    "species": "Bivalve Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png"
+    "weight": "4.0 kg",
+    "abilities": "Shell-Armor, Skill-Link, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
   }
 }
