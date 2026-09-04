@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T11:01:03.005966",
+  "timestamp": "2026-09-04T11:21:32.614169",
   "pokemon_data": {
-    "id": "0153",
-    "name": "Bayleef",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "15.8 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
+    "id": "0739",
+    "name": "Crabrawler",
+    "types": "Fighting",
+    "species": "Boxing Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "7.0 kg",
+    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
   }
 }
