@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T08:24:16.263039",
+  "timestamp": "2026-09-04T08:35:35.305594",
   "pokemon_data": {
-    "id": "0586",
-    "name": "Sawsbuck",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "92.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    "id": "0873",
+    "name": "Frosmoth",
+    "types": "Ice, Bug",
+    "species": "Frost Moth Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "42.0 kg",
+    "abilities": "Shield-Dust, Ice-Scales",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png"
   }
 }
