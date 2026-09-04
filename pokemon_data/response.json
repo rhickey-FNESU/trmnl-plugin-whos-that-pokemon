@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T12:41:30.700776",
+  "timestamp": "2026-09-04T12:53:09.954160",
   "pokemon_data": {
-    "id": "0797",
-    "name": "Celesteela",
-    "types": "Steel, Flying",
-    "species": "Launch Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "999.9 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
