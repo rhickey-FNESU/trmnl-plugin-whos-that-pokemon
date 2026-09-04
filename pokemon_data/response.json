@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T09:34:56.599767",
+  "timestamp": "2026-09-04T09:49:02.140971",
   "pokemon_data": {
-    "id": "0469",
-    "name": "Yanmega",
-    "types": "Bug, Flying",
-    "species": "Ogre Darner Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "51.5 kg",
-    "abilities": "Speed-Boost, Tinted-Lens, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png"
+    "id": "0548",
+    "name": "Petilil",
+    "types": "Grass",
+    "species": "Bulb Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.6 kg",
+    "abilities": "Chlorophyll, Own-Tempo, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
   }
 }
