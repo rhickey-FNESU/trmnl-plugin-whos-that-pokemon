@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T00:29:49.634953",
+  "timestamp": "2026-09-04T00:42:58.913367",
   "pokemon_data": {
-    "id": "0944",
-    "name": "Shroodle",
-    "types": "Poison, Normal",
-    "species": "Toxic Mouse Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.7 kg",
-    "abilities": "Unburden, Pickpocket, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png"
+    "id": "0572",
+    "name": "Minccino",
+    "types": "Normal",
+    "species": "Chinchilla Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.8 kg",
+    "abilities": "Cute-Charm, Technician, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
   }
 }
