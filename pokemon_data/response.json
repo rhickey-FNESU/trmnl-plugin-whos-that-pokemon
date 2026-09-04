@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T14:34:26.492956",
+  "timestamp": "2026-09-04T14:48:42.063817",
   "pokemon_data": {
-    "id": "1000",
-    "name": "Gholdengo",
-    "types": "Steel, Ghost",
-    "species": "Coin Entity Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "30.0 kg",
-    "abilities": "Good-As-Gold",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
+    "id": "0224",
+    "name": "Octillery",
+    "types": "Water",
+    "species": "Jet Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "28.5 kg",
+    "abilities": "Suction-Cups, Sniper, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
   }
 }
