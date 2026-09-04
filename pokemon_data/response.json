@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T12:01:33.757153",
+  "timestamp": "2026-09-04T12:27:46.042872",
   "pokemon_data": {
-    "id": "0634",
-    "name": "Zweilous",
-    "types": "Dark, Dragon",
-    "species": "Hostile Pok\u00e9mon",
+    "id": "0210",
+    "name": "Granbull",
+    "types": "Fairy",
+    "species": "Fairy Pok\u00e9mon",
     "height": "1.4 m",
-    "weight": "50.0 kg",
-    "abilities": "Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
+    "weight": "48.7 kg",
+    "abilities": "Intimidate, Quick-Feet, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
   }
 }
