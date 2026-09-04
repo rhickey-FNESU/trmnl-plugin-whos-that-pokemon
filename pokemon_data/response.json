@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T03:34:17.025898",
+  "timestamp": "2026-09-04T03:47:42.659587",
   "pokemon_data": {
-    "id": "0827",
-    "name": "Nickit",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+    "id": "0823",
+    "name": "Corviknight",
+    "types": "Flying, Steel",
+    "species": "Raven Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "75.0 kg",
+    "abilities": "Pressure, Unnerve, Mirror-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
   }
 }
