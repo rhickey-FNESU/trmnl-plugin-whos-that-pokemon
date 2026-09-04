@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T17:46:05.592416",
+  "timestamp": "2026-09-04T18:00:59.547634",
   "pokemon_data": {
-    "id": "0127",
-    "name": "Pinsir",
-    "types": "Bug",
-    "species": "Stag Beetle Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "55.0 kg",
-    "abilities": "Hyper-Cutter, Mold-Breaker, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+    "id": "0066",
+    "name": "Machop",
+    "types": "Fighting",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "19.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
   }
 }
