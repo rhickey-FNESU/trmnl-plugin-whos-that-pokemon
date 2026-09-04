@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T04:34:28.948283",
+  "timestamp": "2026-09-04T04:47:39.049700",
   "pokemon_data": {
-    "id": "0766",
-    "name": "Passimian",
-    "types": "Fighting",
-    "species": "Teamwork Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "82.8 kg",
-    "abilities": "Receiver, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
+    "id": "0530",
+    "name": "Excadrill",
+    "types": "Ground, Steel",
+    "species": "Subterrene Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "40.4 kg",
+    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
   }
 }
