@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T01:01:06.004458",
+  "timestamp": "2026-09-04T01:18:08.124681",
   "pokemon_data": {
-    "id": "0018",
-    "name": "Pidgeot",
+    "id": "0017",
+    "name": "Pidgeotto",
     "types": "Normal, Flying",
     "species": "Bird Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.5 kg",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
     "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
   }
 }
