@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T08:49:41.430015",
+  "timestamp": "2026-09-04T09:01:13.034423",
   "pokemon_data": {
-    "id": "0203",
-    "name": "Girafarig",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.5 kg",
-    "abilities": "Inner-Focus, Early-Bird, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+    "id": "0521",
+    "name": "Unfezant",
+    "types": "Normal, Flying",
+    "species": "Proud Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "29.0 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
   }
 }
