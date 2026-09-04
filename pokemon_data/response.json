@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T00:42:58.913367",
+  "timestamp": "2026-09-04T00:52:49.493178",
   "pokemon_data": {
-    "id": "0572",
-    "name": "Minccino",
-    "types": "Normal",
-    "species": "Chinchilla Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.8 kg",
-    "abilities": "Cute-Charm, Technician, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
+    "id": "0802",
+    "name": "Marshadow",
+    "types": "Fighting, Ghost",
+    "species": "Gloomdweller Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "22.2 kg",
+    "abilities": "Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
   }
 }
