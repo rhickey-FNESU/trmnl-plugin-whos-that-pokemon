@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T00:52:49.493178",
+  "timestamp": "2026-09-04T01:01:06.004458",
   "pokemon_data": {
-    "id": "0802",
-    "name": "Marshadow",
-    "types": "Fighting, Ghost",
-    "species": "Gloomdweller Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "22.2 kg",
-    "abilities": "Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
+    "id": "0018",
+    "name": "Pidgeot",
+    "types": "Normal, Flying",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
