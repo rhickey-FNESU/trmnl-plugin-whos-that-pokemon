@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T22:31:51.201723",
+  "timestamp": "2026-09-04T22:45:55.332863",
   "pokemon_data": {
-    "id": "0330",
-    "name": "Flygon",
-    "types": "Ground, Dragon",
-    "species": "Mystic Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "82.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png"
+    "id": "0130",
+    "name": "Gyarados",
+    "types": "Water, Flying",
+    "species": "Atrocious Pok\u00e9mon",
+    "height": "6.5 m",
+    "weight": "235.0 kg",
+    "abilities": "Intimidate, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
   }
 }
