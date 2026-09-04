@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T19:01:15.935169",
+  "timestamp": "2026-09-04T19:17:53.267942",
   "pokemon_data": {
-    "id": "0207",
-    "name": "Gligar",
-    "types": "Ground, Flying",
-    "species": "Fly Scorpion Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "64.8 kg",
-    "abilities": "Hyper-Cutter, Sand-Veil, Immunity",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
+    "id": "0550",
+    "name": "Basculin-Red-Striped",
+    "types": "Water",
+    "species": "Hostile Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "18.0 kg",
+    "abilities": "Reckless, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
   }
 }
