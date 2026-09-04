@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T13:22:31.084524",
+  "timestamp": "2026-09-04T13:34:57.072878",
   "pokemon_data": {
-    "id": "0060",
-    "name": "Poliwag",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "12.4 kg",
-    "abilities": "Water-Absorb, Damp, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+    "id": "0473",
+    "name": "Mamoswine",
+    "types": "Ice, Ground",
+    "species": "Twin Tusk Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "291.0 kg",
+    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png"
   }
 }
