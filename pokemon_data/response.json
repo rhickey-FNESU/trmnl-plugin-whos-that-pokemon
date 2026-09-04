@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T06:52:15.844118",
+  "timestamp": "2026-09-04T07:01:28.267934",
   "pokemon_data": {
-    "id": "0351",
-    "name": "Castform",
-    "types": "Normal",
-    "species": "Weather Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.8 kg",
-    "abilities": "Forecast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png"
+    "id": "0112",
+    "name": "Rhydon",
+    "types": "Ground, Rock",
+    "species": "Drill Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "120.0 kg",
+    "abilities": "Lightning-Rod, Rock-Head, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
   }
 }
