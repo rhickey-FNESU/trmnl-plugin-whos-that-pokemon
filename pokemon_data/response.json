@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T10:01:08.747582",
+  "timestamp": "2026-09-04T10:22:48.818279",
   "pokemon_data": {
-    "id": "0589",
-    "name": "Escavalier",
-    "types": "Bug, Steel",
-    "species": "Cavalry Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "33.0 kg",
-    "abilities": "Swarm, Shell-Armor, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+    "id": "0118",
+    "name": "Goldeen",
+    "types": "Water",
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "15.0 kg",
+    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
   }
 }
