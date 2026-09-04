@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T08:00:56.711463",
+  "timestamp": "2026-09-04T08:24:16.263039",
   "pokemon_data": {
-    "id": "0623",
-    "name": "Golurk",
-    "types": "Ground, Ghost",
-    "species": "Automaton Pok\u00e9mon",
-    "height": "2.8 m",
-    "weight": "330.0 kg",
-    "abilities": "Iron-Fist, Klutz, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
+    "id": "0586",
+    "name": "Sawsbuck",
+    "types": "Normal, Grass",
+    "species": "Season Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "92.5 kg",
+    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
   }
 }
