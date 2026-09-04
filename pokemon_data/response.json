@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T10:22:48.818279",
+  "timestamp": "2026-09-04T10:34:49.440040",
   "pokemon_data": {
-    "id": "0118",
-    "name": "Goldeen",
-    "types": "Water",
-    "species": "Goldfish Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+    "id": "0609",
+    "name": "Chandelure",
+    "types": "Ghost, Fire",
+    "species": "Luring Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "34.3 kg",
+    "abilities": "Flash-Fire, Flame-Body, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
   }
 }
