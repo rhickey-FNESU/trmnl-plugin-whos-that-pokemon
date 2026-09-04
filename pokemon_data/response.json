@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T01:48:15.870709",
+  "timestamp": "2026-09-04T02:01:00.624430",
   "pokemon_data": {
-    "id": "0854",
-    "name": "Sinistea",
-    "types": "Ghost",
-    "species": "Black Tea Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Weak-Armor, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
+    "id": "0078",
+    "name": "Rapidash",
+    "types": "Fire",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "95.0 kg",
+    "abilities": "Run-Away, Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
   }
 }
