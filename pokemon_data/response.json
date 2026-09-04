@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T15:34:47.936324",
+  "timestamp": "2026-09-04T15:47:38.214582",
   "pokemon_data": {
-    "id": "0971",
-    "name": "Greavard",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
+    "id": "0027",
+    "name": "Sandshrew",
+    "types": "Ground",
+    "species": "Mouse Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "35.0 kg",
-    "abilities": "Pickup, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+    "weight": "12.0 kg",
+    "abilities": "Sand-Veil, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
   }
 }
