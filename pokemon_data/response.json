@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T12:53:09.954160",
+  "timestamp": "2026-09-04T13:01:14.746175",
   "pokemon_data": {
-    "id": "1023",
-    "name": "Iron-Crown",
-    "types": "Steel, Psychic",
-    "species": "Paradox Pok\u00e9mon",
+    "id": "0042",
+    "name": "Golbat",
+    "types": "Poison, Flying",
+    "species": "Bat Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "156.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
+    "weight": "55.0 kg",
+    "abilities": "Inner-Focus, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
   }
 }
