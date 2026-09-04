@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T19:17:53.267942",
+  "timestamp": "2026-09-04T19:31:10.912507",
   "pokemon_data": {
-    "id": "0550",
-    "name": "Basculin-Red-Striped",
-    "types": "Water",
-    "species": "Hostile Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "18.0 kg",
-    "abilities": "Reckless, Adaptability, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+    "id": "0717",
+    "name": "Yveltal",
+    "types": "Dark, Flying",
+    "species": "Destruction Pok\u00e9mon",
+    "height": "5.8 m",
+    "weight": "203.0 kg",
+    "abilities": "Dark-Aura",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png"
   }
 }
