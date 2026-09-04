@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T18:35:33.759377",
+  "timestamp": "2026-09-04T18:47:41.693157",
   "pokemon_data": {
-    "id": "0641",
-    "name": "Tornadus-Incarnate",
-    "types": "Flying",
-    "species": "Cyclone Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "63.0 kg",
-    "abilities": "Prankster, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+    "id": "0806",
+    "name": "Blacephalon",
+    "types": "Fire, Ghost",
+    "species": "Fireworks Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "13.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
   }
 }
