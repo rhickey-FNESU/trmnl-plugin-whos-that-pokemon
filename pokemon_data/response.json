@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T01:32:01.958736",
+  "timestamp": "2026-09-04T01:48:15.870709",
   "pokemon_data": {
-    "id": "0303",
-    "name": "Mawile",
-    "types": "Steel, Fairy",
-    "species": "Deceiver Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.5 kg",
-    "abilities": "Hyper-Cutter, Intimidate, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png"
+    "id": "0854",
+    "name": "Sinistea",
+    "types": "Ghost",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Weak-Armor, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
   }
 }
