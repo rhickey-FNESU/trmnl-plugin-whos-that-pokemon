@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T13:01:14.746175",
+  "timestamp": "2026-09-04T13:22:31.084524",
   "pokemon_data": {
-    "id": "0042",
-    "name": "Golbat",
-    "types": "Poison, Flying",
-    "species": "Bat Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "55.0 kg",
-    "abilities": "Inner-Focus, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+    "id": "0060",
+    "name": "Poliwag",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "12.4 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
   }
 }
