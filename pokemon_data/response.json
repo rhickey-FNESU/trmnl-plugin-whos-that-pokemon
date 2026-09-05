@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T02:01:06.282832",
+  "timestamp": "2026-09-05T02:21:18.868721",
   "pokemon_data": {
-    "id": "0990",
-    "name": "Iron-Treads",
-    "types": "Ground, Steel",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "240.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png"
+    "id": "0865",
+    "name": "Sirfetchd",
+    "types": "Fighting",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "117.0 kg",
+    "abilities": "Steadfast, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
   }
 }
