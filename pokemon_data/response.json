@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T07:46:01.694932",
+  "timestamp": "2026-09-05T08:01:13.245106",
   "pokemon_data": {
-    "id": "0742",
-    "name": "Cutiefly",
-    "types": "Bug, Fairy",
-    "species": "Bee Fly Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+    "id": "0745",
+    "name": "Lycanroc-Midday",
+    "types": "Rock",
+    "species": "Wolf Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "25.0 kg",
+    "abilities": "Keen-Eye, Sand-Rush, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
   }
 }
