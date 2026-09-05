@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T13:46:14.171021",
+  "timestamp": "2026-09-05T14:00:59.363210",
   "pokemon_data": {
-    "id": "0003",
-    "name": "Venusaur",
-    "types": "Grass, Poison",
-    "species": "Seed Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "100.0 kg",
-    "abilities": "Overgrow, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+    "id": "0898",
+    "name": "Calyrex",
+    "types": "Psychic, Grass",
+    "species": "King Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "7.7 kg",
+    "abilities": "Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
   }
 }
