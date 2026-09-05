@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T01:01:02.756411",
+  "timestamp": "2026-09-05T01:19:45.847390",
   "pokemon_data": {
-    "id": "0114",
-    "name": "Tangela",
-    "types": "Grass",
-    "species": "Vine Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "35.0 kg",
-    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+    "id": "0005",
+    "name": "Charmeleon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "abilities": "Blaze, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
   }
 }
