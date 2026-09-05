@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T14:00:59.363210",
+  "timestamp": "2026-09-05T14:20:06.853335",
   "pokemon_data": {
-    "id": "0898",
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "id": "0587",
+    "name": "Emolga",
+    "types": "Electric, Flying",
+    "species": "Sky Squirrel Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Static, Motor-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
   }
 }
