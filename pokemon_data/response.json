@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T21:00:46.658429",
+  "timestamp": "2026-09-05T21:19:42.889631",
   "pokemon_data": {
-    "id": "0957",
-    "name": "Tinkatink",
-    "types": "Fairy, Steel",
-    "species": "Metalsmith Pok\u00e9mon",
+    "id": "0304",
+    "name": "Aron",
+    "types": "Steel, Rock",
+    "species": "Iron Armor Pok\u00e9mon",
     "height": "0.4 m",
-    "weight": "8.9 kg",
-    "abilities": "Mold-Breaker, Own-Tempo, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png"
+    "weight": "60.0 kg",
+    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png"
   }
 }
