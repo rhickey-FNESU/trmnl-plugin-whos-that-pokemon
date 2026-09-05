@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T06:24:57.500467",
+  "timestamp": "2026-09-05T06:36:14.517689",
   "pokemon_data": {
-    "id": "0290",
-    "name": "Nincada",
-    "types": "Bug, Ground",
-    "species": "Trainee Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Compound-Eyes, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+    "id": "0565",
+    "name": "Carracosta",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "81.0 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
   }
 }
