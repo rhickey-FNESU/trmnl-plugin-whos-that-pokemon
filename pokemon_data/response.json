@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T13:01:06.283901",
+  "timestamp": "2026-09-05T13:20:01.382252",
   "pokemon_data": {
-    "id": "0611",
-    "name": "Fraxure",
-    "types": "Dragon",
-    "species": "Axe Jaw Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "36.0 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+    "id": "0436",
+    "name": "Bronzor",
+    "types": "Steel, Psychic",
+    "species": "Bronze Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "60.5 kg",
+    "abilities": "Levitate, Heatproof, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png"
   }
 }
