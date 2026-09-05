@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T15:01:14.024358",
+  "timestamp": "2026-09-05T15:20:21.371370",
   "pokemon_data": {
-    "id": "0901",
-    "name": "Ursaluna",
-    "types": "Ground, Normal",
-    "species": "Peat Pok\u00e9mon",
-    "height": "2.4 m",
-    "weight": "290.0 kg",
-    "abilities": "Guts, Bulletproof, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+    "id": "0076",
+    "name": "Golem",
+    "types": "Rock, Ground",
+    "species": "Megaton Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "300.0 kg",
+    "abilities": "Rock-Head, Sturdy, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
   }
 }
