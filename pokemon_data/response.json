@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T09:20:23.069484",
+  "timestamp": "2026-09-05T09:32:27.633750",
   "pokemon_data": {
-    "id": "0132",
-    "name": "Ditto",
-    "types": "Normal",
-    "species": "Transform Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "4.0 kg",
-    "abilities": "Limber, Imposter",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+    "id": "0281",
+    "name": "Kirlia",
+    "types": "Psychic, Fairy",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "20.2 kg",
+    "abilities": "Synchronize, Trace, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
   }
 }
