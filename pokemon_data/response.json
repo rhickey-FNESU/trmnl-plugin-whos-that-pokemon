@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T11:01:03.329096",
+  "timestamp": "2026-09-05T11:19:34.638553",
   "pokemon_data": {
-    "id": "0320",
-    "name": "Wailmer",
-    "types": "Water",
-    "species": "Ball Whale Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "130.0 kg",
-    "abilities": "Water-Veil, Oblivious, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
+    "id": "0978",
+    "name": "Tatsugiri-Curly",
+    "types": "Dragon, Water",
+    "species": "Mimicry Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.0 kg",
+    "abilities": "Commander, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
   }
 }
