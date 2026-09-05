@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T10:46:16.412282",
+  "timestamp": "2026-09-05T11:01:03.329096",
   "pokemon_data": {
-    "id": "0961",
-    "name": "Wugtrio",
+    "id": "0320",
+    "name": "Wailmer",
     "types": "Water",
-    "species": "Garden Eel Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "5.4 kg",
-    "abilities": "Gooey, Rattled, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png"
+    "species": "Ball Whale Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "130.0 kg",
+    "abilities": "Water-Veil, Oblivious, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
   }
 }
