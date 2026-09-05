@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T02:21:18.868721",
+  "timestamp": "2026-09-05T02:33:41.873901",
   "pokemon_data": {
-    "id": "0865",
-    "name": "Sirfetchd",
-    "types": "Fighting",
-    "species": "Wild Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "117.0 kg",
-    "abilities": "Steadfast, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+    "id": "0972",
+    "name": "Houndstone",
+    "types": "Ghost",
+    "species": "Ghost Dog Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "15.0 kg",
+    "abilities": "Sand-Rush, Fluffy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
   }
 }
