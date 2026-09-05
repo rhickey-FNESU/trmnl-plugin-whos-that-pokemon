@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T17:30:52.072545",
+  "timestamp": "2026-09-05T17:45:51.189611",
   "pokemon_data": {
-    "id": "0661",
-    "name": "Fletchling",
-    "types": "Normal, Flying",
-    "species": "Tiny Robin Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.7 kg",
-    "abilities": "Big-Pecks, Gale-Wings",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+    "id": "0850",
+    "name": "Sizzlipede",
+    "types": "Fire, Bug",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "1.0 kg",
+    "abilities": "Flash-Fire, White-Smoke, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png"
   }
 }
