@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T07:00:54.649003",
+  "timestamp": "2026-09-05T07:19:39.630055",
   "pokemon_data": {
-    "id": "0068",
-    "name": "Machamp",
-    "types": "Fighting",
-    "species": "Superpower Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "130.0 kg",
-    "abilities": "Guts, No-Guard, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+    "id": "0479",
+    "name": "Rotom",
+    "types": "Electric, Ghost",
+    "species": "Plasma Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
   }
 }
