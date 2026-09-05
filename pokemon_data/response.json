@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T22:20:04.444920",
+  "timestamp": "2026-09-05T22:31:04.277676",
   "pokemon_data": {
-    "id": "0208",
-    "name": "Steelix",
-    "types": "Steel, Ground",
-    "species": "Iron Snake Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "400.0 kg",
-    "abilities": "Rock-Head, Sturdy, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+    "id": "0675",
+    "name": "Pangoro",
+    "types": "Fighting, Dark",
+    "species": "Daunting Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "136.0 kg",
+    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
   }
 }
