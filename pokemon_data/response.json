@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T00:01:17.945112",
+  "timestamp": "2026-09-05T00:31:29.907993",
   "pokemon_data": {
-    "id": "0721",
-    "name": "Volcanion",
-    "types": "Fire, Water",
-    "species": "Steam Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "195.0 kg",
-    "abilities": "Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
+    "id": "1004",
+    "name": "Chi-Yu",
+    "types": "Dark, Fire",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.9 kg",
+    "abilities": "Beads-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png"
   }
 }
