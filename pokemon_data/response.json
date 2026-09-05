@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T02:33:41.873901",
+  "timestamp": "2026-09-05T02:47:01.785173",
   "pokemon_data": {
-    "id": "0972",
-    "name": "Houndstone",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "15.0 kg",
-    "abilities": "Sand-Rush, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+    "id": "0818",
+    "name": "Inteleon",
+    "types": "Water",
+    "species": "Secret Agent Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "45.2 kg",
+    "abilities": "Torrent, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png"
   }
 }
