@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T08:33:12.044208",
+  "timestamp": "2026-09-05T08:47:02.536116",
   "pokemon_data": {
-    "id": "0393",
-    "name": "Piplup",
-    "types": "Water",
-    "species": "Penguin Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.2 kg",
-    "abilities": "Torrent, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+    "id": "0292",
+    "name": "Shedinja",
+    "types": "Bug, Ghost",
+    "species": "Shed Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "1.2 kg",
+    "abilities": "Wonder-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
   }
 }
