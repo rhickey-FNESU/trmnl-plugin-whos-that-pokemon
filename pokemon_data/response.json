@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T07:32:19.000540",
+  "timestamp": "2026-09-05T07:46:01.694932",
   "pokemon_data": {
-    "id": "0425",
-    "name": "Drifloon",
-    "types": "Ghost, Flying",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "1.2 kg",
-    "abilities": "Aftermath, Unburden, Flare-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    "id": "0742",
+    "name": "Cutiefly",
+    "types": "Bug, Fairy",
+    "species": "Bee Fly Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
   }
 }
