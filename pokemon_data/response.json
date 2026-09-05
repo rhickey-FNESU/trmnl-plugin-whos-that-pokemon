@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T22:31:04.277676",
+  "timestamp": "2026-09-05T22:46:17.913748",
   "pokemon_data": {
-    "id": "0675",
-    "name": "Pangoro",
-    "types": "Fighting, Dark",
-    "species": "Daunting Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "136.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
+    "id": "0815",
+    "name": "Cinderace",
+    "types": "Fire",
+    "species": "Striker Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "33.0 kg",
+    "abilities": "Blaze, Libero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
   }
 }
