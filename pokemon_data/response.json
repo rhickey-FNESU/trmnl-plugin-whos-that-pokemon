@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T12:36:14.161167",
+  "timestamp": "2026-09-05T12:49:47.268635",
   "pokemon_data": {
-    "id": "0186",
-    "name": "Politoed",
-    "types": "Water",
-    "species": "Frog Pok\u00e9mon",
+    "id": "0168",
+    "name": "Ariados",
+    "types": "Bug, Poison",
+    "species": "Long Leg Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "33.9 kg",
-    "abilities": "Water-Absorb, Damp, Drizzle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
+    "weight": "33.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
   }
 }
