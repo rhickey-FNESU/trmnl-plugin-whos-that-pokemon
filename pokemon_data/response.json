@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T12:49:47.268635",
+  "timestamp": "2026-09-05T13:01:06.283901",
   "pokemon_data": {
-    "id": "0168",
-    "name": "Ariados",
-    "types": "Bug, Poison",
-    "species": "Long Leg Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+    "id": "0611",
+    "name": "Fraxure",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "36.0 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
   }
 }
