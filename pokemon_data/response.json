@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T08:47:02.536116",
+  "timestamp": "2026-09-05T09:01:04.148955",
   "pokemon_data": {
-    "id": "0292",
-    "name": "Shedinja",
-    "types": "Bug, Ghost",
-    "species": "Shed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "1.2 kg",
-    "abilities": "Wonder-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    "id": "0300",
+    "name": "Skitty",
+    "types": "Normal",
+    "species": "Kitten Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.0 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png"
   }
 }
