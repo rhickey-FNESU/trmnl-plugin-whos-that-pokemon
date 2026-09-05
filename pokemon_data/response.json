@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T19:19:00.524448",
+  "timestamp": "2026-09-05T19:30:56.764052",
   "pokemon_data": {
-    "id": "0198",
-    "name": "Murkrow",
-    "types": "Dark, Flying",
-    "species": "Darkness Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "2.1 kg",
-    "abilities": "Insomnia, Super-Luck, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png"
+    "id": "0804",
+    "name": "Naganadel",
+    "types": "Poison, Dragon",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "3.6 m",
+    "weight": "150.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
   }
 }
