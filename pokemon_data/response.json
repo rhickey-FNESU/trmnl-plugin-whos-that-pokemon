@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T20:32:48.020821",
+  "timestamp": "2026-09-05T20:46:07.894094",
   "pokemon_data": {
-    "id": "1004",
-    "name": "Chi-Yu",
-    "types": "Dark, Fire",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.9 kg",
-    "abilities": "Beads-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
