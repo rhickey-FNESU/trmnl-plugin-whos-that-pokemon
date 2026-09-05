@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T23:45:38.477579",
+  "timestamp": "2026-09-05T00:01:17.945112",
   "pokemon_data": {
-    "id": "0313",
-    "name": "Volbeat",
-    "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "17.7 kg",
-    "abilities": "Illuminate, Swarm, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png"
+    "id": "0721",
+    "name": "Volcanion",
+    "types": "Fire, Water",
+    "species": "Steam Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "195.0 kg",
+    "abilities": "Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
   }
 }
