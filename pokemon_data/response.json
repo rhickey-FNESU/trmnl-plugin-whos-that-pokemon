@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T01:19:45.847390",
+  "timestamp": "2026-09-05T01:31:48.585814",
   "pokemon_data": {
-    "id": "0005",
-    "name": "Charmeleon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.0 kg",
-    "abilities": "Blaze, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    "id": "0048",
+    "name": "Venonat",
+    "types": "Bug, Poison",
+    "species": "Insect Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "abilities": "Compound-Eyes, Tinted-Lens, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
   }
 }
