@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T05:46:04.044521",
+  "timestamp": "2026-09-05T06:00:55.657679",
   "pokemon_data": {
-    "id": "0885",
-    "name": "Dreepy",
-    "types": "Dragon, Ghost",
-    "species": "Lingering Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "2.0 kg",
-    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+    "id": "0148",
+    "name": "Dragonair",
+    "types": "Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "4.0 m",
+    "weight": "16.5 kg",
+    "abilities": "Shed-Skin, Marvel-Scale",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
   }
 }
