@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T13:46:00.952742",
+  "timestamp": "2026-09-06T14:00:55.148518",
   "pokemon_data": {
-    "id": "0928",
-    "name": "Smoliv",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.5 kg",
-    "abilities": "Early-Bird, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
+    "id": "0137",
+    "name": "Porygon",
+    "types": "Normal",
+    "species": "Virtual Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "36.5 kg",
+    "abilities": "Trace, Download, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
   }
 }
