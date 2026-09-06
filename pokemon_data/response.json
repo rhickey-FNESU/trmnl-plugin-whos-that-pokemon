@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T18:46:27.299599",
+  "timestamp": "2026-09-06T19:01:08.922734",
   "pokemon_data": {
-    "id": "0954",
-    "name": "Rabsca",
-    "types": "Bug, Psychic",
-    "species": "Rolling Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Synchronize, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
+    "id": "0614",
+    "name": "Beartic",
+    "types": "Ice",
+    "species": "Freezing Pok\u00e9mon",
+    "height": "2.6 m",
+    "weight": "260.0 kg",
+    "abilities": "Snow-Cloak, Slush-Rush, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png"
   }
 }
