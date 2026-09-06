@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T04:47:28.538860",
+  "timestamp": "2026-09-06T05:01:07.014991",
   "pokemon_data": {
-    "id": "0958",
-    "name": "Tinkatuff",
-    "types": "Fairy, Steel",
-    "species": "Hammer Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "59.1 kg",
-    "abilities": "Mold-Breaker, Own-Tempo, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
