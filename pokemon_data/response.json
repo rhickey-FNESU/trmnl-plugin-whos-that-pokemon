@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T05:45:45.915261",
+  "timestamp": "2026-09-06T06:00:52.526965",
   "pokemon_data": {
-    "id": "0528",
-    "name": "Swoobat",
-    "types": "Psychic, Flying",
-    "species": "Courting Pok\u00e9mon",
-    "height": "0.9 m",
+    "id": "0627",
+    "name": "Rufflet",
+    "types": "Normal, Flying",
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5 m",
     "weight": "10.5 kg",
-    "abilities": "Unaware, Klutz, Simple",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+    "abilities": "Keen-Eye, Sheer-Force, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
   }
 }
