@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T12:25:49.569764",
+  "timestamp": "2026-09-06T12:38:13.323972",
   "pokemon_data": {
-    "id": "0785",
-    "name": "Tapu-Koko",
-    "types": "Electric, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "20.5 kg",
-    "abilities": "Electric-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    "id": "0918",
+    "name": "Spidops",
+    "types": "Bug",
+    "species": "Trap Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "16.5 kg",
+    "abilities": "Insomnia, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
   }
 }
