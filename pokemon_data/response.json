@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T03:34:19.283300",
+  "timestamp": "2026-09-06T03:47:37.114864",
   "pokemon_data": {
-    "id": "0857",
-    "name": "Hattrem",
-    "types": "Psychic",
-    "species": "Serene Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "4.8 kg",
-    "abilities": "Healer, Anticipation, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    "id": "0905",
+    "name": "Enamorus-Incarnate",
+    "types": "Fairy, Flying",
+    "species": "Love-Hate Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "48.0 kg",
+    "abilities": "Cute-Charm, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
   }
 }
