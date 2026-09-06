@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T02:47:30.364537",
+  "timestamp": "2026-09-06T03:01:08.400831",
   "pokemon_data": {
-    "id": "0932",
-    "name": "Nacli",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "16.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
+    "id": "0256",
+    "name": "Combusken",
+    "types": "Fire, Fighting",
+    "species": "Young Fowl Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "abilities": "Blaze, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
   }
 }
