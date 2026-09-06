@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T07:46:14.254158",
+  "timestamp": "2026-09-06T08:01:04.562800",
   "pokemon_data": {
-    "id": "0547",
-    "name": "Whimsicott",
-    "types": "Grass, Fairy",
-    "species": "Windveiled Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "6.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
+    "id": "0087",
+    "name": "Dewgong",
+    "types": "Water, Ice",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "120.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
   }
 }
