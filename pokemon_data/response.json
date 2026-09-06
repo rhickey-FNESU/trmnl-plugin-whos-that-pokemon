@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T05:32:52.440392",
+  "timestamp": "2026-09-06T05:45:45.915261",
   "pokemon_data": {
-    "id": "0926",
-    "name": "Fidough",
-    "types": "Fairy",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "10.9 kg",
-    "abilities": "Own-Tempo, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
+    "id": "0528",
+    "name": "Swoobat",
+    "types": "Psychic, Flying",
+    "species": "Courting Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "10.5 kg",
+    "abilities": "Unaware, Klutz, Simple",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
   }
 }
