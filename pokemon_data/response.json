@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T09:33:34.354223",
+  "timestamp": "2026-09-06T09:46:05.686254",
   "pokemon_data": {
-    "id": "0890",
-    "name": "Eternatus",
-    "types": "Poison, Dragon",
-    "species": "Gigantic Pok\u00e9mon",
-    "height": "20.0 m",
-    "weight": "950.0 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
+    "id": "0400",
+    "name": "Bibarel",
+    "types": "Normal, Water",
+    "species": "Beaver Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "31.5 kg",
+    "abilities": "Simple, Unaware, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
   }
 }
