@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T11:32:16.762460",
+  "timestamp": "2026-09-06T11:45:42.129174",
   "pokemon_data": {
-    "id": "0546",
-    "name": "Cottonee",
-    "types": "Grass, Fairy",
-    "species": "Cotton Puff Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
