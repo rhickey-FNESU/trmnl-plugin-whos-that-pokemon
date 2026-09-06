@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T11:45:42.129174",
+  "timestamp": "2026-09-06T12:01:04.489445",
   "pokemon_data": {
-    "id": "0342",
-    "name": "Crawdaunt",
-    "types": "Water, Dark",
-    "species": "Rogue Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.8 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
+    "id": "0152",
+    "name": "Chikorita",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
   }
 }
