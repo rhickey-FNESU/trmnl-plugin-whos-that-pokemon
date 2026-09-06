@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T10:33:08.039819",
+  "timestamp": "2026-09-06T10:46:25.453883",
   "pokemon_data": {
-    "id": "0774",
-    "name": "Minior-Red-Meteor",
-    "types": "Rock, Flying",
-    "species": "Meteor Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "40.0 kg",
-    "abilities": "Shields-Down",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png"
+    "id": "0522",
+    "name": "Blitzle",
+    "types": "Electric",
+    "species": "Electrified Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "29.8 kg",
+    "abilities": "Lightning-Rod, Motor-Drive, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png"
   }
 }
