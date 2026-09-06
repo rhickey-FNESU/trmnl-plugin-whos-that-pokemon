@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T17:19:15.591023",
+  "timestamp": "2026-09-06T17:31:23.277617",
   "pokemon_data": {
-    "id": "0703",
-    "name": "Carbink",
-    "types": "Rock, Fairy",
-    "species": "Jewel Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.7 kg",
-    "abilities": "Clear-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+    "id": "0892",
+    "name": "Urshifu-Single-Strike",
+    "types": "Fighting, Dark",
+    "species": "Wushu Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "105.0 kg",
+    "abilities": "Unseen-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
   }
 }
