@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T21:20:02.764577",
+  "timestamp": "2026-09-06T21:31:46.752634",
   "pokemon_data": {
-    "id": "0994",
-    "name": "Iron-Moth",
-    "types": "Fire, Poison",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "36.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
+    "id": "0464",
+    "name": "Rhyperior",
+    "types": "Ground, Rock",
+    "species": "Drill Pok\u00e9mon",
+    "height": "2.4 m",
+    "weight": "282.8 kg",
+    "abilities": "Lightning-Rod, Solid-Rock, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png"
   }
 }
