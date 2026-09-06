@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T00:01:21.690559",
+  "timestamp": "2026-09-06T00:34:22.849088",
   "pokemon_data": {
-    "id": "0419",
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
+    "id": "0168",
+    "name": "Ariados",
+    "types": "Bug, Poison",
+    "species": "Long Leg Pok\u00e9mon",
     "height": "1.1 m",
     "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
   }
 }
