@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T14:46:06.317925",
+  "timestamp": "2026-09-06T15:01:02.968123",
   "pokemon_data": {
-    "id": "0668",
-    "name": "Pyroar-Male",
-    "types": "Fire, Normal",
-    "species": "Royal Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "81.5 kg",
-    "abilities": "Rivalry, Unnerve, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+    "id": "0256",
+    "name": "Combusken",
+    "types": "Fire, Fighting",
+    "species": "Young Fowl Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "abilities": "Blaze, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
   }
 }
