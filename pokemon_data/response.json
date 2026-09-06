@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T08:47:42.593512",
+  "timestamp": "2026-09-06T09:01:03.085465",
   "pokemon_data": {
-    "id": "0621",
-    "name": "Druddigon",
-    "types": "Dragon",
-    "species": "Cave Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "139.0 kg",
-    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+    "id": "0744",
+    "name": "Rockruff",
+    "types": "Rock",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.2 kg",
+    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
   }
 }
