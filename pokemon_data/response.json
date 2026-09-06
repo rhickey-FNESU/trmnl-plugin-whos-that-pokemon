@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T22:45:41.987511",
+  "timestamp": "2026-09-06T23:01:01.644105",
   "pokemon_data": {
-    "id": "0445",
-    "name": "Garchomp",
-    "types": "Dragon, Ground",
-    "species": "Mach Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "95.0 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+    "id": "0948",
+    "name": "Toedscool",
+    "types": "Ground, Grass",
+    "species": "Woodear Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "33.0 kg",
+    "abilities": "Mycelium-Might",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
   }
 }
