@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T04:21:52.066392",
+  "timestamp": "2026-09-06T04:34:20.058142",
   "pokemon_data": {
-    "id": "0404",
-    "name": "Luxio",
-    "types": "Electric",
-    "species": "Spark Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "30.5 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png"
+    "id": "0630",
+    "name": "Mandibuzz",
+    "types": "Dark, Flying",
+    "species": "Bone Vulture Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.5 kg",
+    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
   }
 }
