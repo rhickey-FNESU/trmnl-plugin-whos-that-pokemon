@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T18:01:03.089641",
+  "timestamp": "2026-09-06T18:23:05.586204",
   "pokemon_data": {
-    "id": "0427",
-    "name": "Buneary",
-    "types": "Normal",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.5 kg",
-    "abilities": "Run-Away, Klutz, Limber",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png"
+    "id": "0800",
+    "name": "Necrozma",
+    "types": "Psychic",
+    "species": "Prism Pok\u00e9mon",
+    "height": "2.4 m",
+    "weight": "230.0 kg",
+    "abilities": "Prism-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png"
   }
 }
