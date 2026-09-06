@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T23:31:44.001917",
+  "timestamp": "2026-09-06T23:45:58.771286",
   "pokemon_data": {
-    "id": "0783",
-    "name": "Hakamo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "47.0 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
+    "id": "0858",
+    "name": "Hatterene",
+    "types": "Psychic, Fairy",
+    "species": "Silent Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "5.1 kg",
+    "abilities": "Healer, Anticipation, Magic-Bounce",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png"
   }
 }
