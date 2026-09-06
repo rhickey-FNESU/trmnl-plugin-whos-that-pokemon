@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T21:46:02.355950",
+  "timestamp": "2026-09-06T22:00:50.318943",
   "pokemon_data": {
-    "id": "0898",
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "id": "0217",
+    "name": "Ursaring",
+    "types": "Normal",
+    "species": "Hibernator Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "125.8 kg",
+    "abilities": "Guts, Quick-Feet, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
   }
 }
