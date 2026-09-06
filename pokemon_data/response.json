@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T10:46:25.453883",
+  "timestamp": "2026-09-06T11:01:06.670210",
   "pokemon_data": {
-    "id": "0522",
-    "name": "Blitzle",
-    "types": "Electric",
-    "species": "Electrified Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "29.8 kg",
-    "abilities": "Lightning-Rod, Motor-Drive, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png"
+    "id": "0328",
+    "name": "Trapinch",
+    "types": "Ground",
+    "species": "Ant Pit Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "15.0 kg",
+    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
   }
 }
