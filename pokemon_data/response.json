@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T00:53:10.698089",
+  "timestamp": "2026-09-06T01:01:10.599844",
   "pokemon_data": {
-    "id": "0310",
-    "name": "Manectric",
-    "types": "Electric",
-    "species": "Discharge Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
+    "id": "0300",
+    "name": "Skitty",
+    "types": "Normal",
+    "species": "Kitten Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.0 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png"
   }
 }
