@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T12:01:04.489445",
+  "timestamp": "2026-09-06T12:25:49.569764",
   "pokemon_data": {
-    "id": "0152",
-    "name": "Chikorita",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "6.4 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    "id": "0785",
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
