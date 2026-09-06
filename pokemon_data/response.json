@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T16:46:08.957551",
+  "timestamp": "2026-09-06T17:01:03.245595",
   "pokemon_data": {
-    "id": "0367",
-    "name": "Huntail",
-    "types": "Water",
-    "species": "Deep Sea Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "27.0 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
+    "id": "0362",
+    "name": "Glalie",
+    "types": "Ice",
+    "species": "Face Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "256.5 kg",
+    "abilities": "Inner-Focus, Ice-Body, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
   }
 }
