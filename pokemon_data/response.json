@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T01:32:40.317160",
+  "timestamp": "2026-09-06T01:47:45.104010",
   "pokemon_data": {
-    "id": "0846",
-    "name": "Arrokuda",
-    "types": "Water",
-    "species": "Rush Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.0 kg",
-    "abilities": "Swift-Swim, Propeller-Tail",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
+    "id": "0785",
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
