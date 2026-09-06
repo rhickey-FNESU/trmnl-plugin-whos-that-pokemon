@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T20:21:38.725893",
+  "timestamp": "2026-09-06T20:33:38.729425",
   "pokemon_data": {
-    "id": "0253",
-    "name": "Grovyle",
-    "types": "Grass",
-    "species": "Wood Gecko Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "21.6 kg",
-    "abilities": "Overgrow, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+    "id": "0394",
+    "name": "Prinplup",
+    "types": "Water",
+    "species": "Penguin Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "23.0 kg",
+    "abilities": "Torrent, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
   }
 }
