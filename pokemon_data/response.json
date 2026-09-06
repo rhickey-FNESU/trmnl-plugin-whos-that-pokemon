@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T16:33:40.920133",
+  "timestamp": "2026-09-06T16:46:08.957551",
   "pokemon_data": {
-    "id": "0052",
-    "name": "Meowth",
-    "types": "Normal",
-    "species": "Scratch Cat Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.2 kg",
-    "abilities": "Pickup, Technician, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+    "id": "0367",
+    "name": "Huntail",
+    "types": "Water",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "27.0 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
   }
 }
