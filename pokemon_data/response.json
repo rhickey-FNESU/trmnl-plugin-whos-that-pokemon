@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T04:34:20.058142",
+  "timestamp": "2026-09-06T04:47:28.538860",
   "pokemon_data": {
-    "id": "0630",
-    "name": "Mandibuzz",
-    "types": "Dark, Flying",
-    "species": "Bone Vulture Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.5 kg",
-    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+    "id": "0958",
+    "name": "Tinkatuff",
+    "types": "Fairy, Steel",
+    "species": "Hammer Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "59.1 kg",
+    "abilities": "Mold-Breaker, Own-Tempo, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png"
   }
 }
