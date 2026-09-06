@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T23:01:01.644105",
+  "timestamp": "2026-09-06T23:19:56.986329",
   "pokemon_data": {
-    "id": "0948",
-    "name": "Toedscool",
-    "types": "Ground, Grass",
-    "species": "Woodear Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "33.0 kg",
-    "abilities": "Mycelium-Might",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
+    "id": "0018",
+    "name": "Pidgeot",
+    "types": "Normal, Flying",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
