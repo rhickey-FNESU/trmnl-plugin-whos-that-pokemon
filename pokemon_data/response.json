@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T01:47:45.104010",
+  "timestamp": "2026-09-06T02:00:50.975054",
   "pokemon_data": {
-    "id": "0785",
-    "name": "Tapu-Koko",
-    "types": "Electric, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "20.5 kg",
-    "abilities": "Electric-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    "id": "0822",
+    "name": "Corvisquire",
+    "types": "Flying",
+    "species": "Raven Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "16.0 kg",
+    "abilities": "Keen-Eye, Unnerve, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png"
   }
 }
