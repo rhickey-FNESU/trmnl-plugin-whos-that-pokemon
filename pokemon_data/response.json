@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T08:23:01.318304",
+  "timestamp": "2026-09-06T08:34:44.230411",
   "pokemon_data": {
-    "id": "0502",
-    "name": "Dewott",
-    "types": "Water",
-    "species": "Discipline Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+    "id": "0569",
+    "name": "Garbodor",
+    "types": "Poison",
+    "species": "Trash Heap Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "107.3 kg",
+    "abilities": "Stench, Weak-Armor, Aftermath",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
   }
 }
