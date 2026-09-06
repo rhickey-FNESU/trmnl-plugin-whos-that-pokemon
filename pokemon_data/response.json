@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T00:34:22.849088",
+  "timestamp": "2026-09-06T00:53:10.698089",
   "pokemon_data": {
-    "id": "0168",
-    "name": "Ariados",
-    "types": "Bug, Poison",
-    "species": "Long Leg Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+    "id": "0310",
+    "name": "Manectric",
+    "types": "Electric",
+    "species": "Discharge Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.2 kg",
+    "abilities": "Static, Lightning-Rod, Minus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
   }
 }
