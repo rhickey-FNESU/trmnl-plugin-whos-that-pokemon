@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T11:01:06.670210",
+  "timestamp": "2026-09-06T11:20:29.503854",
   "pokemon_data": {
-    "id": "0328",
-    "name": "Trapinch",
-    "types": "Ground",
-    "species": "Ant Pit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.0 kg",
-    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+    "id": "0904",
+    "name": "Overqwil",
+    "types": "Dark, Poison",
+    "species": "Pin Cluster Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "60.5 kg",
+    "abilities": "Poison-Point, Swift-Swim, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png"
   }
 }
