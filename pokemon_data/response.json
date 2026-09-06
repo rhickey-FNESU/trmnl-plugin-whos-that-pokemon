@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T03:01:08.400831",
+  "timestamp": "2026-09-06T03:21:45.832588",
   "pokemon_data": {
-    "id": "0256",
-    "name": "Combusken",
-    "types": "Fire, Fighting",
-    "species": "Young Fowl Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "19.5 kg",
-    "abilities": "Blaze, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
+    "id": "0157",
+    "name": "Typhlosion",
+    "types": "Fire",
+    "species": "Volcano Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "79.5 kg",
+    "abilities": "Blaze, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
   }
 }
