@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T16:22:18.540910",
+  "timestamp": "2026-09-06T16:33:40.920133",
   "pokemon_data": {
-    "id": "0670",
-    "name": "Floette",
-    "types": "Fairy",
-    "species": "Single Bloom Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.9 kg",
-    "abilities": "Flower-Veil, Symbiosis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+    "id": "0052",
+    "name": "Meowth",
+    "types": "Normal",
+    "species": "Scratch Cat Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.2 kg",
+    "abilities": "Pickup, Technician, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
   }
 }
