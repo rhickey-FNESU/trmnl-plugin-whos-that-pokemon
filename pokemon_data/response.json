@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T04:23:05.995213",
+  "timestamp": "2026-09-07T04:36:12.347286",
   "pokemon_data": {
-    "id": "0243",
-    "name": "Raikou",
-    "types": "Electric",
-    "species": "Thunder Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "178.0 kg",
-    "abilities": "Pressure, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png"
+    "id": "0553",
+    "name": "Krookodile",
+    "types": "Ground, Dark",
+    "species": "Intimidation Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "96.3 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
   }
 }
