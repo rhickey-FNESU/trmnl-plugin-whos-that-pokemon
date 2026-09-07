@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T04:00:52.681632",
+  "timestamp": "2026-09-07T04:23:05.995213",
   "pokemon_data": {
-    "id": "0735",
-    "name": "Gumshoos",
-    "types": "Normal",
-    "species": "Stakeout Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.2 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+    "id": "0243",
+    "name": "Raikou",
+    "types": "Electric",
+    "species": "Thunder Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "178.0 kg",
+    "abilities": "Pressure, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png"
   }
 }
