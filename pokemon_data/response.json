@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T11:49:08.185368",
+  "timestamp": "2026-09-07T12:01:00.377319",
   "pokemon_data": {
-    "id": "0695",
-    "name": "Heliolisk",
-    "types": "Electric, Normal",
-    "species": "Generator Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "21.0 kg",
-    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
+    "id": "0441",
+    "name": "Chatot",
+    "types": "Normal, Flying",
+    "species": "Music Note Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.9 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
   }
 }
