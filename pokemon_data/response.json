@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T22:33:13.366704",
+  "timestamp": "2026-09-07T22:45:41.154672",
   "pokemon_data": {
-    "id": "0923",
-    "name": "Pawmot",
-    "types": "Electric, Fighting",
-    "species": "Hands-On Pok\u00e9mon",
+    "id": "0672",
+    "name": "Skiddo",
+    "types": "Grass",
+    "species": "Mount Pok\u00e9mon",
     "height": "0.9 m",
-    "weight": "41.0 kg",
-    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
+    "weight": "31.0 kg",
+    "abilities": "Sap-Sipper, Grass-Pelt",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png"
   }
 }
