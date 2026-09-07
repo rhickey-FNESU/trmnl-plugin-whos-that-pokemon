@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T22:00:58.712704",
+  "timestamp": "2026-09-07T22:21:32.416104",
   "pokemon_data": {
-    "id": "0586",
-    "name": "Sawsbuck",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "92.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    "id": "0870",
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
