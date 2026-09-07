@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T00:34:15.461874",
+  "timestamp": "2026-09-07T00:53:38.451826",
   "pokemon_data": {
-    "id": "0664",
-    "name": "Scatterbug",
-    "types": "Bug",
-    "species": "Scatterdust Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.5 kg",
-    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+    "id": "0199",
+    "name": "Slowking",
+    "types": "Water, Psychic",
+    "species": "Royal Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "79.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
   }
 }
