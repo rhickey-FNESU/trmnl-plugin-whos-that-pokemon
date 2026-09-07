@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T18:01:07.447535",
+  "timestamp": "2026-09-07T18:25:13.614633",
   "pokemon_data": {
-    "id": "0434",
-    "name": "Stunky",
-    "types": "Poison, Dark",
-    "species": "Skunk Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "19.2 kg",
-    "abilities": "Stench, Aftermath, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+    "id": "0419",
+    "name": "Floatzel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
