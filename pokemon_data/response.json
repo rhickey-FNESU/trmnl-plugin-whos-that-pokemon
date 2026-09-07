@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T03:01:07.284102",
+  "timestamp": "2026-09-07T03:23:22.583877",
   "pokemon_data": {
-    "id": "0862",
-    "name": "Obstagoon",
-    "types": "Dark, Normal",
-    "species": "Blocking Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "46.0 kg",
-    "abilities": "Reckless, Guts, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+    "id": "0285",
+    "name": "Shroomish",
+    "types": "Grass",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.5 kg",
+    "abilities": "Effect-Spore, Poison-Heal, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png"
   }
 }
