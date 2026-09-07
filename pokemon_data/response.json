@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T05:49:20.950337",
+  "timestamp": "2026-09-07T06:01:04.928484",
   "pokemon_data": {
-    "id": "0019",
-    "name": "Rattata",
-    "types": "Normal",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Run-Away, Guts, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+    "id": "0986",
+    "name": "Brute-Bonnet",
+    "types": "Grass, Dark",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
   }
 }
