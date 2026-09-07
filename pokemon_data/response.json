@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T06:53:47.462213",
+  "timestamp": "2026-09-07T07:03:25.082718",
   "pokemon_data": {
-    "id": "0116",
-    "name": "Horsea",
-    "types": "Water",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.0 kg",
-    "abilities": "Swift-Swim, Sniper, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+    "id": "0667",
+    "name": "Litleo",
+    "types": "Fire, Normal",
+    "species": "Lion Cub Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.5 kg",
+    "abilities": "Rivalry, Unnerve, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
   }
 }
