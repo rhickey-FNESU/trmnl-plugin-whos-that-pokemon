@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T19:20:39.887182",
+  "timestamp": "2026-09-07T19:32:43.953015",
   "pokemon_data": {
-    "id": "0503",
-    "name": "Samurott",
-    "types": "Water",
-    "species": "Formidable Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "94.6 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+    "id": "0451",
+    "name": "Skorupi",
+    "types": "Poison, Bug",
+    "species": "Scorpion Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "12.0 kg",
+    "abilities": "Battle-Armor, Sniper, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png"
   }
 }
