@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T14:35:37.148988",
+  "timestamp": "2026-09-07T14:50:11.188918",
   "pokemon_data": {
-    "id": "0481",
-    "name": "Mesprit",
-    "types": "Psychic",
-    "species": "Emotion Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
+    "id": "0439",
+    "name": "Mime-Jr",
+    "types": "Psychic, Fairy",
+    "species": "Mime Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.0 kg",
+    "abilities": "Soundproof, Filter, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
   }
 }
