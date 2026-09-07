@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T11:00:59.225678",
+  "timestamp": "2026-09-07T11:23:19.446980",
   "pokemon_data": {
-    "id": "0882",
-    "name": "Dracovish",
-    "types": "Water, Dragon",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "215.0 kg",
-    "abilities": "Water-Absorb, Strong-Jaw, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png"
+    "id": "0778",
+    "name": "Mimikyu-Disguised",
+    "types": "Ghost, Fairy",
+    "species": "Disguise Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.7 kg",
+    "abilities": "Disguise",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
   }
 }
