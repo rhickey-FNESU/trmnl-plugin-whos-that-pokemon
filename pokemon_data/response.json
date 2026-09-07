@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T13:36:21.934236",
+  "timestamp": "2026-09-07T13:50:24.351457",
   "pokemon_data": {
-    "id": "0266",
-    "name": "Silcoon",
-    "types": "Bug",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.0 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png"
+    "id": "0646",
+    "name": "Kyurem",
+    "types": "Dragon, Ice",
+    "species": "Boundary Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "325.0 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png"
   }
 }
