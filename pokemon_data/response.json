@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T10:01:07.325137",
+  "timestamp": "2026-09-07T10:23:59.786591",
   "pokemon_data": {
-    "id": "0529",
-    "name": "Drilbur",
-    "types": "Ground",
-    "species": "Mole Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.5 kg",
-    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+    "id": "0849",
+    "name": "Toxtricity-Amped",
+    "types": "Electric, Poison",
+    "species": "Punk Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "40.0 kg",
+    "abilities": "Punk-Rock, Plus, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
   }
 }
