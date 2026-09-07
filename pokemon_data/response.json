@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T00:01:16.616838",
+  "timestamp": "2026-09-07T00:34:15.461874",
   "pokemon_data": {
-    "id": "0405",
-    "name": "Luxray",
-    "types": "Electric",
-    "species": "Gleam Eyes Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "42.0 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+    "id": "0664",
+    "name": "Scatterbug",
+    "types": "Bug",
+    "species": "Scatterdust Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.5 kg",
+    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
   }
 }
