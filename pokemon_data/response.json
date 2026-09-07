@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T10:35:08.290439",
+  "timestamp": "2026-09-07T10:49:14.342930",
   "pokemon_data": {
-    "id": "0185",
-    "name": "Sudowoodo",
-    "types": "Rock",
-    "species": "Imitation Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "abilities": "Sturdy, Rock-Head, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
+    "id": "0940",
+    "name": "Wattrel",
+    "types": "Electric, Flying",
+    "species": "Storm Petrel Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.6 kg",
+    "abilities": "Wind-Power, Volt-Absorb, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png"
   }
 }
