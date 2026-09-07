@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T03:49:37.131448",
+  "timestamp": "2026-09-07T04:00:52.681632",
   "pokemon_data": {
-    "id": "0034",
-    "name": "Nidoking",
-    "types": "Poison, Ground",
-    "species": "Drill Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "62.0 kg",
-    "abilities": "Poison-Point, Rivalry, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+    "id": "0735",
+    "name": "Gumshoos",
+    "types": "Normal",
+    "species": "Stakeout Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.2 kg",
+    "abilities": "Stakeout, Strong-Jaw, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
   }
 }
