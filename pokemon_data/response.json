@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T12:44:05.500684",
+  "timestamp": "2026-09-07T12:55:56.742606",
   "pokemon_data": {
-    "id": "0806",
-    "name": "Blacephalon",
-    "types": "Fire, Ghost",
-    "species": "Fireworks Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "13.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
+    "id": "0865",
+    "name": "Sirfetchd",
+    "types": "Fighting",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "117.0 kg",
+    "abilities": "Steadfast, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
   }
 }
