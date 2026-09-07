@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T19:32:43.953015",
+  "timestamp": "2026-09-07T19:46:50.542101",
   "pokemon_data": {
-    "id": "0451",
-    "name": "Skorupi",
-    "types": "Poison, Bug",
-    "species": "Scorpion Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "12.0 kg",
-    "abilities": "Battle-Armor, Sniper, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png"
+    "id": "0962",
+    "name": "Bombirdier",
+    "types": "Flying, Dark",
+    "species": "Item Drop Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "42.9 kg",
+    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
   }
 }
