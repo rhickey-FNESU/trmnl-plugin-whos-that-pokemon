@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T12:55:56.742606",
+  "timestamp": "2026-09-07T13:03:32.289572",
   "pokemon_data": {
-    "id": "0865",
-    "name": "Sirfetchd",
-    "types": "Fighting",
-    "species": "Wild Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "117.0 kg",
-    "abilities": "Steadfast, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+    "id": "0104",
+    "name": "Cubone",
+    "types": "Ground",
+    "species": "Lonely Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
   }
 }
