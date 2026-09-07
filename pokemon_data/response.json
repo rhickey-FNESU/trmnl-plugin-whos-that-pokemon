@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T16:35:44.894081",
+  "timestamp": "2026-09-07T16:49:12.696323",
   "pokemon_data": {
-    "id": "0370",
-    "name": "Luvdisc",
-    "types": "Water",
-    "species": "Rendezvous Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.7 kg",
-    "abilities": "Swift-Swim, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png"
+    "id": "1018",
+    "name": "Archaludon",
+    "types": "Steel, Dragon",
+    "species": "Alloy Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "60.0 kg",
+    "abilities": "Stamina, Sturdy, Stalwart",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png"
   }
 }
