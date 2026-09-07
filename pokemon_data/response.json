@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T18:37:40.181774",
+  "timestamp": "2026-09-07T18:50:56.440961",
   "pokemon_data": {
-    "id": "0769",
-    "name": "Sandygast",
-    "types": "Ghost, Ground",
-    "species": "Sand Heap Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "70.0 kg",
-    "abilities": "Water-Compaction, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
+    "id": "0376",
+    "name": "Metagross",
+    "types": "Steel, Psychic",
+    "species": "Iron Leg Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "550.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
   }
 }
