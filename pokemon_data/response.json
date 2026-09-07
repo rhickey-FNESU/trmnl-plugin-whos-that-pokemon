@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T05:35:02.581090",
+  "timestamp": "2026-09-07T05:49:20.950337",
   "pokemon_data": {
-    "id": "0246",
-    "name": "Larvitar",
-    "types": "Rock, Ground",
-    "species": "Rock Skin Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "72.0 kg",
-    "abilities": "Guts, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+    "id": "0019",
+    "name": "Rattata",
+    "types": "Normal",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.5 kg",
+    "abilities": "Run-Away, Guts, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
   }
 }
