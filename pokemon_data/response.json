@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T00:53:38.451826",
+  "timestamp": "2026-09-07T01:01:50.894618",
   "pokemon_data": {
-    "id": "0199",
-    "name": "Slowking",
-    "types": "Water, Psychic",
-    "species": "Royal Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "79.5 kg",
-    "abilities": "Oblivious, Own-Tempo, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
+    "id": "0967",
+    "name": "Cyclizar",
+    "types": "Dragon, Normal",
+    "species": "Mount Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "63.0 kg",
+    "abilities": "Shed-Skin, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png"
   }
 }
