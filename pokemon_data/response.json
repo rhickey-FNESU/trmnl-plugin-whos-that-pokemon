@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T21:47:46.708542",
+  "timestamp": "2026-09-07T22:00:58.712704",
   "pokemon_data": {
-    "id": "0706",
-    "name": "Goodra",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "150.5 kg",
-    "abilities": "Sap-Sipper, Hydration, Gooey",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+    "id": "0586",
+    "name": "Sawsbuck",
+    "types": "Normal, Grass",
+    "species": "Season Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "92.5 kg",
+    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
   }
 }
