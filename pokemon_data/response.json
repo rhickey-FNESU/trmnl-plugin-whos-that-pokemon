@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T15:01:16.825051",
+  "timestamp": "2026-09-07T15:22:50.803559",
   "pokemon_data": {
-    "id": "0732",
-    "name": "Trumbeak",
-    "types": "Normal, Flying",
-    "species": "Bugle Beak Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "14.8 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+    "id": "0023",
+    "name": "Ekans",
+    "types": "Poison",
+    "species": "Snake Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "6.9 kg",
+    "abilities": "Intimidate, Shed-Skin, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
   }
 }
