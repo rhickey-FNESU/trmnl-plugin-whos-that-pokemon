@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T15:22:50.803559",
+  "timestamp": "2026-09-07T15:35:06.209868",
   "pokemon_data": {
-    "id": "0023",
-    "name": "Ekans",
-    "types": "Poison",
-    "species": "Snake Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "6.9 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+    "id": "0244",
+    "name": "Entei",
+    "types": "Fire",
+    "species": "Volcano Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "198.0 kg",
+    "abilities": "Pressure, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
   }
 }
