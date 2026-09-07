@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T10:23:59.786591",
+  "timestamp": "2026-09-07T10:35:08.290439",
   "pokemon_data": {
-    "id": "0849",
-    "name": "Toxtricity-Amped",
-    "types": "Electric, Poison",
-    "species": "Punk Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "40.0 kg",
-    "abilities": "Punk-Rock, Plus, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
+    "id": "0185",
+    "name": "Sudowoodo",
+    "types": "Rock",
+    "species": "Imitation Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "38.0 kg",
+    "abilities": "Sturdy, Rock-Head, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
   }
 }
