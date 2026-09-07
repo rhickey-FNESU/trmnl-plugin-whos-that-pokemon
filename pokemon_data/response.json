@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T01:48:48.494618",
+  "timestamp": "2026-09-07T02:00:53.974227",
   "pokemon_data": {
-    "id": "0218",
-    "name": "Slugma",
-    "types": "Fire",
-    "species": "Lava Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "35.0 kg",
-    "abilities": "Magma-Armor, Flame-Body, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
+    "id": "0520",
+    "name": "Tranquill",
+    "types": "Normal, Flying",
+    "species": "Wild Pigeon Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "15.0 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
   }
 }
