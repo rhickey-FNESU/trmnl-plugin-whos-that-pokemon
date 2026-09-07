@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T20:34:56.218334",
+  "timestamp": "2026-09-07T20:47:41.758797",
   "pokemon_data": {
-    "id": "0199",
-    "name": "Slowking",
-    "types": "Water, Psychic",
-    "species": "Royal Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "79.5 kg",
-    "abilities": "Oblivious, Own-Tempo, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
+    "id": "0926",
+    "name": "Fidough",
+    "types": "Fairy",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "10.9 kg",
+    "abilities": "Own-Tempo, Klutz",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
   }
 }
