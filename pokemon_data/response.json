@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T09:37:04.028318",
+  "timestamp": "2026-09-07T09:50:55.769686",
   "pokemon_data": {
-    "id": "0799",
-    "name": "Guzzlord",
-    "types": "Dark, Dragon",
-    "species": "Junkivore Pok\u00e9mon",
-    "height": "5.5 m",
-    "weight": "888.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
+    "id": "0008",
+    "name": "Wartortle",
+    "types": "Water",
+    "species": "Turtle Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
   }
 }
