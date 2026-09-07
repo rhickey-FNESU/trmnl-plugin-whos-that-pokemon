@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T11:23:19.446980",
+  "timestamp": "2026-09-07T11:35:53.426840",
   "pokemon_data": {
-    "id": "0778",
-    "name": "Mimikyu-Disguised",
-    "types": "Ghost, Fairy",
-    "species": "Disguise Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.7 kg",
-    "abilities": "Disguise",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
+    "id": "0777",
+    "name": "Togedemaru",
+    "types": "Electric, Steel",
+    "species": "Roly-Poly Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.3 kg",
+    "abilities": "Iron-Barbs, Lightning-Rod, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
   }
 }
