@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T04:49:28.260937",
+  "timestamp": "2026-09-07T05:01:20.086214",
   "pokemon_data": {
-    "id": "0770",
-    "name": "Palossand",
-    "types": "Ghost, Ground",
-    "species": "Sand Castle Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "250.0 kg",
-    "abilities": "Water-Compaction, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png"
+    "id": "0625",
+    "name": "Bisharp",
+    "types": "Dark, Steel",
+    "species": "Sword Blade Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "70.0 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
   }
 }
