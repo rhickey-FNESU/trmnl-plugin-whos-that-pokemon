@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T18:50:56.440961",
+  "timestamp": "2026-09-07T19:00:52.546884",
   "pokemon_data": {
-    "id": "0376",
-    "name": "Metagross",
-    "types": "Steel, Psychic",
-    "species": "Iron Leg Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "550.0 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+    "id": "0273",
+    "name": "Seedot",
+    "types": "Grass",
+    "species": "Acorn Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "4.0 kg",
+    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png"
   }
 }
