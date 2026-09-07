@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T22:21:32.416104",
+  "timestamp": "2026-09-07T22:33:13.366704",
   "pokemon_data": {
-    "id": "0870",
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "id": "0923",
+    "name": "Pawmot",
+    "types": "Electric, Fighting",
+    "species": "Hands-On Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "41.0 kg",
+    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
   }
 }
