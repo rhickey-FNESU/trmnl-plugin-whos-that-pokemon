@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T02:48:37.775483",
+  "timestamp": "2026-09-07T03:01:07.284102",
   "pokemon_data": {
-    "id": "0284",
-    "name": "Masquerain",
-    "types": "Bug, Flying",
-    "species": "Eyeball Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "3.6 kg",
-    "abilities": "Intimidate, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
+    "id": "0862",
+    "name": "Obstagoon",
+    "types": "Dark, Normal",
+    "species": "Blocking Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "46.0 kg",
+    "abilities": "Reckless, Guts, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
   }
 }
