@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T20:01:00.818143",
+  "timestamp": "2026-09-07T20:22:29.613463",
   "pokemon_data": {
-    "id": "0486",
-    "name": "Regigigas",
-    "types": "Normal",
-    "species": "Colossal Pok\u00e9mon",
-    "height": "3.7 m",
-    "weight": "420.0 kg",
-    "abilities": "Slow-Start",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png"
+    "id": "0554",
+    "name": "Darumaka",
+    "types": "Fire",
+    "species": "Zen Charm Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "37.5 kg",
+    "abilities": "Hustle, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
   }
 }
