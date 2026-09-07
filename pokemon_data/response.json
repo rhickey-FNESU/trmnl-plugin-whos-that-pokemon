@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T14:50:11.188918",
+  "timestamp": "2026-09-07T15:01:16.825051",
   "pokemon_data": {
-    "id": "0439",
-    "name": "Mime-Jr",
-    "types": "Psychic, Fairy",
-    "species": "Mime Pok\u00e9mon",
+    "id": "0732",
+    "name": "Trumbeak",
+    "types": "Normal, Flying",
+    "species": "Bugle Beak Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "13.0 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
+    "weight": "14.8 kg",
+    "abilities": "Keen-Eye, Skill-Link, Pickup",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
   }
 }
