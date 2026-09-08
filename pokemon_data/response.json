@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T11:48:42.458202",
+  "timestamp": "2026-09-08T12:01:28.352981",
   "pokemon_data": {
-    "id": "0400",
-    "name": "Bibarel",
-    "types": "Normal, Water",
-    "species": "Beaver Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "31.5 kg",
-    "abilities": "Simple, Unaware, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
+    "id": "1013",
+    "name": "Sinistcha",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.2 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
   }
 }
