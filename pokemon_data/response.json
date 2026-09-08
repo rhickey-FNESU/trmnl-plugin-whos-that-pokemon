@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T05:49:17.403144",
+  "timestamp": "2026-09-08T06:01:06.419733",
   "pokemon_data": {
-    "id": "0491",
-    "name": "Darkrai",
-    "types": "Dark",
-    "species": "Pitch-Black Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "50.5 kg",
-    "abilities": "Bad-Dreams",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+    "id": "0215",
+    "name": "Sneasel",
+    "types": "Dark, Ice",
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "28.0 kg",
+    "abilities": "Inner-Focus, Keen-Eye, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
   }
 }
