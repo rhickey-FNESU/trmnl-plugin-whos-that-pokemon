@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T03:49:50.821525",
+  "timestamp": "2026-09-08T04:01:07.176970",
   "pokemon_data": {
-    "id": "0260",
-    "name": "Swampert",
-    "types": "Water, Ground",
-    "species": "Mud Fish Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "81.9 kg",
-    "abilities": "Torrent, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
+    "id": "0120",
+    "name": "Staryu",
+    "types": "Water",
+    "species": "Star Shape Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "34.5 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
   }
 }
