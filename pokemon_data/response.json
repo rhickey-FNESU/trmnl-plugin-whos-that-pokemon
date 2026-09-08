@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T06:42:27.545249",
+  "timestamp": "2026-09-08T06:54:26.379777",
   "pokemon_data": {
-    "id": "0466",
-    "name": "Electivire",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "138.6 kg",
-    "abilities": "Motor-Drive, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    "id": "0712",
+    "name": "Bergmite",
+    "types": "Ice",
+    "species": "Ice Chunk Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "99.5 kg",
+    "abilities": "Own-Tempo, Ice-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png"
   }
 }
