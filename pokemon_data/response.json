@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T16:02:10.572690",
+  "timestamp": "2026-09-08T16:25:09.795762",
   "pokemon_data": {
-    "id": "0267",
-    "name": "Beautifly",
-    "types": "Bug, Flying",
-    "species": "Butterfly Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.4 kg",
-    "abilities": "Swarm, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png"
+    "id": "0952",
+    "name": "Scovillain",
+    "types": "Grass, Fire",
+    "species": "Spicy Pepper Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "15.0 kg",
+    "abilities": "Chlorophyll, Insomnia, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png"
   }
 }
