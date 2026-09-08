@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T14:37:32.067725",
+  "timestamp": "2026-09-08T14:51:48.848633",
   "pokemon_data": {
-    "id": "0011",
-    "name": "Metapod",
-    "types": "Bug",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "9.9 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+    "id": "0907",
+    "name": "Floragato",
+    "types": "Grass",
+    "species": "Grass Cat Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "12.2 kg",
+    "abilities": "Overgrow, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png"
   }
 }
