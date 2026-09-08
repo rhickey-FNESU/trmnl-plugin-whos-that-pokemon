@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T21:20:30.172405",
+  "timestamp": "2026-09-08T21:32:47.011777",
   "pokemon_data": {
-    "id": "0732",
-    "name": "Trumbeak",
-    "types": "Normal, Flying",
-    "species": "Bugle Beak Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "14.8 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+    "id": "0108",
+    "name": "Lickitung",
+    "types": "Normal",
+    "species": "Licking Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "65.5 kg",
+    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
   }
 }
