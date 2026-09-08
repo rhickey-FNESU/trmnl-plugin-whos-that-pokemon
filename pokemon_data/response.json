@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T18:01:31.565670",
+  "timestamp": "2026-09-08T18:26:28.541803",
   "pokemon_data": {
-    "id": "0046",
-    "name": "Paras",
-    "types": "Bug, Grass",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.4 kg",
-    "abilities": "Effect-Spore, Dry-Skin, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+    "id": "0364",
+    "name": "Sealeo",
+    "types": "Ice, Water",
+    "species": "Ball Roll Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "87.6 kg",
+    "abilities": "Thick-Fat, Ice-Body, Oblivious",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
   }
 }
