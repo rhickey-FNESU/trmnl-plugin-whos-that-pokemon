@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T15:52:04.576339",
+  "timestamp": "2026-09-08T16:02:10.572690",
   "pokemon_data": {
-    "id": "0426",
-    "name": "Drifblim",
-    "types": "Ghost, Flying",
-    "species": "Blimp Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "15.0 kg",
-    "abilities": "Aftermath, Unburden, Flare-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+    "id": "0267",
+    "name": "Beautifly",
+    "types": "Bug, Flying",
+    "species": "Butterfly Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.4 kg",
+    "abilities": "Swarm, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png"
   }
 }
