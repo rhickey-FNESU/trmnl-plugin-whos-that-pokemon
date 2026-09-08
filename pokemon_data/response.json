@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T11:01:28.641788",
+  "timestamp": "2026-09-08T11:22:32.079807",
   "pokemon_data": {
-    "id": "0569",
-    "name": "Garbodor",
-    "types": "Poison",
-    "species": "Trash Heap Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "107.3 kg",
-    "abilities": "Stench, Weak-Armor, Aftermath",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+    "id": "0809",
+    "name": "Melmetal",
+    "types": "Steel",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "800.0 kg",
+    "abilities": "Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
   }
 }
