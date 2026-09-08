@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T06:01:06.419733",
+  "timestamp": "2026-09-08T06:27:55.436436",
   "pokemon_data": {
-    "id": "0215",
-    "name": "Sneasel",
-    "types": "Dark, Ice",
-    "species": "Sharp Claw Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "28.0 kg",
-    "abilities": "Inner-Focus, Keen-Eye, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+    "id": "0729",
+    "name": "Brionne",
+    "types": "Water",
+    "species": "Pop Star Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "17.5 kg",
+    "abilities": "Torrent, Liquid-Voice",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png"
   }
 }
