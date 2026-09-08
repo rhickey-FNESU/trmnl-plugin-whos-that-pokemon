@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T01:49:54.196997",
+  "timestamp": "2026-09-08T02:01:16.427821",
   "pokemon_data": {
-    "id": "0497",
-    "name": "Serperior",
-    "types": "Grass",
-    "species": "Regal Pok\u00e9mon",
-    "height": "3.3 m",
-    "weight": "63.0 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+    "id": "0912",
+    "name": "Quaxly",
+    "types": "Water",
+    "species": "Duckling Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.1 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
   }
 }
