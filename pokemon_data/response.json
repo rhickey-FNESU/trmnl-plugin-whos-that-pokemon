@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T20:48:32.523452",
+  "timestamp": "2026-09-08T21:00:56.532188",
   "pokemon_data": {
-    "id": "0353",
-    "name": "Shuppet",
-    "types": "Ghost",
-    "species": "Puppet Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.3 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    "id": "0415",
+    "name": "Combee",
+    "types": "Bug, Flying",
+    "species": "Tiny Bee Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "5.5 kg",
+    "abilities": "Honey-Gather, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
   }
 }
