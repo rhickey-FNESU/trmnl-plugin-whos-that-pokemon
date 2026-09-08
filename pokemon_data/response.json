@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T21:32:47.011777",
+  "timestamp": "2026-09-08T21:47:09.906273",
   "pokemon_data": {
-    "id": "0108",
-    "name": "Lickitung",
-    "types": "Normal",
-    "species": "Licking Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "65.5 kg",
-    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+    "id": "0253",
+    "name": "Grovyle",
+    "types": "Grass",
+    "species": "Wood Gecko Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "21.6 kg",
+    "abilities": "Overgrow, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
   }
 }
