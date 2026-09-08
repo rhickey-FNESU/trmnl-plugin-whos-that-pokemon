@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T07:02:47.474415",
+  "timestamp": "2026-09-08T07:23:46.030588",
   "pokemon_data": {
-    "id": "0474",
-    "name": "Porygon-Z",
-    "types": "Normal",
-    "species": "Virtual Pok\u00e9mon",
+    "id": "0129",
+    "name": "Magikarp",
+    "types": "Water",
+    "species": "Fish Pok\u00e9mon",
     "height": "0.9 m",
-    "weight": "34.0 kg",
-    "abilities": "Adaptability, Download, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png"
+    "weight": "10.0 kg",
+    "abilities": "Swift-Swim, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
   }
 }
