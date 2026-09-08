@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T04:49:48.026674",
+  "timestamp": "2026-09-08T05:01:07.808943",
   "pokemon_data": {
-    "id": "0393",
-    "name": "Piplup",
-    "types": "Water",
-    "species": "Penguin Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.2 kg",
-    "abilities": "Torrent, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+    "id": "0212",
+    "name": "Scizor",
+    "types": "Bug, Steel",
+    "species": "Pincer Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "118.0 kg",
+    "abilities": "Swarm, Technician, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
   }
 }
