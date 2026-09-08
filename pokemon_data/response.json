@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T12:01:28.352981",
+  "timestamp": "2026-09-08T12:28:53.141674",
   "pokemon_data": {
-    "id": "1013",
-    "name": "Sinistcha",
-    "types": "Grass, Ghost",
-    "species": "Matcha Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "2.2 kg",
-    "abilities": "Hospitality, Heatproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
+    "id": "0639",
+    "name": "Terrakion",
+    "types": "Rock, Fighting",
+    "species": "Cavern Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "260.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
   }
 }
