@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T16:50:13.163014",
+  "timestamp": "2026-09-08T17:01:11.414802",
   "pokemon_data": {
-    "id": "0887",
-    "name": "Dragapult",
-    "types": "Dragon, Ghost",
-    "species": "Stealth Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "50.0 kg",
-    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+    "id": "0602",
+    "name": "Tynamo",
+    "types": "Electric",
+    "species": "Elefish Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
   }
 }
