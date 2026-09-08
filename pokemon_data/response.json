@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T10:01:33.302501",
+  "timestamp": "2026-09-08T10:24:14.908734",
   "pokemon_data": {
-    "id": "1007",
-    "name": "Koraidon",
-    "types": "Fighting, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "303.0 kg",
-    "abilities": "Orichalcum-Pulse",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
+    "id": "0593",
+    "name": "Jellicent-Male",
+    "types": "Water, Ghost",
+    "species": "Floating Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "135.0 kg",
+    "abilities": "Water-Absorb, Cursed-Body, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
   }
 }
