@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T11:22:32.079807",
+  "timestamp": "2026-09-08T11:35:11.031839",
   "pokemon_data": {
-    "id": "0809",
-    "name": "Melmetal",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "800.0 kg",
-    "abilities": "Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+    "id": "0588",
+    "name": "Karrablast",
+    "types": "Bug",
+    "species": "Clamping Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.9 kg",
+    "abilities": "Swarm, Shed-Skin, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
   }
 }
