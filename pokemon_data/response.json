@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T17:01:11.414802",
+  "timestamp": "2026-09-08T17:23:18.480855",
   "pokemon_data": {
-    "id": "0602",
-    "name": "Tynamo",
-    "types": "Electric",
-    "species": "Elefish Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
+    "id": "0269",
+    "name": "Dustox",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "31.6 kg",
+    "abilities": "Shield-Dust, Compound-Eyes",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
   }
 }
