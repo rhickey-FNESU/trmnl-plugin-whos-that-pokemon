@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T23:20:19.847944",
+  "timestamp": "2026-09-08T23:32:22.250671",
   "pokemon_data": {
-    "id": "0098",
-    "name": "Krabby",
-    "types": "Water",
-    "species": "River Crab Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.5 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+    "id": "0211",
+    "name": "Qwilfish",
+    "types": "Water, Poison",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "3.9 kg",
+    "abilities": "Poison-Point, Swift-Swim, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
   }
 }
