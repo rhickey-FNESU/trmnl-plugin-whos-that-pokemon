@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T20:01:33.914859",
+  "timestamp": "2026-09-08T20:22:27.749910",
   "pokemon_data": {
-    "id": "0638",
-    "name": "Cobalion",
-    "types": "Steel, Fighting",
-    "species": "Iron Will Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "250.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
+    "id": "0469",
+    "name": "Yanmega",
+    "types": "Bug, Flying",
+    "species": "Ogre Darner Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "51.5 kg",
+    "abilities": "Speed-Boost, Tinted-Lens, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png"
   }
 }
