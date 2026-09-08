@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T18:39:48.587344",
+  "timestamp": "2026-09-08T18:52:30.864121",
   "pokemon_data": {
-    "id": "0677",
-    "name": "Espurr",
-    "types": "Psychic",
-    "species": "Restraint Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Keen-Eye, Infiltrator, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
+    "id": "0980",
+    "name": "Clodsire",
+    "types": "Poison, Ground",
+    "species": "Spiny Fish Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "223.0 kg",
+    "abilities": "Poison-Point, Water-Absorb, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
   }
 }
