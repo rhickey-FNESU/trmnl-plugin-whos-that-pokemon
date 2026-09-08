@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T00:33:39.994492",
+  "timestamp": "2026-09-08T00:53:39.525391",
   "pokemon_data": {
-    "id": "0366",
-    "name": "Clamperl",
-    "types": "Water",
-    "species": "Bivalve Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "52.5 kg",
-    "abilities": "Shell-Armor, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png"
+    "id": "0236",
+    "name": "Tyrogue",
+    "types": "Fighting",
+    "species": "Scuffle Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.0 kg",
+    "abilities": "Guts, Steadfast, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
   }
 }
