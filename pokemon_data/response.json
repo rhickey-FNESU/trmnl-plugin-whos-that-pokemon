@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T02:23:14.610396",
+  "timestamp": "2026-09-08T02:35:50.467815",
   "pokemon_data": {
-    "id": "0286",
-    "name": "Breloom",
-    "types": "Grass, Fighting",
-    "species": "Mushroom Pok\u00e9mon",
+    "id": "0594",
+    "name": "Alomomola",
+    "types": "Water",
+    "species": "Caring Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "39.2 kg",
-    "abilities": "Effect-Spore, Poison-Heal, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+    "weight": "31.6 kg",
+    "abilities": "Healer, Hydration, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
   }
 }
