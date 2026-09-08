@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T23:32:22.250671",
+  "timestamp": "2026-09-08T23:46:18.389255",
   "pokemon_data": {
-    "id": "0211",
-    "name": "Qwilfish",
-    "types": "Water, Poison",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "3.9 kg",
-    "abilities": "Poison-Point, Swift-Swim, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+    "id": "0816",
+    "name": "Sobble",
+    "types": "Water",
+    "species": "Water Lizard Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "4.0 kg",
+    "abilities": "Torrent, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
   }
 }
