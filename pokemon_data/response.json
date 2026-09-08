@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T19:47:09.685931",
+  "timestamp": "2026-09-08T20:01:33.914859",
   "pokemon_data": {
-    "id": "0480",
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "id": "0638",
+    "name": "Cobalion",
+    "types": "Steel, Fighting",
+    "species": "Iron Will Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "250.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
   }
 }
