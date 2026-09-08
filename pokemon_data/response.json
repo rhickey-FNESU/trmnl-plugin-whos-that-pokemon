@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T21:47:09.906273",
+  "timestamp": "2026-09-08T22:01:03.896135",
   "pokemon_data": {
-    "id": "0253",
-    "name": "Grovyle",
-    "types": "Grass",
-    "species": "Wood Gecko Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "21.6 kg",
-    "abilities": "Overgrow, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+    "id": "0251",
+    "name": "Celebi",
+    "types": "Psychic, Grass",
+    "species": "Time Travel Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "5.0 kg",
+    "abilities": "Natural-Cure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png"
   }
 }
