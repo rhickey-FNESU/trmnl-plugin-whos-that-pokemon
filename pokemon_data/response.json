@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T21:00:56.532188",
+  "timestamp": "2026-09-08T21:20:30.172405",
   "pokemon_data": {
-    "id": "0415",
-    "name": "Combee",
-    "types": "Bug, Flying",
-    "species": "Tiny Bee Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.5 kg",
-    "abilities": "Honey-Gather, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
+    "id": "0732",
+    "name": "Trumbeak",
+    "types": "Normal, Flying",
+    "species": "Bugle Beak Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "14.8 kg",
+    "abilities": "Keen-Eye, Skill-Link, Pickup",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
   }
 }
