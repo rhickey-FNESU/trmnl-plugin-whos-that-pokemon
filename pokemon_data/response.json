@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T00:53:39.525391",
+  "timestamp": "2026-09-08T01:02:13.510453",
   "pokemon_data": {
-    "id": "0236",
-    "name": "Tyrogue",
-    "types": "Fighting",
-    "species": "Scuffle Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "21.0 kg",
-    "abilities": "Guts, Steadfast, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+    "id": "0321",
+    "name": "Wailord",
+    "types": "Water",
+    "species": "Float Whale Pok\u00e9mon",
+    "height": "14.5 m",
+    "weight": "398.0 kg",
+    "abilities": "Water-Veil, Oblivious, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png"
   }
 }
