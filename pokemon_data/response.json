@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T07:50:40.354531",
+  "timestamp": "2026-09-08T08:01:12.194088",
   "pokemon_data": {
-    "id": "0178",
-    "name": "Xatu",
-    "types": "Psychic, Flying",
-    "species": "Mystic Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "15.0 kg",
-    "abilities": "Synchronize, Early-Bird, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+    "id": "0176",
+    "name": "Togetic",
+    "types": "Fairy, Flying",
+    "species": "Happiness Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "3.2 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png"
   }
 }
