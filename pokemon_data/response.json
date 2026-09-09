@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T11:35:10.150456",
+  "timestamp": "2026-09-09T11:48:52.752272",
   "pokemon_data": {
-    "id": "0639",
-    "name": "Terrakion",
-    "types": "Rock, Fighting",
-    "species": "Cavern Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "260.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+    "id": "0591",
+    "name": "Amoonguss",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.5 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
   }
 }
