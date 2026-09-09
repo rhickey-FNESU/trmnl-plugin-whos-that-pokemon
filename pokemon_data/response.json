@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T15:50:19.711509",
+  "timestamp": "2026-09-09T16:01:17.113663",
   "pokemon_data": {
-    "id": "0004",
-    "name": "Charmander",
-    "types": "Fire",
-    "species": "Lizard Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.5 kg",
-    "abilities": "Blaze, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+    "id": "0979",
+    "name": "Annihilape",
+    "types": "Fighting, Ghost",
+    "species": "Rage Monkey Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "56.0 kg",
+    "abilities": "Vital-Spirit, Inner-Focus, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
   }
 }
