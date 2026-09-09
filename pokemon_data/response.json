@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T20:47:53.523290",
+  "timestamp": "2026-09-09T21:01:08.367615",
   "pokemon_data": {
-    "id": "0447",
-    "name": "Riolu",
-    "types": "Fighting",
-    "species": "Emanation Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "20.2 kg",
-    "abilities": "Steadfast, Inner-Focus, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
+    "id": "0246",
+    "name": "Larvitar",
+    "types": "Rock, Ground",
+    "species": "Rock Skin Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "72.0 kg",
+    "abilities": "Guts, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
   }
 }
