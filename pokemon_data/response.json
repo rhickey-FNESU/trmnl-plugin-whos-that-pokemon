@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T09:24:14.271202",
+  "timestamp": "2026-09-09T09:36:24.037196",
   "pokemon_data": {
-    "id": "0577",
-    "name": "Solosis",
-    "types": "Psychic",
-    "species": "Cell Pok\u00e9mon",
+    "id": "0951",
+    "name": "Capsakid",
+    "types": "Grass",
+    "species": "Spicy Pepper Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Overcoat, Magic-Guard, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+    "weight": "3.0 kg",
+    "abilities": "Chlorophyll, Insomnia, Klutz",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
   }
 }
