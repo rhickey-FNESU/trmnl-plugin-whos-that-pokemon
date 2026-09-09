@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T04:23:19.349486",
+  "timestamp": "2026-09-09T04:35:50.175945",
   "pokemon_data": {
-    "id": "0161",
-    "name": "Sentret",
-    "types": "Normal",
-    "species": "Scout Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "6.0 kg",
-    "abilities": "Run-Away, Keen-Eye, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
+    "id": "0628",
+    "name": "Braviary",
+    "types": "Normal, Flying",
+    "species": "Valiant Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "41.0 kg",
+    "abilities": "Keen-Eye, Sheer-Force, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
   }
 }
