@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T04:35:50.175945",
+  "timestamp": "2026-09-09T04:49:39.686459",
   "pokemon_data": {
-    "id": "0628",
-    "name": "Braviary",
-    "types": "Normal, Flying",
-    "species": "Valiant Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.0 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+    "id": "0496",
+    "name": "Servine",
+    "types": "Grass",
+    "species": "Grass Snake Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "16.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
   }
 }
