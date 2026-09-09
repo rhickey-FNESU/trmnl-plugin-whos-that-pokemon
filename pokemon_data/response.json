@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T15:23:31.721408",
+  "timestamp": "2026-09-09T15:37:15.573450",
   "pokemon_data": {
-    "id": "1013",
-    "name": "Sinistcha",
-    "types": "Grass, Ghost",
-    "species": "Matcha Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "2.2 kg",
-    "abilities": "Hospitality, Heatproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
+    "id": "0490",
+    "name": "Manaphy",
+    "types": "Water",
+    "species": "Seafaring Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.4 kg",
+    "abilities": "Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png"
   }
 }
