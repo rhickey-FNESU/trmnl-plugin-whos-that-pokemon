@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T21:01:08.367615",
+  "timestamp": "2026-09-09T21:21:02.571553",
   "pokemon_data": {
-    "id": "0246",
-    "name": "Larvitar",
-    "types": "Rock, Ground",
-    "species": "Rock Skin Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "72.0 kg",
-    "abilities": "Guts, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+    "id": "0981",
+    "name": "Farigiraf",
+    "types": "Normal, Psychic",
+    "species": "Long Neck Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "160.0 kg",
+    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
   }
 }
