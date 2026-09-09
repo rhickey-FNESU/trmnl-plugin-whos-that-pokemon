@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T01:35:22.179020",
+  "timestamp": "2026-09-09T01:49:22.601335",
   "pokemon_data": {
-    "id": "0651",
-    "name": "Quilladin",
+    "id": "0388",
+    "name": "Grotle",
     "types": "Grass",
-    "species": "Spiny Armor Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.0 kg",
-    "abilities": "Overgrow, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+    "species": "Grove Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "97.0 kg",
+    "abilities": "Overgrow, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png"
   }
 }
