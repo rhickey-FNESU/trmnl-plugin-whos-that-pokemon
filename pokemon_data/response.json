@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T16:50:23.545758",
+  "timestamp": "2026-09-09T17:03:30.079568",
   "pokemon_data": {
-    "id": "0822",
-    "name": "Corvisquire",
-    "types": "Flying",
-    "species": "Raven Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "16.0 kg",
-    "abilities": "Keen-Eye, Unnerve, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png"
+    "id": "0740",
+    "name": "Crabominable",
+    "types": "Fighting, Ice",
+    "species": "Woolly Crab Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "180.0 kg",
+    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
   }
 }
