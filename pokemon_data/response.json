@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T00:01:30.524227",
+  "timestamp": "2026-09-09T00:33:12.093466",
   "pokemon_data": {
-    "id": "0731",
-    "name": "Pikipek",
-    "types": "Normal, Flying",
-    "species": "Woodpecker Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.2 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+    "id": "0095",
+    "name": "Onix",
+    "types": "Rock, Ground",
+    "species": "Rock Snake Pok\u00e9mon",
+    "height": "8.8 m",
+    "weight": "210.0 kg",
+    "abilities": "Rock-Head, Sturdy, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
   }
 }
