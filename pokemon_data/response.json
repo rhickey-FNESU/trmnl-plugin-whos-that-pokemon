@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T21:33:29.535821",
+  "timestamp": "2026-09-09T21:47:13.031022",
   "pokemon_data": {
-    "id": "0697",
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "id": "0927",
+    "name": "Dachsbun",
+    "types": "Fairy",
+    "species": "Dog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "14.9 kg",
+    "abilities": "Well-Baked-Body, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
   }
 }
