@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T03:36:01.723568",
+  "timestamp": "2026-09-09T03:49:32.864608",
   "pokemon_data": {
-    "id": "0981",
-    "name": "Farigiraf",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "160.0 kg",
-    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+    "id": "0031",
+    "name": "Nidoqueen",
+    "types": "Poison, Ground",
+    "species": "Drill Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "abilities": "Poison-Point, Rivalry, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
   }
 }
