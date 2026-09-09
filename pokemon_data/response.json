@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T13:37:02.536037",
+  "timestamp": "2026-09-09T13:50:44.896767",
   "pokemon_data": {
-    "id": "0353",
-    "name": "Shuppet",
-    "types": "Ghost",
-    "species": "Puppet Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.3 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    "id": "0451",
+    "name": "Skorupi",
+    "types": "Poison, Bug",
+    "species": "Scorpion Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "12.0 kg",
+    "abilities": "Battle-Armor, Sniper, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png"
   }
 }
