@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T18:50:26.031103",
+  "timestamp": "2026-09-09T19:00:58.268873",
   "pokemon_data": {
-    "id": "0687",
-    "name": "Malamar",
-    "types": "Dark, Psychic",
-    "species": "Overturning Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "47.0 kg",
-    "abilities": "Contrary, Suction-Cups, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
+    "id": "0695",
+    "name": "Heliolisk",
+    "types": "Electric, Normal",
+    "species": "Generator Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "21.0 kg",
+    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
   }
 }
