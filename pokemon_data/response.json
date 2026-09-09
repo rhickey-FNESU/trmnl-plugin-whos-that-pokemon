@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T15:37:15.573450",
+  "timestamp": "2026-09-09T15:50:19.711509",
   "pokemon_data": {
-    "id": "0490",
-    "name": "Manaphy",
-    "types": "Water",
-    "species": "Seafaring Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.4 kg",
-    "abilities": "Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png"
+    "id": "0004",
+    "name": "Charmander",
+    "types": "Fire",
+    "species": "Lizard Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "8.5 kg",
+    "abilities": "Blaze, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
   }
 }
