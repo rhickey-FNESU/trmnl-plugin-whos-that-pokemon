@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T22:33:20.389518",
+  "timestamp": "2026-09-09T22:46:44.117914",
   "pokemon_data": {
-    "id": "0920",
-    "name": "Lokix",
-    "types": "Bug, Dark",
-    "species": "Grasshopper Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "17.5 kg",
-    "abilities": "Swarm, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
+    "id": "0831",
+    "name": "Wooloo",
+    "types": "Normal",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "6.0 kg",
+    "abilities": "Fluffy, Run-Away, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png"
   }
 }
