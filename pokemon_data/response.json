@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T08:35:21.733020",
+  "timestamp": "2026-09-09T08:50:04.287957",
   "pokemon_data": {
-    "id": "0206",
-    "name": "Dunsparce",
-    "types": "Normal",
-    "species": "Land Snake Pok\u00e9mon",
+    "id": "0936",
+    "name": "Armarouge",
+    "types": "Fire, Psychic",
+    "species": "Fire Warrior Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "14.0 kg",
-    "abilities": "Serene-Grace, Run-Away, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+    "weight": "85.0 kg",
+    "abilities": "Flash-Fire, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
   }
 }
