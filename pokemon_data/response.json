@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T06:28:49.047641",
+  "timestamp": "2026-09-09T06:43:02.312299",
   "pokemon_data": {
-    "id": "0972",
-    "name": "Houndstone",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "15.0 kg",
-    "abilities": "Sand-Rush, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+    "id": "0869",
+    "name": "Alcremie",
+    "types": "Fairy",
+    "species": "Cream Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.5 kg",
+    "abilities": "Sweet-Veil, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
   }
 }
