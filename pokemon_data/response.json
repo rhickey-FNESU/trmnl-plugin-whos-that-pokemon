@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T09:50:10.767895",
+  "timestamp": "2026-09-09T10:01:26.460615",
   "pokemon_data": {
-    "id": "0314",
-    "name": "Illumise",
-    "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.7 kg",
-    "abilities": "Oblivious, Tinted-Lens, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    "id": "0039",
+    "name": "Jigglypuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
   }
 }
