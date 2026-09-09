@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T05:21:57.550743",
+  "timestamp": "2026-09-09T05:34:59.893956",
   "pokemon_data": {
-    "id": "0338",
-    "name": "Solrock",
-    "types": "Rock, Psychic",
-    "species": "Meteorite Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "154.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
+    "id": "0088",
+    "name": "Grimer",
+    "types": "Poison",
+    "species": "Sludge Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "30.0 kg",
+    "abilities": "Stench, Sticky-Hold, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
   }
 }
