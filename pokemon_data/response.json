@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T07:50:16.880061",
+  "timestamp": "2026-09-09T08:01:16.477174",
   "pokemon_data": {
-    "id": "0416",
-    "name": "Vespiquen",
-    "types": "Bug, Flying",
-    "species": "Beehive Pok\u00e9mon",
+    "id": "0269",
+    "name": "Dustox",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "38.5 kg",
-    "abilities": "Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png"
+    "weight": "31.6 kg",
+    "abilities": "Shield-Dust, Compound-Eyes",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
   }
 }
