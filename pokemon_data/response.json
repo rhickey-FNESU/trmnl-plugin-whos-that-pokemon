@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T02:01:26.738986",
+  "timestamp": "2026-09-09T02:23:11.973045",
   "pokemon_data": {
-    "id": "0239",
-    "name": "Elekid",
+    "id": "0523",
+    "name": "Zebstrika",
     "types": "Electric",
-    "species": "Electric Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "23.5 kg",
-    "abilities": "Static, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "79.5 kg",
+    "abilities": "Lightning-Rod, Motor-Drive, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
   }
 }
