@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T23:20:53.774853",
+  "timestamp": "2026-09-09T23:32:56.136723",
   "pokemon_data": {
-    "id": "0465",
-    "name": "Tangrowth",
-    "types": "Grass",
-    "species": "Vine Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "128.6 kg",
-    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png"
+    "id": "0213",
+    "name": "Shuckle",
+    "types": "Bug, Rock",
+    "species": "Mold Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "20.5 kg",
+    "abilities": "Sturdy, Gluttony, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
   }
 }
