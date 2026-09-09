@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T12:28:55.578443",
+  "timestamp": "2026-09-09T12:43:53.617420",
   "pokemon_data": {
-    "id": "0216",
-    "name": "Teddiursa",
-    "types": "Normal",
-    "species": "Little Bear Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.8 kg",
-    "abilities": "Pickup, Quick-Feet, Honey-Gather",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+    "id": "0638",
+    "name": "Cobalion",
+    "types": "Steel, Fighting",
+    "species": "Iron Will Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "250.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
   }
 }
