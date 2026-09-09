@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T21:21:02.571553",
+  "timestamp": "2026-09-09T21:33:29.535821",
   "pokemon_data": {
-    "id": "0981",
-    "name": "Farigiraf",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "160.0 kg",
-    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
