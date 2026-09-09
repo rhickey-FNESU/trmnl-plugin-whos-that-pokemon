@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T20:01:02.600682",
+  "timestamp": "2026-09-09T20:23:10.338189",
   "pokemon_data": {
-    "id": "0433",
-    "name": "Chingling",
-    "types": "Psychic",
-    "species": "Bell Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
+    "id": "1019",
+    "name": "Hydrapple",
+    "types": "Grass, Dragon",
+    "species": "Apple Hydra Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "93.0 kg",
+    "abilities": "Supersweet-Syrup, Regenerator, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
   }
 }
