@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T09:01:04.922984",
+  "timestamp": "2026-09-09T09:24:14.271202",
   "pokemon_data": {
-    "id": "1014",
-    "name": "Okidogi",
-    "types": "Poison, Fighting",
-    "species": "Retainer Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "92.2 kg",
-    "abilities": "Toxic-Chain, Guard-Dog",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
+    "id": "0577",
+    "name": "Solosis",
+    "types": "Psychic",
+    "species": "Cell Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Overcoat, Magic-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
   }
 }
