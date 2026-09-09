@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T11:22:41.727540",
+  "timestamp": "2026-09-09T11:35:10.150456",
   "pokemon_data": {
-    "id": "0661",
-    "name": "Fletchling",
-    "types": "Normal, Flying",
-    "species": "Tiny Robin Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.7 kg",
-    "abilities": "Big-Pecks, Gale-Wings",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+    "id": "0639",
+    "name": "Terrakion",
+    "types": "Rock, Fighting",
+    "species": "Cavern Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "260.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
   }
 }
