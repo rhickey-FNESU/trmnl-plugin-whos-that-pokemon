@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T00:53:02.191361",
+  "timestamp": "2026-09-09T01:01:43.849067",
   "pokemon_data": {
-    "id": "0689",
-    "name": "Barbaracle",
-    "types": "Rock, Water",
-    "species": "Collective Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "96.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png"
+    "id": "0336",
+    "name": "Seviper",
+    "types": "Poison",
+    "species": "Fang Snake Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "52.5 kg",
+    "abilities": "Shed-Skin, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png"
   }
 }
