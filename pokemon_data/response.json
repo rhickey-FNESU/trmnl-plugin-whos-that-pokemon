@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T02:23:11.973045",
+  "timestamp": "2026-09-09T02:35:21.944548",
   "pokemon_data": {
-    "id": "0523",
-    "name": "Zebstrika",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
+    "id": "0282",
+    "name": "Gardevoir",
+    "types": "Psychic, Fairy",
+    "species": "Embrace Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "79.5 kg",
-    "abilities": "Lightning-Rod, Motor-Drive, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+    "weight": "48.4 kg",
+    "abilities": "Synchronize, Trace, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png"
   }
 }
