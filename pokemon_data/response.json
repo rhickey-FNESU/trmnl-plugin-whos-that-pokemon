@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T07:23:57.864546",
+  "timestamp": "2026-09-09T07:35:43.423211",
   "pokemon_data": {
-    "id": "0046",
-    "name": "Paras",
-    "types": "Bug, Grass",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.4 kg",
-    "abilities": "Effect-Spore, Dry-Skin, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+    "id": "0278",
+    "name": "Wingull",
+    "types": "Water, Flying",
+    "species": "Seagull Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.5 kg",
+    "abilities": "Keen-Eye, Hydration, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
   }
 }
