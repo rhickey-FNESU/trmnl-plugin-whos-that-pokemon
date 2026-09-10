@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T17:47:01.601057",
+  "timestamp": "2026-09-10T18:01:25.948907",
   "pokemon_data": {
-    "id": "0308",
-    "name": "Medicham",
-    "types": "Fighting, Psychic",
-    "species": "Meditate Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "31.5 kg",
-    "abilities": "Pure-Power, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
+    "id": "0127",
+    "name": "Pinsir",
+    "types": "Bug",
+    "species": "Stag Beetle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "55.0 kg",
+    "abilities": "Hyper-Cutter, Mold-Breaker, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
   }
 }
