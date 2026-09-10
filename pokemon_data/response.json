@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T07:35:34.994690",
+  "timestamp": "2026-09-10T07:49:47.527441",
   "pokemon_data": {
-    "id": "0133",
-    "name": "Eevee",
-    "types": "Normal",
-    "species": "Evolution Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.5 kg",
-    "abilities": "Run-Away, Adaptability, Anticipation",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    "id": "0402",
+    "name": "Kricketune",
+    "types": "Bug",
+    "species": "Cricket Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "25.5 kg",
+    "abilities": "Swarm, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png"
   }
 }
