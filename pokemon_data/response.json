@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T02:35:33.940259",
+  "timestamp": "2026-09-10T02:49:25.177286",
   "pokemon_data": {
-    "id": "0221",
-    "name": "Piloswine",
-    "types": "Ice, Ground",
-    "species": "Swine Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "55.8 kg",
-    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+    "id": "0002",
+    "name": "Ivysaur",
+    "types": "Grass, Poison",
+    "species": "Seed Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "13.0 kg",
+    "abilities": "Overgrow, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
   }
 }
