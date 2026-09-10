@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T10:00:59.603044",
+  "timestamp": "2026-09-10T10:23:34.534803",
   "pokemon_data": {
-    "id": "0136",
-    "name": "Flareon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "25.0 kg",
-    "abilities": "Flash-Fire, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    "id": "0028",
+    "name": "Sandslash",
+    "types": "Ground",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Sand-Veil, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
   }
 }
