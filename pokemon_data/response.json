@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T09:01:36.174752",
+  "timestamp": "2026-09-10T09:23:33.924641",
   "pokemon_data": {
-    "id": "0528",
-    "name": "Swoobat",
-    "types": "Psychic, Flying",
-    "species": "Courting Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.5 kg",
-    "abilities": "Unaware, Klutz, Simple",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+    "id": "0345",
+    "name": "Lileep",
+    "types": "Rock, Grass",
+    "species": "Sea Lily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "23.8 kg",
+    "abilities": "Suction-Cups, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
   }
 }
