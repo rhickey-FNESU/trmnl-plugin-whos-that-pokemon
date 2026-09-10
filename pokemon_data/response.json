@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T14:36:22.918802",
+  "timestamp": "2026-09-10T14:50:45.643398",
   "pokemon_data": {
-    "id": "0396",
-    "name": "Starly",
-    "types": "Normal, Flying",
-    "species": "Starling Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.0 kg",
-    "abilities": "Keen-Eye, Reckless",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
+    "id": "1014",
+    "name": "Okidogi",
+    "types": "Poison, Fighting",
+    "species": "Retainer Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "92.2 kg",
+    "abilities": "Toxic-Chain, Guard-Dog",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
   }
 }
