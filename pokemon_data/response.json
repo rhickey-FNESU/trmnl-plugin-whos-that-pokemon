@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T06:54:41.559788",
+  "timestamp": "2026-09-10T07:02:53.083399",
   "pokemon_data": {
-    "id": "0909",
-    "name": "Fuecoco",
-    "types": "Fire",
-    "species": "Fire Croc Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "9.8 kg",
-    "abilities": "Blaze, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png"
+    "id": "0208",
+    "name": "Steelix",
+    "types": "Steel, Ground",
+    "species": "Iron Snake Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "400.0 kg",
+    "abilities": "Rock-Head, Sturdy, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
   }
 }
