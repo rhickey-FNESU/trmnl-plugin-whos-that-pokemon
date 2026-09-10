@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T23:31:30.146877",
+  "timestamp": "2026-09-10T23:45:58.467292",
   "pokemon_data": {
-    "id": "0255",
-    "name": "Torchic",
-    "types": "Fire",
-    "species": "Chick Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "2.5 kg",
-    "abilities": "Blaze, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+    "id": "0224",
+    "name": "Octillery",
+    "types": "Water",
+    "species": "Jet Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "28.5 kg",
+    "abilities": "Suction-Cups, Sniper, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
   }
 }
