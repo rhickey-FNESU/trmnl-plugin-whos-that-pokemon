@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T13:49:16.344576",
+  "timestamp": "2026-09-10T14:01:01.226410",
   "pokemon_data": {
-    "id": "0789",
-    "name": "Cosmog",
-    "types": "Psychic",
-    "species": "Nebula Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.1 kg",
-    "abilities": "Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+    "id": "0887",
+    "name": "Dragapult",
+    "types": "Dragon, Ghost",
+    "species": "Stealth Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "50.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
   }
 }
