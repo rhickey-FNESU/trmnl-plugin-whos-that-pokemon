@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T16:34:52.097462",
+  "timestamp": "2026-09-10T16:48:39.914003",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "0438",
+    "name": "Bonsly",
+    "types": "Rock",
+    "species": "Bonsai Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "15.0 kg",
+    "abilities": "Sturdy, Rock-Head, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
   }
 }
