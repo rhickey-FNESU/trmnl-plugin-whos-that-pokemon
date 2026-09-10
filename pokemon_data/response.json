@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T13:34:37.196428",
+  "timestamp": "2026-09-10T13:49:16.344576",
   "pokemon_data": {
-    "id": "0152",
-    "name": "Chikorita",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "6.4 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    "id": "0789",
+    "name": "Cosmog",
+    "types": "Psychic",
+    "species": "Nebula Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.1 kg",
+    "abilities": "Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
   }
 }
