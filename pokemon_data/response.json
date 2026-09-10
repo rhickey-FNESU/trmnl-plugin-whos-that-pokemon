@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T12:01:20.552478",
+  "timestamp": "2026-09-10T12:29:00.525457",
   "pokemon_data": {
-    "id": "0038",
-    "name": "Ninetales",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.9 kg",
-    "abilities": "Flash-Fire, Drought",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+    "id": "0744",
+    "name": "Rockruff",
+    "types": "Rock",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.2 kg",
+    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
   }
 }
