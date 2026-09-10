@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T20:21:11.637006",
+  "timestamp": "2026-09-10T20:34:06.179441",
   "pokemon_data": {
-    "id": "0612",
-    "name": "Haxorus",
-    "types": "Dragon",
-    "species": "Axe Jaw Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "105.5 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+    "id": "0826",
+    "name": "Orbeetle",
+    "types": "Bug, Psychic",
+    "species": "Seven Spot Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "40.8 kg",
+    "abilities": "Swarm, Frisk, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
   }
 }
