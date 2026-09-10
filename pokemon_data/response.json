@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T22:33:17.745975",
+  "timestamp": "2026-09-10T22:46:22.753230",
   "pokemon_data": {
-    "id": "0268",
-    "name": "Cascoon",
-    "types": "Bug",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.5 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+    "id": "0630",
+    "name": "Mandibuzz",
+    "types": "Dark, Flying",
+    "species": "Bone Vulture Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.5 kg",
+    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
   }
 }
