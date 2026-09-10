@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T14:01:01.226410",
+  "timestamp": "2026-09-10T14:22:40.122991",
   "pokemon_data": {
-    "id": "0887",
-    "name": "Dragapult",
-    "types": "Dragon, Ghost",
-    "species": "Stealth Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "50.0 kg",
-    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+    "id": "0062",
+    "name": "Poliwrath",
+    "types": "Water, Fighting",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
   }
 }
