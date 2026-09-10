@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T11:22:15.568967",
+  "timestamp": "2026-09-10T11:35:01.443895",
   "pokemon_data": {
-    "id": "0535",
-    "name": "Tympole",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "4.5 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    "id": "0870",
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
