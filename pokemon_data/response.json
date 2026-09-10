@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T03:35:55.564274",
+  "timestamp": "2026-09-10T03:49:46.179042",
   "pokemon_data": {
-    "id": "0418",
-    "name": "Buizel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+    "id": "0145",
+    "name": "Zapdos",
+    "types": "Electric, Flying",
+    "species": "Electric Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "52.6 kg",
+    "abilities": "Pressure, Static",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
   }
 }
