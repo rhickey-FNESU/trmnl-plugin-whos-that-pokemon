@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T10:35:51.830967",
+  "timestamp": "2026-09-10T10:49:28.222874",
   "pokemon_data": {
-    "id": "0735",
-    "name": "Gumshoos",
-    "types": "Normal",
-    "species": "Stakeout Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.2 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+    "id": "0714",
+    "name": "Noibat",
+    "types": "Flying, Dragon",
+    "species": "Sound Wave Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.0 kg",
+    "abilities": "Frisk, Infiltrator, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
   }
 }
