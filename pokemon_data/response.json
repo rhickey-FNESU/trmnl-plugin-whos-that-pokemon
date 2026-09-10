@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T17:33:39.209251",
+  "timestamp": "2026-09-10T17:47:01.601057",
   "pokemon_data": {
-    "id": "0983",
-    "name": "Kingambit",
-    "types": "Dark, Steel",
-    "species": "Big Blade Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Defiant, Supreme-Overlord, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+    "id": "0308",
+    "name": "Medicham",
+    "types": "Fighting, Psychic",
+    "species": "Meditate Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "31.5 kg",
+    "abilities": "Pure-Power, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
   }
 }
