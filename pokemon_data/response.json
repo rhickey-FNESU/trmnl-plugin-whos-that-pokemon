@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T21:01:08.966673",
+  "timestamp": "2026-09-10T21:20:09.397555",
   "pokemon_data": {
-    "id": "0295",
-    "name": "Exploud",
-    "types": "Normal",
-    "species": "Loud Noise Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "84.0 kg",
-    "abilities": "Soundproof, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png"
+    "id": "0748",
+    "name": "Toxapex",
+    "types": "Poison, Water",
+    "species": "Brutal Star Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.5 kg",
+    "abilities": "Merciless, Limber, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
   }
 }
