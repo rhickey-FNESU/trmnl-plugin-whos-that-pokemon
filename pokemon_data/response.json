@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T08:25:04.664474",
+  "timestamp": "2026-09-10T08:36:41.168663",
   "pokemon_data": {
-    "id": "0018",
-    "name": "Pidgeot",
-    "types": "Normal, Flying",
-    "species": "Bird Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.5 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    "id": "0253",
+    "name": "Grovyle",
+    "types": "Grass",
+    "species": "Wood Gecko Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "21.6 kg",
+    "abilities": "Overgrow, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
   }
 }
