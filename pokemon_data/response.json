@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T11:48:23.257527",
+  "timestamp": "2026-09-10T12:01:20.552478",
   "pokemon_data": {
-    "id": "0276",
-    "name": "Taillow",
-    "types": "Normal, Flying",
-    "species": "Tiny Swallow Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.3 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
+    "id": "0038",
+    "name": "Ninetales",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "19.9 kg",
+    "abilities": "Flash-Fire, Drought",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
   }
 }
