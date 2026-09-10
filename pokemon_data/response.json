@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T16:01:14.134555",
+  "timestamp": "2026-09-10T16:22:28.431880",
   "pokemon_data": {
-    "id": "0279",
-    "name": "Pelipper",
-    "types": "Water, Flying",
-    "species": "Water Bird Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "28.0 kg",
-    "abilities": "Keen-Eye, Drizzle, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
+    "id": "0655",
+    "name": "Delphox",
+    "types": "Fire, Psychic",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.0 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
   }
 }
