@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T02:23:17.165264",
+  "timestamp": "2026-09-10T02:35:33.940259",
   "pokemon_data": {
-    "id": "0044",
-    "name": "Gloom",
-    "types": "Grass, Poison",
-    "species": "Weed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "8.6 kg",
-    "abilities": "Chlorophyll, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+    "id": "0221",
+    "name": "Piloswine",
+    "types": "Ice, Ground",
+    "species": "Swine Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "55.8 kg",
+    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
   }
 }
