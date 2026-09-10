@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T03:23:34.931990",
+  "timestamp": "2026-09-10T03:35:55.564274",
   "pokemon_data": {
-    "id": "0039",
-    "name": "Jigglypuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Cute-Charm, Competitive, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+    "id": "0418",
+    "name": "Buizel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "29.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
   }
 }
