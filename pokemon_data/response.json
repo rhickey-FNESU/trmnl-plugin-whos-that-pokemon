@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T16:22:28.431880",
+  "timestamp": "2026-09-10T16:34:52.097462",
   "pokemon_data": {
-    "id": "0655",
-    "name": "Delphox",
-    "types": "Fire, Psychic",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.0 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+    "id": "0718",
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
