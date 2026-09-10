@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T08:36:41.168663",
+  "timestamp": "2026-09-10T08:50:47.865689",
   "pokemon_data": {
-    "id": "0253",
-    "name": "Grovyle",
-    "types": "Grass",
-    "species": "Wood Gecko Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "21.6 kg",
-    "abilities": "Overgrow, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+    "id": "0544",
+    "name": "Whirlipede",
+    "types": "Bug, Poison",
+    "species": "Curlipede Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "58.5 kg",
+    "abilities": "Poison-Point, Swarm, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
   }
 }
