@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T05:34:50.369492",
+  "timestamp": "2026-09-10T05:48:39.784774",
   "pokemon_data": {
-    "id": "0135",
-    "name": "Jolteon",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Volt-Absorb, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    "id": "0079",
+    "name": "Slowpoke",
+    "types": "Water, Psychic",
+    "species": "Dopey Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
   }
 }
