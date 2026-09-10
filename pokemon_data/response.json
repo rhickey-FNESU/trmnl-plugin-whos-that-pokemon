@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T03:49:46.179042",
+  "timestamp": "2026-09-10T04:00:58.229071",
   "pokemon_data": {
-    "id": "0145",
-    "name": "Zapdos",
-    "types": "Electric, Flying",
-    "species": "Electric Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "52.6 kg",
-    "abilities": "Pressure, Static",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+    "id": "0843",
+    "name": "Silicobra",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "7.6 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
   }
 }
