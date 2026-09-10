@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T20:01:06.156634",
+  "timestamp": "2026-09-10T20:21:11.637006",
   "pokemon_data": {
-    "id": "0099",
-    "name": "Kingler",
-    "types": "Water",
-    "species": "Pincer Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.0 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+    "id": "0612",
+    "name": "Haxorus",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "105.5 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
   }
 }
