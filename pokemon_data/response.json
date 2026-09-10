@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T07:02:53.083399",
+  "timestamp": "2026-09-10T07:24:20.881910",
   "pokemon_data": {
-    "id": "0208",
-    "name": "Steelix",
-    "types": "Steel, Ground",
-    "species": "Iron Snake Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "400.0 kg",
-    "abilities": "Rock-Head, Sturdy, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+    "id": "0077",
+    "name": "Ponyta",
+    "types": "Fire",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "abilities": "Run-Away, Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
   }
 }
