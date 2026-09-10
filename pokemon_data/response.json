@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T22:46:22.753230",
+  "timestamp": "2026-09-10T23:01:01.207374",
   "pokemon_data": {
-    "id": "0630",
-    "name": "Mandibuzz",
-    "types": "Dark, Flying",
-    "species": "Bone Vulture Pok\u00e9mon",
+    "id": "0235",
+    "name": "Smeargle",
+    "types": "Normal",
+    "species": "Painter Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "39.5 kg",
-    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+    "weight": "58.0 kg",
+    "abilities": "Own-Tempo, Technician, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
   }
 }
