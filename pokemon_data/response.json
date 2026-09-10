@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T09:50:08.449806",
+  "timestamp": "2026-09-10T10:00:59.603044",
   "pokemon_data": {
-    "id": "0525",
-    "name": "Boldore",
-    "types": "Rock",
-    "species": "Ore Pok\u00e9mon",
+    "id": "0136",
+    "name": "Flareon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
     "height": "0.9 m",
-    "weight": "102.0 kg",
-    "abilities": "Sturdy, Weak-Armor, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+    "weight": "25.0 kg",
+    "abilities": "Flash-Fire, Guts",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
   }
 }
