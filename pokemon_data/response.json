@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T16:48:39.914003",
+  "timestamp": "2026-09-10T17:01:28.811958",
   "pokemon_data": {
-    "id": "0438",
-    "name": "Bonsly",
-    "types": "Rock",
-    "species": "Bonsai Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "15.0 kg",
-    "abilities": "Sturdy, Rock-Head, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
+    "id": "0550",
+    "name": "Basculin-Red-Striped",
+    "types": "Water",
+    "species": "Hostile Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "18.0 kg",
+    "abilities": "Reckless, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
   }
 }
