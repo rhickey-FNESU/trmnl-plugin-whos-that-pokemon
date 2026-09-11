@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T00:42:41.293201",
+  "timestamp": "2026-09-11T00:52:01.014146",
   "pokemon_data": {
-    "id": "0552",
-    "name": "Krokorok",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "33.4 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
