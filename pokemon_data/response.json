@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T08:50:58.649109",
+  "timestamp": "2026-09-11T09:01:01.022363",
   "pokemon_data": {
-    "id": "0566",
-    "name": "Archen",
-    "types": "Rock, Flying",
-    "species": "First Bird Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.5 kg",
-    "abilities": "Defeatist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
+    "id": "0240",
+    "name": "Magby",
+    "types": "Fire",
+    "species": "Live Coal Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.4 kg",
+    "abilities": "Flame-Body, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
   }
 }
