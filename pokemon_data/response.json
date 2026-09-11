@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T12:53:09.743417",
+  "timestamp": "2026-09-11T13:01:03.199018",
   "pokemon_data": {
-    "id": "0933",
-    "name": "Naclstack",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "105.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png"
+    "id": "0396",
+    "name": "Starly",
+    "types": "Normal, Flying",
+    "species": "Starling Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Keen-Eye, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
   }
 }
