@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T08:36:17.043781",
+  "timestamp": "2026-09-11T08:50:58.649109",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "0566",
+    "name": "Archen",
+    "types": "Rock, Flying",
+    "species": "First Bird Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.5 kg",
+    "abilities": "Defeatist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
   }
 }
