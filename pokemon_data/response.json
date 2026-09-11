@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T04:35:34.439770",
+  "timestamp": "2026-09-11T04:48:50.386864",
   "pokemon_data": {
-    "id": "0270",
-    "name": "Lotad",
-    "types": "Water, Grass",
-    "species": "Water Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "2.6 kg",
-    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
+    "id": "0754",
+    "name": "Lurantis",
+    "types": "Grass",
+    "species": "Bloom Sickle Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "18.5 kg",
+    "abilities": "Leaf-Guard, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
   }
 }
