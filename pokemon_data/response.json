@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T19:01:05.957350",
+  "timestamp": "2026-09-11T19:20:42.136243",
   "pokemon_data": {
-    "id": "0739",
-    "name": "Crabrawler",
-    "types": "Fighting",
-    "species": "Boxing Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "7.0 kg",
-    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+    "id": "0684",
+    "name": "Swirlix",
+    "types": "Fairy",
+    "species": "Cotton Candy Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.5 kg",
+    "abilities": "Sweet-Veil, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png"
   }
 }
