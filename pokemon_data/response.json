@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T12:01:19.455973",
+  "timestamp": "2026-09-11T12:27:59.853600",
   "pokemon_data": {
-    "id": "0355",
-    "name": "Duskull",
-    "types": "Ghost",
-    "species": "Requiem Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "15.0 kg",
-    "abilities": "Levitate, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
+    "id": "0247",
+    "name": "Pupitar",
+    "types": "Rock, Ground",
+    "species": "Hard Shell Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "152.0 kg",
+    "abilities": "Shed-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
   }
 }
