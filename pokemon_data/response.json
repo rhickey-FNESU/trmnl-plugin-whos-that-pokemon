@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T02:01:19.445709",
+  "timestamp": "2026-09-11T02:22:53.953919",
   "pokemon_data": {
-    "id": "0424",
-    "name": "Ambipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "20.3 kg",
-    "abilities": "Technician, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
+    "id": "0736",
+    "name": "Grubbin",
+    "types": "Bug",
+    "species": "Larva Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.4 kg",
+    "abilities": "Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png"
   }
 }
