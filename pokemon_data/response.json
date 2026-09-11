@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T05:48:23.111558",
+  "timestamp": "2026-09-11T06:01:02.063175",
   "pokemon_data": {
-    "id": "0951",
-    "name": "Capsakid",
-    "types": "Grass",
-    "species": "Spicy Pepper Pok\u00e9mon",
+    "id": "0173",
+    "name": "Cleffa",
+    "types": "Fairy",
+    "species": "Star Shape Pok\u00e9mon",
     "height": "0.3 m",
     "weight": "3.0 kg",
-    "abilities": "Chlorophyll, Insomnia, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
+    "abilities": "Cute-Charm, Magic-Guard, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png"
   }
 }
