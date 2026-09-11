@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T17:21:12.642119",
+  "timestamp": "2026-09-11T17:33:48.463949",
   "pokemon_data": {
-    "id": "0411",
-    "name": "Bastiodon",
-    "types": "Rock, Steel",
-    "species": "Shield Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "149.5 kg",
-    "abilities": "Sturdy, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
