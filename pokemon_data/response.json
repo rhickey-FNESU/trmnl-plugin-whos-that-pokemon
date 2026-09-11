@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T09:23:06.246162",
+  "timestamp": "2026-09-11T09:35:18.913653",
   "pokemon_data": {
-    "id": "0592",
-    "name": "Frillish-Male",
-    "types": "Water, Ghost",
-    "species": "Floating Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "33.0 kg",
-    "abilities": "Water-Absorb, Cursed-Body, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+    "id": "0568",
+    "name": "Trubbish",
+    "types": "Poison",
+    "species": "Trash Bag Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "31.0 kg",
+    "abilities": "Stench, Sticky-Hold, Aftermath",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
   }
 }
