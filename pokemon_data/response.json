@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T17:33:48.463949",
+  "timestamp": "2026-09-11T17:46:02.844988",
   "pokemon_data": {
-    "id": "0377",
-    "name": "Regirock",
-    "types": "Rock",
-    "species": "Rock Peak Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "230.0 kg",
-    "abilities": "Clear-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+    "id": "0564",
+    "name": "Tirtouga",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "16.5 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
   }
 }
