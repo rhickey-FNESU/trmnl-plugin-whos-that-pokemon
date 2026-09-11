@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T19:45:47.306943",
+  "timestamp": "2026-09-11T20:01:12.408962",
   "pokemon_data": {
-    "id": "0792",
-    "name": "Lunala",
-    "types": "Psychic, Ghost",
-    "species": "Moone Pok\u00e9mon",
-    "height": "4.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Shadow-Shield",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png"
+    "id": "0502",
+    "name": "Dewott",
+    "types": "Water",
+    "species": "Discipline Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
   }
 }
