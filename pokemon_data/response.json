@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T13:35:13.875161",
+  "timestamp": "2026-09-11T13:49:13.386796",
   "pokemon_data": {
-    "id": "0533",
-    "name": "Gurdurr",
-    "types": "Fighting",
-    "species": "Muscular Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "40.0 kg",
-    "abilities": "Guts, Sheer-Force, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+    "id": "0274",
+    "name": "Nuzleaf",
+    "types": "Grass, Dark",
+    "species": "Wily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
   }
 }
