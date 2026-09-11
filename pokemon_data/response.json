@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T15:48:41.976141",
+  "timestamp": "2026-09-11T16:01:12.203260",
   "pokemon_data": {
-    "id": "0474",
-    "name": "Porygon-Z",
-    "types": "Normal",
-    "species": "Virtual Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "34.0 kg",
-    "abilities": "Adaptability, Download, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png"
+    "id": "0382",
+    "name": "Kyogre",
+    "types": "Water",
+    "species": "Sea Basin Pok\u00e9mon",
+    "height": "4.5 m",
+    "weight": "352.0 kg",
+    "abilities": "Drizzle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png"
   }
 }
