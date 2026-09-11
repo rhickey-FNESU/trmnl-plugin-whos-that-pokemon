@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T18:25:07.368291",
+  "timestamp": "2026-09-11T18:36:48.649227",
   "pokemon_data": {
-    "id": "0874",
-    "name": "Stonjourner",
-    "types": "Rock",
-    "species": "Big Rock Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "520.0 kg",
-    "abilities": "Power-Spot",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    "id": "0181",
+    "name": "Ampharos",
+    "types": "Electric",
+    "species": "Light Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "61.5 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
   }
 }
