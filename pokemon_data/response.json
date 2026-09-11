@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T10:00:57.412274",
+  "timestamp": "2026-09-11T10:23:20.165454",
   "pokemon_data": {
-    "id": "0809",
-    "name": "Melmetal",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "800.0 kg",
-    "abilities": "Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+    "id": "0913",
+    "name": "Quaxwell",
+    "types": "Water",
+    "species": "Practicing Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.5 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
   }
 }
