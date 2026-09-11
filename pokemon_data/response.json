@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T18:01:12.225945",
+  "timestamp": "2026-09-11T18:25:07.368291",
   "pokemon_data": {
-    "id": "0452",
-    "name": "Drapion",
-    "types": "Poison, Dark",
-    "species": "Ogre Scorpion Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "61.5 kg",
-    "abilities": "Battle-Armor, Sniper, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
+    "id": "0874",
+    "name": "Stonjourner",
+    "types": "Rock",
+    "species": "Big Rock Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "520.0 kg",
+    "abilities": "Power-Spot",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
   }
 }
