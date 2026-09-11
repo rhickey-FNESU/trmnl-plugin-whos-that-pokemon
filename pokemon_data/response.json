@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T23:19:40.723639",
+  "timestamp": "2026-09-11T23:32:01.808164",
   "pokemon_data": {
-    "id": "0209",
-    "name": "Snubbull",
-    "types": "Fairy",
-    "species": "Fairy Pok\u00e9mon",
+    "id": "0439",
+    "name": "Mime-Jr",
+    "types": "Psychic, Fairy",
+    "species": "Mime Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "7.8 kg",
-    "abilities": "Intimidate, Run-Away, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+    "weight": "13.0 kg",
+    "abilities": "Soundproof, Filter, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
   }
 }
