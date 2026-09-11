@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T22:01:03.812903",
+  "timestamp": "2026-09-11T22:21:08.692881",
   "pokemon_data": {
-    "id": "0339",
-    "name": "Barboach",
-    "types": "Water, Ground",
-    "species": "Whiskers Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "1.9 kg",
-    "abilities": "Oblivious, Anticipation, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
+    "id": "0594",
+    "name": "Alomomola",
+    "types": "Water",
+    "species": "Caring Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "31.6 kg",
+    "abilities": "Healer, Hydration, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
   }
 }
