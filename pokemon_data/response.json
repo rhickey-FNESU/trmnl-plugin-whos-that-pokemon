@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T07:49:38.560940",
+  "timestamp": "2026-09-11T08:01:07.200984",
   "pokemon_data": {
-    "id": "0229",
-    "name": "Houndoom",
-    "types": "Dark, Fire",
-    "species": "Dark Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "35.0 kg",
-    "abilities": "Early-Bird, Flash-Fire, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+    "id": "0919",
+    "name": "Nymble",
+    "types": "Bug",
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
   }
 }
