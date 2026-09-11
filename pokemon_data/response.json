@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T01:33:51.034392",
+  "timestamp": "2026-09-11T01:48:53.317213",
   "pokemon_data": {
-    "id": "0929",
-    "name": "Dolliv",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.9 kg",
-    "abilities": "Early-Bird, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+    "id": "0570",
+    "name": "Zorua",
+    "types": "Dark",
+    "species": "Tricky Fox Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "12.5 kg",
+    "abilities": "Illusion",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
   }
 }
