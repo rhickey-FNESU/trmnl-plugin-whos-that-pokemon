@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T17:46:02.844988",
+  "timestamp": "2026-09-11T18:01:12.225945",
   "pokemon_data": {
-    "id": "0564",
-    "name": "Tirtouga",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.5 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+    "id": "0452",
+    "name": "Drapion",
+    "types": "Poison, Dark",
+    "species": "Ogre Scorpion Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "61.5 kg",
+    "abilities": "Battle-Armor, Sniper, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
   }
 }
