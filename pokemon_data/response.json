@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T23:45:58.467292",
+  "timestamp": "2026-09-11T00:01:10.195018",
   "pokemon_data": {
-    "id": "0224",
-    "name": "Octillery",
-    "types": "Water",
-    "species": "Jet Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "28.5 kg",
-    "abilities": "Suction-Cups, Sniper, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+    "id": "0432",
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
