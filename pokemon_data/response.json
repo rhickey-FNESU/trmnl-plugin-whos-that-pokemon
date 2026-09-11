@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T00:29:51.327653",
+  "timestamp": "2026-09-11T00:42:41.293201",
   "pokemon_data": {
-    "id": "0588",
-    "name": "Karrablast",
-    "types": "Bug",
-    "species": "Clamping Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.9 kg",
-    "abilities": "Swarm, Shed-Skin, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+    "id": "0552",
+    "name": "Krokorok",
+    "types": "Ground, Dark",
+    "species": "Desert Croc Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "33.4 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
   }
 }
