@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T00:52:01.014146",
+  "timestamp": "2026-09-11T01:01:49.181164",
   "pokemon_data": {
-    "id": "0697",
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "id": "0110",
+    "name": "Weezing",
+    "types": "Poison",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "9.5 kg",
+    "abilities": "Levitate, Neutralizing-Gas, Stench",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
   }
 }
