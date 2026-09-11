@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T02:48:55.030694",
+  "timestamp": "2026-09-11T03:01:04.720666",
   "pokemon_data": {
-    "id": "0878",
-    "name": "Cufant",
-    "types": "Steel",
-    "species": "Copperderm Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "100.0 kg",
-    "abilities": "Sheer-Force, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+    "id": "0478",
+    "name": "Froslass",
+    "types": "Ice, Ghost",
+    "species": "Snow Land Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "26.6 kg",
+    "abilities": "Snow-Cloak, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
   }
 }
