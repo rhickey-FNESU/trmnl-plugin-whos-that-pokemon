@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T20:01:12.408962",
+  "timestamp": "2026-09-11T20:22:35.641513",
   "pokemon_data": {
-    "id": "0502",
-    "name": "Dewott",
+    "id": "0158",
+    "name": "Totodile",
     "types": "Water",
-    "species": "Discipline Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+    "species": "Big Jaw Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.5 kg",
+    "abilities": "Torrent, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
   }
 }
