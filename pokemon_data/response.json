@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T16:01:12.203260",
+  "timestamp": "2026-09-11T16:23:56.796366",
   "pokemon_data": {
-    "id": "0382",
-    "name": "Kyogre",
-    "types": "Water",
-    "species": "Sea Basin Pok\u00e9mon",
-    "height": "4.5 m",
-    "weight": "352.0 kg",
-    "abilities": "Drizzle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png"
+    "id": "0684",
+    "name": "Swirlix",
+    "types": "Fairy",
+    "species": "Cotton Candy Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.5 kg",
+    "abilities": "Sweet-Veil, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png"
   }
 }
