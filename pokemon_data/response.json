@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T12:27:59.853600",
+  "timestamp": "2026-09-11T12:42:02.873704",
   "pokemon_data": {
-    "id": "0247",
-    "name": "Pupitar",
-    "types": "Rock, Ground",
-    "species": "Hard Shell Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "152.0 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
+    "id": "0572",
+    "name": "Minccino",
+    "types": "Normal",
+    "species": "Chinchilla Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.8 kg",
+    "abilities": "Cute-Charm, Technician, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
   }
 }
