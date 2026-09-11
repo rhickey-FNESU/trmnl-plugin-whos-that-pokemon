@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T05:34:18.990639",
+  "timestamp": "2026-09-11T05:48:23.111558",
   "pokemon_data": {
-    "id": "0871",
-    "name": "Pincurchin",
-    "types": "Electric",
-    "species": "Sea Urchin Pok\u00e9mon",
+    "id": "0951",
+    "name": "Capsakid",
+    "types": "Grass",
+    "species": "Spicy Pepper Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Lightning-Rod, Electric-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png"
+    "weight": "3.0 kg",
+    "abilities": "Chlorophyll, Insomnia, Klutz",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
   }
 }
