@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T13:32:00.472161",
+  "timestamp": "2026-09-12T13:46:10.038109",
   "pokemon_data": {
-    "id": "0215",
-    "name": "Sneasel",
-    "types": "Dark, Ice",
-    "species": "Sharp Claw Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "28.0 kg",
-    "abilities": "Inner-Focus, Keen-Eye, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+    "id": "0335",
+    "name": "Zangoose",
+    "types": "Normal",
+    "species": "Cat Ferret Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "40.3 kg",
+    "abilities": "Immunity, Toxic-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png"
   }
 }
