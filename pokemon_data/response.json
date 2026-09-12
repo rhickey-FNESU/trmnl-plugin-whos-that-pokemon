@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T00:41:07.741233",
+  "timestamp": "2026-09-12T00:51:25.547144",
   "pokemon_data": {
-    "id": "0613",
-    "name": "Cubchoo",
-    "types": "Ice",
-    "species": "Chill Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+    "id": "0844",
+    "name": "Sandaconda",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "65.5 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
   }
 }
