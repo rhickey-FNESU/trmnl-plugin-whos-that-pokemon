@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T11:20:08.921456",
+  "timestamp": "2026-09-12T11:31:55.529672",
   "pokemon_data": {
-    "id": "0954",
-    "name": "Rabsca",
-    "types": "Bug, Psychic",
-    "species": "Rolling Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Synchronize, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
+    "id": "0962",
+    "name": "Bombirdier",
+    "types": "Flying, Dark",
+    "species": "Item Drop Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "42.9 kg",
+    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
   }
 }
