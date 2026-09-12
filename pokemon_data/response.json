@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T06:50:46.161400",
+  "timestamp": "2026-09-12T07:01:05.210330",
   "pokemon_data": {
-    "id": "0094",
-    "name": "Gengar",
-    "types": "Ghost, Poison",
-    "species": "Shadow Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.5 kg",
-    "abilities": "Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+    "id": "0982",
+    "name": "Dudunsparce-Two-Segment",
+    "types": "Normal",
+    "species": "Land Snake Pok\u00e9mon",
+    "height": "3.6 m",
+    "weight": "39.2 kg",
+    "abilities": "Serene-Grace, Run-Away, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png"
   }
 }
