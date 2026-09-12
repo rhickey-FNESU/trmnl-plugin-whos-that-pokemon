@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T15:46:04.590247",
+  "timestamp": "2026-09-12T16:01:08.437395",
   "pokemon_data": {
-    "id": "0129",
-    "name": "Magikarp",
-    "types": "Water",
-    "species": "Fish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.0 kg",
-    "abilities": "Swift-Swim, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    "id": "0946",
+    "name": "Bramblin",
+    "types": "Grass, Ghost",
+    "species": "Tumbleweed Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "0.6 kg",
+    "abilities": "Wind-Rider, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png"
   }
 }
