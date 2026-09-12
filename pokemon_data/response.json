@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T21:01:08.282721",
+  "timestamp": "2026-09-12T21:21:19.853158",
   "pokemon_data": {
-    "id": "0043",
-    "name": "Oddish",
-    "types": "Grass, Poison",
-    "species": "Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.4 kg",
-    "abilities": "Chlorophyll, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    "id": "0793",
+    "name": "Nihilego",
+    "types": "Rock, Poison",
+    "species": "Parasite Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "55.5 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png"
   }
 }
