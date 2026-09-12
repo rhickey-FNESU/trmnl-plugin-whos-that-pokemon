@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T08:47:49.584297",
+  "timestamp": "2026-09-12T09:01:03.059182",
   "pokemon_data": {
-    "id": "0435",
-    "name": "Skuntank",
-    "types": "Poison, Dark",
-    "species": "Skunk Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "38.0 kg",
-    "abilities": "Stench, Aftermath, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png"
+    "id": "0964",
+    "name": "Palafin-Zero",
+    "types": "Water",
+    "species": "Dolphin Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "60.2 kg",
+    "abilities": "Zero-To-Hero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
   }
 }
