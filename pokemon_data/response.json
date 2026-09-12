@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T16:45:54.778663",
+  "timestamp": "2026-09-12T17:00:50.172390",
   "pokemon_data": {
-    "id": "0694",
-    "name": "Helioptile",
-    "types": "Electric, Normal",
-    "species": "Generator Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "6.0 kg",
-    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+    "id": "0638",
+    "name": "Cobalion",
+    "types": "Steel, Fighting",
+    "species": "Iron Will Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "250.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
   }
 }
