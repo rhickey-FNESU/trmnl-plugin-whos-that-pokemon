@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T17:00:50.172390",
+  "timestamp": "2026-09-12T17:20:02.830431",
   "pokemon_data": {
-    "id": "0638",
-    "name": "Cobalion",
-    "types": "Steel, Fighting",
-    "species": "Iron Will Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "250.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
+    "id": "1021",
+    "name": "Raging-Bolt",
+    "types": "Electric, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "5.2 m",
+    "weight": "480.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png"
   }
 }
