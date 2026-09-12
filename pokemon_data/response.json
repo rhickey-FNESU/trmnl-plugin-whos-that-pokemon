@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T08:00:59.751511",
+  "timestamp": "2026-09-12T08:22:08.428473",
   "pokemon_data": {
-    "id": "0784",
-    "name": "Kommo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "78.2 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+    "id": "0018",
+    "name": "Pidgeot",
+    "types": "Normal, Flying",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
