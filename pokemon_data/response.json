@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T07:45:55.801735",
+  "timestamp": "2026-09-12T08:00:59.751511",
   "pokemon_data": {
-    "id": "0520",
-    "name": "Tranquill",
-    "types": "Normal, Flying",
-    "species": "Wild Pigeon Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Big-Pecks, Super-Luck, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+    "id": "0784",
+    "name": "Kommo-O",
+    "types": "Dragon, Fighting",
+    "species": "Scaly Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "78.2 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
   }
 }
