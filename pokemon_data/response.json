@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T02:01:22.783006",
+  "timestamp": "2026-09-12T02:22:20.839013",
   "pokemon_data": {
-    "id": "0294",
-    "name": "Loudred",
-    "types": "Normal",
-    "species": "Big Voice Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "40.5 kg",
-    "abilities": "Soundproof, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
+    "id": "0628",
+    "name": "Braviary",
+    "types": "Normal, Flying",
+    "species": "Valiant Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "41.0 kg",
+    "abilities": "Keen-Eye, Sheer-Force, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
   }
 }
