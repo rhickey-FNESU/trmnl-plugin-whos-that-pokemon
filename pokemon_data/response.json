@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T02:22:20.839013",
+  "timestamp": "2026-09-12T02:34:28.621106",
   "pokemon_data": {
-    "id": "0628",
-    "name": "Braviary",
-    "types": "Normal, Flying",
-    "species": "Valiant Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.0 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+    "id": "0107",
+    "name": "Hitmonchan",
+    "types": "Fighting",
+    "species": "Punching Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "50.2 kg",
+    "abilities": "Keen-Eye, Iron-Fist, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
   }
 }
