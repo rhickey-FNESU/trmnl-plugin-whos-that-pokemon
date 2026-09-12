@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T02:48:16.344580",
+  "timestamp": "2026-09-12T03:00:57.246355",
   "pokemon_data": {
-    "id": "0630",
-    "name": "Mandibuzz",
-    "types": "Dark, Flying",
-    "species": "Bone Vulture Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.5 kg",
-    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+    "id": "0823",
+    "name": "Corviknight",
+    "types": "Flying, Steel",
+    "species": "Raven Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "75.0 kg",
+    "abilities": "Pressure, Unnerve, Mirror-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
   }
 }
