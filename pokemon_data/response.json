@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T05:46:21.742643",
+  "timestamp": "2026-09-12T06:01:02.254393",
   "pokemon_data": {
-    "id": "0934",
-    "name": "Garganacl",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "240.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
+    "id": "0170",
+    "name": "Chinchou",
+    "types": "Water, Electric",
+    "species": "Angler Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "12.0 kg",
+    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png"
   }
 }
