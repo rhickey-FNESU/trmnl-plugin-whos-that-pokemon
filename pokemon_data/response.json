@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T08:33:58.258364",
+  "timestamp": "2026-09-12T08:47:49.584297",
   "pokemon_data": {
-    "id": "0706",
-    "name": "Goodra",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "150.5 kg",
-    "abilities": "Sap-Sipper, Hydration, Gooey",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+    "id": "0435",
+    "name": "Skuntank",
+    "types": "Poison, Dark",
+    "species": "Skunk Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "38.0 kg",
+    "abilities": "Stench, Aftermath, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png"
   }
 }
