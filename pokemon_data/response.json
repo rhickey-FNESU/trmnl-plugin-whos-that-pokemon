@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T19:00:52.731373",
+  "timestamp": "2026-09-12T19:18:21.448102",
   "pokemon_data": {
-    "id": "0783",
-    "name": "Hakamo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
+    "id": "1000",
+    "name": "Gholdengo",
+    "types": "Steel, Ghost",
+    "species": "Coin Entity Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "47.0 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
+    "weight": "30.0 kg",
+    "abilities": "Good-As-Gold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
   }
 }
