@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T04:48:09.813191",
+  "timestamp": "2026-09-12T05:01:09.276138",
   "pokemon_data": {
-    "id": "0420",
-    "name": "Cherubi",
-    "types": "Grass",
-    "species": "Cherry Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "3.3 kg",
-    "abilities": "Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png"
+    "id": "0446",
+    "name": "Munchlax",
+    "types": "Normal",
+    "species": "Big Eater Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "105.0 kg",
+    "abilities": "Pickup, Thick-Fat, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
   }
 }
