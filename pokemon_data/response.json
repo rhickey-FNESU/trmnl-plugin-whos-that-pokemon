@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T01:01:17.855886",
+  "timestamp": "2026-09-12T01:19:45.844967",
   "pokemon_data": {
-    "id": "0362",
-    "name": "Glalie",
-    "types": "Ice",
-    "species": "Face Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "256.5 kg",
-    "abilities": "Inner-Focus, Ice-Body, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+    "id": "0345",
+    "name": "Lileep",
+    "types": "Rock, Grass",
+    "species": "Sea Lily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "23.8 kg",
+    "abilities": "Suction-Cups, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
   }
 }
