@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T04:21:57.094535",
+  "timestamp": "2026-09-12T04:34:35.050791",
   "pokemon_data": {
-    "id": "1002",
-    "name": "Chien-Pao",
-    "types": "Dark, Ice",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "152.2 kg",
-    "abilities": "Sword-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png"
+    "id": "0292",
+    "name": "Shedinja",
+    "types": "Bug, Ghost",
+    "species": "Shed Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "1.2 kg",
+    "abilities": "Wonder-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
   }
 }
