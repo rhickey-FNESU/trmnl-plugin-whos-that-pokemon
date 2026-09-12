@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T13:01:03.322045",
+  "timestamp": "2026-09-12T13:20:16.449733",
   "pokemon_data": {
-    "id": "0762",
-    "name": "Steenee",
-    "types": "Grass",
-    "species": "Fruit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "8.2 kg",
-    "abilities": "Leaf-Guard, Oblivious, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png"
+    "id": "0170",
+    "name": "Chinchou",
+    "types": "Water, Electric",
+    "species": "Angler Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "12.0 kg",
+    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png"
   }
 }
