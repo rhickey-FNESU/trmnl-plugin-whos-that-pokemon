@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T03:47:42.822442",
+  "timestamp": "2026-09-12T04:00:56.317240",
   "pokemon_data": {
-    "id": "0545",
-    "name": "Scolipede",
-    "types": "Bug, Poison",
-    "species": "Megapede Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "200.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    "id": "0130",
+    "name": "Gyarados",
+    "types": "Water, Flying",
+    "species": "Atrocious Pok\u00e9mon",
+    "height": "6.5 m",
+    "weight": "235.0 kg",
+    "abilities": "Intimidate, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
   }
 }
