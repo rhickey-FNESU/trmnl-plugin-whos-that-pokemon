@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T12:01:00.104259",
+  "timestamp": "2026-09-12T12:25:17.764769",
   "pokemon_data": {
-    "id": "1003",
-    "name": "Ting-Lu",
-    "types": "Dark, Ground",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "699.7 kg",
-    "abilities": "Vessel-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
+    "id": "0345",
+    "name": "Lileep",
+    "types": "Rock, Grass",
+    "species": "Sea Lily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "23.8 kg",
+    "abilities": "Suction-Cups, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
   }
 }
