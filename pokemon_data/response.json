@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T09:33:26.536841",
+  "timestamp": "2026-09-12T09:46:12.879513",
   "pokemon_data": {
-    "id": "0515",
-    "name": "Panpour",
-    "types": "Water",
-    "species": "Spray Pok\u00e9mon",
+    "id": "0674",
+    "name": "Pancham",
+    "types": "Fighting",
+    "species": "Playful Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "13.5 kg",
-    "abilities": "Gluttony, Torrent",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png"
+    "weight": "8.0 kg",
+    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
   }
 }
