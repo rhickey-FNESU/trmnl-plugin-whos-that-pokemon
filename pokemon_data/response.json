@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T14:20:59.269331",
+  "timestamp": "2026-09-12T14:34:34.971307",
   "pokemon_data": {
-    "id": "0723",
-    "name": "Dartrix",
-    "types": "Grass, Flying",
-    "species": "Blade Quill Pok\u00e9mon",
+    "id": "0259",
+    "name": "Marshtomp",
+    "types": "Water, Ground",
+    "species": "Mud Fish Pok\u00e9mon",
     "height": "0.7 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
+    "weight": "28.0 kg",
+    "abilities": "Torrent, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
   }
 }
