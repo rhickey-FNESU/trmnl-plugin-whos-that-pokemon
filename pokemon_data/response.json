@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T13:20:16.449733",
+  "timestamp": "2026-09-12T13:32:00.472161",
   "pokemon_data": {
-    "id": "0170",
-    "name": "Chinchou",
-    "types": "Water, Electric",
-    "species": "Angler Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "12.0 kg",
-    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png"
+    "id": "0215",
+    "name": "Sneasel",
+    "types": "Dark, Ice",
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "28.0 kg",
+    "abilities": "Inner-Focus, Keen-Eye, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
   }
 }
