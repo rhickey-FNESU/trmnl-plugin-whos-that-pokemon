@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T00:51:25.547144",
+  "timestamp": "2026-09-12T01:01:17.855886",
   "pokemon_data": {
-    "id": "0844",
-    "name": "Sandaconda",
-    "types": "Ground",
-    "species": "Sand Snake Pok\u00e9mon",
-    "height": "3.8 m",
-    "weight": "65.5 kg",
-    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
+    "id": "0362",
+    "name": "Glalie",
+    "types": "Ice",
+    "species": "Face Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "256.5 kg",
+    "abilities": "Inner-Focus, Ice-Body, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
   }
 }
