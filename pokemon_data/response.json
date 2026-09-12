@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T18:22:30.888439",
+  "timestamp": "2026-09-12T18:34:27.825219",
   "pokemon_data": {
-    "id": "0070",
-    "name": "Weepinbell",
-    "types": "Grass, Poison",
-    "species": "Flycatcher Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "6.4 kg",
-    "abilities": "Chlorophyll, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+    "id": "0388",
+    "name": "Grotle",
+    "types": "Grass",
+    "species": "Grove Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "97.0 kg",
+    "abilities": "Overgrow, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png"
   }
 }
