@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T22:01:07.375497",
+  "timestamp": "2026-09-12T22:20:35.437498",
   "pokemon_data": {
-    "id": "0182",
-    "name": "Bellossom",
-    "types": "Grass",
-    "species": "Flower Pok\u00e9mon",
+    "id": "1011",
+    "name": "Dipplin",
+    "types": "Grass, Dragon",
+    "species": "Candy Apple Pok\u00e9mon",
     "height": "0.4 m",
-    "weight": "5.8 kg",
-    "abilities": "Chlorophyll, Healer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
+    "weight": "9.7 kg",
+    "abilities": "Supersweet-Syrup, Gluttony, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png"
   }
 }
