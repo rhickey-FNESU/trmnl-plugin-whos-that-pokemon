@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T15:20:20.256321",
+  "timestamp": "2026-09-12T15:32:21.199452",
   "pokemon_data": {
-    "id": "0236",
-    "name": "Tyrogue",
-    "types": "Fighting",
-    "species": "Scuffle Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "21.0 kg",
-    "abilities": "Guts, Steadfast, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+    "id": "0460",
+    "name": "Abomasnow",
+    "types": "Grass, Ice",
+    "species": "Frost Tree Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "135.5 kg",
+    "abilities": "Snow-Warning, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png"
   }
 }
