@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T14:46:33.279529",
+  "timestamp": "2026-09-12T15:00:49.136106",
   "pokemon_data": {
-    "id": "0574",
-    "name": "Gothita",
-    "types": "Psychic",
-    "species": "Fixation Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.8 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png"
+    "id": "0040",
+    "name": "Wigglytuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "12.0 kg",
+    "abilities": "Cute-Charm, Competitive, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
   }
 }
