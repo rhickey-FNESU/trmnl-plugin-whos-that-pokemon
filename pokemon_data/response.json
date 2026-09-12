@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T08:22:08.428473",
+  "timestamp": "2026-09-12T08:33:58.258364",
   "pokemon_data": {
-    "id": "0018",
-    "name": "Pidgeot",
-    "types": "Normal, Flying",
-    "species": "Bird Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.5 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    "id": "0706",
+    "name": "Goodra",
+    "types": "Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "150.5 kg",
+    "abilities": "Sap-Sipper, Hydration, Gooey",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
   }
 }
