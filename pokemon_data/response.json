@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T12:25:17.764769",
+  "timestamp": "2026-09-12T12:37:06.908199",
   "pokemon_data": {
-    "id": "0345",
-    "name": "Lileep",
-    "types": "Rock, Grass",
-    "species": "Sea Lily Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "23.8 kg",
-    "abilities": "Suction-Cups, Storm-Drain",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
+    "id": "0773",
+    "name": "Silvally",
+    "types": "Normal",
+    "species": "Synthetic Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "100.5 kg",
+    "abilities": "Rks-System",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
   }
 }
