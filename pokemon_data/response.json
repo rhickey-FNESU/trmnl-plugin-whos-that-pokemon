@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T23:45:46.807091",
+  "timestamp": "2026-09-12T00:01:03.637732",
   "pokemon_data": {
-    "id": "0711",
-    "name": "Gourgeist-Average",
-    "types": "Ghost, Grass",
-    "species": "Pumpkin Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "12.5 kg",
-    "abilities": "Pickup, Frisk, Insomnia",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
+    "id": "0797",
+    "name": "Celesteela",
+    "types": "Steel, Flying",
+    "species": "Launch Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "999.9 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
   }
 }
