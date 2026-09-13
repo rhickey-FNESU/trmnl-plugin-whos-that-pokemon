@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T20:01:12.934562",
+  "timestamp": "2026-09-13T20:21:55.616318",
   "pokemon_data": {
-    "id": "0264",
-    "name": "Linoone",
+    "id": "0915",
+    "name": "Lechonk",
     "types": "Normal",
-    "species": "Rushing Pok\u00e9mon",
+    "species": "Hog Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "32.5 kg",
-    "abilities": "Pickup, Gluttony, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png"
+    "weight": "10.2 kg",
+    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
   }
 }
