@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T00:54:01.092291",
+  "timestamp": "2026-09-13T01:00:53.053672",
   "pokemon_data": {
-    "id": "0468",
-    "name": "Togekiss",
-    "types": "Fairy, Flying",
-    "species": "Jubilee Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "38.0 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
+    "id": "0046",
+    "name": "Paras",
+    "types": "Bug, Grass",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "5.4 kg",
+    "abilities": "Effect-Spore, Dry-Skin, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
   }
 }
