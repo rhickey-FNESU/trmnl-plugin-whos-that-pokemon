@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T16:48:08.437587",
+  "timestamp": "2026-09-13T17:00:55.399750",
   "pokemon_data": {
-    "id": "0356",
-    "name": "Dusclops",
-    "types": "Ghost",
-    "species": "Beckon Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "30.6 kg",
-    "abilities": "Pressure, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
+    "id": "0659",
+    "name": "Bunnelby",
+    "types": "Normal",
+    "species": "Digging Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
   }
 }
