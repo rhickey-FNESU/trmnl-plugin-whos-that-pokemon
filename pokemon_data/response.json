@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T06:51:10.412104",
+  "timestamp": "2026-09-13T07:01:09.640944",
   "pokemon_data": {
-    "id": "0932",
-    "name": "Nacli",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "16.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
+    "id": "0968",
+    "name": "Orthworm",
+    "types": "Steel",
+    "species": "Earthworm Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "310.0 kg",
+    "abilities": "Earth-Eater, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
   }
 }
