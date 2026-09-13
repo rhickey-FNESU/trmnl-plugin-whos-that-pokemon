@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T01:33:54.721961",
+  "timestamp": "2026-09-13T01:47:50.957843",
   "pokemon_data": {
-    "id": "0109",
-    "name": "Koffing",
-    "types": "Poison",
-    "species": "Poison Gas Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate, Neutralizing-Gas, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    "id": "0969",
+    "name": "Glimmet",
+    "types": "Rock, Poison",
+    "species": "Ore Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "8.0 kg",
+    "abilities": "Toxic-Debris, Corrosion",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png"
   }
 }
