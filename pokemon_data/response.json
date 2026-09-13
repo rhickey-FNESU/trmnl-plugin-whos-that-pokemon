@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T13:20:46.285875",
+  "timestamp": "2026-09-13T13:32:12.775578",
   "pokemon_data": {
-    "id": "0511",
-    "name": "Pansage",
-    "types": "Grass",
-    "species": "Grass Monkey Pok\u00e9mon",
-    "height": "0.6 m",
+    "id": "0737",
+    "name": "Charjabug",
+    "types": "Bug, Electric",
+    "species": "Battery Pok\u00e9mon",
+    "height": "0.5 m",
     "weight": "10.5 kg",
-    "abilities": "Gluttony, Overgrow",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+    "abilities": "Battery",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
   }
 }
