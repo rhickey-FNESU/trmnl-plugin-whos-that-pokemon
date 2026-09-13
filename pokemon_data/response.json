@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T15:33:08.203132",
+  "timestamp": "2026-09-13T15:46:22.743226",
   "pokemon_data": {
-    "id": "0986",
-    "name": "Brute-Bonnet",
-    "types": "Grass, Dark",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "21.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
+    "id": "0495",
+    "name": "Snivy",
+    "types": "Grass",
+    "species": "Grass Snake Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "8.1 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
   }
 }
