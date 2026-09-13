@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T19:19:17.011064",
+  "timestamp": "2026-09-13T19:31:09.601719",
   "pokemon_data": {
-    "id": "0746",
-    "name": "Wishiwashi-Solo",
-    "types": "Water",
-    "species": "Small Fry Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Schooling",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
+    "id": "0232",
+    "name": "Donphan",
+    "types": "Ground",
+    "species": "Armor Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "120.0 kg",
+    "abilities": "Sturdy, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
   }
 }
