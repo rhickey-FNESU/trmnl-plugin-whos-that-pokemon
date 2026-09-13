@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T14:33:05.639213",
+  "timestamp": "2026-09-13T14:46:21.175468",
   "pokemon_data": {
-    "id": "0228",
-    "name": "Houndour",
-    "types": "Dark, Fire",
-    "species": "Dark Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.8 kg",
-    "abilities": "Early-Bird, Flash-Fire, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
+    "id": "0573",
+    "name": "Cinccino",
+    "types": "Normal",
+    "species": "Scarf Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "7.5 kg",
+    "abilities": "Cute-Charm, Technician, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
   }
 }
