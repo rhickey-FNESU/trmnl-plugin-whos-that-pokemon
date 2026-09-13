@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T18:01:06.221670",
+  "timestamp": "2026-09-13T18:23:40.534196",
   "pokemon_data": {
-    "id": "0868",
-    "name": "Milcery",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+    "id": "0730",
+    "name": "Primarina",
+    "types": "Water, Fairy",
+    "species": "Soloist Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "44.0 kg",
+    "abilities": "Torrent, Liquid-Voice",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
   }
 }
