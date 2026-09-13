@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T07:20:37.142319",
+  "timestamp": "2026-09-13T07:33:38.288413",
   "pokemon_data": {
-    "id": "0096",
-    "name": "Drowzee",
-    "types": "Psychic",
-    "species": "Hypnosis Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "32.4 kg",
-    "abilities": "Insomnia, Forewarn, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
