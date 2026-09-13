@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T22:00:58.469749",
+  "timestamp": "2026-09-13T22:21:32.767714",
   "pokemon_data": {
-    "id": "0964",
-    "name": "Palafin-Zero",
-    "types": "Water",
-    "species": "Dolphin Pok\u00e9mon",
+    "id": "0332",
+    "name": "Cacturne",
+    "types": "Grass, Dark",
+    "species": "Scarecrow Pok\u00e9mon",
     "height": "1.3 m",
-    "weight": "60.2 kg",
-    "abilities": "Zero-To-Hero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
+    "weight": "77.4 kg",
+    "abilities": "Sand-Veil, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
   }
 }
