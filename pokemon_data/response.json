@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T15:21:10.170131",
+  "timestamp": "2026-09-13T15:33:08.203132",
   "pokemon_data": {
-    "id": "0043",
-    "name": "Oddish",
-    "types": "Grass, Poison",
-    "species": "Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.4 kg",
-    "abilities": "Chlorophyll, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    "id": "0986",
+    "name": "Brute-Bonnet",
+    "types": "Grass, Dark",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
   }
 }
