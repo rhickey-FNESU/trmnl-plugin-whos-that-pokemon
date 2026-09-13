@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T15:00:57.908751",
+  "timestamp": "2026-09-13T15:21:10.170131",
   "pokemon_data": {
-    "id": "0431",
-    "name": "Glameow",
-    "types": "Normal",
-    "species": "Catty Pok\u00e9mon",
+    "id": "0043",
+    "name": "Oddish",
+    "types": "Grass, Poison",
+    "species": "Weed Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "3.9 kg",
-    "abilities": "Limber, Own-Tempo, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png"
+    "weight": "5.4 kg",
+    "abilities": "Chlorophyll, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
   }
 }
