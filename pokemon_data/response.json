@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T01:00:53.053672",
+  "timestamp": "2026-09-13T01:19:51.571323",
   "pokemon_data": {
-    "id": "0046",
-    "name": "Paras",
-    "types": "Bug, Grass",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.4 kg",
-    "abilities": "Effect-Spore, Dry-Skin, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+    "id": "0624",
+    "name": "Pawniard",
+    "types": "Dark, Steel",
+    "species": "Sharp Blade Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
   }
 }
