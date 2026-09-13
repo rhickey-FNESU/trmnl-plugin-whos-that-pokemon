@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T08:00:58.020400",
+  "timestamp": "2026-09-13T08:22:41.700958",
   "pokemon_data": {
-    "id": "0786",
-    "name": "Tapu-Lele",
-    "types": "Psychic, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "18.6 kg",
-    "abilities": "Psychic-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+    "id": "0900",
+    "name": "Kleavor",
+    "types": "Bug, Rock",
+    "species": "Axe Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "89.0 kg",
+    "abilities": "Swarm, Sheer-Force, Sharpness",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png"
   }
 }
