@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T04:47:44.741964",
+  "timestamp": "2026-09-13T05:01:12.493122",
   "pokemon_data": {
-    "id": "0100",
-    "name": "Voltorb",
-    "types": "Electric",
-    "species": "Ball Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.4 kg",
-    "abilities": "Soundproof, Static, Aftermath",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+    "id": "0086",
+    "name": "Seel",
+    "types": "Water",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "90.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
   }
 }
