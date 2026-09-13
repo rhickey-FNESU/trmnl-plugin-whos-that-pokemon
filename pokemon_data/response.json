@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T17:32:25.026338",
+  "timestamp": "2026-09-13T17:46:10.909659",
   "pokemon_data": {
-    "id": "0610",
-    "name": "Axew",
-    "types": "Dragon",
-    "species": "Tusk Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "18.0 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+    "id": "0438",
+    "name": "Bonsly",
+    "types": "Rock",
+    "species": "Bonsai Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "15.0 kg",
+    "abilities": "Sturdy, Rock-Head, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
   }
 }
