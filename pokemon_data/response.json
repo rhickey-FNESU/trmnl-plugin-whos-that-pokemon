@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T23:00:53.759544",
+  "timestamp": "2026-09-13T23:19:52.474029",
   "pokemon_data": {
-    "id": "0901",
-    "name": "Ursaluna",
-    "types": "Ground, Normal",
-    "species": "Peat Pok\u00e9mon",
-    "height": "2.4 m",
-    "weight": "290.0 kg",
-    "abilities": "Guts, Bulletproof, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+    "id": "0521",
+    "name": "Unfezant",
+    "types": "Normal, Flying",
+    "species": "Proud Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "29.0 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
   }
 }
