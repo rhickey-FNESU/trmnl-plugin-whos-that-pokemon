@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T07:01:09.640944",
+  "timestamp": "2026-09-13T07:20:37.142319",
   "pokemon_data": {
-    "id": "0968",
-    "name": "Orthworm",
-    "types": "Steel",
-    "species": "Earthworm Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "310.0 kg",
-    "abilities": "Earth-Eater, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+    "id": "0096",
+    "name": "Drowzee",
+    "types": "Psychic",
+    "species": "Hypnosis Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.4 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
   }
 }
