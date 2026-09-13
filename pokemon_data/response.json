@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T17:00:55.399750",
+  "timestamp": "2026-09-13T17:19:56.539033",
   "pokemon_data": {
-    "id": "0659",
-    "name": "Bunnelby",
-    "types": "Normal",
-    "species": "Digging Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.0 kg",
-    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
+    "id": "0464",
+    "name": "Rhyperior",
+    "types": "Ground, Rock",
+    "species": "Drill Pok\u00e9mon",
+    "height": "2.4 m",
+    "weight": "282.8 kg",
+    "abilities": "Lightning-Rod, Solid-Rock, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png"
   }
 }
