@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T08:35:13.849779",
+  "timestamp": "2026-09-13T09:59:51.860005",
   "pokemon_data": {
-    "id": "0594",
-    "name": "Alomomola",
-    "types": "Water",
-    "species": "Caring Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "31.6 kg",
-    "abilities": "Healer, Hydration, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+    "id": "0344",
+    "name": "Claydol",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "108.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
   }
 }
