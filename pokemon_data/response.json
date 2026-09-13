@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T09:59:51.860005",
+  "timestamp": "2026-09-13T10:16:52.113317",
   "pokemon_data": {
-    "id": "0344",
-    "name": "Claydol",
-    "types": "Ground, Psychic",
-    "species": "Clay Doll Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "108.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
