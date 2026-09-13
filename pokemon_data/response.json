@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T06:30:17.105389",
+  "timestamp": "2026-09-13T06:51:10.412104",
   "pokemon_data": {
-    "id": "0965",
-    "name": "Varoom",
-    "types": "Steel, Poison",
-    "species": "Single-Cyl Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "35.0 kg",
-    "abilities": "Overcoat, Slow-Start",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
+    "id": "0932",
+    "name": "Nacli",
+    "types": "Rock",
+    "species": "Rock Salt Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "16.0 kg",
+    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
   }
 }
