@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T05:33:02.932879",
+  "timestamp": "2026-09-13T05:45:57.053345",
   "pokemon_data": {
-    "id": "0152",
-    "name": "Chikorita",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "6.4 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    "id": "0894",
+    "name": "Regieleki",
+    "types": "Electric",
+    "species": "Electron Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "145.0 kg",
+    "abilities": "Transistor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png"
   }
 }
