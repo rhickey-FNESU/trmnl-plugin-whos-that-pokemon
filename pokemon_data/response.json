@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T19:01:00.535350",
+  "timestamp": "2026-09-13T19:19:17.011064",
   "pokemon_data": {
-    "id": "0104",
-    "name": "Cubone",
-    "types": "Ground",
-    "species": "Lonely Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.5 kg",
-    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+    "id": "0746",
+    "name": "Wishiwashi-Solo",
+    "types": "Water",
+    "species": "Small Fry Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.3 kg",
+    "abilities": "Schooling",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
   }
 }
