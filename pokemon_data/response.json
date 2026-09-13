@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T00:01:01.078526",
+  "timestamp": "2026-09-13T00:29:36.211063",
   "pokemon_data": {
-    "id": "0941",
-    "name": "Kilowattrel",
-    "types": "Electric, Flying",
-    "species": "Frigatebird Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "38.6 kg",
-    "abilities": "Wind-Power, Volt-Absorb, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png"
+    "id": "0965",
+    "name": "Varoom",
+    "types": "Steel, Poison",
+    "species": "Single-Cyl Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "35.0 kg",
+    "abilities": "Overcoat, Slow-Start",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
   }
 }
