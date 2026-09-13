@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T20:21:55.616318",
+  "timestamp": "2026-09-13T20:33:50.171253",
   "pokemon_data": {
-    "id": "0915",
-    "name": "Lechonk",
-    "types": "Normal",
-    "species": "Hog Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
+    "id": "0344",
+    "name": "Claydol",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "108.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
   }
 }
