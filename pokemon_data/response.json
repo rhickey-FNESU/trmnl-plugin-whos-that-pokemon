@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T01:19:51.571323",
+  "timestamp": "2026-09-13T01:33:54.721961",
   "pokemon_data": {
-    "id": "0624",
-    "name": "Pawniard",
-    "types": "Dark, Steel",
-    "species": "Sharp Blade Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+    "id": "0109",
+    "name": "Koffing",
+    "types": "Poison",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "abilities": "Levitate, Neutralizing-Gas, Stench",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
   }
 }
