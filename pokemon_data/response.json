@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T15:46:22.743226",
+  "timestamp": "2026-09-13T16:01:00.297780",
   "pokemon_data": {
-    "id": "0495",
-    "name": "Snivy",
+    "id": "1017",
+    "name": "Ogerpon",
     "types": "Grass",
-    "species": "Grass Snake Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.1 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
+    "species": "Mask Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.8 kg",
+    "abilities": "Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
   }
 }
