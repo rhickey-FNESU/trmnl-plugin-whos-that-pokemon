@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T05:01:12.493122",
+  "timestamp": "2026-09-13T05:20:38.116528",
   "pokemon_data": {
-    "id": "0086",
-    "name": "Seel",
-    "types": "Water",
-    "species": "Sea Lion Pok\u00e9mon",
+    "id": "0560",
+    "name": "Scrafty",
+    "types": "Dark, Fighting",
+    "species": "Hoodlum Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    "weight": "30.0 kg",
+    "abilities": "Shed-Skin, Moxie, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
   }
 }
