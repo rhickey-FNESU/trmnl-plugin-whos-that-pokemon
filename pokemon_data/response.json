@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T16:34:18.187231",
+  "timestamp": "2026-09-13T16:48:08.437587",
   "pokemon_data": {
-    "id": "0573",
-    "name": "Cinccino",
-    "types": "Normal",
-    "species": "Scarf Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "7.5 kg",
-    "abilities": "Cute-Charm, Technician, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
+    "id": "0356",
+    "name": "Dusclops",
+    "types": "Ghost",
+    "species": "Beckon Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "30.6 kg",
+    "abilities": "Pressure, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
   }
 }
