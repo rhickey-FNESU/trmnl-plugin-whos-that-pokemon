@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T16:01:00.297780",
+  "timestamp": "2026-09-13T16:22:10.744176",
   "pokemon_data": {
-    "id": "1017",
-    "name": "Ogerpon",
-    "types": "Grass",
-    "species": "Mask Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.8 kg",
-    "abilities": "Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
+    "id": "0118",
+    "name": "Goldeen",
+    "types": "Water",
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "15.0 kg",
+    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
   }
 }
