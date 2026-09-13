@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T23:19:52.474029",
+  "timestamp": "2026-09-13T23:32:30.454981",
   "pokemon_data": {
-    "id": "0521",
-    "name": "Unfezant",
-    "types": "Normal, Flying",
-    "species": "Proud Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "29.0 kg",
-    "abilities": "Big-Pecks, Super-Luck, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
+    "id": "0887",
+    "name": "Dragapult",
+    "types": "Dragon, Ghost",
+    "species": "Stealth Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "50.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
   }
 }
