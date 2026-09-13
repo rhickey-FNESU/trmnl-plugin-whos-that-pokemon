@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T07:47:15.650871",
+  "timestamp": "2026-09-13T08:00:58.020400",
   "pokemon_data": {
-    "id": "0618",
-    "name": "Stunfisk",
-    "types": "Ground, Electric",
-    "species": "Trap Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.0 kg",
-    "abilities": "Static, Limber, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+    "id": "0786",
+    "name": "Tapu-Lele",
+    "types": "Psychic, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "18.6 kg",
+    "abilities": "Psychic-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
   }
 }
