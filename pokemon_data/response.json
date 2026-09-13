@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T22:34:46.152276",
+  "timestamp": "2026-09-13T22:46:44.481262",
   "pokemon_data": {
-    "id": "0694",
-    "name": "Helioptile",
-    "types": "Electric, Normal",
-    "species": "Generator Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "6.0 kg",
-    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+    "id": "0806",
+    "name": "Blacephalon",
+    "types": "Fire, Ghost",
+    "species": "Fireworks Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "13.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
   }
 }
