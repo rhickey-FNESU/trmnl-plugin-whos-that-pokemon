@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T20:34:41.061921",
+  "timestamp": "2026-09-14T20:49:06.095408",
   "pokemon_data": {
-    "id": "0990",
-    "name": "Iron-Treads",
-    "types": "Ground, Steel",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "240.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png"
+    "id": "0334",
+    "name": "Altaria",
+    "types": "Dragon, Flying",
+    "species": "Humming Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "20.6 kg",
+    "abilities": "Natural-Cure, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
   }
 }
