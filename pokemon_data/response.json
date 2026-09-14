@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T17:34:55.410262",
+  "timestamp": "2026-09-14T17:49:29.000517",
   "pokemon_data": {
-    "id": "1022",
-    "name": "Iron-Boulder",
-    "types": "Rock, Psychic",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "162.5 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png"
+    "id": "0643",
+    "name": "Reshiram",
+    "types": "Dragon, Fire",
+    "species": "Vast White Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "330.0 kg",
+    "abilities": "Turboblaze",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
   }
 }
