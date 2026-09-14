@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T01:21:41.229484",
+  "timestamp": "2026-09-14T01:34:05.497167",
   "pokemon_data": {
-    "id": "0924",
-    "name": "Tandemaus",
-    "types": "Normal",
-    "species": "Couple Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Run-Away, Pickup, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
+    "id": "0553",
+    "name": "Krookodile",
+    "types": "Ground, Dark",
+    "species": "Intimidation Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "96.3 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
   }
 }
