@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T18:01:06.578949",
+  "timestamp": "2026-09-14T18:25:47.228260",
   "pokemon_data": {
-    "id": "0370",
-    "name": "Luvdisc",
-    "types": "Water",
-    "species": "Rendezvous Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.7 kg",
-    "abilities": "Swift-Swim, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png"
+    "id": "0580",
+    "name": "Ducklett",
+    "types": "Water, Flying",
+    "species": "Water Bird Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Keen-Eye, Big-Pecks, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
   }
 }
