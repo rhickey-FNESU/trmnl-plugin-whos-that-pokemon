@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T13:03:53.601358",
+  "timestamp": "2026-09-14T13:26:38.379093",
   "pokemon_data": {
-    "id": "0261",
-    "name": "Poochyena",
-    "types": "Dark",
-    "species": "Bite Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "13.6 kg",
-    "abilities": "Run-Away, Quick-Feet, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
+    "id": "0219",
+    "name": "Magcargo",
+    "types": "Fire, Rock",
+    "species": "Lava Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "55.0 kg",
+    "abilities": "Magma-Armor, Flame-Body, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png"
   }
 }
