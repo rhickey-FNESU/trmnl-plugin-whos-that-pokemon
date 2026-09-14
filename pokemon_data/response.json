@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T10:50:30.167129",
+  "timestamp": "2026-09-14T11:01:47.671452",
   "pokemon_data": {
-    "id": "0968",
-    "name": "Orthworm",
-    "types": "Steel",
-    "species": "Earthworm Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "310.0 kg",
-    "abilities": "Earth-Eater, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+    "id": "0097",
+    "name": "Hypno",
+    "types": "Psychic",
+    "species": "Hypnosis Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "75.6 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
   }
 }
