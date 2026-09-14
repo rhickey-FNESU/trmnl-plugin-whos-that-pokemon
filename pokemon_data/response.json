@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T02:49:33.985545",
+  "timestamp": "2026-09-14T03:01:06.136884",
   "pokemon_data": {
-    "id": "0163",
-    "name": "Hoothoot",
-    "types": "Normal, Flying",
-    "species": "Owl Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "21.2 kg",
-    "abilities": "Insomnia, Keen-Eye, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
+    "id": "0309",
+    "name": "Electrike",
+    "types": "Electric",
+    "species": "Lightning Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "15.2 kg",
+    "abilities": "Static, Lightning-Rod, Minus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png"
   }
 }
