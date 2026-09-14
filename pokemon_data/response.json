@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T14:02:03.509855",
+  "timestamp": "2026-09-14T14:25:34.003393",
   "pokemon_data": {
-    "id": "0413",
-    "name": "Wormadam-Plant",
-    "types": "Bug, Grass",
-    "species": "Bagworm Pok\u00e9mon",
+    "id": "0720",
+    "name": "Hoopa",
+    "types": "Psychic, Ghost",
+    "species": "Mischief Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "6.5 kg",
-    "abilities": "Anticipation, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png"
+    "weight": "9.0 kg",
+    "abilities": "Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
   }
 }
