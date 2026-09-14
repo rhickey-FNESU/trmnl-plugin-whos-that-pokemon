@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T08:37:08.457578",
+  "timestamp": "2026-09-14T08:51:08.596845",
   "pokemon_data": {
-    "id": "0914",
-    "name": "Quaquaval",
-    "types": "Water, Fighting",
-    "species": "Dancer Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "61.9 kg",
-    "abilities": "Torrent, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
+    "id": "0297",
+    "name": "Hariyama",
+    "types": "Fighting",
+    "species": "Arm Thrust Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "253.8 kg",
+    "abilities": "Thick-Fat, Guts, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
   }
 }
