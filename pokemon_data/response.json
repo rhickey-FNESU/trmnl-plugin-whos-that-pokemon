@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T01:01:57.038000",
+  "timestamp": "2026-09-14T01:21:41.229484",
   "pokemon_data": {
-    "id": "0599",
-    "name": "Klink",
-    "types": "Steel",
-    "species": "Gear Pok\u00e9mon",
+    "id": "0924",
+    "name": "Tandemaus",
+    "types": "Normal",
+    "species": "Couple Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "21.0 kg",
-    "abilities": "Plus, Minus, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+    "weight": "1.8 kg",
+    "abilities": "Run-Away, Pickup, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
   }
 }
