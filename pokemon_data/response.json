@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T14:25:34.003393",
+  "timestamp": "2026-09-14T14:38:02.629574",
   "pokemon_data": {
-    "id": "0720",
-    "name": "Hoopa",
-    "types": "Psychic, Ghost",
-    "species": "Mischief Pok\u00e9mon",
+    "id": "0343",
+    "name": "Baltoy",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+    "weight": "21.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
   }
 }
