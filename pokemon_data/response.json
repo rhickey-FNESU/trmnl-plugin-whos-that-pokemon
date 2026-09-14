@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T09:36:34.979303",
+  "timestamp": "2026-09-14T09:51:08.971852",
   "pokemon_data": {
-    "id": "0689",
-    "name": "Barbaracle",
-    "types": "Rock, Water",
-    "species": "Collective Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "96.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png"
+    "id": "0702",
+    "name": "Dedenne",
+    "types": "Electric, Fairy",
+    "species": "Antenna Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.2 kg",
+    "abilities": "Cheek-Pouch, Pickup, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
   }
 }
