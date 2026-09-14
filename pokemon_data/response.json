@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T03:50:34.539416",
+  "timestamp": "2026-09-14T04:00:59.558533",
   "pokemon_data": {
-    "id": "0214",
-    "name": "Heracross",
-    "types": "Bug, Fighting",
-    "species": "Single Horn Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "54.0 kg",
-    "abilities": "Swarm, Guts, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+    "id": "0599",
+    "name": "Klink",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "21.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
   }
 }
