@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T11:23:28.005768",
+  "timestamp": "2026-09-14T11:36:08.832836",
   "pokemon_data": {
-    "id": "0507",
-    "name": "Herdier",
-    "types": "Normal",
-    "species": "Loyal Dog Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "14.7 kg",
-    "abilities": "Intimidate, Sand-Rush, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+    "id": "0977",
+    "name": "Dondozo",
+    "types": "Water",
+    "species": "Big Catfish Pok\u00e9mon",
+    "height": "12.0 m",
+    "weight": "220.0 kg",
+    "abilities": "Unaware, Oblivious, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
   }
 }
