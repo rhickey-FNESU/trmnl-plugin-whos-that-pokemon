@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T19:22:50.126303",
+  "timestamp": "2026-09-14T19:34:50.065040",
   "pokemon_data": {
-    "id": "0377",
-    "name": "Regirock",
-    "types": "Rock",
-    "species": "Rock Peak Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "230.0 kg",
-    "abilities": "Clear-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+    "id": "0199",
+    "name": "Slowking",
+    "types": "Water, Psychic",
+    "species": "Royal Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "79.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
   }
 }
