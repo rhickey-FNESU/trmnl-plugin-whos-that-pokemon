@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T07:24:42.624404",
+  "timestamp": "2026-09-14T07:36:06.828730",
   "pokemon_data": {
-    "id": "0419",
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "id": "0067",
+    "name": "Machoke",
+    "types": "Fighting",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "70.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
   }
 }
