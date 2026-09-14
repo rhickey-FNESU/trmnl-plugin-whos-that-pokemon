@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T15:51:51.941643",
+  "timestamp": "2026-09-14T16:01:24.150037",
   "pokemon_data": {
-    "id": "0065",
-    "name": "Alakazam",
-    "types": "Psychic",
-    "species": "Psi Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "48.0 kg",
-    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+    "id": "0092",
+    "name": "Gastly",
+    "types": "Ghost, Poison",
+    "species": "Gas Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "0.1 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
   }
 }
