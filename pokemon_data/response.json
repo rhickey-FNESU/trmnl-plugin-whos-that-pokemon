@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T04:36:51.310785",
+  "timestamp": "2026-09-14T04:50:31.257456",
   "pokemon_data": {
-    "id": "0823",
-    "name": "Corviknight",
-    "types": "Flying, Steel",
-    "species": "Raven Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "75.0 kg",
-    "abilities": "Pressure, Unnerve, Mirror-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+    "id": "0027",
+    "name": "Sandshrew",
+    "types": "Ground",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "12.0 kg",
+    "abilities": "Sand-Veil, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
   }
 }
