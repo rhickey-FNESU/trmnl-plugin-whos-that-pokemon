@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T15:27:15.542050",
+  "timestamp": "2026-09-14T15:37:18.356539",
   "pokemon_data": {
-    "id": "0697",
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "id": "0596",
+    "name": "Galvantula",
+    "types": "Bug, Electric",
+    "species": "Elespider Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "14.3 kg",
+    "abilities": "Compound-Eyes, Unnerve, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
   }
 }
