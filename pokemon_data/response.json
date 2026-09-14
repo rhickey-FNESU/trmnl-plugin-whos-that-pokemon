@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T14:52:55.292424",
+  "timestamp": "2026-09-14T15:03:13.235449",
   "pokemon_data": {
-    "id": "0555",
-    "name": "Darmanitan-Standard",
-    "types": "Fire",
-    "species": "Blazing Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "92.9 kg",
-    "abilities": "Sheer-Force, Zen-Mode",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
+    "id": "0535",
+    "name": "Tympole",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "4.5 kg",
+    "abilities": "Swift-Swim, Hydration, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
   }
 }
