@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T15:03:13.235449",
+  "timestamp": "2026-09-14T15:27:15.542050",
   "pokemon_data": {
-    "id": "0535",
-    "name": "Tympole",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "4.5 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
