@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T02:23:13.356090",
+  "timestamp": "2026-09-14T02:35:26.254441",
   "pokemon_data": {
-    "id": "0755",
-    "name": "Morelull",
-    "types": "Grass, Fairy",
-    "species": "Illuminating Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.5 kg",
-    "abilities": "Illuminate, Effect-Spore, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png"
+    "id": "0536",
+    "name": "Palpitoad",
+    "types": "Water, Ground",
+    "species": "Vibration Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "17.0 kg",
+    "abilities": "Swift-Swim, Hydration, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
   }
 }
