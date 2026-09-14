@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T19:02:36.110673",
+  "timestamp": "2026-09-14T19:22:50.126303",
   "pokemon_data": {
-    "id": "0882",
-    "name": "Dracovish",
-    "types": "Water, Dragon",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "215.0 kg",
-    "abilities": "Water-Absorb, Strong-Jaw, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
