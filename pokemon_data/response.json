@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T07:03:11.282701",
+  "timestamp": "2026-09-14T07:24:42.624404",
   "pokemon_data": {
-    "id": "0553",
-    "name": "Krookodile",
-    "types": "Ground, Dark",
-    "species": "Intimidation Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "96.3 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+    "id": "0419",
+    "name": "Floatzel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
