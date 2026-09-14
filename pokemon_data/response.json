@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T03:23:46.571666",
+  "timestamp": "2026-09-14T03:36:57.206931",
   "pokemon_data": {
-    "id": "0366",
-    "name": "Clamperl",
-    "types": "Water",
-    "species": "Bivalve Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "52.5 kg",
-    "abilities": "Shell-Armor, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png"
+    "id": "0481",
+    "name": "Mesprit",
+    "types": "Psychic",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
   }
 }
