@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T16:36:06.912825",
+  "timestamp": "2026-09-14T16:52:05.639188",
   "pokemon_data": {
-    "id": "0819",
-    "name": "Skwovet",
-    "types": "Normal",
-    "species": "Cheeky Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.5 kg",
-    "abilities": "Cheek-Pouch, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
+    "id": "0208",
+    "name": "Steelix",
+    "types": "Steel, Ground",
+    "species": "Iron Snake Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "400.0 kg",
+    "abilities": "Rock-Head, Sturdy, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
   }
 }
