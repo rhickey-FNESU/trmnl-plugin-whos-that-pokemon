@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T10:35:07.287507",
+  "timestamp": "2026-09-14T10:50:30.167129",
   "pokemon_data": {
-    "id": "0099",
-    "name": "Kingler",
-    "types": "Water",
-    "species": "Pincer Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.0 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+    "id": "0968",
+    "name": "Orthworm",
+    "types": "Steel",
+    "species": "Earthworm Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "310.0 kg",
+    "abilities": "Earth-Eater, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
   }
 }
