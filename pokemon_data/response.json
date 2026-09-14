@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T13:51:22.282034",
+  "timestamp": "2026-09-14T14:02:03.509855",
   "pokemon_data": {
-    "id": "0328",
-    "name": "Trapinch",
-    "types": "Ground",
-    "species": "Ant Pit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.0 kg",
-    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+    "id": "0413",
+    "name": "Wormadam-Plant",
+    "types": "Bug, Grass",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.5 kg",
+    "abilities": "Anticipation, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png"
   }
 }
