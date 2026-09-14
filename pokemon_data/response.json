@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T00:52:41.489493",
+  "timestamp": "2026-09-14T01:01:57.038000",
   "pokemon_data": {
-    "id": "0024",
-    "name": "Arbok",
-    "types": "Poison",
-    "species": "Cobra Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "65.0 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+    "id": "0599",
+    "name": "Klink",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "21.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
   }
 }
