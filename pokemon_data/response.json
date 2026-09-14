@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T16:23:16.471651",
+  "timestamp": "2026-09-14T16:36:06.912825",
   "pokemon_data": {
-    "id": "0868",
-    "name": "Milcery",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+    "id": "0819",
+    "name": "Skwovet",
+    "types": "Normal",
+    "species": "Cheeky Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.5 kg",
+    "abilities": "Cheek-Pouch, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
   }
 }
