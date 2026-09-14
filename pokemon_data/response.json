@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T00:30:34.762565",
+  "timestamp": "2026-09-14T00:52:41.489493",
   "pokemon_data": {
-    "id": "0580",
-    "name": "Ducklett",
-    "types": "Water, Flying",
-    "species": "Water Bird Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Keen-Eye, Big-Pecks, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+    "id": "0024",
+    "name": "Arbok",
+    "types": "Poison",
+    "species": "Cobra Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "65.0 kg",
+    "abilities": "Intimidate, Shed-Skin, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
   }
 }
