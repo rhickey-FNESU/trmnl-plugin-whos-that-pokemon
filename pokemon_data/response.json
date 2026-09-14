@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T07:50:55.997885",
+  "timestamp": "2026-09-14T08:01:25.034242",
   "pokemon_data": {
-    "id": "0906",
-    "name": "Sprigatito",
-    "types": "Grass",
-    "species": "Grass Cat Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.1 kg",
-    "abilities": "Overgrow, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
+    "id": "0541",
+    "name": "Swadloon",
+    "types": "Bug, Grass",
+    "species": "Leaf-Wrapped Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "7.3 kg",
+    "abilities": "Leaf-Guard, Chlorophyll, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
   }
 }
