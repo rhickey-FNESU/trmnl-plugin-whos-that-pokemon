@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T02:35:26.254441",
+  "timestamp": "2026-09-14T02:49:33.985545",
   "pokemon_data": {
-    "id": "0536",
-    "name": "Palpitoad",
-    "types": "Water, Ground",
-    "species": "Vibration Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.0 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    "id": "0163",
+    "name": "Hoothoot",
+    "types": "Normal, Flying",
+    "species": "Owl Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.2 kg",
+    "abilities": "Insomnia, Keen-Eye, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
   }
 }
