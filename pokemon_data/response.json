@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T15:37:18.356539",
+  "timestamp": "2026-09-14T15:51:51.941643",
   "pokemon_data": {
-    "id": "0596",
-    "name": "Galvantula",
-    "types": "Bug, Electric",
-    "species": "Elespider Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "14.3 kg",
-    "abilities": "Compound-Eyes, Unnerve, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+    "id": "0065",
+    "name": "Alakazam",
+    "types": "Psychic",
+    "species": "Psi Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "48.0 kg",
+    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
   }
 }
