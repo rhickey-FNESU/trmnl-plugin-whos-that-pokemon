@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T22:49:27.111195",
+  "timestamp": "2026-09-14T23:00:57.986453",
   "pokemon_data": {
-    "id": "0954",
-    "name": "Rabsca",
-    "types": "Bug, Psychic",
-    "species": "Rolling Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Synchronize, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
+    "id": "0838",
+    "name": "Carkol",
+    "types": "Rock, Fire",
+    "species": "Coal Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "78.0 kg",
+    "abilities": "Steam-Engine, Flame-Body, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
   }
 }
