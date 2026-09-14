@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T09:51:08.971852",
+  "timestamp": "2026-09-14T10:02:42.470784",
   "pokemon_data": {
-    "id": "0702",
-    "name": "Dedenne",
-    "types": "Electric, Fairy",
-    "species": "Antenna Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "2.2 kg",
-    "abilities": "Cheek-Pouch, Pickup, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
+    "id": "0363",
+    "name": "Spheal",
+    "types": "Ice, Water",
+    "species": "Clap Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "39.5 kg",
+    "abilities": "Thick-Fat, Ice-Body, Oblivious",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png"
   }
 }
