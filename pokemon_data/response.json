@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T13:26:38.379093",
+  "timestamp": "2026-09-14T13:38:21.084579",
   "pokemon_data": {
-    "id": "0219",
-    "name": "Magcargo",
-    "types": "Fire, Rock",
-    "species": "Lava Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "55.0 kg",
-    "abilities": "Magma-Armor, Flame-Body, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png"
+    "id": "0987",
+    "name": "Flutter-Mane",
+    "types": "Ghost, Fairy",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "4.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
   }
 }
