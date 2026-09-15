@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T21:01:01.725783",
+  "timestamp": "2026-09-15T21:21:16.198352",
   "pokemon_data": {
-    "id": "0639",
-    "name": "Terrakion",
-    "types": "Rock, Fighting",
-    "species": "Cavern Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "260.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+    "id": "0400",
+    "name": "Bibarel",
+    "types": "Normal, Water",
+    "species": "Beaver Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "31.5 kg",
+    "abilities": "Simple, Unaware, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
   }
 }
