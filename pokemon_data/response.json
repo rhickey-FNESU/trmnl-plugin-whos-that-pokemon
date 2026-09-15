@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T05:23:28.524293",
+  "timestamp": "2026-09-15T05:35:44.198998",
   "pokemon_data": {
-    "id": "0286",
-    "name": "Breloom",
-    "types": "Grass, Fighting",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.2 kg",
-    "abilities": "Effect-Spore, Poison-Heal, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+    "id": "0741",
+    "name": "Oricorio-Baile",
+    "types": "Fire, Flying",
+    "species": "Dancing Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "3.4 kg",
+    "abilities": "Dancer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
   }
 }
