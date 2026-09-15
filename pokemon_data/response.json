@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T03:51:14.601246",
+  "timestamp": "2026-09-15T04:01:33.484859",
   "pokemon_data": {
-    "id": "0537",
-    "name": "Seismitoad",
-    "types": "Water, Ground",
-    "species": "Vibration Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "62.0 kg",
-    "abilities": "Swift-Swim, Poison-Touch, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png"
+    "id": "0296",
+    "name": "Makuhita",
+    "types": "Fighting",
+    "species": "Guts Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "86.4 kg",
+    "abilities": "Thick-Fat, Guts, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
   }
 }
