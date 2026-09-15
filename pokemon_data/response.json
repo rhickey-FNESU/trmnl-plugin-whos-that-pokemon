@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T17:32:32.354155",
+  "timestamp": "2026-09-15T17:47:43.062235",
   "pokemon_data": {
-    "id": "0065",
-    "name": "Alakazam",
-    "types": "Psychic",
-    "species": "Psi Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "48.0 kg",
-    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+    "id": "0654",
+    "name": "Braixen",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "14.5 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png"
   }
 }
