@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T15:01:53.492620",
+  "timestamp": "2026-09-15T15:22:28.337603",
   "pokemon_data": {
-    "id": "0699",
-    "name": "Aurorus",
-    "types": "Rock, Ice",
-    "species": "Tundra Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "225.0 kg",
-    "abilities": "Refrigerate, Snow-Warning",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+    "id": "0893",
+    "name": "Zarude",
+    "types": "Dark, Grass",
+    "species": "Rogue Monkey Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "70.0 kg",
+    "abilities": "Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
   }
 }
