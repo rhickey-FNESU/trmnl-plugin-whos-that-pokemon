@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T17:20:52.908584",
+  "timestamp": "2026-09-15T17:32:32.354155",
   "pokemon_data": {
-    "id": "0343",
-    "name": "Baltoy",
-    "types": "Ground, Psychic",
-    "species": "Clay Doll Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "21.5 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
+    "id": "0065",
+    "name": "Alakazam",
+    "types": "Psychic",
+    "species": "Psi Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "48.0 kg",
+    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
   }
 }
