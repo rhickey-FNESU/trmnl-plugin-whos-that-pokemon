@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T14:01:02.184466",
+  "timestamp": "2026-09-15T14:23:31.387116",
   "pokemon_data": {
-    "id": "0323",
-    "name": "Camerupt",
-    "types": "Fire, Ground",
-    "species": "Eruption Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "220.0 kg",
-    "abilities": "Magma-Armor, Solid-Rock, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+    "id": "0642",
+    "name": "Thundurus-Incarnate",
+    "types": "Electric, Flying",
+    "species": "Bolt Strike Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "61.0 kg",
+    "abilities": "Prankster, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
   }
 }
