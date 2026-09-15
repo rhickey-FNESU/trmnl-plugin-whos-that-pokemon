@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T13:50:45.537205",
+  "timestamp": "2026-09-15T14:01:02.184466",
   "pokemon_data": {
-    "id": "0357",
-    "name": "Tropius",
-    "types": "Grass, Flying",
-    "species": "Fruit Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "100.0 kg",
-    "abilities": "Chlorophyll, Solar-Power, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png"
+    "id": "0323",
+    "name": "Camerupt",
+    "types": "Fire, Ground",
+    "species": "Eruption Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "220.0 kg",
+    "abilities": "Magma-Armor, Solid-Rock, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
   }
 }
