@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T07:03:41.301947",
+  "timestamp": "2026-09-15T07:25:38.232158",
   "pokemon_data": {
-    "id": "0214",
-    "name": "Heracross",
-    "types": "Bug, Fighting",
-    "species": "Single Horn Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "54.0 kg",
-    "abilities": "Swarm, Guts, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+    "id": "1012",
+    "name": "Poltchageist",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "1.1 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
   }
 }
