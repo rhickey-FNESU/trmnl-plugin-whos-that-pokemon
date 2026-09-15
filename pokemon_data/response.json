@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T04:51:38.577601",
+  "timestamp": "2026-09-15T05:01:41.654480",
   "pokemon_data": {
-    "id": "0320",
-    "name": "Wailmer",
-    "types": "Water",
-    "species": "Ball Whale Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "130.0 kg",
-    "abilities": "Water-Veil, Oblivious, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
+    "id": "0237",
+    "name": "Hitmontop",
+    "types": "Fighting",
+    "species": "Handstand Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "48.0 kg",
+    "abilities": "Intimidate, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
   }
 }
