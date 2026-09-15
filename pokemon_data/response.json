@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T02:50:59.918224",
+  "timestamp": "2026-09-15T03:01:31.050610",
   "pokemon_data": {
-    "id": "0419",
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "id": "0659",
+    "name": "Bunnelby",
+    "types": "Normal",
+    "species": "Digging Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
   }
 }
