@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T09:29:00.517259",
+  "timestamp": "2026-09-15T09:39:31.081231",
   "pokemon_data": {
-    "id": "0610",
-    "name": "Axew",
-    "types": "Dragon",
-    "species": "Tusk Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "18.0 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+    "id": "0963",
+    "name": "Finizen",
+    "types": "Water",
+    "species": "Dolphin Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "60.2 kg",
+    "abilities": "Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
   }
 }
