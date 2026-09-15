@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T06:29:49.988228",
+  "timestamp": "2026-09-15T06:45:46.930818",
   "pokemon_data": {
-    "id": "0040",
-    "name": "Wigglytuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "12.0 kg",
-    "abilities": "Cute-Charm, Competitive, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+    "id": "0283",
+    "name": "Surskit",
+    "types": "Bug, Water",
+    "species": "Pond Skater Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.7 kg",
+    "abilities": "Swift-Swim, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png"
   }
 }
