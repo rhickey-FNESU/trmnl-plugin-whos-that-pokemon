@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T08:38:37.576859",
+  "timestamp": "2026-09-15T08:53:39.111853",
   "pokemon_data": {
-    "id": "1008",
-    "name": "Miraidon",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "240.0 kg",
-    "abilities": "Hadron-Engine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+    "id": "0960",
+    "name": "Wiglett",
+    "types": "Water",
+    "species": "Garden Eel Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "1.8 kg",
+    "abilities": "Gooey, Rattled, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
   }
 }
