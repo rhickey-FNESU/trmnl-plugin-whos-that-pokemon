@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T18:01:00.152635",
+  "timestamp": "2026-09-15T18:24:06.604036",
   "pokemon_data": {
-    "id": "0312",
-    "name": "Minun",
-    "types": "Electric",
-    "species": "Cheering Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.2 kg",
-    "abilities": "Minus, Volt-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
