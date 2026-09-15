@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T09:03:11.723489",
+  "timestamp": "2026-09-15T09:29:00.517259",
   "pokemon_data": {
-    "id": "0488",
-    "name": "Cresselia",
-    "types": "Psychic",
-    "species": "Lunar Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "85.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
+    "id": "0610",
+    "name": "Axew",
+    "types": "Dragon",
+    "species": "Tusk Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "18.0 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
   }
 }
