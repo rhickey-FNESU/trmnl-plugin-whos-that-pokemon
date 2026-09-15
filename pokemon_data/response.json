@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T18:51:09.363637",
+  "timestamp": "2026-09-15T19:01:02.604398",
   "pokemon_data": {
-    "id": "0798",
-    "name": "Kartana",
-    "types": "Grass, Steel",
-    "species": "Drawn Sword Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.1 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+    "id": "0682",
+    "name": "Spritzee",
+    "types": "Fairy",
+    "species": "Perfume Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.5 kg",
+    "abilities": "Healer, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png"
   }
 }
