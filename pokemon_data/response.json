@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T02:36:30.276338",
+  "timestamp": "2026-09-15T02:50:59.918224",
   "pokemon_data": {
-    "id": "0159",
-    "name": "Croconaw",
+    "id": "0419",
+    "name": "Floatzel",
     "types": "Water",
-    "species": "Big Jaw Pok\u00e9mon",
+    "species": "Sea Weasel Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "25.0 kg",
-    "abilities": "Torrent, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
