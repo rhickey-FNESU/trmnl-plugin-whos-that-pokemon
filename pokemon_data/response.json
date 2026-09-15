@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T01:35:51.349105",
+  "timestamp": "2026-09-15T01:50:58.209576",
   "pokemon_data": {
-    "id": "0616",
-    "name": "Shelmet",
-    "types": "Bug",
-    "species": "Snail Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "7.7 kg",
-    "abilities": "Hydration, Shell-Armor, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png"
+    "id": "0458",
+    "name": "Mantyke",
+    "types": "Water, Flying",
+    "species": "Kite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "65.0 kg",
+    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
   }
 }
