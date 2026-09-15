@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T08:53:39.111853",
+  "timestamp": "2026-09-15T09:03:11.723489",
   "pokemon_data": {
-    "id": "0960",
-    "name": "Wiglett",
-    "types": "Water",
-    "species": "Garden Eel Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "1.8 kg",
-    "abilities": "Gooey, Rattled, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
+    "id": "0488",
+    "name": "Cresselia",
+    "types": "Psychic",
+    "species": "Lunar Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "85.6 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
   }
 }
