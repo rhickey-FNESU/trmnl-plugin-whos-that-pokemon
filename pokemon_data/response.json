@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T14:35:31.407086",
+  "timestamp": "2026-09-15T14:50:39.639258",
   "pokemon_data": {
-    "id": "0613",
-    "name": "Cubchoo",
-    "types": "Ice",
-    "species": "Chill Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+    "id": "0135",
+    "name": "Jolteon",
+    "types": "Electric",
+    "species": "Lightning Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Volt-Absorb, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
   }
 }
