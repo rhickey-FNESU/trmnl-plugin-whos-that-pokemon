@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T20:33:29.032997",
+  "timestamp": "2026-09-15T20:48:20.799797",
   "pokemon_data": {
-    "id": "0924",
-    "name": "Tandemaus",
-    "types": "Normal",
-    "species": "Couple Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Run-Away, Pickup, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
+    "id": "0719",
+    "name": "Diancie",
+    "types": "Rock, Fairy",
+    "species": "Jewel Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "8.8 kg",
+    "abilities": "Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png"
   }
 }
