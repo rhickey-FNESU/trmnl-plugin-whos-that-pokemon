@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T17:01:09.351030",
+  "timestamp": "2026-09-15T17:20:52.908584",
   "pokemon_data": {
-    "id": "0984",
-    "name": "Great-Tusk",
-    "types": "Ground, Fighting",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "320.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png"
+    "id": "0343",
+    "name": "Baltoy",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "21.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
   }
 }
