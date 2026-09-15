@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T00:30:53.650540",
+  "timestamp": "2026-09-15T00:53:06.262044",
   "pokemon_data": {
-    "id": "0144",
-    "name": "Articuno",
-    "types": "Ice, Flying",
-    "species": "Freeze Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "55.4 kg",
-    "abilities": "Pressure, Snow-Cloak",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+    "id": "0802",
+    "name": "Marshadow",
+    "types": "Fighting, Ghost",
+    "species": "Gloomdweller Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "22.2 kg",
+    "abilities": "Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
   }
 }
