@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T10:49:29.722156",
+  "timestamp": "2026-09-15T11:01:28.222426",
   "pokemon_data": {
-    "id": "0983",
-    "name": "Kingambit",
-    "types": "Dark, Steel",
-    "species": "Big Blade Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Defiant, Supreme-Overlord, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+    "id": "0236",
+    "name": "Tyrogue",
+    "types": "Fighting",
+    "species": "Scuffle Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.0 kg",
+    "abilities": "Guts, Steadfast, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
   }
 }
