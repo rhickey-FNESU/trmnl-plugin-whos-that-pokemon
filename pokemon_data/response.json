@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T16:23:13.817818",
+  "timestamp": "2026-09-15T16:35:42.314051",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "0924",
+    "name": "Tandemaus",
+    "types": "Normal",
+    "species": "Couple Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "abilities": "Run-Away, Pickup, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
   }
 }
