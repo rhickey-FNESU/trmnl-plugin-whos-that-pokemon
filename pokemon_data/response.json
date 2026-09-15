@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T12:27:31.027543",
+  "timestamp": "2026-09-15T12:41:48.328994",
   "pokemon_data": {
-    "id": "0167",
-    "name": "Spinarak",
-    "types": "Bug, Poison",
-    "species": "String Spit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+    "id": "0210",
+    "name": "Granbull",
+    "types": "Fairy",
+    "species": "Fairy Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "48.7 kg",
+    "abilities": "Intimidate, Quick-Feet, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
   }
 }
