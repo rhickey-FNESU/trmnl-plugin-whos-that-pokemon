@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T08:26:00.020259",
+  "timestamp": "2026-09-15T08:38:37.576859",
   "pokemon_data": {
-    "id": "0353",
-    "name": "Shuppet",
-    "types": "Ghost",
-    "species": "Puppet Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.3 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    "id": "1008",
+    "name": "Miraidon",
+    "types": "Electric, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "240.0 kg",
+    "abilities": "Hadron-Engine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
   }
 }
