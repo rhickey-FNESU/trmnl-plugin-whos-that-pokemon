@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T23:20:33.335091",
+  "timestamp": "2026-09-15T23:32:38.958119",
   "pokemon_data": {
-    "id": "0022",
-    "name": "Fearow",
-    "types": "Normal, Flying",
-    "species": "Beak Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "abilities": "Keen-Eye, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
