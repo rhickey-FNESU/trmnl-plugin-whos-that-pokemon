@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T05:35:44.198998",
+  "timestamp": "2026-09-15T05:50:56.130842",
   "pokemon_data": {
-    "id": "0741",
-    "name": "Oricorio-Baile",
-    "types": "Fire, Flying",
-    "species": "Dancing Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "3.4 kg",
-    "abilities": "Dancer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+    "id": "0347",
+    "name": "Anorith",
+    "types": "Rock, Bug",
+    "species": "Old Shrimp Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "12.5 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
   }
 }
