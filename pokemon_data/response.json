@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T01:50:58.209576",
+  "timestamp": "2026-09-15T02:02:40.538550",
   "pokemon_data": {
-    "id": "0458",
-    "name": "Mantyke",
-    "types": "Water, Flying",
-    "species": "Kite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "65.0 kg",
-    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
+    "id": "0418",
+    "name": "Buizel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "29.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
   }
 }
