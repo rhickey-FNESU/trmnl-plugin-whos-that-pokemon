@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T08:01:54.484840",
+  "timestamp": "2026-09-15T08:26:00.020259",
   "pokemon_data": {
-    "id": "0190",
-    "name": "Aipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "11.5 kg",
-    "abilities": "Run-Away, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+    "id": "0353",
+    "name": "Shuppet",
+    "types": "Ghost",
+    "species": "Puppet Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "2.3 kg",
+    "abilities": "Insomnia, Frisk, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
   }
 }
