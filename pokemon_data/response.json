@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T03:01:31.050610",
+  "timestamp": "2026-09-15T03:24:52.432880",
   "pokemon_data": {
-    "id": "0659",
-    "name": "Bunnelby",
-    "types": "Normal",
-    "species": "Digging Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.0 kg",
-    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
+    "id": "0379",
+    "name": "Registeel",
+    "types": "Steel",
+    "species": "Iron Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "205.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png"
   }
 }
