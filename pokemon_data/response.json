@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T21:21:16.198352",
+  "timestamp": "2026-09-15T21:32:45.247310",
   "pokemon_data": {
-    "id": "0400",
-    "name": "Bibarel",
-    "types": "Normal, Water",
-    "species": "Beaver Pok\u00e9mon",
+    "id": "0514",
+    "name": "Simisear",
+    "types": "Fire",
+    "species": "Ember Pok\u00e9mon",
     "height": "1.0 m",
-    "weight": "31.5 kg",
-    "abilities": "Simple, Unaware, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
+    "weight": "28.0 kg",
+    "abilities": "Gluttony, Blaze",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
   }
 }
