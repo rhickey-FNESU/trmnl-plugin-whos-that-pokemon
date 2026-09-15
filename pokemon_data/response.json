@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-15T12:01:12.605710",
+  "timestamp": "2026-09-15T12:27:31.027543",
   "pokemon_data": {
-    "id": "1008",
-    "name": "Miraidon",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "240.0 kg",
-    "abilities": "Hadron-Engine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+    "id": "0167",
+    "name": "Spinarak",
+    "types": "Bug, Poison",
+    "species": "String Spit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
   }
 }
