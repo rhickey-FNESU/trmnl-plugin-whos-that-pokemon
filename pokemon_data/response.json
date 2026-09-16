@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T09:35:09.227157",
+  "timestamp": "2026-09-16T09:49:51.692348",
   "pokemon_data": {
-    "id": "0535",
-    "name": "Tympole",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "4.5 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    "id": "0052",
+    "name": "Meowth",
+    "types": "Normal",
+    "species": "Scratch Cat Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.2 kg",
+    "abilities": "Pickup, Technician, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
   }
 }
