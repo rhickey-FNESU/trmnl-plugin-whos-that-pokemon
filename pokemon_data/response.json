@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T16:49:59.917933",
+  "timestamp": "2026-09-16T17:01:11.025099",
   "pokemon_data": {
-    "id": "0716",
-    "name": "Xerneas",
-    "types": "Fairy",
-    "species": "Life Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "215.0 kg",
-    "abilities": "Fairy-Aura",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+    "id": "0786",
+    "name": "Tapu-Lele",
+    "types": "Psychic, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "18.6 kg",
+    "abilities": "Psychic-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
   }
 }
