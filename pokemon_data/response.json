@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T23:33:44.029734",
+  "timestamp": "2026-09-16T23:46:01.422120",
   "pokemon_data": {
-    "id": "0016",
-    "name": "Pidgey",
+    "id": "0627",
+    "name": "Rufflet",
     "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.5 kg",
+    "abilities": "Keen-Eye, Sheer-Force, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
   }
 }
