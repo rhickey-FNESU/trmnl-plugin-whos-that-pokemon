@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T03:01:01.378794",
+  "timestamp": "2026-09-16T03:22:43.178654",
   "pokemon_data": {
-    "id": "0864",
-    "name": "Cursola",
-    "types": "Ghost",
-    "species": "Coral Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "0.4 kg",
-    "abilities": "Weak-Armor, Perish-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png"
+    "id": "0501",
+    "name": "Oshawott",
+    "types": "Water",
+    "species": "Sea Otter Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.9 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
   }
 }
