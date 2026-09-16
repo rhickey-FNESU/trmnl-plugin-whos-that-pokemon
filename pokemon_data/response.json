@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T19:45:57.123163",
+  "timestamp": "2026-09-16T20:01:10.785085",
   "pokemon_data": {
-    "id": "0626",
-    "name": "Bouffalant",
-    "types": "Normal",
-    "species": "Bash Buffalo Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "94.6 kg",
-    "abilities": "Reckless, Sap-Sipper, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
+    "id": "0749",
+    "name": "Mudbray",
+    "types": "Ground",
+    "species": "Donkey Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Own-Tempo, Stamina, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
   }
 }
