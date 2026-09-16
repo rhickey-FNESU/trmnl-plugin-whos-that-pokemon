@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T16:23:08.797807",
+  "timestamp": "2026-09-16T16:34:41.393387",
   "pokemon_data": {
-    "id": "0828",
-    "name": "Thievul",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "19.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
+    "id": "0270",
+    "name": "Lotad",
+    "types": "Water, Grass",
+    "species": "Water Weed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "2.6 kg",
+    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
   }
 }
