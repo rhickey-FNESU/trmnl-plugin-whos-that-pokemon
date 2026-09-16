@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T07:49:27.215254",
+  "timestamp": "2026-09-16T08:01:07.542487",
   "pokemon_data": {
-    "id": "0295",
-    "name": "Exploud",
-    "types": "Normal",
-    "species": "Loud Noise Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "84.0 kg",
-    "abilities": "Soundproof, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
