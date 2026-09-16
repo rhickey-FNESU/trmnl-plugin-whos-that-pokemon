@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T11:22:55.150858",
+  "timestamp": "2026-09-16T11:35:29.074428",
   "pokemon_data": {
-    "id": "0032",
-    "name": "Nidoran-M",
-    "types": "Poison",
-    "species": "Poison Pin Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Poison-Point, Rivalry, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+    "id": "0987",
+    "name": "Flutter-Mane",
+    "types": "Ghost, Fairy",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "4.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
   }
 }
