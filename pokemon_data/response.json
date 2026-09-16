@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T20:01:10.785085",
+  "timestamp": "2026-09-16T20:23:05.747260",
   "pokemon_data": {
-    "id": "0749",
-    "name": "Mudbray",
-    "types": "Ground",
-    "species": "Donkey Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Own-Tempo, Stamina, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+    "id": "0144",
+    "name": "Articuno",
+    "types": "Ice, Flying",
+    "species": "Freeze Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "55.4 kg",
+    "abilities": "Pressure, Snow-Cloak",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
   }
 }
