@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T21:01:01.155212",
+  "timestamp": "2026-09-16T21:22:46.858322",
   "pokemon_data": {
-    "id": "0733",
-    "name": "Toucannon",
-    "types": "Normal, Flying",
-    "species": "Cannon Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "26.0 kg",
-    "abilities": "Keen-Eye, Skill-Link, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+    "id": "0844",
+    "name": "Sandaconda",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "65.5 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
   }
 }
