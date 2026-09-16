@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T00:42:31.638282",
+  "timestamp": "2026-09-16T00:53:02.934157",
   "pokemon_data": {
-    "id": "0016",
-    "name": "Pidgey",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    "id": "0094",
+    "name": "Gengar",
+    "types": "Ghost, Poison",
+    "species": "Shadow Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.5 kg",
+    "abilities": "Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
   }
 }
