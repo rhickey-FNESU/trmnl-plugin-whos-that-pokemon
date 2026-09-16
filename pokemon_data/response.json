@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T00:28:23.765843",
+  "timestamp": "2026-09-16T00:42:31.638282",
   "pokemon_data": {
-    "id": "0058",
-    "name": "Growlithe",
-    "types": "Fire",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.0 kg",
-    "abilities": "Intimidate, Flash-Fire, Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+    "id": "0016",
+    "name": "Pidgey",
+    "types": "Normal, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
   }
 }
