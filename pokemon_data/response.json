@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T14:35:21.784844",
+  "timestamp": "2026-09-16T14:50:33.859714",
   "pokemon_data": {
-    "id": "0617",
-    "name": "Accelgor",
-    "types": "Bug",
-    "species": "Shell Out Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "25.3 kg",
-    "abilities": "Hydration, Sticky-Hold, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png"
+    "id": "0836",
+    "name": "Boltund",
+    "types": "Electric",
+    "species": "Dog Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "34.0 kg",
+    "abilities": "Strong-Jaw, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
   }
 }
