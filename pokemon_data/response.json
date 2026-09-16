@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T13:03:50.155146",
+  "timestamp": "2026-09-16T13:24:37.774138",
   "pokemon_data": {
-    "id": "0593",
-    "name": "Jellicent-Male",
-    "types": "Water, Ghost",
-    "species": "Floating Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "135.0 kg",
-    "abilities": "Water-Absorb, Cursed-Body, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+    "id": "1012",
+    "name": "Poltchageist",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "1.1 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
   }
 }
