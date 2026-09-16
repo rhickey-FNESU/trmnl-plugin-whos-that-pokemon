@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T05:34:59.617173",
+  "timestamp": "2026-09-16T05:48:49.720791",
   "pokemon_data": {
-    "id": "0563",
-    "name": "Cofagrigus",
-    "types": "Ghost",
-    "species": "Coffin Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "76.5 kg",
-    "abilities": "Mummy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+    "id": "0766",
+    "name": "Passimian",
+    "types": "Fighting",
+    "species": "Teamwork Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "82.8 kg",
+    "abilities": "Receiver, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
   }
 }
