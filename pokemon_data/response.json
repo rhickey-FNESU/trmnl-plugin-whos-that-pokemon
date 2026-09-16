@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T10:23:46.693138",
+  "timestamp": "2026-09-16T10:35:31.380962",
   "pokemon_data": {
-    "id": "0305",
-    "name": "Lairon",
-    "types": "Steel, Rock",
-    "species": "Iron Armor Pok\u00e9mon",
-    "height": "0.9 m",
+    "id": "0966",
+    "name": "Revavroom",
+    "types": "Steel, Poison",
+    "species": "Multi-Cyl Pok\u00e9mon",
+    "height": "1.8 m",
     "weight": "120.0 kg",
-    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png"
+    "abilities": "Overcoat, Filter",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
   }
 }
