@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T13:35:43.040183",
+  "timestamp": "2026-09-16T13:51:04.623749",
   "pokemon_data": {
-    "id": "0377",
-    "name": "Regirock",
-    "types": "Rock",
-    "species": "Rock Peak Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "230.0 kg",
-    "abilities": "Clear-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+    "id": "0169",
+    "name": "Crobat",
+    "types": "Poison, Flying",
+    "species": "Bat Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "75.0 kg",
+    "abilities": "Inner-Focus, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png"
   }
 }
