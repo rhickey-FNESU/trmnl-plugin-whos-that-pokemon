@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T02:01:07.875602",
+  "timestamp": "2026-09-16T02:22:57.716005",
   "pokemon_data": {
-    "id": "0511",
-    "name": "Pansage",
-    "types": "Grass",
-    "species": "Grass Monkey Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.5 kg",
-    "abilities": "Gluttony, Overgrow",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+    "id": "0939",
+    "name": "Bellibolt",
+    "types": "Electric",
+    "species": "Elefrog Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "113.0 kg",
+    "abilities": "Electromorphosis, Static, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png"
   }
 }
