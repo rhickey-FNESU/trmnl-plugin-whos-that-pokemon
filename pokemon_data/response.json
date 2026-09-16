@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T22:00:59.279248",
+  "timestamp": "2026-09-16T22:21:25.103953",
   "pokemon_data": {
-    "id": "0053",
-    "name": "Persian",
-    "types": "Normal",
-    "species": "Classy Cat Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "32.0 kg",
-    "abilities": "Limber, Technician, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+    "id": "0854",
+    "name": "Sinistea",
+    "types": "Ghost",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Weak-Armor, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
   }
 }
