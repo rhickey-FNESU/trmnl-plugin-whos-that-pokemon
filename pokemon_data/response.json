@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T20:34:55.062969",
+  "timestamp": "2026-09-16T20:49:11.576548",
   "pokemon_data": {
-    "id": "0292",
-    "name": "Shedinja",
-    "types": "Bug, Ghost",
-    "species": "Shed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "1.2 kg",
-    "abilities": "Wonder-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    "id": "0439",
+    "name": "Mime-Jr",
+    "types": "Psychic, Fairy",
+    "species": "Mime Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.0 kg",
+    "abilities": "Soundproof, Filter, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
   }
 }
