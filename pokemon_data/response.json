@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T20:49:11.576548",
+  "timestamp": "2026-09-16T21:01:01.155212",
   "pokemon_data": {
-    "id": "0439",
-    "name": "Mime-Jr",
-    "types": "Psychic, Fairy",
-    "species": "Mime Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "13.0 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
+    "id": "0733",
+    "name": "Toucannon",
+    "types": "Normal, Flying",
+    "species": "Cannon Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "26.0 kg",
+    "abilities": "Keen-Eye, Skill-Link, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
   }
 }
