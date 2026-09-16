@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T05:21:53.731104",
+  "timestamp": "2026-09-16T05:34:59.617173",
   "pokemon_data": {
-    "id": "0576",
-    "name": "Gothitelle",
-    "types": "Psychic",
-    "species": "Astral Body Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "44.0 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+    "id": "0563",
+    "name": "Cofagrigus",
+    "types": "Ghost",
+    "species": "Coffin Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "76.5 kg",
+    "abilities": "Mummy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
   }
 }
