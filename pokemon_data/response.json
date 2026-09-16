@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T11:01:04.751685",
+  "timestamp": "2026-09-16T11:22:55.150858",
   "pokemon_data": {
-    "id": "0054",
-    "name": "Psyduck",
-    "types": "Water",
-    "species": "Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "19.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+    "id": "0032",
+    "name": "Nidoran-M",
+    "types": "Poison",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Poison-Point, Rivalry, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
   }
 }
