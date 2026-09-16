@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T17:01:11.025099",
+  "timestamp": "2026-09-16T17:20:37.403913",
   "pokemon_data": {
-    "id": "0786",
-    "name": "Tapu-Lele",
-    "types": "Psychic, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "18.6 kg",
-    "abilities": "Psychic-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+    "id": "0091",
+    "name": "Cloyster",
+    "types": "Water, Ice",
+    "species": "Bivalve Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "132.5 kg",
+    "abilities": "Shell-Armor, Skill-Link, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
   }
 }
