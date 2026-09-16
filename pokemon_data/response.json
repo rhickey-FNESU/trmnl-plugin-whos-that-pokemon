@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T18:01:02.692839",
+  "timestamp": "2026-09-16T18:24:46.076286",
   "pokemon_data": {
-    "id": "0290",
-    "name": "Nincada",
-    "types": "Bug, Ground",
-    "species": "Trainee Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Compound-Eyes, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+    "id": "0935",
+    "name": "Charcadet",
+    "types": "Fire",
+    "species": "Fire Child Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.5 kg",
+    "abilities": "Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
   }
 }
