@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T08:01:07.542487",
+  "timestamp": "2026-09-16T08:24:31.858614",
   "pokemon_data": {
-    "id": "0697",
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "id": "0113",
+    "name": "Chansey",
+    "types": "Normal",
+    "species": "Egg Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "34.6 kg",
+    "abilities": "Natural-Cure, Serene-Grace, Healer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
   }
 }
