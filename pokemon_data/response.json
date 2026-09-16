@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T14:01:46.359416",
+  "timestamp": "2026-09-16T14:24:03.247199",
   "pokemon_data": {
-    "id": "0518",
-    "name": "Musharna",
-    "types": "Psychic",
-    "species": "Drowsing Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "60.5 kg",
-    "abilities": "Forewarn, Synchronize, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
+    "id": "0666",
+    "name": "Vivillon",
+    "types": "Bug, Flying",
+    "species": "Scale Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "17.0 kg",
+    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
   }
 }
