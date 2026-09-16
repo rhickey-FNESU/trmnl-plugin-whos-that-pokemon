@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T15:34:44.144167",
+  "timestamp": "2026-09-16T15:49:13.529933",
   "pokemon_data": {
-    "id": "0641",
-    "name": "Tornadus-Incarnate",
-    "types": "Flying",
-    "species": "Cyclone Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "63.0 kg",
-    "abilities": "Prankster, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+    "id": "0447",
+    "name": "Riolu",
+    "types": "Fighting",
+    "species": "Emanation Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "20.2 kg",
+    "abilities": "Steadfast, Inner-Focus, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
   }
 }
