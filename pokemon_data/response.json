@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T08:24:31.858614",
+  "timestamp": "2026-09-16T08:37:04.695592",
   "pokemon_data": {
-    "id": "0113",
-    "name": "Chansey",
-    "types": "Normal",
-    "species": "Egg Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "34.6 kg",
-    "abilities": "Natural-Cure, Serene-Grace, Healer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+    "id": "0348",
+    "name": "Armaldo",
+    "types": "Rock, Bug",
+    "species": "Plate Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "68.2 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
   }
 }
