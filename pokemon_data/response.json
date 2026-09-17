@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T15:49:30.693880",
+  "timestamp": "2026-09-17T16:01:17.125985",
   "pokemon_data": {
-    "id": "0701",
-    "name": "Hawlucha",
-    "types": "Fighting, Flying",
-    "species": "Wrestling Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "21.5 kg",
-    "abilities": "Limber, Unburden, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
+    "id": "0668",
+    "name": "Pyroar-Male",
+    "types": "Fire, Normal",
+    "species": "Royal Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "81.5 kg",
+    "abilities": "Rivalry, Unnerve, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
   }
 }
