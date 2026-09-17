@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T11:01:26.122130",
+  "timestamp": "2026-09-17T11:22:08.253120",
   "pokemon_data": {
-    "id": "0353",
-    "name": "Shuppet",
-    "types": "Ghost",
-    "species": "Puppet Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.3 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    "id": "0940",
+    "name": "Wattrel",
+    "types": "Electric, Flying",
+    "species": "Storm Petrel Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.6 kg",
+    "abilities": "Wind-Power, Volt-Absorb, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png"
   }
 }
