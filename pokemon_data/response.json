@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T09:23:32.535005",
+  "timestamp": "2026-09-17T09:35:42.924082",
   "pokemon_data": {
-    "id": "0262",
-    "name": "Mightyena",
-    "types": "Dark",
-    "species": "Bite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "37.0 kg",
-    "abilities": "Intimidate, Quick-Feet, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png"
+    "id": "0058",
+    "name": "Growlithe",
+    "types": "Fire",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "19.0 kg",
+    "abilities": "Intimidate, Flash-Fire, Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
   }
 }
