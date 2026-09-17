@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T09:49:35.664737",
+  "timestamp": "2026-09-17T10:00:58.691475",
   "pokemon_data": {
-    "id": "0350",
-    "name": "Milotic",
-    "types": "Water",
-    "species": "Tender Pok\u00e9mon",
-    "height": "6.2 m",
-    "weight": "162.0 kg",
-    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+    "id": "0444",
+    "name": "Gabite",
+    "types": "Dragon, Ground",
+    "species": "Cave Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "56.0 kg",
+    "abilities": "Sand-Veil, Rough-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png"
   }
 }
