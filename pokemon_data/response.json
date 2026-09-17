@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T16:01:17.125985",
+  "timestamp": "2026-09-17T16:23:33.029753",
   "pokemon_data": {
-    "id": "0668",
-    "name": "Pyroar-Male",
-    "types": "Fire, Normal",
-    "species": "Royal Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "81.5 kg",
-    "abilities": "Rivalry, Unnerve, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+    "id": "0114",
+    "name": "Tangela",
+    "types": "Grass",
+    "species": "Vine Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "35.0 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
   }
 }
