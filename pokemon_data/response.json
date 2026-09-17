@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T23:46:01.422120",
+  "timestamp": "2026-09-17T00:01:07.802129",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "id": "1000",
+    "name": "Gholdengo",
+    "types": "Steel, Ghost",
+    "species": "Coin Entity Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "30.0 kg",
+    "abilities": "Good-As-Gold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
   }
 }
