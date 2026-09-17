@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T11:34:15.634370",
+  "timestamp": "2026-09-17T11:48:38.177783",
   "pokemon_data": {
-    "id": "0610",
-    "name": "Axew",
-    "types": "Dragon",
-    "species": "Tusk Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "18.0 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+    "id": "0696",
+    "name": "Tyrunt",
+    "types": "Rock, Dragon",
+    "species": "Royal Heir Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "26.0 kg",
+    "abilities": "Strong-Jaw, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png"
   }
 }
