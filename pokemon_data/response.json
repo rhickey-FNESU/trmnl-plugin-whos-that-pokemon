@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T19:20:39.803527",
+  "timestamp": "2026-09-17T19:32:49.375430",
   "pokemon_data": {
-    "id": "0324",
-    "name": "Torkoal",
-    "types": "Fire",
-    "species": "Coal Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "80.4 kg",
-    "abilities": "White-Smoke, Drought, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
+    "id": "0082",
+    "name": "Magneton",
+    "types": "Electric, Steel",
+    "species": "Magnet Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "60.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
   }
 }
