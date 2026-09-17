@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T06:01:10.245600",
+  "timestamp": "2026-09-17T06:28:41.080110",
   "pokemon_data": {
-    "id": "0302",
-    "name": "Sableye",
-    "types": "Dark, Ghost",
-    "species": "Darkness Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "11.0 kg",
-    "abilities": "Keen-Eye, Stall, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+    "id": "0341",
+    "name": "Corphish",
+    "types": "Water",
+    "species": "Ruffian Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
   }
 }
