@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T04:35:58.371873",
+  "timestamp": "2026-09-17T04:50:00.317453",
   "pokemon_data": {
-    "id": "0869",
-    "name": "Alcremie",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.5 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
+    "id": "0817",
+    "name": "Drizzile",
+    "types": "Water",
+    "species": "Water Lizard Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "11.5 kg",
+    "abilities": "Torrent, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
   }
 }
