@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T18:25:46.288019",
+  "timestamp": "2026-09-17T18:38:31.963902",
   "pokemon_data": {
-    "id": "0419",
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "id": "0805",
+    "name": "Stakataka",
+    "types": "Rock, Steel",
+    "species": "Rampart Pok\u00e9mon",
+    "height": "5.5 m",
+    "weight": "820.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
   }
 }
