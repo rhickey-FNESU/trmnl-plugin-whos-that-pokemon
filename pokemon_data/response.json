@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T18:01:27.221465",
+  "timestamp": "2026-09-17T18:25:46.288019",
   "pokemon_data": {
-    "id": "0535",
-    "name": "Tympole",
+    "id": "0419",
+    "name": "Floatzel",
     "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "4.5 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
