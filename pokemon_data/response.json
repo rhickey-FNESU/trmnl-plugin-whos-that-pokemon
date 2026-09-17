@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T22:01:12.245077",
+  "timestamp": "2026-09-17T22:20:30.834674",
   "pokemon_data": {
-    "id": "0039",
-    "name": "Jigglypuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Cute-Charm, Competitive, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+    "id": "0718",
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
