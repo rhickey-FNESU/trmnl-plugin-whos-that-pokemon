@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T09:01:07.810177",
+  "timestamp": "2026-09-17T09:23:32.535005",
   "pokemon_data": {
-    "id": "0443",
-    "name": "Gible",
-    "types": "Dragon, Ground",
-    "species": "Land Shark Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "20.5 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+    "id": "0262",
+    "name": "Mightyena",
+    "types": "Dark",
+    "species": "Bite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "37.0 kg",
+    "abilities": "Intimidate, Quick-Feet, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png"
   }
 }
