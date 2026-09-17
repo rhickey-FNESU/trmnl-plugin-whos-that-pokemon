@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T12:53:15.051012",
+  "timestamp": "2026-09-17T13:02:38.973448",
   "pokemon_data": {
-    "id": "0260",
-    "name": "Swampert",
-    "types": "Water, Ground",
-    "species": "Mud Fish Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "81.9 kg",
-    "abilities": "Torrent, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
+    "id": "0837",
+    "name": "Rolycoly",
+    "types": "Rock",
+    "species": "Coal Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "12.0 kg",
+    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
   }
 }
