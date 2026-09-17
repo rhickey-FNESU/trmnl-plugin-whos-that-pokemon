@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T18:38:31.963902",
+  "timestamp": "2026-09-17T18:51:27.051511",
   "pokemon_data": {
-    "id": "0805",
-    "name": "Stakataka",
-    "types": "Rock, Steel",
-    "species": "Rampart Pok\u00e9mon",
-    "height": "5.5 m",
-    "weight": "820.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
+    "id": "0276",
+    "name": "Taillow",
+    "types": "Normal, Flying",
+    "species": "Tiny Swallow Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.3 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
   }
 }
