@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T21:45:45.398745",
+  "timestamp": "2026-09-17T22:01:12.245077",
   "pokemon_data": {
-    "id": "0834",
-    "name": "Drednaw",
-    "types": "Water, Rock",
-    "species": "Bite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "115.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+    "id": "0039",
+    "name": "Jigglypuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
   }
 }
