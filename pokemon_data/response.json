@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T19:01:18.739952",
+  "timestamp": "2026-09-17T19:20:39.803527",
   "pokemon_data": {
-    "id": "0688",
-    "name": "Binacle",
-    "types": "Rock, Water",
-    "species": "Two-Handed Pok\u00e9mon",
+    "id": "0324",
+    "name": "Torkoal",
+    "types": "Fire",
+    "species": "Coal Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "31.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    "weight": "80.4 kg",
+    "abilities": "White-Smoke, Drought, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
   }
 }
