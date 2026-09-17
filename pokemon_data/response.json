@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T15:34:07.526935",
+  "timestamp": "2026-09-17T15:49:30.693880",
   "pokemon_data": {
-    "id": "0457",
-    "name": "Lumineon",
-    "types": "Water",
-    "species": "Neon Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "24.0 kg",
-    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+    "id": "0701",
+    "name": "Hawlucha",
+    "types": "Fighting, Flying",
+    "species": "Wrestling Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "21.5 kg",
+    "abilities": "Limber, Unburden, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
   }
 }
