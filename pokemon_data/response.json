@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T02:49:14.253320",
+  "timestamp": "2026-09-17T03:01:04.466953",
   "pokemon_data": {
-    "id": "0397",
-    "name": "Staravia",
-    "types": "Normal, Flying",
-    "species": "Starling Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.5 kg",
-    "abilities": "Intimidate, Reckless",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png"
+    "id": "0040",
+    "name": "Wigglytuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "12.0 kg",
+    "abilities": "Cute-Charm, Competitive, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
   }
 }
