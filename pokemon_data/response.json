@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T07:22:24.444641",
+  "timestamp": "2026-09-18T07:34:09.708431",
   "pokemon_data": {
-    "id": "0021",
-    "name": "Spearow",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
+    "id": "0081",
+    "name": "Magnemite",
+    "types": "Electric, Steel",
+    "species": "Magnet Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "2.0 kg",
-    "abilities": "Keen-Eye, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+    "weight": "6.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
   }
 }
