@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T15:34:19.588161",
+  "timestamp": "2026-09-18T15:48:35.253293",
   "pokemon_data": {
-    "id": "0547",
-    "name": "Whimsicott",
-    "types": "Grass, Fairy",
-    "species": "Windveiled Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "6.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
+    "id": "0174",
+    "name": "Igglybuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
   }
 }
