@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T03:34:28.635717",
+  "timestamp": "2026-09-18T03:48:23.353077",
   "pokemon_data": {
-    "id": "0167",
-    "name": "Spinarak",
-    "types": "Bug, Poison",
-    "species": "String Spit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+    "id": "0900",
+    "name": "Kleavor",
+    "types": "Bug, Rock",
+    "species": "Axe Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "89.0 kg",
+    "abilities": "Swarm, Sheer-Force, Sharpness",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png"
   }
 }
