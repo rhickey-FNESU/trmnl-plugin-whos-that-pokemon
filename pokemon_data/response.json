@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T10:01:12.791617",
+  "timestamp": "2026-09-18T10:22:15.566023",
   "pokemon_data": {
-    "id": "0677",
-    "name": "Espurr",
+    "id": "0065",
+    "name": "Alakazam",
     "types": "Psychic",
-    "species": "Restraint Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "abilities": "Keen-Eye, Infiltrator, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
+    "species": "Psi Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "48.0 kg",
+    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
   }
 }
