@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T19:01:01.452837",
+  "timestamp": "2026-09-18T19:20:19.725908",
   "pokemon_data": {
-    "id": "0403",
-    "name": "Shinx",
-    "types": "Electric",
-    "species": "Flash Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.5 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png"
+    "id": "0590",
+    "name": "Foongus",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
   }
 }
