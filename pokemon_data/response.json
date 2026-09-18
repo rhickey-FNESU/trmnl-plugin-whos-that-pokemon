@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T05:20:47.943627",
+  "timestamp": "2026-09-18T05:33:29.949020",
   "pokemon_data": {
-    "id": "0216",
-    "name": "Teddiursa",
-    "types": "Normal",
-    "species": "Little Bear Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.8 kg",
-    "abilities": "Pickup, Quick-Feet, Honey-Gather",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+    "id": "0785",
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
