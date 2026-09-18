@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T06:27:13.272909",
+  "timestamp": "2026-09-18T06:40:41.605589",
   "pokemon_data": {
-    "id": "0618",
-    "name": "Stunfisk",
-    "types": "Ground, Electric",
-    "species": "Trap Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.0 kg",
-    "abilities": "Static, Limber, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+    "id": "0085",
+    "name": "Dodrio",
+    "types": "Normal, Flying",
+    "species": "Triple Bird Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "85.2 kg",
+    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
   }
 }
