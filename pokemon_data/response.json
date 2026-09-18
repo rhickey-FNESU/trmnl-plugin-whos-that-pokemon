@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T08:01:19.629485",
+  "timestamp": "2026-09-18T08:23:34.536074",
   "pokemon_data": {
-    "id": "0475",
-    "name": "Gallade",
-    "types": "Psychic, Fighting",
-    "species": "Blade Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "52.0 kg",
-    "abilities": "Steadfast, Sharpness, Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+    "id": "0478",
+    "name": "Froslass",
+    "types": "Ice, Ghost",
+    "species": "Snow Land Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "26.6 kg",
+    "abilities": "Snow-Cloak, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
   }
 }
