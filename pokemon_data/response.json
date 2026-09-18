@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T05:01:04.581042",
+  "timestamp": "2026-09-18T05:20:47.943627",
   "pokemon_data": {
-    "id": "1011",
-    "name": "Dipplin",
-    "types": "Grass, Dragon",
-    "species": "Candy Apple Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "9.7 kg",
-    "abilities": "Supersweet-Syrup, Gluttony, Sticky-Hold",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png"
+    "id": "0216",
+    "name": "Teddiursa",
+    "types": "Normal",
+    "species": "Little Bear Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "8.8 kg",
+    "abilities": "Pickup, Quick-Feet, Honey-Gather",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
   }
 }
