@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T13:33:57.409606",
+  "timestamp": "2026-09-18T13:48:38.253079",
   "pokemon_data": {
-    "id": "0453",
-    "name": "Croagunk",
-    "types": "Poison, Fighting",
-    "species": "Toxic Mouth Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "23.0 kg",
-    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png"
+    "id": "0420",
+    "name": "Cherubi",
+    "types": "Grass",
+    "species": "Cherry Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.3 kg",
+    "abilities": "Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png"
   }
 }
