@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T18:35:52.015431",
+  "timestamp": "2026-09-18T18:48:00.976739",
   "pokemon_data": {
-    "id": "0309",
-    "name": "Electrike",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png"
+    "id": "0975",
+    "name": "Cetitan",
+    "types": "Ice",
+    "species": "Terra Whale Pok\u00e9mon",
+    "height": "4.5 m",
+    "weight": "700.0 kg",
+    "abilities": "Thick-Fat, Slush-Rush, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
   }
 }
