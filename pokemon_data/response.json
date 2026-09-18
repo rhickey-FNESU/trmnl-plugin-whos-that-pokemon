@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T14:49:00.448921",
+  "timestamp": "2026-09-18T15:01:16.053250",
   "pokemon_data": {
-    "id": "0213",
-    "name": "Shuckle",
-    "types": "Bug, Rock",
-    "species": "Mold Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "20.5 kg",
-    "abilities": "Sturdy, Gluttony, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
+    "id": "0936",
+    "name": "Armarouge",
+    "types": "Fire, Psychic",
+    "species": "Fire Warrior Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "85.0 kg",
+    "abilities": "Flash-Fire, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
   }
 }
