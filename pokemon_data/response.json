@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T15:48:35.253293",
+  "timestamp": "2026-09-18T16:00:56.900337",
   "pokemon_data": {
-    "id": "0174",
-    "name": "Igglybuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Cute-Charm, Competitive, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+    "id": "0657",
+    "name": "Frogadier",
+    "types": "Water",
+    "species": "Bubble Frog Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.9 kg",
+    "abilities": "Torrent, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"
   }
 }
