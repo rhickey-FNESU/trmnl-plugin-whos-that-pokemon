@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T16:47:04.719415",
+  "timestamp": "2026-09-18T17:01:27.582453",
   "pokemon_data": {
-    "id": "0442",
-    "name": "Spiritomb",
-    "types": "Ghost, Dark",
-    "species": "Forbidden Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "108.0 kg",
-    "abilities": "Pressure, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
+    "id": "0880",
+    "name": "Dracozolt",
+    "types": "Electric, Dragon",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "190.0 kg",
+    "abilities": "Volt-Absorb, Hustle, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
   }
 }
