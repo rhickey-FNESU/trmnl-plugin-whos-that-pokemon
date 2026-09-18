@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T12:51:51.313437",
+  "timestamp": "2026-09-18T13:01:07.155144",
   "pokemon_data": {
-    "id": "0996",
-    "name": "Frigibax",
-    "types": "Dragon, Ice",
-    "species": "Ice Fin Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "17.0 kg",
-    "abilities": "Thermal-Exchange, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
+    "id": "0086",
+    "name": "Seel",
+    "types": "Water",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "90.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
   }
 }
