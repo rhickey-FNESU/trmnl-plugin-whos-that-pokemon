@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T05:33:29.949020",
+  "timestamp": "2026-09-18T05:47:25.351446",
   "pokemon_data": {
-    "id": "0785",
-    "name": "Tapu-Koko",
-    "types": "Electric, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "20.5 kg",
-    "abilities": "Electric-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    "id": "0948",
+    "name": "Toedscool",
+    "types": "Ground, Grass",
+    "species": "Woodear Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "33.0 kg",
+    "abilities": "Mycelium-Might",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
   }
 }
