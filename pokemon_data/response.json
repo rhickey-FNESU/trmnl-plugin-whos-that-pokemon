@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T16:21:00.819703",
+  "timestamp": "2026-09-18T16:33:57.906368",
   "pokemon_data": {
-    "id": "0911",
-    "name": "Skeledirge",
-    "types": "Fire, Ghost",
-    "species": "Singer Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "326.5 kg",
-    "abilities": "Blaze, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
+    "id": "0230",
+    "name": "Kingdra",
+    "types": "Water, Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "152.0 kg",
+    "abilities": "Swift-Swim, Sniper, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
   }
 }
