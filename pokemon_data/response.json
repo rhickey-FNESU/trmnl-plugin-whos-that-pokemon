@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T01:48:00.006318",
+  "timestamp": "2026-09-18T02:01:04.355020",
   "pokemon_data": {
-    "id": "0784",
-    "name": "Kommo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "78.2 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+    "id": "0157",
+    "name": "Typhlosion",
+    "types": "Fire",
+    "species": "Volcano Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "79.5 kg",
+    "abilities": "Blaze, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
   }
 }
