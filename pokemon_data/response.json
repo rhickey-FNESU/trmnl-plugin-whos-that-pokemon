@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T12:39:21.060981",
+  "timestamp": "2026-09-18T12:51:51.313437",
   "pokemon_data": {
-    "id": "0978",
-    "name": "Tatsugiri-Curly",
-    "types": "Dragon, Water",
-    "species": "Mimicry Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.0 kg",
-    "abilities": "Commander, Storm-Drain",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
+    "id": "0996",
+    "name": "Frigibax",
+    "types": "Dragon, Ice",
+    "species": "Ice Fin Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "17.0 kg",
+    "abilities": "Thermal-Exchange, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
   }
 }
