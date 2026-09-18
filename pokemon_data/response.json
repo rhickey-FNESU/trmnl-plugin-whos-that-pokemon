@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T23:32:18.465998",
+  "timestamp": "2026-09-18T23:46:05.845616",
   "pokemon_data": {
-    "id": "0323",
-    "name": "Camerupt",
-    "types": "Fire, Ground",
-    "species": "Eruption Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "220.0 kg",
-    "abilities": "Magma-Armor, Solid-Rock, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+    "id": "0832",
+    "name": "Dubwool",
+    "types": "Normal",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "43.0 kg",
+    "abilities": "Fluffy, Steadfast, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
   }
 }
