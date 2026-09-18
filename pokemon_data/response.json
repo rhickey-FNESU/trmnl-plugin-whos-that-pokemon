@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T13:21:46.460016",
+  "timestamp": "2026-09-18T13:33:57.409606",
   "pokemon_data": {
-    "id": "0817",
-    "name": "Drizzile",
-    "types": "Water",
-    "species": "Water Lizard Pok\u00e9mon",
+    "id": "0453",
+    "name": "Croagunk",
+    "types": "Poison, Fighting",
+    "species": "Toxic Mouth Pok\u00e9mon",
     "height": "0.7 m",
-    "weight": "11.5 kg",
-    "abilities": "Torrent, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
+    "weight": "23.0 kg",
+    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png"
   }
 }
