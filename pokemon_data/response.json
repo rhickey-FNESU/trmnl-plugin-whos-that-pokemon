@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T03:01:04.989588",
+  "timestamp": "2026-09-18T03:21:54.727659",
   "pokemon_data": {
-    "id": "0218",
-    "name": "Slugma",
-    "types": "Fire",
-    "species": "Lava Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "35.0 kg",
-    "abilities": "Magma-Armor, Flame-Body, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
+    "id": "0172",
+    "name": "Pichu",
+    "types": "Electric",
+    "species": "Tiny Mouse Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Static, Lightning-Rod",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
   }
 }
