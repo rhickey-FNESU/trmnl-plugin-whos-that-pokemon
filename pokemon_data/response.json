@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T12:01:05.910773",
+  "timestamp": "2026-09-18T12:26:24.541028",
   "pokemon_data": {
-    "id": "0256",
-    "name": "Combusken",
-    "types": "Fire, Fighting",
-    "species": "Young Fowl Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "19.5 kg",
-    "abilities": "Blaze, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
+    "id": "0458",
+    "name": "Mantyke",
+    "types": "Water, Flying",
+    "species": "Kite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "65.0 kg",
+    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
   }
 }
