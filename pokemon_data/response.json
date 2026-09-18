@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T06:40:41.605589",
+  "timestamp": "2026-09-18T06:52:07.303357",
   "pokemon_data": {
-    "id": "0085",
-    "name": "Dodrio",
-    "types": "Normal, Flying",
-    "species": "Triple Bird Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "85.2 kg",
-    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    "id": "1003",
+    "name": "Ting-Lu",
+    "types": "Dark, Ground",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "699.7 kg",
+    "abilities": "Vessel-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
   }
 }
