@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T13:01:07.155144",
+  "timestamp": "2026-09-18T13:21:46.460016",
   "pokemon_data": {
-    "id": "0086",
-    "name": "Seel",
+    "id": "0817",
+    "name": "Drizzile",
     "types": "Water",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    "species": "Water Lizard Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "11.5 kg",
+    "abilities": "Torrent, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
   }
 }
