@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T15:21:56.490081",
+  "timestamp": "2026-09-18T15:34:19.588161",
   "pokemon_data": {
-    "id": "0107",
-    "name": "Hitmonchan",
-    "types": "Fighting",
-    "species": "Punching Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "50.2 kg",
-    "abilities": "Keen-Eye, Iron-Fist, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+    "id": "0547",
+    "name": "Whimsicott",
+    "types": "Grass, Fairy",
+    "species": "Windveiled Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "6.6 kg",
+    "abilities": "Prankster, Infiltrator, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
   }
 }
