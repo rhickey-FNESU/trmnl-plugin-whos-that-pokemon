@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T18:35:04.958712",
+  "timestamp": "2026-09-19T18:47:52.948159",
   "pokemon_data": {
-    "id": "0695",
-    "name": "Heliolisk",
-    "types": "Electric, Normal",
-    "species": "Generator Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "21.0 kg",
-    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
+    "id": "0347",
+    "name": "Anorith",
+    "types": "Rock, Bug",
+    "species": "Old Shrimp Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "12.5 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
   }
 }
