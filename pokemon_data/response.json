@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T20:01:00.446035",
+  "timestamp": "2026-09-19T20:21:08.864384",
   "pokemon_data": {
-    "id": "0833",
-    "name": "Chewtle",
-    "types": "Water",
-    "species": "Snapping Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+    "id": "0650",
+    "name": "Chespin",
+    "types": "Grass",
+    "species": "Spiny Nut Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "9.0 kg",
+    "abilities": "Overgrow, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
   }
 }
