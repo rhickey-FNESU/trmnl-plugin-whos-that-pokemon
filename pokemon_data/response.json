@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T10:21:10.964745",
+  "timestamp": "2026-09-19T10:33:15.033774",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "0705",
+    "name": "Sliggoo",
+    "types": "Dragon",
+    "species": "Soft Tissue Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "17.5 kg",
+    "abilities": "Sap-Sipper, Hydration, Gooey",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png"
   }
 }
