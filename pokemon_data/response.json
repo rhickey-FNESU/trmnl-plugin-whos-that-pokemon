@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T05:20:20.449283",
+  "timestamp": "2026-09-19T05:33:01.743191",
   "pokemon_data": {
-    "id": "0005",
-    "name": "Charmeleon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.0 kg",
-    "abilities": "Blaze, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    "id": "0205",
+    "name": "Forretress",
+    "types": "Bug, Steel",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "125.8 kg",
+    "abilities": "Sturdy, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
   }
 }
