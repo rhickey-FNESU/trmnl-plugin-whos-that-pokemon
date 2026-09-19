@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T05:46:00.087089",
+  "timestamp": "2026-09-19T06:01:14.920238",
   "pokemon_data": {
-    "id": "0595",
-    "name": "Joltik",
-    "types": "Bug, Electric",
-    "species": "Attaching Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.6 kg",
-    "abilities": "Compound-Eyes, Unnerve, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+    "id": "0711",
+    "name": "Gourgeist-Average",
+    "types": "Ghost, Grass",
+    "species": "Pumpkin Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "12.5 kg",
+    "abilities": "Pickup, Frisk, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
   }
 }
