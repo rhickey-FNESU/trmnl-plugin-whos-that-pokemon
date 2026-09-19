@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T16:00:44.196507",
+  "timestamp": "2026-09-19T16:21:29.137551",
   "pokemon_data": {
-    "id": "0499",
-    "name": "Pignite",
-    "types": "Fire, Fighting",
-    "species": "Fire Pig Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "55.5 kg",
-    "abilities": "Blaze, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+    "id": "0036",
+    "name": "Clefable",
+    "types": "Fairy",
+    "species": "Fairy Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "40.0 kg",
+    "abilities": "Cute-Charm, Magic-Guard, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
   }
 }
