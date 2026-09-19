@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T22:20:43.446362",
+  "timestamp": "2026-09-19T22:32:17.878787",
   "pokemon_data": {
-    "id": "0951",
-    "name": "Capsakid",
-    "types": "Grass",
-    "species": "Spicy Pepper Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.0 kg",
-    "abilities": "Chlorophyll, Insomnia, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
+    "id": "0335",
+    "name": "Zangoose",
+    "types": "Normal",
+    "species": "Cat Ferret Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "40.3 kg",
+    "abilities": "Immunity, Toxic-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png"
   }
 }
