@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T09:00:53.073361",
+  "timestamp": "2026-09-19T09:21:23.446620",
   "pokemon_data": {
-    "id": "0812",
-    "name": "Rillaboom",
-    "types": "Grass",
-    "species": "Drummer Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Overgrow, Grassy-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png"
+    "id": "0597",
+    "name": "Ferroseed",
+    "types": "Grass, Steel",
+    "species": "Thorn Seed Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "18.8 kg",
+    "abilities": "Iron-Barbs",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
   }
 }
