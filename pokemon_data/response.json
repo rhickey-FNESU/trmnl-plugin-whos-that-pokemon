@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T22:46:00.946006",
+  "timestamp": "2026-09-19T23:00:55.019201",
   "pokemon_data": {
-    "id": "0952",
-    "name": "Scovillain",
-    "types": "Grass, Fire",
-    "species": "Spicy Pepper Pok\u00e9mon",
+    "id": "0072",
+    "name": "Tentacool",
+    "types": "Water, Poison",
+    "species": "Jellyfish Pok\u00e9mon",
     "height": "0.9 m",
-    "weight": "15.0 kg",
-    "abilities": "Chlorophyll, Insomnia, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png"
+    "weight": "45.5 kg",
+    "abilities": "Clear-Body, Liquid-Ooze, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
   }
 }
