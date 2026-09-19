@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T19:45:45.727350",
+  "timestamp": "2026-09-19T20:01:00.446035",
   "pokemon_data": {
-    "id": "0373",
-    "name": "Salamence",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "102.6 kg",
-    "abilities": "Intimidate, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+    "id": "0833",
+    "name": "Chewtle",
+    "types": "Water",
+    "species": "Snapping Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
   }
 }
