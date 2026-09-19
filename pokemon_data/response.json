@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T18:47:52.948159",
+  "timestamp": "2026-09-19T19:01:03.696459",
   "pokemon_data": {
-    "id": "0347",
-    "name": "Anorith",
-    "types": "Rock, Bug",
-    "species": "Old Shrimp Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "12.5 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
+    "id": "0505",
+    "name": "Watchog",
+    "types": "Normal",
+    "species": "Lookout Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "27.0 kg",
+    "abilities": "Illuminate, Keen-Eye, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
   }
 }
