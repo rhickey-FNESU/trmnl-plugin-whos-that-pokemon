@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T09:33:45.273839",
+  "timestamp": "2026-09-19T09:46:28.944024",
   "pokemon_data": {
-    "id": "0225",
-    "name": "Delibird",
-    "types": "Ice, Flying",
-    "species": "Delivery Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "16.0 kg",
-    "abilities": "Vital-Spirit, Hustle, Insomnia",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+    "id": "0590",
+    "name": "Foongus",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
   }
 }
