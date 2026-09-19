@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T13:32:25.197982",
+  "timestamp": "2026-09-19T13:46:01.737832",
   "pokemon_data": {
-    "id": "0284",
-    "name": "Masquerain",
-    "types": "Bug, Flying",
-    "species": "Eyeball Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "3.6 kg",
-    "abilities": "Intimidate, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
+    "id": "0920",
+    "name": "Lokix",
+    "types": "Bug, Dark",
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "17.5 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
   }
 }
