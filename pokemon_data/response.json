@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T00:50:38.634010",
+  "timestamp": "2026-09-19T01:01:25.496314",
   "pokemon_data": {
-    "id": "0358",
-    "name": "Chimecho",
-    "types": "Psychic",
-    "species": "Wind Chime Pok\u00e9mon",
-    "height": "0.6 m",
+    "id": "0590",
+    "name": "Foongus",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.2 m",
     "weight": "1.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
   }
 }
