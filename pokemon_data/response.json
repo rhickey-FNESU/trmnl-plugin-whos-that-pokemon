@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T13:01:02.882450",
+  "timestamp": "2026-09-19T13:21:11.369358",
   "pokemon_data": {
-    "id": "1007",
-    "name": "Koraidon",
-    "types": "Fighting, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "303.0 kg",
-    "abilities": "Orichalcum-Pulse",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
+    "id": "0713",
+    "name": "Avalugg",
+    "types": "Ice",
+    "species": "Iceberg Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "505.0 kg",
+    "abilities": "Own-Tempo, Ice-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
   }
 }
