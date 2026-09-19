@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T21:20:13.420931",
+  "timestamp": "2026-09-19T21:32:13.696037",
   "pokemon_data": {
-    "id": "0625",
-    "name": "Bisharp",
-    "types": "Dark, Steel",
-    "species": "Sword Blade Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "70.0 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+    "id": "0270",
+    "name": "Lotad",
+    "types": "Water, Grass",
+    "species": "Water Weed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "2.6 kg",
+    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
   }
 }
