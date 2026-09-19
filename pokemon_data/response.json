@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T13:21:11.369358",
+  "timestamp": "2026-09-19T13:32:25.197982",
   "pokemon_data": {
-    "id": "0713",
-    "name": "Avalugg",
-    "types": "Ice",
-    "species": "Iceberg Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "505.0 kg",
-    "abilities": "Own-Tempo, Ice-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+    "id": "0284",
+    "name": "Masquerain",
+    "types": "Bug, Flying",
+    "species": "Eyeball Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "3.6 kg",
+    "abilities": "Intimidate, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
   }
 }
