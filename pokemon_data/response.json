@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T21:01:03.455479",
+  "timestamp": "2026-09-19T21:20:13.420931",
   "pokemon_data": {
-    "id": "0175",
-    "name": "Togepi",
-    "types": "Fairy",
-    "species": "Spike Ball Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+    "id": "0625",
+    "name": "Bisharp",
+    "types": "Dark, Steel",
+    "species": "Sword Blade Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "70.0 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
   }
 }
