@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T09:46:28.944024",
+  "timestamp": "2026-09-19T10:01:13.656008",
   "pokemon_data": {
-    "id": "0590",
-    "name": "Foongus",
-    "types": "Grass, Poison",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.0 kg",
-    "abilities": "Effect-Spore, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+    "id": "0962",
+    "name": "Bombirdier",
+    "types": "Flying, Dark",
+    "species": "Item Drop Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "42.9 kg",
+    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
   }
 }
