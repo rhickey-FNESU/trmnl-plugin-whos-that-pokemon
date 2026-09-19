@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T14:01:00.461787",
+  "timestamp": "2026-09-19T14:20:36.706272",
   "pokemon_data": {
-    "id": "0381",
-    "name": "Latios",
-    "types": "Dragon, Psychic",
-    "species": "Eon Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "60.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png"
+    "id": "0918",
+    "name": "Spidops",
+    "types": "Bug",
+    "species": "Trap Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "16.5 kg",
+    "abilities": "Insomnia, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
   }
 }
