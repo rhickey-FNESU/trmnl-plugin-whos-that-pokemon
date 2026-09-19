@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T01:33:44.248485",
+  "timestamp": "2026-09-19T01:47:42.003442",
   "pokemon_data": {
-    "id": "0931",
-    "name": "Squawkabilly-Green-Plumage",
-    "types": "Normal, Flying",
-    "species": "Parrot Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.4 kg",
-    "abilities": "Intimidate, Hustle, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png"
+    "id": "0895",
+    "name": "Regidrago",
+    "types": "Dragon",
+    "species": "Dragon Orb Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "200.0 kg",
+    "abilities": "Dragons-Maw",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
   }
 }
