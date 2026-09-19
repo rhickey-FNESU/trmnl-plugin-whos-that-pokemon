@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T10:01:13.656008",
+  "timestamp": "2026-09-19T10:21:10.964745",
   "pokemon_data": {
-    "id": "0962",
-    "name": "Bombirdier",
-    "types": "Flying, Dark",
-    "species": "Item Drop Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "42.9 kg",
-    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+    "id": "0718",
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
