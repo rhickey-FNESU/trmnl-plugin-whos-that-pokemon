@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T15:32:49.974162",
+  "timestamp": "2026-09-19T15:46:05.114667",
   "pokemon_data": {
-    "id": "0332",
-    "name": "Cacturne",
-    "types": "Grass, Dark",
-    "species": "Scarecrow Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "77.4 kg",
-    "abilities": "Sand-Veil, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
+    "id": "0262",
+    "name": "Mightyena",
+    "types": "Dark",
+    "species": "Bite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "37.0 kg",
+    "abilities": "Intimidate, Quick-Feet, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png"
   }
 }
