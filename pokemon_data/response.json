@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T04:21:33.715008",
+  "timestamp": "2026-09-19T04:33:57.020255",
   "pokemon_data": {
-    "id": "0144",
-    "name": "Articuno",
-    "types": "Ice, Flying",
-    "species": "Freeze Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "55.4 kg",
-    "abilities": "Pressure, Snow-Cloak",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+    "id": "0530",
+    "name": "Excadrill",
+    "types": "Ground, Steel",
+    "species": "Subterrene Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "40.4 kg",
+    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
   }
 }
