@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T14:20:36.706272",
+  "timestamp": "2026-09-19T14:33:02.495528",
   "pokemon_data": {
-    "id": "0918",
-    "name": "Spidops",
-    "types": "Bug",
-    "species": "Trap Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "16.5 kg",
-    "abilities": "Insomnia, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+    "id": "0284",
+    "name": "Masquerain",
+    "types": "Bug, Flying",
+    "species": "Eyeball Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "3.6 kg",
+    "abilities": "Intimidate, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
   }
 }
