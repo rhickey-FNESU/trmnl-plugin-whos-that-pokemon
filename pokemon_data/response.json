@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T23:00:55.019201",
+  "timestamp": "2026-09-19T23:19:16.738528",
   "pokemon_data": {
-    "id": "0072",
-    "name": "Tentacool",
-    "types": "Water, Poison",
-    "species": "Jellyfish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "45.5 kg",
-    "abilities": "Clear-Body, Liquid-Ooze, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+    "id": "0810",
+    "name": "Grookey",
+    "types": "Grass",
+    "species": "Chimp Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "5.0 kg",
+    "abilities": "Overgrow, Grassy-Surge",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png"
   }
 }
