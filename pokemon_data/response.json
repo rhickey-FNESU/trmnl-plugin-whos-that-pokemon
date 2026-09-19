@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T04:01:06.154980",
+  "timestamp": "2026-09-19T04:21:33.715008",
   "pokemon_data": {
-    "id": "0183",
-    "name": "Marill",
-    "types": "Water, Fairy",
-    "species": "Aqua Mouse Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.5 kg",
-    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png"
+    "id": "0144",
+    "name": "Articuno",
+    "types": "Ice, Flying",
+    "species": "Freeze Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "55.4 kg",
+    "abilities": "Pressure, Snow-Cloak",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
   }
 }
