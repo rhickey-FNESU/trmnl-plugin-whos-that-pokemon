@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T06:50:07.251059",
+  "timestamp": "2026-09-19T07:01:00.609980",
   "pokemon_data": {
-    "id": "0122",
-    "name": "Mr-Mime",
-    "types": "Psychic, Fairy",
-    "species": "Barrier Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "54.5 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+    "id": "0140",
+    "name": "Kabuto",
+    "types": "Rock, Water",
+    "species": "Shellfish Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "11.5 kg",
+    "abilities": "Swift-Swim, Battle-Armor, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
   }
 }
