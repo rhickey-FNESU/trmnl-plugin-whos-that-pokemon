@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T17:19:22.759171",
+  "timestamp": "2026-09-19T17:31:00.153070",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
+    "id": "0885",
+    "name": "Dreepy",
+    "types": "Dragon, Ghost",
+    "species": "Lingering Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "weight": "2.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
   }
 }
