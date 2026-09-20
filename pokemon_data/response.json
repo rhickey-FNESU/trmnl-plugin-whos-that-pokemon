@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T08:22:19.673213",
+  "timestamp": "2026-09-20T08:34:20.678143",
   "pokemon_data": {
-    "id": "0269",
-    "name": "Dustox",
-    "types": "Bug, Poison",
-    "species": "Poison Moth Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "31.6 kg",
-    "abilities": "Shield-Dust, Compound-Eyes",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
+    "id": "0846",
+    "name": "Arrokuda",
+    "types": "Water",
+    "species": "Rush Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.0 kg",
+    "abilities": "Swift-Swim, Propeller-Tail",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
   }
 }
