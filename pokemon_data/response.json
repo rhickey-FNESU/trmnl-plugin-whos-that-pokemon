@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T09:21:00.295372",
+  "timestamp": "2026-09-20T09:33:14.870056",
   "pokemon_data": {
-    "id": "0122",
-    "name": "Mr-Mime",
-    "types": "Psychic, Fairy",
-    "species": "Barrier Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "54.5 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+    "id": "0710",
+    "name": "Pumpkaboo-Average",
+    "types": "Ghost, Grass",
+    "species": "Pumpkin Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Pickup, Frisk, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png"
   }
 }
