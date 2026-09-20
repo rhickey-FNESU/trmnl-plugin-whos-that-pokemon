@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T08:00:57.981057",
+  "timestamp": "2026-09-20T08:22:19.673213",
   "pokemon_data": {
-    "id": "0426",
-    "name": "Drifblim",
-    "types": "Ghost, Flying",
-    "species": "Blimp Pok\u00e9mon",
+    "id": "0269",
+    "name": "Dustox",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "15.0 kg",
-    "abilities": "Aftermath, Unburden, Flare-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+    "weight": "31.6 kg",
+    "abilities": "Shield-Dust, Compound-Eyes",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
   }
 }
