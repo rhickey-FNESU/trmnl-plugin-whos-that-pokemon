@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T12:00:51.363957",
+  "timestamp": "2026-09-20T12:25:37.026368",
   "pokemon_data": {
-    "id": "0485",
-    "name": "Heatran",
-    "types": "Fire, Steel",
-    "species": "Lava Dome Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "430.0 kg",
-    "abilities": "Flash-Fire, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png"
+    "id": "0593",
+    "name": "Jellicent-Male",
+    "types": "Water, Ghost",
+    "species": "Floating Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "135.0 kg",
+    "abilities": "Water-Absorb, Cursed-Body, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
   }
 }
