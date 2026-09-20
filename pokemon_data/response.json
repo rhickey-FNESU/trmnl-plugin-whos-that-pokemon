@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T13:46:14.949949",
+  "timestamp": "2026-09-20T14:01:32.587683",
   "pokemon_data": {
-    "id": "0493",
-    "name": "Arceus",
-    "types": "Normal",
-    "species": "Alpha Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "320.0 kg",
-    "abilities": "Multitype",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+    "id": "0010",
+    "name": "Caterpie",
+    "types": "Bug",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.9 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
   }
 }
