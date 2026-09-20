@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T18:35:08.184556",
+  "timestamp": "2026-09-20T18:47:47.765525",
   "pokemon_data": {
-    "id": "0636",
-    "name": "Larvesta",
-    "types": "Bug, Fire",
-    "species": "Torch Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "28.8 kg",
-    "abilities": "Flame-Body, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+    "id": "0051",
+    "name": "Dugtrio",
+    "types": "Ground",
+    "species": "Mole Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "33.3 kg",
+    "abilities": "Sand-Veil, Arena-Trap, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
   }
 }
