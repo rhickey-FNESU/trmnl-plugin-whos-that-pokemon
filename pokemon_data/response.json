@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T05:00:56.756906",
+  "timestamp": "2026-09-20T05:20:43.005109",
   "pokemon_data": {
-    "id": "0840",
-    "name": "Applin",
-    "types": "Grass, Dragon",
-    "species": "Apple Core Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.5 kg",
-    "abilities": "Ripen, Gluttony, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png"
+    "id": "0462",
+    "name": "Magnezone",
+    "types": "Electric, Steel",
+    "species": "Magnet Area Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "180.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png"
   }
 }
