@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T05:46:40.301286",
+  "timestamp": "2026-09-20T06:00:56.389947",
   "pokemon_data": {
-    "id": "0998",
-    "name": "Baxcalibur",
-    "types": "Dragon, Ice",
-    "species": "Ice Dragon Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "210.0 kg",
-    "abilities": "Thermal-Exchange, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
+    "id": "0040",
+    "name": "Wigglytuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "12.0 kg",
+    "abilities": "Cute-Charm, Competitive, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
   }
 }
