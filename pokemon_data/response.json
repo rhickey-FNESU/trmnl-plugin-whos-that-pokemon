@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T22:20:54.441784",
+  "timestamp": "2026-09-20T22:32:47.695450",
   "pokemon_data": {
-    "id": "0565",
-    "name": "Carracosta",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
+    "id": "0193",
+    "name": "Yanma",
+    "types": "Bug, Flying",
+    "species": "Clear Wing Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "81.0 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+    "weight": "38.0 kg",
+    "abilities": "Speed-Boost, Compound-Eyes, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png"
   }
 }
