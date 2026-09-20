@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T03:00:55.282334",
+  "timestamp": "2026-09-20T03:22:24.446231",
   "pokemon_data": {
-    "id": "0827",
-    "name": "Nickit",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+    "id": "0895",
+    "name": "Regidrago",
+    "types": "Dragon",
+    "species": "Dragon Orb Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "200.0 kg",
+    "abilities": "Dragons-Maw",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
   }
 }
