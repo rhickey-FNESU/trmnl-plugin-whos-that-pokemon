@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T08:47:39.170486",
+  "timestamp": "2026-09-20T09:01:16.963376",
   "pokemon_data": {
-    "id": "0301",
-    "name": "Delcatty",
-    "types": "Normal",
-    "species": "Prim Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.6 kg",
-    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+    "id": "0950",
+    "name": "Klawf",
+    "types": "Rock",
+    "species": "Ambush Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "79.0 kg",
+    "abilities": "Anger-Shell, Shell-Armor, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png"
   }
 }
