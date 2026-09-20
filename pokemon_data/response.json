@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T03:34:48.186383",
+  "timestamp": "2026-09-20T03:48:03.644707",
   "pokemon_data": {
-    "id": "0018",
-    "name": "Pidgeot",
-    "types": "Normal, Flying",
-    "species": "Bird Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.5 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    "id": "0062",
+    "name": "Poliwrath",
+    "types": "Water, Fighting",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
   }
 }
