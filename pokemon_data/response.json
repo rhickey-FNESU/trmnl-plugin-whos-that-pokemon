@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T01:20:10.746726",
+  "timestamp": "2026-09-20T01:33:13.651295",
   "pokemon_data": {
-    "id": "0289",
-    "name": "Slaking",
-    "types": "Normal",
-    "species": "Lazy Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "130.5 kg",
-    "abilities": "Truant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png"
+    "id": "0122",
+    "name": "Mr-Mime",
+    "types": "Psychic, Fairy",
+    "species": "Barrier Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.5 kg",
+    "abilities": "Soundproof, Filter, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
   }
 }
