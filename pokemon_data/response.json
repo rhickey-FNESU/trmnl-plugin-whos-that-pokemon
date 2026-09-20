@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T22:32:47.695450",
+  "timestamp": "2026-09-20T22:47:29.908619",
   "pokemon_data": {
-    "id": "0193",
-    "name": "Yanma",
-    "types": "Bug, Flying",
-    "species": "Clear Wing Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "abilities": "Speed-Boost, Compound-Eyes, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png"
+    "id": "0299",
+    "name": "Nosepass",
+    "types": "Rock",
+    "species": "Compass Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "97.0 kg",
+    "abilities": "Sturdy, Magnet-Pull, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png"
   }
 }
