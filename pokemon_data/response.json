@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T21:20:27.292543",
+  "timestamp": "2026-09-20T21:32:52.859945",
   "pokemon_data": {
-    "id": "0649",
-    "name": "Genesect",
-    "types": "Bug, Steel",
-    "species": "Paleozoic Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "82.5 kg",
-    "abilities": "Download",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+    "id": "0960",
+    "name": "Wiglett",
+    "types": "Water",
+    "species": "Garden Eel Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "1.8 kg",
+    "abilities": "Gooey, Rattled, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
   }
 }
