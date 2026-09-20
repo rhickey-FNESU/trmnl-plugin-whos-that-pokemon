@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T22:00:48.761203",
+  "timestamp": "2026-09-20T22:20:54.441784",
   "pokemon_data": {
-    "id": "0760",
-    "name": "Bewear",
-    "types": "Normal, Fighting",
-    "species": "Strong Arm Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "135.0 kg",
-    "abilities": "Fluffy, Klutz, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
+    "id": "0565",
+    "name": "Carracosta",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "81.0 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
   }
 }
