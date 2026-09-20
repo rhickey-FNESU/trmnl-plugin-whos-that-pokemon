@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T15:00:53.776855",
+  "timestamp": "2026-09-20T15:21:09.711193",
   "pokemon_data": {
-    "id": "0358",
-    "name": "Chimecho",
-    "types": "Psychic",
-    "species": "Wind Chime Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
+    "id": "0873",
+    "name": "Frosmoth",
+    "types": "Ice, Bug",
+    "species": "Frost Moth Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "42.0 kg",
+    "abilities": "Shield-Dust, Ice-Scales",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png"
   }
 }
