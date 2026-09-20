@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T02:01:13.593996",
+  "timestamp": "2026-09-20T02:22:05.719884",
   "pokemon_data": {
-    "id": "0727",
-    "name": "Incineroar",
-    "types": "Fire, Dark",
-    "species": "Heel Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "83.0 kg",
-    "abilities": "Blaze, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png"
+    "id": "0912",
+    "name": "Quaxly",
+    "types": "Water",
+    "species": "Duckling Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.1 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
   }
 }
