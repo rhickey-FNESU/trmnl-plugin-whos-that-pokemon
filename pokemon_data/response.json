@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T10:33:30.572893",
+  "timestamp": "2026-09-20T10:46:37.817781",
   "pokemon_data": {
-    "id": "0748",
-    "name": "Toxapex",
-    "types": "Poison, Water",
-    "species": "Brutal Star Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.5 kg",
-    "abilities": "Merciless, Limber, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
+    "id": "0070",
+    "name": "Weepinbell",
+    "types": "Grass, Poison",
+    "species": "Flycatcher Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "6.4 kg",
+    "abilities": "Chlorophyll, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
   }
 }
