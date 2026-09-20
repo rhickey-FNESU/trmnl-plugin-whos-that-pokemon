@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T20:45:40.233136",
+  "timestamp": "2026-09-20T21:01:06.646130",
   "pokemon_data": {
-    "id": "0097",
-    "name": "Hypno",
-    "types": "Psychic",
-    "species": "Hypnosis Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "75.6 kg",
-    "abilities": "Insomnia, Forewarn, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+    "id": "0584",
+    "name": "Vanilluxe",
+    "types": "Ice",
+    "species": "Snowstorm Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "57.5 kg",
+    "abilities": "Ice-Body, Snow-Warning, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
   }
 }
