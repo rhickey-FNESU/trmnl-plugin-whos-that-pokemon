@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T18:23:00.899731",
+  "timestamp": "2026-09-20T18:35:08.184556",
   "pokemon_data": {
-    "id": "0328",
-    "name": "Trapinch",
-    "types": "Ground",
-    "species": "Ant Pit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.0 kg",
-    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+    "id": "0636",
+    "name": "Larvesta",
+    "types": "Bug, Fire",
+    "species": "Torch Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "28.8 kg",
+    "abilities": "Flame-Body, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
   }
 }
