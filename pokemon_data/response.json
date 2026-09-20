@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T03:22:24.446231",
+  "timestamp": "2026-09-20T03:34:48.186383",
   "pokemon_data": {
-    "id": "0895",
-    "name": "Regidrago",
-    "types": "Dragon",
-    "species": "Dragon Orb Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "200.0 kg",
-    "abilities": "Dragons-Maw",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
+    "id": "0018",
+    "name": "Pidgeot",
+    "types": "Normal, Flying",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
