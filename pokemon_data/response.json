@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T09:46:31.371463",
+  "timestamp": "2026-09-20T10:01:08.540345",
   "pokemon_data": {
-    "id": "0126",
-    "name": "Magmar",
-    "types": "Fire",
-    "species": "Spitfire Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "44.5 kg",
-    "abilities": "Flame-Body, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+    "id": "0823",
+    "name": "Corviknight",
+    "types": "Flying, Steel",
+    "species": "Raven Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "75.0 kg",
+    "abilities": "Pressure, Unnerve, Mirror-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
   }
 }
