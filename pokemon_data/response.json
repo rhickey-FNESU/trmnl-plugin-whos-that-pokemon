@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T08:34:20.678143",
+  "timestamp": "2026-09-20T08:47:39.170486",
   "pokemon_data": {
-    "id": "0846",
-    "name": "Arrokuda",
-    "types": "Water",
-    "species": "Rush Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.0 kg",
-    "abilities": "Swift-Swim, Propeller-Tail",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
+    "id": "0301",
+    "name": "Delcatty",
+    "types": "Normal",
+    "species": "Prim Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.6 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
   }
 }
