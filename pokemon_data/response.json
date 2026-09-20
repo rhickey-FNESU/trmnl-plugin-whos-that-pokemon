@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T18:01:16.715146",
+  "timestamp": "2026-09-20T18:23:00.899731",
   "pokemon_data": {
-    "id": "0426",
-    "name": "Drifblim",
-    "types": "Ghost, Flying",
-    "species": "Blimp Pok\u00e9mon",
-    "height": "1.2 m",
+    "id": "0328",
+    "name": "Trapinch",
+    "types": "Ground",
+    "species": "Ant Pit Pok\u00e9mon",
+    "height": "0.7 m",
     "weight": "15.0 kg",
-    "abilities": "Aftermath, Unburden, Flare-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
   }
 }
