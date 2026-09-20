@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T14:46:31.974445",
+  "timestamp": "2026-09-20T15:00:53.776855",
   "pokemon_data": {
-    "id": "0338",
-    "name": "Solrock",
-    "types": "Rock, Psychic",
-    "species": "Meteorite Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "154.0 kg",
+    "id": "0358",
+    "name": "Chimecho",
+    "types": "Psychic",
+    "species": "Wind Chime Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
     "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
   }
 }
