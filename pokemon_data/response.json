@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T11:32:49.783683",
+  "timestamp": "2026-09-20T11:46:00.643038",
   "pokemon_data": {
-    "id": "0108",
-    "name": "Lickitung",
-    "types": "Normal",
-    "species": "Licking Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "65.5 kg",
-    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+    "id": "0992",
+    "name": "Iron-Hands",
+    "types": "Fighting, Electric",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "380.7 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png"
   }
 }
