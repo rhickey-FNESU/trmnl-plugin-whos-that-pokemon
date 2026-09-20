@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T07:32:57.223899",
+  "timestamp": "2026-09-20T07:46:26.035627",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "id": "0631",
+    "name": "Heatmor",
+    "types": "Fire",
+    "species": "Anteater Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "58.0 kg",
+    "abilities": "Gluttony, Flash-Fire, White-Smoke",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png"
   }
 }
