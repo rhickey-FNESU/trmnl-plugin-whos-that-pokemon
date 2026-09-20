@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T07:20:47.034418",
+  "timestamp": "2026-09-20T07:32:57.223899",
   "pokemon_data": {
-    "id": "0176",
-    "name": "Togetic",
-    "types": "Fairy, Flying",
-    "species": "Happiness Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "3.2 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png"
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
