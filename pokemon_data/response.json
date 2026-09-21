@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T17:32:41.262105",
+  "timestamp": "2026-09-21T17:47:15.589055",
   "pokemon_data": {
-    "id": "0394",
-    "name": "Prinplup",
-    "types": "Water",
-    "species": "Penguin Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "23.0 kg",
-    "abilities": "Torrent, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
+    "id": "0643",
+    "name": "Reshiram",
+    "types": "Dragon, Fire",
+    "species": "Vast White Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "330.0 kg",
+    "abilities": "Turboblaze",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
   }
 }
