@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T03:50:00.954242",
+  "timestamp": "2026-09-21T04:00:52.609007",
   "pokemon_data": {
-    "id": "0461",
-    "name": "Weavile",
-    "types": "Dark, Ice",
-    "species": "Sharp Claw Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "34.0 kg",
-    "abilities": "Pressure, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
+    "id": "0854",
+    "name": "Sinistea",
+    "types": "Ghost",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Weak-Armor, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
   }
 }
