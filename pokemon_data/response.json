@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T02:22:30.958862",
+  "timestamp": "2026-09-21T02:35:07.904805",
   "pokemon_data": {
-    "id": "0079",
-    "name": "Slowpoke",
-    "types": "Water, Psychic",
-    "species": "Dopey Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "36.0 kg",
-    "abilities": "Oblivious, Own-Tempo, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+    "id": "0721",
+    "name": "Volcanion",
+    "types": "Fire, Water",
+    "species": "Steam Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "195.0 kg",
+    "abilities": "Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
   }
 }
