@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T14:49:33.777713",
+  "timestamp": "2026-09-21T15:01:07.580301",
   "pokemon_data": {
-    "id": "0055",
-    "name": "Golduck",
-    "types": "Water",
-    "species": "Duck Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "76.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+    "id": "0002",
+    "name": "Ivysaur",
+    "types": "Grass, Poison",
+    "species": "Seed Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "13.0 kg",
+    "abilities": "Overgrow, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
   }
 }
