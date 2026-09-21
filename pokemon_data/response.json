@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T00:00:57.406985",
+  "timestamp": "2026-09-21T00:29:34.002796",
   "pokemon_data": {
-    "id": "0445",
-    "name": "Garchomp",
-    "types": "Dragon, Ground",
-    "species": "Mach Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "95.0 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+    "id": "0120",
+    "name": "Staryu",
+    "types": "Water",
+    "species": "Star Shape Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "34.5 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
   }
 }
