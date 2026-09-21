@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T23:45:58.438508",
+  "timestamp": "2026-09-21T00:00:57.406985",
   "pokemon_data": {
-    "id": "0733",
-    "name": "Toucannon",
-    "types": "Normal, Flying",
-    "species": "Cannon Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "26.0 kg",
-    "abilities": "Keen-Eye, Skill-Link, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+    "id": "0445",
+    "name": "Garchomp",
+    "types": "Dragon, Ground",
+    "species": "Mach Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "95.0 kg",
+    "abilities": "Sand-Veil, Rough-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
   }
 }
