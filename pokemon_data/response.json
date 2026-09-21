@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T07:02:58.497775",
+  "timestamp": "2026-09-21T07:24:18.908113",
   "pokemon_data": {
-    "id": "0586",
-    "name": "Sawsbuck",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "92.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    "id": "0174",
+    "name": "Igglybuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
   }
 }
