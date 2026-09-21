@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T10:00:53.130121",
+  "timestamp": "2026-09-21T10:22:46.061140",
   "pokemon_data": {
-    "id": "0837",
-    "name": "Rolycoly",
-    "types": "Rock",
-    "species": "Coal Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "12.0 kg",
-    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+    "id": "0350",
+    "name": "Milotic",
+    "types": "Water",
+    "species": "Tender Pok\u00e9mon",
+    "height": "6.2 m",
+    "weight": "162.0 kg",
+    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
   }
 }
