@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T17:47:15.589055",
+  "timestamp": "2026-09-21T18:01:33.683042",
   "pokemon_data": {
-    "id": "0643",
-    "name": "Reshiram",
-    "types": "Dragon, Fire",
-    "species": "Vast White Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "330.0 kg",
-    "abilities": "Turboblaze",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
+    "id": "0121",
+    "name": "Starmie",
+    "types": "Water, Psychic",
+    "species": "Mysterious Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "80.0 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
   }
 }
