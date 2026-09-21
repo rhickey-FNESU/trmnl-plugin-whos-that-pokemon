@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T10:34:10.475567",
+  "timestamp": "2026-09-21T10:48:01.605451",
   "pokemon_data": {
-    "id": "0834",
-    "name": "Drednaw",
-    "types": "Water, Rock",
-    "species": "Bite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "115.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+    "id": "0980",
+    "name": "Clodsire",
+    "types": "Poison, Ground",
+    "species": "Spiny Fish Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "223.0 kg",
+    "abilities": "Poison-Point, Water-Absorb, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
   }
 }
