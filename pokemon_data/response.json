@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T04:36:42.033525",
+  "timestamp": "2026-09-21T04:50:02.061784",
   "pokemon_data": {
-    "id": "0005",
-    "name": "Charmeleon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.0 kg",
-    "abilities": "Blaze, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
