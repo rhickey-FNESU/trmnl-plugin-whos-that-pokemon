@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T02:49:28.761194",
+  "timestamp": "2026-09-21T03:00:50.151945",
   "pokemon_data": {
-    "id": "0098",
-    "name": "Krabby",
-    "types": "Water",
-    "species": "River Crab Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.5 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+    "id": "0976",
+    "name": "Veluza",
+    "types": "Water, Psychic",
+    "species": "Jettison Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "90.0 kg",
+    "abilities": "Mold-Breaker, Sharpness",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
   }
 }
