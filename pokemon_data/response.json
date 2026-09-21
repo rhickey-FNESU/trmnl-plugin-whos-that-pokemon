@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T15:48:19.556274",
+  "timestamp": "2026-09-21T16:01:00.703691",
   "pokemon_data": {
-    "id": "0874",
-    "name": "Stonjourner",
-    "types": "Rock",
-    "species": "Big Rock Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "520.0 kg",
-    "abilities": "Power-Spot",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    "id": "0599",
+    "name": "Klink",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "21.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
   }
 }
