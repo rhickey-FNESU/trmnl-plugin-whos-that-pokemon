@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T13:49:09.531540",
+  "timestamp": "2026-09-21T14:01:09.510518",
   "pokemon_data": {
-    "id": "0797",
-    "name": "Celesteela",
-    "types": "Steel, Flying",
-    "species": "Launch Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "999.9 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
+    "id": "0788",
+    "name": "Tapu-Fini",
+    "types": "Water, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "21.2 kg",
+    "abilities": "Misty-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
   }
 }
