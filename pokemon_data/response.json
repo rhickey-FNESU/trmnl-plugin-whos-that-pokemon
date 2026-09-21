@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T21:46:07.244587",
+  "timestamp": "2026-09-21T22:01:12.681689",
   "pokemon_data": {
-    "id": "0851",
-    "name": "Centiskorch",
-    "types": "Fire, Bug",
-    "species": "Radiator Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Flash-Fire, White-Smoke, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
