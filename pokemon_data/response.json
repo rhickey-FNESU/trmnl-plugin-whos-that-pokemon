@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T10:22:46.061140",
+  "timestamp": "2026-09-21T10:34:10.475567",
   "pokemon_data": {
-    "id": "0350",
-    "name": "Milotic",
-    "types": "Water",
-    "species": "Tender Pok\u00e9mon",
-    "height": "6.2 m",
-    "weight": "162.0 kg",
-    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+    "id": "0834",
+    "name": "Drednaw",
+    "types": "Water, Rock",
+    "species": "Bite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "115.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
   }
 }
