@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T04:00:52.609007",
+  "timestamp": "2026-09-21T04:23:28.231578",
   "pokemon_data": {
-    "id": "0854",
-    "name": "Sinistea",
-    "types": "Ghost",
-    "species": "Black Tea Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Weak-Armor, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
+    "id": "1024",
+    "name": "Terapagos",
+    "types": "Normal",
+    "species": "Tera Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "6.5 kg",
+    "abilities": "Tera-Shift",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
   }
 }
