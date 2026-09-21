@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T17:19:39.737652",
+  "timestamp": "2026-09-21T17:32:41.262105",
   "pokemon_data": {
-    "id": "0779",
-    "name": "Bruxish",
-    "types": "Water, Psychic",
-    "species": "Gnash Teeth Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "19.0 kg",
-    "abilities": "Dazzling, Strong-Jaw, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+    "id": "0394",
+    "name": "Prinplup",
+    "types": "Water",
+    "species": "Penguin Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "23.0 kg",
+    "abilities": "Torrent, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
   }
 }
