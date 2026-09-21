@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T01:34:21.757405",
+  "timestamp": "2026-09-21T01:48:32.254968",
   "pokemon_data": {
-    "id": "0082",
-    "name": "Magneton",
-    "types": "Electric, Steel",
-    "species": "Magnet Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "60.0 kg",
-    "abilities": "Magnet-Pull, Sturdy, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+    "id": "0372",
+    "name": "Shelgon",
+    "types": "Dragon",
+    "species": "Endurance Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "110.5 kg",
+    "abilities": "Rock-Head, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
   }
 }
