@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T16:01:00.703691",
+  "timestamp": "2026-09-21T16:22:55.517308",
   "pokemon_data": {
-    "id": "0599",
-    "name": "Klink",
-    "types": "Steel",
-    "species": "Gear Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "21.0 kg",
-    "abilities": "Plus, Minus, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+    "id": "0849",
+    "name": "Toxtricity-Amped",
+    "types": "Electric, Poison",
+    "species": "Punk Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "40.0 kg",
+    "abilities": "Punk-Rock, Plus, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
   }
 }
