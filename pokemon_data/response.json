@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T04:50:02.061784",
+  "timestamp": "2026-09-21T05:01:30.837123",
   "pokemon_data": {
-    "id": "0377",
-    "name": "Regirock",
-    "types": "Rock",
-    "species": "Rock Peak Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "230.0 kg",
-    "abilities": "Clear-Body, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+    "id": "0867",
+    "name": "Runerigus",
+    "types": "Ground, Ghost",
+    "species": "Grudge Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "66.6 kg",
+    "abilities": "Wandering-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
   }
 }
