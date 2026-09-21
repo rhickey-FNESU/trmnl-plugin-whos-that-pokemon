@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T21:21:43.128547",
+  "timestamp": "2026-09-21T21:33:44.675683",
   "pokemon_data": {
-    "id": "0191",
-    "name": "Sunkern",
-    "types": "Grass",
-    "species": "Seed Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Chlorophyll, Solar-Power, Early-Bird",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
+    "id": "0329",
+    "name": "Vibrava",
+    "types": "Ground, Dragon",
+    "species": "Vibration Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "15.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
   }
 }
