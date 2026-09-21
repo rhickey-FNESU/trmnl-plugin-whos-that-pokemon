@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T13:22:22.500319",
+  "timestamp": "2026-09-21T13:34:26.856579",
   "pokemon_data": {
-    "id": "0471",
-    "name": "Glaceon",
-    "types": "Ice",
-    "species": "Fresh Snow Pok\u00e9mon",
+    "id": "0083",
+    "name": "Farfetchd",
+    "types": "Normal, Flying",
+    "species": "Wild Duck Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "25.9 kg",
-    "abilities": "Snow-Cloak, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+    "weight": "15.0 kg",
+    "abilities": "Keen-Eye, Inner-Focus, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
   }
 }
