@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T15:33:26.553815",
+  "timestamp": "2026-09-21T15:48:19.556274",
   "pokemon_data": {
-    "id": "0740",
-    "name": "Crabominable",
-    "types": "Fighting, Ice",
-    "species": "Woolly Crab Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "180.0 kg",
-    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+    "id": "0874",
+    "name": "Stonjourner",
+    "types": "Rock",
+    "species": "Big Rock Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "520.0 kg",
+    "abilities": "Power-Spot",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
   }
 }
