@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T03:00:50.151945",
+  "timestamp": "2026-09-21T03:23:08.201242",
   "pokemon_data": {
-    "id": "0976",
-    "name": "Veluza",
+    "id": "0080",
+    "name": "Slowbro",
     "types": "Water, Psychic",
-    "species": "Jettison Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "90.0 kg",
-    "abilities": "Mold-Breaker, Sharpness",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
+    "species": "Hermit Crab Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "78.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
   }
 }
