@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T22:46:56.191897",
+  "timestamp": "2026-09-21T23:01:29.256500",
   "pokemon_data": {
-    "id": "0225",
-    "name": "Delibird",
-    "types": "Ice, Flying",
-    "species": "Delivery Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "16.0 kg",
-    "abilities": "Vital-Spirit, Hustle, Insomnia",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+    "id": "0613",
+    "name": "Cubchoo",
+    "types": "Ice",
+    "species": "Chill Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
   }
 }
