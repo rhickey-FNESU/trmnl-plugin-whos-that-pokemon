@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T11:48:46.546930",
+  "timestamp": "2026-09-21T12:01:03.032247",
   "pokemon_data": {
-    "id": "0995",
-    "name": "Iron-Thorns",
-    "types": "Rock, Electric",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "303.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
+    "id": "0054",
+    "name": "Psyduck",
+    "types": "Water",
+    "species": "Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "19.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
   }
 }
