@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T09:48:52.928039",
+  "timestamp": "2026-09-21T10:00:53.130121",
   "pokemon_data": {
-    "id": "0963",
-    "name": "Finizen",
-    "types": "Water",
-    "species": "Dolphin Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.2 kg",
-    "abilities": "Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
+    "id": "0837",
+    "name": "Rolycoly",
+    "types": "Rock",
+    "species": "Coal Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "12.0 kg",
+    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
   }
 }
