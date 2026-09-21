@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T21:33:44.675683",
+  "timestamp": "2026-09-21T21:46:07.244587",
   "pokemon_data": {
-    "id": "0329",
-    "name": "Vibrava",
-    "types": "Ground, Dragon",
-    "species": "Vibration Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "15.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
+    "id": "0851",
+    "name": "Centiskorch",
+    "types": "Fire, Bug",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Flash-Fire, White-Smoke, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
   }
 }
