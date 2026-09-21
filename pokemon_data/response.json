@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T08:00:59.805724",
+  "timestamp": "2026-09-21T08:24:44.769231",
   "pokemon_data": {
-    "id": "0279",
-    "name": "Pelipper",
-    "types": "Water, Flying",
-    "species": "Water Bird Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "28.0 kg",
-    "abilities": "Keen-Eye, Drizzle, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
+    "id": "0972",
+    "name": "Houndstone",
+    "types": "Ghost",
+    "species": "Ghost Dog Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "15.0 kg",
+    "abilities": "Sand-Rush, Fluffy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
   }
 }
