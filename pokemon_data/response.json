@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T16:35:00.847665",
+  "timestamp": "2026-09-21T16:49:16.951289",
   "pokemon_data": {
-    "id": "0202",
-    "name": "Wobbuffet",
+    "id": "0096",
+    "name": "Drowzee",
     "types": "Psychic",
-    "species": "Patient Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "28.5 kg",
-    "abilities": "Shadow-Tag, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+    "species": "Hypnosis Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.4 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
   }
 }
