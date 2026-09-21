@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T20:47:02.863346",
+  "timestamp": "2026-09-21T21:01:11.842063",
   "pokemon_data": {
-    "id": "0032",
-    "name": "Nidoran-M",
-    "types": "Poison",
-    "species": "Poison Pin Pok\u00e9mon",
+    "id": "0441",
+    "name": "Chatot",
+    "types": "Normal, Flying",
+    "species": "Music Note Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Poison-Point, Rivalry, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+    "weight": "1.9 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
   }
 }
