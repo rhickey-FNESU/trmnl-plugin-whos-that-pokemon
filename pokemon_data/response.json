@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T12:37:14.482194",
+  "timestamp": "2026-09-21T12:50:19.327441",
   "pokemon_data": {
-    "id": "0867",
-    "name": "Runerigus",
-    "types": "Ground, Ghost",
-    "species": "Grudge Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "66.6 kg",
-    "abilities": "Wandering-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
+    "id": "0392",
+    "name": "Infernape",
+    "types": "Fire, Fighting",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "55.0 kg",
+    "abilities": "Blaze, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
   }
 }
