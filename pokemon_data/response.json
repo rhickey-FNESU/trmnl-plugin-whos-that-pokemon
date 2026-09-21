@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T07:50:21.264822",
+  "timestamp": "2026-09-21T08:00:59.805724",
   "pokemon_data": {
-    "id": "0796",
-    "name": "Xurkitree",
-    "types": "Electric",
-    "species": "Glowing Pok\u00e9mon",
-    "height": "3.8 m",
-    "weight": "100.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+    "id": "0279",
+    "name": "Pelipper",
+    "types": "Water, Flying",
+    "species": "Water Bird Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "28.0 kg",
+    "abilities": "Keen-Eye, Drizzle, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
   }
 }
