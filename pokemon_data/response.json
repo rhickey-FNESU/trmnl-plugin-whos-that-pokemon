@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T14:35:17.191704",
+  "timestamp": "2026-09-21T14:49:33.777713",
   "pokemon_data": {
-    "id": "0385",
-    "name": "Jirachi",
-    "types": "Steel, Psychic",
-    "species": "Wish Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.1 kg",
-    "abilities": "Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
+    "id": "0055",
+    "name": "Golduck",
+    "types": "Water",
+    "species": "Duck Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "76.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
   }
 }
