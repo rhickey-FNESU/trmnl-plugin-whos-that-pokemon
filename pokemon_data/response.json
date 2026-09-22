@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T23:19:58.548600",
+  "timestamp": "2026-09-22T23:32:21.279612",
   "pokemon_data": {
-    "id": "0771",
-    "name": "Pyukumuku",
-    "types": "Water",
-    "species": "Sea Cucumber Pok\u00e9mon",
+    "id": "0046",
+    "name": "Paras",
+    "types": "Bug, Grass",
+    "species": "Mushroom Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "1.2 kg",
-    "abilities": "Innards-Out, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
+    "weight": "5.4 kg",
+    "abilities": "Effect-Spore, Dry-Skin, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
   }
 }
