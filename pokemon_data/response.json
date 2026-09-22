@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T01:46:47.816436",
+  "timestamp": "2026-09-22T02:01:07.567423",
   "pokemon_data": {
-    "id": "0338",
-    "name": "Solrock",
-    "types": "Rock, Psychic",
-    "species": "Meteorite Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "154.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
+    "id": "0230",
+    "name": "Kingdra",
+    "types": "Water, Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "152.0 kg",
+    "abilities": "Swift-Swim, Sniper, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
   }
 }
