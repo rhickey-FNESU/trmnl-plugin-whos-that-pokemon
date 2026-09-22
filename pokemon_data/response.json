@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T09:48:16.091485",
+  "timestamp": "2026-09-22T10:01:17.303518",
   "pokemon_data": {
-    "id": "0674",
-    "name": "Pancham",
-    "types": "Fighting",
-    "species": "Playful Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+    "id": "0010",
+    "name": "Caterpie",
+    "types": "Bug",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.9 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
   }
 }
