@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T06:01:03.024124",
+  "timestamp": "2026-09-22T06:27:27.734871",
   "pokemon_data": {
-    "id": "0040",
-    "name": "Wigglytuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "12.0 kg",
-    "abilities": "Cute-Charm, Competitive, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+    "id": "0595",
+    "name": "Joltik",
+    "types": "Bug, Electric",
+    "species": "Attaching Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.6 kg",
+    "abilities": "Compound-Eyes, Unnerve, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
   }
 }
