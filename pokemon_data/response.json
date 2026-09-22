@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T19:47:34.852347",
+  "timestamp": "2026-09-22T20:00:57.199466",
   "pokemon_data": {
-    "id": "0268",
-    "name": "Cascoon",
-    "types": "Bug",
-    "species": "Cocoon Pok\u00e9mon",
+    "id": "0564",
+    "name": "Tirtouga",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
     "height": "0.7 m",
-    "weight": "11.5 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+    "weight": "16.5 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
   }
 }
