@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T20:48:00.801086",
+  "timestamp": "2026-09-22T21:01:18.107118",
   "pokemon_data": {
-    "id": "0668",
-    "name": "Pyroar-Male",
-    "types": "Fire, Normal",
-    "species": "Royal Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "81.5 kg",
-    "abilities": "Rivalry, Unnerve, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+    "id": "0086",
+    "name": "Seel",
+    "types": "Water",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "90.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
   }
 }
