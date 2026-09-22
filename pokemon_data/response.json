@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T11:48:02.698991",
+  "timestamp": "2026-09-22T12:01:15.205089",
   "pokemon_data": {
-    "id": "0126",
-    "name": "Magmar",
-    "types": "Fire",
-    "species": "Spitfire Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "44.5 kg",
-    "abilities": "Flame-Body, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+    "id": "0277",
+    "name": "Swellow",
+    "types": "Normal, Flying",
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "19.8 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
   }
 }
