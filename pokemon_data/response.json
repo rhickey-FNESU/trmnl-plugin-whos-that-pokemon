@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T00:41:57.161226",
+  "timestamp": "2026-09-22T00:52:16.395366",
   "pokemon_data": {
-    "id": "0302",
-    "name": "Sableye",
-    "types": "Dark, Ghost",
-    "species": "Darkness Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "11.0 kg",
-    "abilities": "Keen-Eye, Stall, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+    "id": "0639",
+    "name": "Terrakion",
+    "types": "Rock, Fighting",
+    "species": "Cavern Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "260.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
   }
 }
