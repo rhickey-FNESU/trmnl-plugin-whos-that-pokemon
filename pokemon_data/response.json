@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T13:35:32.857011",
+  "timestamp": "2026-09-22T13:50:11.992319",
   "pokemon_data": {
-    "id": "0269",
-    "name": "Dustox",
-    "types": "Bug, Poison",
-    "species": "Poison Moth Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "31.6 kg",
-    "abilities": "Shield-Dust, Compound-Eyes",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
+    "id": "0797",
+    "name": "Celesteela",
+    "types": "Steel, Flying",
+    "species": "Launch Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "999.9 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
   }
 }
