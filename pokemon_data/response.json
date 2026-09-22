@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T09:22:08.492034",
+  "timestamp": "2026-09-22T09:34:00.553958",
   "pokemon_data": {
-    "id": "0477",
-    "name": "Dusknoir",
-    "types": "Ghost",
-    "species": "Gripper Pok\u00e9mon",
+    "id": "0389",
+    "name": "Torterra",
+    "types": "Grass, Ground",
+    "species": "Continent Pok\u00e9mon",
     "height": "2.2 m",
-    "weight": "106.6 kg",
-    "abilities": "Pressure, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
+    "weight": "310.0 kg",
+    "abilities": "Overgrow, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
   }
 }
