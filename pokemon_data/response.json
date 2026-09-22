@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T01:33:55.804220",
+  "timestamp": "2026-09-22T01:46:47.816436",
   "pokemon_data": {
-    "id": "0786",
-    "name": "Tapu-Lele",
-    "types": "Psychic, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
+    "id": "0338",
+    "name": "Solrock",
+    "types": "Rock, Psychic",
+    "species": "Meteorite Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "18.6 kg",
-    "abilities": "Psychic-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+    "weight": "154.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
   }
 }
