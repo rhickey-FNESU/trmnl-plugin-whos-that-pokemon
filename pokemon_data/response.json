@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T14:50:53.484318",
+  "timestamp": "2026-09-22T15:01:15.756586",
   "pokemon_data": {
-    "id": "0940",
-    "name": "Wattrel",
-    "types": "Electric, Flying",
-    "species": "Storm Petrel Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "3.6 kg",
-    "abilities": "Wind-Power, Volt-Absorb, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png"
+    "id": "0448",
+    "name": "Lucario",
+    "types": "Fighting, Steel",
+    "species": "Aura Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "54.0 kg",
+    "abilities": "Steadfast, Inner-Focus, Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"
   }
 }
