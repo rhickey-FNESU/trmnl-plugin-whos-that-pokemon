@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T06:41:31.238758",
+  "timestamp": "2026-09-22T06:53:17.666971",
   "pokemon_data": {
-    "id": "0546",
-    "name": "Cottonee",
-    "types": "Grass, Fairy",
-    "species": "Cotton Puff Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    "id": "1011",
+    "name": "Dipplin",
+    "types": "Grass, Dragon",
+    "species": "Candy Apple Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "9.7 kg",
+    "abilities": "Supersweet-Syrup, Gluttony, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png"
   }
 }
