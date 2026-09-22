@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T02:34:26.241656",
+  "timestamp": "2026-09-22T02:48:22.658626",
   "pokemon_data": {
-    "id": "0433",
-    "name": "Chingling",
-    "types": "Psychic",
-    "species": "Bell Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
+    "id": "0640",
+    "name": "Virizion",
+    "types": "Grass, Fighting",
+    "species": "Grassland Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "200.0 kg",
+    "abilities": "Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png"
   }
 }
