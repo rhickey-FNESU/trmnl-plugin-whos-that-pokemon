@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T12:01:15.205089",
+  "timestamp": "2026-09-22T12:27:14.127769",
   "pokemon_data": {
-    "id": "0277",
-    "name": "Swellow",
-    "types": "Normal, Flying",
-    "species": "Swallow Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.8 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
