@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T23:01:13.306364",
+  "timestamp": "2026-09-22T23:19:58.548600",
   "pokemon_data": {
-    "id": "0916",
-    "name": "Oinkologne-Male",
-    "types": "Normal",
-    "species": "Hog Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Lingering-Aroma, Gluttony, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
+    "id": "0771",
+    "name": "Pyukumuku",
+    "types": "Water",
+    "species": "Sea Cucumber Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.2 kg",
+    "abilities": "Innards-Out, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
   }
 }
