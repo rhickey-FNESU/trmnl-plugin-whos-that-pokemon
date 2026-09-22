@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T16:48:41.681064",
+  "timestamp": "2026-09-22T17:01:25.358942",
   "pokemon_data": {
-    "id": "0865",
-    "name": "Sirfetchd",
-    "types": "Fighting",
-    "species": "Wild Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "117.0 kg",
-    "abilities": "Steadfast, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+    "id": "0491",
+    "name": "Darkrai",
+    "types": "Dark",
+    "species": "Pitch-Black Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "50.5 kg",
+    "abilities": "Bad-Dreams",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
   }
 }
