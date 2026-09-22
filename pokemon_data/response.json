@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T03:48:43.363945",
+  "timestamp": "2026-09-22T04:00:59.531769",
   "pokemon_data": {
-    "id": "0742",
-    "name": "Cutiefly",
-    "types": "Bug, Fairy",
-    "species": "Bee Fly Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+    "id": "0343",
+    "name": "Baltoy",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "21.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
   }
 }
