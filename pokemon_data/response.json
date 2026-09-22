@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T18:38:09.925999",
+  "timestamp": "2026-09-22T18:50:24.537919",
   "pokemon_data": {
-    "id": "0131",
-    "name": "Lapras",
-    "types": "Water, Ice",
-    "species": "Transport Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "220.0 kg",
-    "abilities": "Water-Absorb, Shell-Armor, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+    "id": "0920",
+    "name": "Lokix",
+    "types": "Bug, Dark",
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "17.5 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
   }
 }
