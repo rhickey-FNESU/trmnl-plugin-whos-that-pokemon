@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T17:01:25.358942",
+  "timestamp": "2026-09-22T17:21:21.916955",
   "pokemon_data": {
-    "id": "0491",
-    "name": "Darkrai",
-    "types": "Dark",
-    "species": "Pitch-Black Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "50.5 kg",
-    "abilities": "Bad-Dreams",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+    "id": "0037",
+    "name": "Vulpix",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.9 kg",
+    "abilities": "Flash-Fire, Drought",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
   }
 }
