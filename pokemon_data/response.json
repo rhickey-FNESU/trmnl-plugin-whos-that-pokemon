@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T04:34:59.030231",
+  "timestamp": "2026-09-22T04:48:32.199743",
   "pokemon_data": {
-    "id": "0433",
-    "name": "Chingling",
-    "types": "Psychic",
-    "species": "Bell Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
+    "id": "0650",
+    "name": "Chespin",
+    "types": "Grass",
+    "species": "Spiny Nut Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "9.0 kg",
+    "abilities": "Overgrow, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
   }
 }
