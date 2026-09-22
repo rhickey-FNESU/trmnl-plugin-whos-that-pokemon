@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T21:01:18.107118",
+  "timestamp": "2026-09-22T21:20:19.149401",
   "pokemon_data": {
-    "id": "0086",
-    "name": "Seel",
-    "types": "Water",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    "id": "0308",
+    "name": "Medicham",
+    "types": "Fighting, Psychic",
+    "species": "Meditate Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "31.5 kg",
+    "abilities": "Pure-Power, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
   }
 }
