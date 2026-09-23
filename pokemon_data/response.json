@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T16:24:12.006037",
+  "timestamp": "2026-09-23T16:36:43.631329",
   "pokemon_data": {
-    "id": "0657",
-    "name": "Frogadier",
-    "types": "Water",
-    "species": "Bubble Frog Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.9 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"
+    "id": "0305",
+    "name": "Lairon",
+    "types": "Steel, Rock",
+    "species": "Iron Armor Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "120.0 kg",
+    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png"
   }
 }
