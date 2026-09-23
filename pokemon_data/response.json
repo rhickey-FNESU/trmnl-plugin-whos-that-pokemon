@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T05:48:18.160975",
+  "timestamp": "2026-09-23T06:01:07.632697",
   "pokemon_data": {
-    "id": "0439",
-    "name": "Mime-Jr",
-    "types": "Psychic, Fairy",
-    "species": "Mime Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "13.0 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
+    "id": "0613",
+    "name": "Cubchoo",
+    "types": "Ice",
+    "species": "Chill Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
   }
 }
