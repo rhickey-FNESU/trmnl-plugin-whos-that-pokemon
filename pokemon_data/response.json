@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T11:34:45.430381",
+  "timestamp": "2026-09-23T11:48:52.669816",
   "pokemon_data": {
-    "id": "0731",
-    "name": "Pikipek",
+    "id": "0519",
+    "name": "Pidove",
     "types": "Normal, Flying",
-    "species": "Woodpecker Pok\u00e9mon",
+    "species": "Tiny Pigeon Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "1.2 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+    "weight": "2.1 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
   }
 }
