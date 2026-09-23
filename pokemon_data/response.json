@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T17:22:40.939436",
+  "timestamp": "2026-09-23T17:33:46.673260",
   "pokemon_data": {
-    "id": "0698",
-    "name": "Amaura",
-    "types": "Rock, Ice",
-    "species": "Tundra Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "25.2 kg",
-    "abilities": "Refrigerate, Snow-Warning",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
+    "id": "0367",
+    "name": "Huntail",
+    "types": "Water",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "27.0 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
   }
 }
