@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T09:23:25.641711",
+  "timestamp": "2026-09-23T09:35:07.325052",
   "pokemon_data": {
-    "id": "0857",
-    "name": "Hattrem",
-    "types": "Psychic",
-    "species": "Serene Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "4.8 kg",
-    "abilities": "Healer, Anticipation, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    "id": "0315",
+    "name": "Roselia",
+    "types": "Grass, Poison",
+    "species": "Thorn Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Natural-Cure, Poison-Point, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png"
   }
 }
