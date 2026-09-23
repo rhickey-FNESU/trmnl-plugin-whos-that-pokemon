@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T21:46:32.736163",
+  "timestamp": "2026-09-23T22:00:56.374491",
   "pokemon_data": {
-    "id": "0520",
-    "name": "Tranquill",
-    "types": "Normal, Flying",
-    "species": "Wild Pigeon Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Big-Pecks, Super-Luck, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+    "id": "0002",
+    "name": "Ivysaur",
+    "types": "Grass, Poison",
+    "species": "Seed Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "13.0 kg",
+    "abilities": "Overgrow, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
   }
 }
