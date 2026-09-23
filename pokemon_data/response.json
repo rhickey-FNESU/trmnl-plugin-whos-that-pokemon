@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T18:25:48.303834",
+  "timestamp": "2026-09-23T18:37:37.378526",
   "pokemon_data": {
-    "id": "0155",
-    "name": "Cyndaquil",
-    "types": "Fire",
-    "species": "Fire Mouse Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "7.9 kg",
-    "abilities": "Blaze, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+    "id": "0454",
+    "name": "Toxicroak",
+    "types": "Poison, Fighting",
+    "species": "Toxic Mouth Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "44.4 kg",
+    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
   }
 }
