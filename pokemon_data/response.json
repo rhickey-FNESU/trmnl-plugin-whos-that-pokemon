@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T18:50:18.975595",
+  "timestamp": "2026-09-23T19:00:49.490964",
   "pokemon_data": {
-    "id": "0902",
-    "name": "Basculegion-Male",
-    "types": "Water, Ghost",
-    "species": "Big Fish Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
+    "id": "0718",
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
