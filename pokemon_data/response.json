@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T03:22:43.598853",
+  "timestamp": "2026-09-23T03:35:30.941844",
   "pokemon_data": {
-    "id": "0551",
-    "name": "Sandile",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.2 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+    "id": "0675",
+    "name": "Pangoro",
+    "types": "Fighting, Dark",
+    "species": "Daunting Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "136.0 kg",
+    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
   }
 }
