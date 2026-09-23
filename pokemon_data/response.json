@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T19:47:45.198379",
+  "timestamp": "2026-09-23T20:01:28.424330",
   "pokemon_data": {
-    "id": "0418",
-    "name": "Buizel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+    "id": "0414",
+    "name": "Mothim",
+    "types": "Bug, Flying",
+    "species": "Moth Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "23.3 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
   }
 }
