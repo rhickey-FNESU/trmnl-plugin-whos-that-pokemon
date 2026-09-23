@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T01:20:55.049141",
+  "timestamp": "2026-09-23T01:33:45.486783",
   "pokemon_data": {
-    "id": "0446",
-    "name": "Munchlax",
-    "types": "Normal",
-    "species": "Big Eater Pok\u00e9mon",
+    "id": "0591",
+    "name": "Amoonguss",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "105.0 kg",
-    "abilities": "Pickup, Thick-Fat, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
+    "weight": "10.5 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
   }
 }
