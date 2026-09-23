@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T23:00:59.867361",
+  "timestamp": "2026-09-23T23:18:49.957068",
   "pokemon_data": {
-    "id": "0391",
-    "name": "Monferno",
-    "types": "Fire, Fighting",
-    "species": "Playful Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "22.0 kg",
-    "abilities": "Blaze, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png"
+    "id": "0005",
+    "name": "Charmeleon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "abilities": "Blaze, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
   }
 }
