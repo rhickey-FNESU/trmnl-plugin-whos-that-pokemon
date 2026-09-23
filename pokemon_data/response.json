@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T10:35:10.224978",
+  "timestamp": "2026-09-23T10:49:24.870702",
   "pokemon_data": {
-    "id": "0908",
-    "name": "Meowscarada",
-    "types": "Grass, Dark",
-    "species": "Magician Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "31.2 kg",
-    "abilities": "Overgrow, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
+    "id": "0177",
+    "name": "Natu",
+    "types": "Psychic, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.0 kg",
+    "abilities": "Synchronize, Early-Bird, Magic-Bounce",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png"
   }
 }
