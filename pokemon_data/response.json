@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T15:01:04.185804",
+  "timestamp": "2026-09-23T15:23:15.944023",
   "pokemon_data": {
-    "id": "0878",
-    "name": "Cufant",
-    "types": "Steel",
-    "species": "Copperderm Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "100.0 kg",
-    "abilities": "Sheer-Force, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+    "id": "0415",
+    "name": "Combee",
+    "types": "Bug, Flying",
+    "species": "Tiny Bee Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "5.5 kg",
+    "abilities": "Honey-Gather, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
   }
 }
