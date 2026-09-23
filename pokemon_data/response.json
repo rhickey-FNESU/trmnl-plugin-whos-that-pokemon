@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T18:37:37.378526",
+  "timestamp": "2026-09-23T18:50:18.975595",
   "pokemon_data": {
-    "id": "0454",
-    "name": "Toxicroak",
-    "types": "Poison, Fighting",
-    "species": "Toxic Mouth Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "44.4 kg",
-    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
+    "id": "0902",
+    "name": "Basculegion-Male",
+    "types": "Water, Ghost",
+    "species": "Big Fish Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   }
 }
