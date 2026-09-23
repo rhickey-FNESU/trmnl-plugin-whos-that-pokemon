@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T05:00:55.343535",
+  "timestamp": "2026-09-23T05:21:25.116300",
   "pokemon_data": {
-    "id": "0951",
-    "name": "Capsakid",
-    "types": "Grass",
-    "species": "Spicy Pepper Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.0 kg",
-    "abilities": "Chlorophyll, Insomnia, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
+    "id": "0256",
+    "name": "Combusken",
+    "types": "Fire, Fighting",
+    "species": "Young Fowl Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "abilities": "Blaze, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
   }
 }
