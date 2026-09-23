@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T06:27:58.109570",
+  "timestamp": "2026-09-23T06:42:08.197453",
   "pokemon_data": {
-    "id": "0655",
-    "name": "Delphox",
-    "types": "Fire, Psychic",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.0 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+    "id": "0516",
+    "name": "Simipour",
+    "types": "Water",
+    "species": "Geyser Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.0 kg",
+    "abilities": "Gluttony, Torrent",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
   }
 }
