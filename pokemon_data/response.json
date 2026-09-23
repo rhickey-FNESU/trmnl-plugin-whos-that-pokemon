@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T08:49:50.809802",
+  "timestamp": "2026-09-23T09:01:07.680653",
   "pokemon_data": {
-    "id": "0466",
-    "name": "Electivire",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "138.6 kg",
-    "abilities": "Motor-Drive, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    "id": "0890",
+    "name": "Eternatus",
+    "types": "Poison, Dragon",
+    "species": "Gigantic Pok\u00e9mon",
+    "height": "20.0 m",
+    "weight": "950.0 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
   }
 }
