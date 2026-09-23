@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T03:00:54.817379",
+  "timestamp": "2026-09-23T03:22:43.598853",
   "pokemon_data": {
-    "id": "0555",
-    "name": "Darmanitan-Standard",
-    "types": "Fire",
-    "species": "Blazing Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "92.9 kg",
-    "abilities": "Sheer-Force, Zen-Mode",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
+    "id": "0551",
+    "name": "Sandile",
+    "types": "Ground, Dark",
+    "species": "Desert Croc Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "15.2 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
   }
 }
