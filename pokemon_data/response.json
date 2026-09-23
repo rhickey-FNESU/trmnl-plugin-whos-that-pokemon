@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T06:01:07.632697",
+  "timestamp": "2026-09-23T06:27:58.109570",
   "pokemon_data": {
-    "id": "0613",
-    "name": "Cubchoo",
-    "types": "Ice",
-    "species": "Chill Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+    "id": "0655",
+    "name": "Delphox",
+    "types": "Fire, Psychic",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.0 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
   }
 }
