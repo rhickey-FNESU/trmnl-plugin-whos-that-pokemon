@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T12:01:06.732506",
+  "timestamp": "2026-09-23T12:27:28.065303",
   "pokemon_data": {
-    "id": "0938",
-    "name": "Tadbulb",
-    "types": "Electric",
-    "species": "Eletadpole Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.4 kg",
-    "abilities": "Own-Tempo, Static, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
+    "id": "0241",
+    "name": "Miltank",
+    "types": "Normal",
+    "species": "Milk Cow Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "75.5 kg",
+    "abilities": "Thick-Fat, Scrappy, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
   }
 }
