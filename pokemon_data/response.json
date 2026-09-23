@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T13:49:58.431483",
+  "timestamp": "2026-09-23T14:01:09.375449",
   "pokemon_data": {
-    "id": "0972",
-    "name": "Houndstone",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "15.0 kg",
-    "abilities": "Sand-Rush, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+    "id": "0317",
+    "name": "Swalot",
+    "types": "Poison",
+    "species": "Poison Bag Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "80.0 kg",
+    "abilities": "Liquid-Ooze, Sticky-Hold, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
   }
 }
