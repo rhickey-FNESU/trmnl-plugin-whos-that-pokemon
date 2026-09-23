@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T19:21:20.722099",
+  "timestamp": "2026-09-23T19:33:57.013471",
   "pokemon_data": {
-    "id": "0259",
-    "name": "Marshtomp",
-    "types": "Water, Ground",
-    "species": "Mud Fish Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "28.0 kg",
-    "abilities": "Torrent, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
+    "id": "0299",
+    "name": "Nosepass",
+    "types": "Rock",
+    "species": "Compass Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "97.0 kg",
+    "abilities": "Sturdy, Magnet-Pull, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png"
   }
 }
