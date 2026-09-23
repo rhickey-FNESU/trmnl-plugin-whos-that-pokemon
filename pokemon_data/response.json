@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T19:00:49.490964",
+  "timestamp": "2026-09-23T19:21:20.722099",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "0259",
+    "name": "Marshtomp",
+    "types": "Water, Ground",
+    "species": "Mud Fish Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "28.0 kg",
+    "abilities": "Torrent, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
   }
 }
