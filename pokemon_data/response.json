@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T12:41:41.911266",
+  "timestamp": "2026-09-23T12:53:31.765422",
   "pokemon_data": {
-    "id": "0606",
-    "name": "Beheeyem",
-    "types": "Psychic",
-    "species": "Cerebral Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "34.5 kg",
-    "abilities": "Telepathy, Synchronize, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
+    "id": "0371",
+    "name": "Bagon",
+    "types": "Dragon",
+    "species": "Rock Head Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "42.1 kg",
+    "abilities": "Rock-Head, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
   }
 }
