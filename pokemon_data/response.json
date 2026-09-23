@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T03:48:53.480800",
+  "timestamp": "2026-09-23T04:00:48.295122",
   "pokemon_data": {
-    "id": "0733",
-    "name": "Toucannon",
-    "types": "Normal, Flying",
-    "species": "Cannon Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "26.0 kg",
-    "abilities": "Keen-Eye, Skill-Link, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+    "id": "0101",
+    "name": "Electrode",
+    "types": "Electric",
+    "species": "Ball Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "66.6 kg",
+    "abilities": "Soundproof, Static, Aftermath",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
   }
 }
