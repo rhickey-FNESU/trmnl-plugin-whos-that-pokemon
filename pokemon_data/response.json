@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T01:01:29.890613",
+  "timestamp": "2026-09-23T01:20:55.049141",
   "pokemon_data": {
-    "id": "0014",
-    "name": "Kakuna",
-    "types": "Bug, Poison",
-    "species": "Cocoon Pok\u00e9mon",
+    "id": "0446",
+    "name": "Munchlax",
+    "types": "Normal",
+    "species": "Big Eater Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "10.0 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+    "weight": "105.0 kg",
+    "abilities": "Pickup, Thick-Fat, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
   }
 }
