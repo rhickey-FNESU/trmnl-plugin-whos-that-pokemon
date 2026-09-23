@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T06:53:16.047125",
+  "timestamp": "2026-09-23T07:02:07.912490",
   "pokemon_data": {
-    "id": "0461",
-    "name": "Weavile",
-    "types": "Dark, Ice",
-    "species": "Sharp Claw Pok\u00e9mon",
+    "id": "0583",
+    "name": "Vanillish",
+    "types": "Ice",
+    "species": "Icy Snow Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "34.0 kg",
-    "abilities": "Pressure, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
+    "weight": "41.0 kg",
+    "abilities": "Ice-Body, Snow-Cloak, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
   }
 }
