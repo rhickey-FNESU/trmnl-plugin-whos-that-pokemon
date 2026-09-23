@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T17:47:20.296839",
+  "timestamp": "2026-09-23T18:01:11.041258",
   "pokemon_data": {
-    "id": "0245",
-    "name": "Suicune",
+    "id": "0098",
+    "name": "Krabby",
     "types": "Water",
-    "species": "Aurora Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "187.0 kg",
-    "abilities": "Pressure, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png"
+    "species": "River Crab Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
   }
 }
