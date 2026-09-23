@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T20:47:27.503013",
+  "timestamp": "2026-09-23T21:01:28.529760",
   "pokemon_data": {
-    "id": "0971",
-    "name": "Greavard",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "35.0 kg",
-    "abilities": "Pickup, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+    "id": "0580",
+    "name": "Ducklett",
+    "types": "Water, Flying",
+    "species": "Water Bird Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Keen-Eye, Big-Pecks, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
   }
 }
