@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T12:53:31.765422",
+  "timestamp": "2026-09-23T13:02:39.877246",
   "pokemon_data": {
-    "id": "0371",
-    "name": "Bagon",
-    "types": "Dragon",
-    "species": "Rock Head Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "42.1 kg",
-    "abilities": "Rock-Head, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
+    "id": "0311",
+    "name": "Plusle",
+    "types": "Electric",
+    "species": "Cheering Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.2 kg",
+    "abilities": "Plus, Lightning-Rod",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png"
   }
 }
