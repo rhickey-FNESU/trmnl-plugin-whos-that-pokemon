@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-23T10:22:42.678332",
+  "timestamp": "2026-09-23T10:35:10.224978",
   "pokemon_data": {
-    "id": "0001",
-    "name": "Bulbasaur",
-    "types": "Grass, Poison",
-    "species": "Seed Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "6.9 kg",
-    "abilities": "Overgrow, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+    "id": "0908",
+    "name": "Meowscarada",
+    "types": "Grass, Dark",
+    "species": "Magician Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "31.2 kg",
+    "abilities": "Overgrow, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
   }
 }
