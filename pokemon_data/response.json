@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T08:50:27.401338",
+  "timestamp": "2026-09-24T09:01:29.208202",
   "pokemon_data": {
-    "id": "0477",
-    "name": "Dusknoir",
-    "types": "Ghost",
-    "species": "Gripper Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "106.6 kg",
-    "abilities": "Pressure, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
+    "id": "0464",
+    "name": "Rhyperior",
+    "types": "Ground, Rock",
+    "species": "Drill Pok\u00e9mon",
+    "height": "2.4 m",
+    "weight": "282.8 kg",
+    "abilities": "Lightning-Rod, Solid-Rock, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png"
   }
 }
