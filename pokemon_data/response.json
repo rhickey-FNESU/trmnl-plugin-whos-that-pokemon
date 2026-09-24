@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T13:02:14.736435",
+  "timestamp": "2026-09-24T13:24:11.036053",
   "pokemon_data": {
-    "id": "0532",
-    "name": "Timburr",
-    "types": "Fighting",
-    "species": "Muscular Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "12.5 kg",
-    "abilities": "Guts, Sheer-Force, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
+    "id": "0973",
+    "name": "Flamigo",
+    "types": "Flying, Fighting",
+    "species": "Synchronize Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "37.0 kg",
+    "abilities": "Scrappy, Tangled-Feet, Costar",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png"
   }
 }
