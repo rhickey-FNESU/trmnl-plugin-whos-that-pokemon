@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T16:01:13.559638",
+  "timestamp": "2026-09-24T16:24:30.692484",
   "pokemon_data": {
-    "id": "0927",
-    "name": "Dachsbun",
-    "types": "Fairy",
-    "species": "Dog Pok\u00e9mon",
+    "id": "0167",
+    "name": "Spinarak",
+    "types": "Bug, Poison",
+    "species": "String Spit Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "14.9 kg",
-    "abilities": "Well-Baked-Body, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
+    "weight": "8.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
   }
 }
