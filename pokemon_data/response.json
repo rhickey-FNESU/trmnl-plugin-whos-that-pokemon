@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T22:48:18.945836",
+  "timestamp": "2026-09-24T23:00:51.669538",
   "pokemon_data": {
-    "id": "0407",
-    "name": "Roserade",
-    "types": "Grass, Poison",
-    "species": "Bouquet Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "14.5 kg",
-    "abilities": "Natural-Cure, Poison-Point, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png"
+    "id": "0861",
+    "name": "Grimmsnarl",
+    "types": "Dark, Fairy",
+    "species": "Bulk Up Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "61.0 kg",
+    "abilities": "Prankster, Frisk, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
   }
 }
