@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T11:22:41.306706",
+  "timestamp": "2026-09-24T11:35:09.350044",
   "pokemon_data": {
-    "id": "1018",
-    "name": "Archaludon",
-    "types": "Steel, Dragon",
-    "species": "Alloy Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "60.0 kg",
-    "abilities": "Stamina, Sturdy, Stalwart",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png"
+    "id": "0744",
+    "name": "Rockruff",
+    "types": "Rock",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.2 kg",
+    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
   }
 }
