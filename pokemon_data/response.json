@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T00:53:47.088461",
+  "timestamp": "2026-09-24T01:01:18.714368",
   "pokemon_data": {
-    "id": "0461",
-    "name": "Weavile",
-    "types": "Dark, Ice",
-    "species": "Sharp Claw Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "34.0 kg",
-    "abilities": "Pressure, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
+    "id": "0887",
+    "name": "Dragapult",
+    "types": "Dragon, Ghost",
+    "species": "Stealth Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "50.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
   }
 }
