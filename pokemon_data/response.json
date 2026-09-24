@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T04:49:04.738109",
+  "timestamp": "2026-09-24T05:00:57.563510",
   "pokemon_data": {
-    "id": "0788",
-    "name": "Tapu-Fini",
-    "types": "Water, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "21.2 kg",
-    "abilities": "Misty-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+    "id": "0123",
+    "name": "Scyther",
+    "types": "Bug, Flying",
+    "species": "Mantis Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "56.0 kg",
+    "abilities": "Swarm, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
   }
 }
