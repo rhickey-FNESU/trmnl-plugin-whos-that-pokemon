@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T23:00:51.669538",
+  "timestamp": "2026-09-24T23:20:43.476689",
   "pokemon_data": {
-    "id": "0861",
-    "name": "Grimmsnarl",
-    "types": "Dark, Fairy",
-    "species": "Bulk Up Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "61.0 kg",
-    "abilities": "Prankster, Frisk, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
+    "id": "0600",
+    "name": "Klang",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "51.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
   }
 }
