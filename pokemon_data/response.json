@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T05:00:57.563510",
+  "timestamp": "2026-09-24T05:21:45.039271",
   "pokemon_data": {
-    "id": "0123",
-    "name": "Scyther",
-    "types": "Bug, Flying",
-    "species": "Mantis Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "id": "0109",
+    "name": "Koffing",
+    "types": "Poison",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "abilities": "Levitate, Neutralizing-Gas, Stench",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
   }
 }
