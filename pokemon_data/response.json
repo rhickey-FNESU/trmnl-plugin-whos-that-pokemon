@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T09:24:04.432228",
+  "timestamp": "2026-09-24T09:35:29.267337",
   "pokemon_data": {
-    "id": "0640",
-    "name": "Virizion",
-    "types": "Grass, Fighting",
-    "species": "Grassland Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "200.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png"
+    "id": "0764",
+    "name": "Comfey",
+    "types": "Fairy",
+    "species": "Posy Picker Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.3 kg",
+    "abilities": "Flower-Veil, Triage, Natural-Cure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png"
   }
 }
