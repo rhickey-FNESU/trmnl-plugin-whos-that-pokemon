@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T18:38:19.860315",
+  "timestamp": "2026-09-24T18:51:02.201569",
   "pokemon_data": {
-    "id": "0088",
-    "name": "Grimer",
-    "types": "Poison",
-    "species": "Sludge Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "30.0 kg",
-    "abilities": "Stench, Sticky-Hold, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+    "id": "0561",
+    "name": "Sigilyph",
+    "types": "Psychic, Flying",
+    "species": "Avianoid Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "14.0 kg",
+    "abilities": "Wonder-Skin, Magic-Guard, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png"
   }
 }
