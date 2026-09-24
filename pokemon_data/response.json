@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T05:21:45.039271",
+  "timestamp": "2026-09-24T05:34:29.320380",
   "pokemon_data": {
-    "id": "0109",
-    "name": "Koffing",
-    "types": "Poison",
-    "species": "Poison Gas Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate, Neutralizing-Gas, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    "id": "0411",
+    "name": "Bastiodon",
+    "types": "Rock, Steel",
+    "species": "Shield Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "149.5 kg",
+    "abilities": "Sturdy, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
   }
 }
