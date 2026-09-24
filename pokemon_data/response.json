@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T11:48:44.854028",
+  "timestamp": "2026-09-24T12:01:07.262068",
   "pokemon_data": {
-    "id": "0828",
-    "name": "Thievul",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "19.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
+    "id": "0323",
+    "name": "Camerupt",
+    "types": "Fire, Ground",
+    "species": "Eruption Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "220.0 kg",
+    "abilities": "Magma-Armor, Solid-Rock, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
   }
 }
