@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T03:22:41.550737",
+  "timestamp": "2026-09-24T03:35:32.392701",
   "pokemon_data": {
-    "id": "0160",
-    "name": "Feraligatr",
-    "types": "Water",
-    "species": "Big Jaw Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "88.8 kg",
-    "abilities": "Torrent, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+    "id": "0567",
+    "name": "Archeops",
+    "types": "Rock, Flying",
+    "species": "First Bird Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "32.0 kg",
+    "abilities": "Defeatist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
   }
 }
