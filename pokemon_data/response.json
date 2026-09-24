@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T15:49:56.020660",
+  "timestamp": "2026-09-24T16:01:13.559638",
   "pokemon_data": {
-    "id": "0275",
-    "name": "Shiftry",
-    "types": "Grass, Dark",
-    "species": "Wicked Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "59.6 kg",
-    "abilities": "Chlorophyll, Wind-Rider, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png"
+    "id": "0927",
+    "name": "Dachsbun",
+    "types": "Fairy",
+    "species": "Dog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "14.9 kg",
+    "abilities": "Well-Baked-Body, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
   }
 }
