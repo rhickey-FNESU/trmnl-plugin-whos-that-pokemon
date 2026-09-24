@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T20:35:52.730632",
+  "timestamp": "2026-09-24T20:49:57.494456",
   "pokemon_data": {
-    "id": "0149",
-    "name": "Dragonite",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "210.0 kg",
-    "abilities": "Inner-Focus, Multiscale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+    "id": "0540",
+    "name": "Sewaddle",
+    "types": "Bug, Grass",
+    "species": "Sewing Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.5 kg",
+    "abilities": "Swarm, Chlorophyll, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
   }
 }
