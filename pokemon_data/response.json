@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T02:34:50.591291",
+  "timestamp": "2026-09-24T02:49:11.620317",
   "pokemon_data": {
-    "id": "0956",
-    "name": "Espathra",
-    "types": "Psychic",
-    "species": "Ostrich Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "90.0 kg",
-    "abilities": "Opportunist, Frisk, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
+    "id": "0556",
+    "name": "Maractus",
+    "types": "Grass",
+    "species": "Cactus Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Water-Absorb, Chlorophyll, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
   }
 }
