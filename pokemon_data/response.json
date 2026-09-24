@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T11:35:09.350044",
+  "timestamp": "2026-09-24T11:48:44.854028",
   "pokemon_data": {
-    "id": "0744",
-    "name": "Rockruff",
-    "types": "Rock",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.2 kg",
-    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+    "id": "0828",
+    "name": "Thievul",
+    "types": "Dark",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "19.9 kg",
+    "abilities": "Run-Away, Unburden, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
   }
 }
