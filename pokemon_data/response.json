@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T02:22:22.979034",
+  "timestamp": "2026-09-24T02:34:50.591291",
   "pokemon_data": {
-    "id": "0073",
-    "name": "Tentacruel",
-    "types": "Water, Poison",
-    "species": "Jellyfish Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "55.0 kg",
-    "abilities": "Clear-Body, Liquid-Ooze, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+    "id": "0956",
+    "name": "Espathra",
+    "types": "Psychic",
+    "species": "Ostrich Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "90.0 kg",
+    "abilities": "Opportunist, Frisk, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
   }
 }
