@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T08:24:41.993382",
+  "timestamp": "2026-09-24T08:36:30.915749",
   "pokemon_data": {
-    "id": "0562",
-    "name": "Yamask",
-    "types": "Ghost",
-    "species": "Spirit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.5 kg",
-    "abilities": "Mummy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+    "id": "0913",
+    "name": "Quaxwell",
+    "types": "Water",
+    "species": "Practicing Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.5 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
   }
 }
