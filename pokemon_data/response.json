@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T01:01:18.714368",
+  "timestamp": "2026-09-24T01:21:16.153659",
   "pokemon_data": {
-    "id": "0887",
-    "name": "Dragapult",
-    "types": "Dragon, Ghost",
-    "species": "Stealth Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "50.0 kg",
-    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+    "id": "0970",
+    "name": "Glimmora",
+    "types": "Rock, Poison",
+    "species": "Ore Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "45.0 kg",
+    "abilities": "Toxic-Debris, Corrosion",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
   }
 }
