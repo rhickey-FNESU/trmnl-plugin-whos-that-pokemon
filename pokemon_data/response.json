@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T23:20:43.476689",
+  "timestamp": "2026-09-24T23:33:14.282964",
   "pokemon_data": {
-    "id": "0600",
-    "name": "Klang",
-    "types": "Steel",
-    "species": "Gear Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "51.0 kg",
-    "abilities": "Plus, Minus, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+    "id": "0882",
+    "name": "Dracovish",
+    "types": "Water, Dragon",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "215.0 kg",
+    "abilities": "Water-Absorb, Strong-Jaw, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png"
   }
 }
