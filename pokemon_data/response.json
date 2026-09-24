@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T18:01:03.111793",
+  "timestamp": "2026-09-24T18:25:58.331375",
   "pokemon_data": {
-    "id": "0788",
-    "name": "Tapu-Fini",
-    "types": "Water, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "21.2 kg",
-    "abilities": "Misty-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+    "id": "0227",
+    "name": "Skarmory",
+    "types": "Steel, Flying",
+    "species": "Armor Bird Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "50.5 kg",
+    "abilities": "Keen-Eye, Sturdy, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
   }
 }
