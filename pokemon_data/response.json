@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T04:00:50.906744",
+  "timestamp": "2026-09-24T04:22:52.152209",
   "pokemon_data": {
-    "id": "0035",
-    "name": "Clefairy",
-    "types": "Fairy",
-    "species": "Fairy Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "7.5 kg",
-    "abilities": "Cute-Charm, Magic-Guard, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+    "id": "0921",
+    "name": "Pawmi",
+    "types": "Electric",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.5 kg",
+    "abilities": "Static, Natural-Cure, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png"
   }
 }
