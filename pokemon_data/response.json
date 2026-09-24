@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T09:49:23.940155",
+  "timestamp": "2026-09-24T10:01:01.335808",
   "pokemon_data": {
-    "id": "0841",
-    "name": "Flapple",
-    "types": "Grass, Dragon",
-    "species": "Apple Wing Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Ripen, Gluttony, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+    "id": "0782",
+    "name": "Jangmo-O",
+    "types": "Dragon",
+    "species": "Scaly Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "29.7 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
   }
 }
