@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T20:21:08.002604",
+  "timestamp": "2026-09-25T20:35:11.479288",
   "pokemon_data": {
-    "id": "0086",
-    "name": "Seel",
-    "types": "Water",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    "id": "0612",
+    "name": "Haxorus",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "105.5 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
   }
 }
