@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T18:36:40.068583",
+  "timestamp": "2026-09-25T18:50:29.410410",
   "pokemon_data": {
-    "id": "0405",
-    "name": "Luxray",
-    "types": "Electric",
-    "species": "Gleam Eyes Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "42.0 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+    "id": "0786",
+    "name": "Tapu-Lele",
+    "types": "Psychic, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "18.6 kg",
+    "abilities": "Psychic-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
   }
 }
