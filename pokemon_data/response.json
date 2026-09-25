@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T05:00:53.497024",
+  "timestamp": "2026-09-25T05:22:14.752207",
   "pokemon_data": {
-    "id": "0808",
-    "name": "Meltan",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "8.0 kg",
-    "abilities": "Magnet-Pull",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png"
+    "id": "0242",
+    "name": "Blissey",
+    "types": "Normal",
+    "species": "Happiness Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "46.8 kg",
+    "abilities": "Natural-Cure, Serene-Grace, Healer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
   }
 }
