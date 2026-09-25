@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T14:50:58.464536",
+  "timestamp": "2026-09-25T15:01:43.929899",
   "pokemon_data": {
-    "id": "0003",
-    "name": "Venusaur",
-    "types": "Grass, Poison",
-    "species": "Seed Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "100.0 kg",
-    "abilities": "Overgrow, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+    "id": "0826",
+    "name": "Orbeetle",
+    "types": "Bug, Psychic",
+    "species": "Seven Spot Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "40.8 kg",
+    "abilities": "Swarm, Frisk, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
   }
 }
