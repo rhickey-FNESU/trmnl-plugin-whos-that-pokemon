@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T06:55:06.234309",
+  "timestamp": "2026-09-25T07:02:09.610381",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "id": "0599",
+    "name": "Klink",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "21.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
   }
 }
