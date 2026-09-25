@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T14:01:30.171461",
+  "timestamp": "2026-09-25T14:24:19.688632",
   "pokemon_data": {
-    "id": "0384",
-    "name": "Rayquaza",
-    "types": "Dragon, Flying",
-    "species": "Sky High Pok\u00e9mon",
-    "height": "7.0 m",
-    "weight": "206.5 kg",
-    "abilities": "Air-Lock",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png"
+    "id": "0642",
+    "name": "Thundurus-Incarnate",
+    "types": "Electric, Flying",
+    "species": "Bolt Strike Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "61.0 kg",
+    "abilities": "Prankster, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
   }
 }
