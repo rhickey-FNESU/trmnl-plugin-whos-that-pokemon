@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T05:49:05.579481",
+  "timestamp": "2026-09-25T06:01:01.001509",
   "pokemon_data": {
-    "id": "0091",
-    "name": "Cloyster",
-    "types": "Water, Ice",
-    "species": "Bivalve Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "132.5 kg",
-    "abilities": "Shell-Armor, Skill-Link, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+    "id": "0308",
+    "name": "Medicham",
+    "types": "Fighting, Psychic",
+    "species": "Meditate Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "31.5 kg",
+    "abilities": "Pure-Power, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
   }
 }
