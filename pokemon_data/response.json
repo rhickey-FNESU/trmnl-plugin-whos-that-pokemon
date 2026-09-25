@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T17:34:44.797196",
+  "timestamp": "2026-09-25T17:49:27.185367",
   "pokemon_data": {
-    "id": "0259",
-    "name": "Marshtomp",
-    "types": "Water, Ground",
-    "species": "Mud Fish Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "28.0 kg",
-    "abilities": "Torrent, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
