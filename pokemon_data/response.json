@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T10:49:30.570706",
+  "timestamp": "2026-09-25T11:00:54.802393",
   "pokemon_data": {
-    "id": "0776",
-    "name": "Turtonator",
-    "types": "Fire, Dragon",
-    "species": "Blast Turtle Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "212.0 kg",
-    "abilities": "Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+    "id": "0161",
+    "name": "Sentret",
+    "types": "Normal",
+    "species": "Scout Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "6.0 kg",
+    "abilities": "Run-Away, Keen-Eye, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
   }
 }
