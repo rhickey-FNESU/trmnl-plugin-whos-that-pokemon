@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T22:34:09.557370",
+  "timestamp": "2026-09-25T22:48:01.632857",
   "pokemon_data": {
-    "id": "0684",
-    "name": "Swirlix",
-    "types": "Fairy",
-    "species": "Cotton Candy Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "3.5 kg",
-    "abilities": "Sweet-Veil, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png"
+    "id": "0293",
+    "name": "Whismur",
+    "types": "Normal",
+    "species": "Whisper Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "16.3 kg",
+    "abilities": "Soundproof, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png"
   }
 }
