@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T21:48:33.766135",
+  "timestamp": "2026-09-25T22:00:56.384766",
   "pokemon_data": {
-    "id": "0887",
-    "name": "Dragapult",
-    "types": "Dragon, Ghost",
-    "species": "Stealth Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "50.0 kg",
-    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+    "id": "0466",
+    "name": "Electivire",
+    "types": "Electric",
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "138.6 kg",
+    "abilities": "Motor-Drive, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
   }
 }
