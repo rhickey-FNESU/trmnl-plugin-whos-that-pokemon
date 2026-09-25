@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T09:01:30.427769",
+  "timestamp": "2026-09-25T09:24:07.656135",
   "pokemon_data": {
-    "id": "0979",
-    "name": "Annihilape",
-    "types": "Fighting, Ghost",
-    "species": "Rage Monkey Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "56.0 kg",
-    "abilities": "Vital-Spirit, Inner-Focus, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
+    "id": "0702",
+    "name": "Dedenne",
+    "types": "Electric, Fairy",
+    "species": "Antenna Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.2 kg",
+    "abilities": "Cheek-Pouch, Pickup, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
   }
 }
