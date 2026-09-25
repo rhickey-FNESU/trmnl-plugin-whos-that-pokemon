@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T00:30:25.346822",
+  "timestamp": "2026-09-25T00:50:53.644061",
   "pokemon_data": {
-    "id": "0729",
-    "name": "Brionne",
-    "types": "Water",
-    "species": "Pop Star Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.5 kg",
-    "abilities": "Torrent, Liquid-Voice",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png"
+    "id": "0305",
+    "name": "Lairon",
+    "types": "Steel, Rock",
+    "species": "Iron Armor Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "120.0 kg",
+    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png"
   }
 }
