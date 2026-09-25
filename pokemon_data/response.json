@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T01:32:36.620887",
+  "timestamp": "2026-09-25T01:47:01.311701",
   "pokemon_data": {
-    "id": "0672",
-    "name": "Skiddo",
-    "types": "Grass",
-    "species": "Mount Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "31.0 kg",
-    "abilities": "Sap-Sipper, Grass-Pelt",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png"
+    "id": "0167",
+    "name": "Spinarak",
+    "types": "Bug, Poison",
+    "species": "String Spit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
   }
 }
