@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T16:24:23.516268",
+  "timestamp": "2026-09-25T16:36:46.315267",
   "pokemon_data": {
-    "id": "0863",
-    "name": "Perrserker",
-    "types": "Steel",
-    "species": "Viking Pok\u00e9mon",
+    "id": "0190",
+    "name": "Aipom",
+    "types": "Normal",
+    "species": "Long Tail Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "28.0 kg",
-    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
+    "weight": "11.5 kg",
+    "abilities": "Run-Away, Pickup, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
   }
 }
