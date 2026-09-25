@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T19:01:15.380166",
+  "timestamp": "2026-09-25T19:20:30.949199",
   "pokemon_data": {
-    "id": "0664",
-    "name": "Scatterbug",
-    "types": "Bug",
-    "species": "Scatterdust Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.5 kg",
-    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+    "id": "0061",
+    "name": "Poliwhirl",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "20.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
   }
 }
