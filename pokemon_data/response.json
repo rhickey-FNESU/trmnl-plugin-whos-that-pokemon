@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T16:36:46.315267",
+  "timestamp": "2026-09-25T16:50:50.540061",
   "pokemon_data": {
-    "id": "0190",
-    "name": "Aipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "11.5 kg",
-    "abilities": "Run-Away, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+    "id": "0092",
+    "name": "Gastly",
+    "types": "Ghost, Poison",
+    "species": "Gas Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "0.1 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
   }
 }
