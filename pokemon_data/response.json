@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T18:50:29.410410",
+  "timestamp": "2026-09-25T19:01:15.380166",
   "pokemon_data": {
-    "id": "0786",
-    "name": "Tapu-Lele",
-    "types": "Psychic, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "18.6 kg",
-    "abilities": "Psychic-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+    "id": "0664",
+    "name": "Scatterbug",
+    "types": "Bug",
+    "species": "Scatterdust Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.5 kg",
+    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
   }
 }
