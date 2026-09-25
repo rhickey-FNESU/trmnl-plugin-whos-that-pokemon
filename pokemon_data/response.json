@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T18:01:00.561653",
+  "timestamp": "2026-09-25T18:24:13.509483",
   "pokemon_data": {
-    "id": "0480",
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "id": "0014",
+    "name": "Kakuna",
+    "types": "Bug, Poison",
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.0 kg",
+    "abilities": "Shed-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
   }
 }
