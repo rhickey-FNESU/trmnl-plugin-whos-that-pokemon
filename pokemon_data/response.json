@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T15:24:20.328029",
+  "timestamp": "2026-09-25T15:34:39.575960",
   "pokemon_data": {
-    "id": "0347",
-    "name": "Anorith",
-    "types": "Rock, Bug",
-    "species": "Old Shrimp Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "12.5 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
+    "id": "0472",
+    "name": "Gliscor",
+    "types": "Ground, Flying",
+    "species": "Fang Scorpion Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "42.5 kg",
+    "abilities": "Hyper-Cutter, Sand-Veil, Poison-Heal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
   }
 }
