@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T04:01:05.147582",
+  "timestamp": "2026-09-25T04:23:16.815740",
   "pokemon_data": {
-    "id": "0459",
-    "name": "Snover",
-    "types": "Grass, Ice",
-    "species": "Frost Tree Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "50.5 kg",
-    "abilities": "Snow-Warning, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png"
+    "id": "0405",
+    "name": "Luxray",
+    "types": "Electric",
+    "species": "Gleam Eyes Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "42.0 kg",
+    "abilities": "Rivalry, Intimidate, Guts",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
   }
 }
