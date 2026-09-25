@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T07:23:42.494799",
+  "timestamp": "2026-09-25T07:35:42.391668",
   "pokemon_data": {
-    "id": "0551",
-    "name": "Sandile",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.2 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+    "id": "0591",
+    "name": "Amoonguss",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.5 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
   }
 }
