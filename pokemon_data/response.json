@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T03:01:00.553922",
+  "timestamp": "2026-09-25T03:21:29.019091",
   "pokemon_data": {
-    "id": "0488",
-    "name": "Cresselia",
-    "types": "Psychic",
-    "species": "Lunar Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "85.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
+    "id": "0710",
+    "name": "Pumpkaboo-Average",
+    "types": "Ghost, Grass",
+    "species": "Pumpkin Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Pickup, Frisk, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png"
   }
 }
