@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T05:34:46.596655",
+  "timestamp": "2026-09-25T05:49:05.579481",
   "pokemon_data": {
-    "id": "0367",
-    "name": "Huntail",
-    "types": "Water",
-    "species": "Deep Sea Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "27.0 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
+    "id": "0091",
+    "name": "Cloyster",
+    "types": "Water, Ice",
+    "species": "Bivalve Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "132.5 kg",
+    "abilities": "Shell-Armor, Skill-Link, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
   }
 }
