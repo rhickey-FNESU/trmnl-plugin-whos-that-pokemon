@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T08:50:22.081384",
+  "timestamp": "2026-09-25T09:01:30.427769",
   "pokemon_data": {
-    "id": "0449",
-    "name": "Hippopotas",
-    "types": "Ground",
-    "species": "Hippo Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "49.5 kg",
-    "abilities": "Sand-Stream, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
+    "id": "0979",
+    "name": "Annihilape",
+    "types": "Fighting, Ghost",
+    "species": "Rage Monkey Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "56.0 kg",
+    "abilities": "Vital-Spirit, Inner-Focus, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
   }
 }
