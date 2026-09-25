@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T01:47:01.311701",
+  "timestamp": "2026-09-25T02:01:01.668258",
   "pokemon_data": {
-    "id": "0167",
-    "name": "Spinarak",
-    "types": "Bug, Poison",
-    "species": "String Spit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+    "id": "0244",
+    "name": "Entei",
+    "types": "Fire",
+    "species": "Volcano Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "198.0 kg",
+    "abilities": "Pressure, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
   }
 }
