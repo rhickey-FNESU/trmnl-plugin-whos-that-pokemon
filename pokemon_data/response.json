@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T05:22:14.752207",
+  "timestamp": "2026-09-25T05:34:46.596655",
   "pokemon_data": {
-    "id": "0242",
-    "name": "Blissey",
-    "types": "Normal",
-    "species": "Happiness Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "46.8 kg",
-    "abilities": "Natural-Cure, Serene-Grace, Healer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+    "id": "0367",
+    "name": "Huntail",
+    "types": "Water",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "27.0 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
   }
 }
