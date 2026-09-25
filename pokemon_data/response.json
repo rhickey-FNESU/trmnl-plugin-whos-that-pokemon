@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T22:48:01.632857",
+  "timestamp": "2026-09-25T23:00:48.951596",
   "pokemon_data": {
-    "id": "0293",
-    "name": "Whismur",
-    "types": "Normal",
-    "species": "Whisper Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "16.3 kg",
-    "abilities": "Soundproof, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png"
+    "id": "0621",
+    "name": "Druddigon",
+    "types": "Dragon",
+    "species": "Cave Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "139.0 kg",
+    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
   }
 }
