@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T07:35:42.391668",
+  "timestamp": "2026-09-25T07:49:31.109904",
   "pokemon_data": {
-    "id": "0591",
-    "name": "Amoonguss",
-    "types": "Grass, Poison",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.5 kg",
-    "abilities": "Effect-Spore, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+    "id": "0098",
+    "name": "Krabby",
+    "types": "Water",
+    "species": "River Crab Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
   }
 }
