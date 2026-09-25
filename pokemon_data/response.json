@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T23:32:21.486222",
+  "timestamp": "2026-09-25T23:46:51.324132",
   "pokemon_data": {
-    "id": "0503",
-    "name": "Samurott",
-    "types": "Water",
-    "species": "Formidable Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "94.6 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+    "id": "0999",
+    "name": "Gimmighoul",
+    "types": "Ghost",
+    "species": "Coin Chest Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "5.0 kg",
+    "abilities": "Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
   }
 }
