@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T16:50:50.540061",
+  "timestamp": "2026-09-25T17:00:57.559502",
   "pokemon_data": {
-    "id": "0092",
-    "name": "Gastly",
-    "types": "Ghost, Poison",
-    "species": "Gas Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "0.1 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+    "id": "0667",
+    "name": "Litleo",
+    "types": "Fire, Normal",
+    "species": "Lion Cub Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.5 kg",
+    "abilities": "Rivalry, Unnerve, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
   }
 }
