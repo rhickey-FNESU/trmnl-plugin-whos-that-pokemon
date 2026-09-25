@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T18:24:13.509483",
+  "timestamp": "2026-09-25T18:36:40.068583",
   "pokemon_data": {
-    "id": "0014",
-    "name": "Kakuna",
-    "types": "Bug, Poison",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.0 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+    "id": "0405",
+    "name": "Luxray",
+    "types": "Electric",
+    "species": "Gleam Eyes Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "42.0 kg",
+    "abilities": "Rivalry, Intimidate, Guts",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
   }
 }
