@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T22:21:06.744798",
+  "timestamp": "2026-09-26T22:33:49.914290",
   "pokemon_data": {
-    "id": "0328",
-    "name": "Trapinch",
-    "types": "Ground",
-    "species": "Ant Pit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.0 kg",
-    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+    "id": "0217",
+    "name": "Ursaring",
+    "types": "Normal",
+    "species": "Hibernator Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "125.8 kg",
+    "abilities": "Guts, Quick-Feet, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
   }
 }
