@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T10:33:54.048206",
+  "timestamp": "2026-09-26T10:47:03.753408",
   "pokemon_data": {
-    "id": "0998",
-    "name": "Baxcalibur",
-    "types": "Dragon, Ice",
-    "species": "Ice Dragon Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "210.0 kg",
-    "abilities": "Thermal-Exchange, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
+    "id": "0550",
+    "name": "Basculin-Red-Striped",
+    "types": "Water",
+    "species": "Hostile Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "18.0 kg",
+    "abilities": "Reckless, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
   }
 }
