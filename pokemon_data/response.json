@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T15:21:41.945350",
+  "timestamp": "2026-09-26T15:35:17.868310",
   "pokemon_data": {
-    "id": "0061",
-    "name": "Poliwhirl",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "20.0 kg",
-    "abilities": "Water-Absorb, Damp, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+    "id": "0392",
+    "name": "Infernape",
+    "types": "Fire, Fighting",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "55.0 kg",
+    "abilities": "Blaze, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
   }
 }
