@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T20:47:21.857510",
+  "timestamp": "2026-09-26T21:00:50.927909",
   "pokemon_data": {
-    "id": "0091",
-    "name": "Cloyster",
-    "types": "Water, Ice",
-    "species": "Bivalve Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "132.5 kg",
-    "abilities": "Shell-Armor, Skill-Link, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+    "id": "0699",
+    "name": "Aurorus",
+    "types": "Rock, Ice",
+    "species": "Tundra Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "225.0 kg",
+    "abilities": "Refrigerate, Snow-Warning",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
   }
 }
