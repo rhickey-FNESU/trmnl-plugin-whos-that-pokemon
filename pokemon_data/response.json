@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T03:21:36.600175",
+  "timestamp": "2026-09-26T03:35:03.860308",
   "pokemon_data": {
-    "id": "0785",
-    "name": "Tapu-Koko",
-    "types": "Electric, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "20.5 kg",
-    "abilities": "Electric-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    "id": "0362",
+    "name": "Glalie",
+    "types": "Ice",
+    "species": "Face Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "256.5 kg",
+    "abilities": "Inner-Focus, Ice-Body, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
   }
 }
