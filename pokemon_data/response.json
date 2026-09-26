@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T15:48:09.736478",
+  "timestamp": "2026-09-26T16:01:20.599517",
   "pokemon_data": {
-    "id": "0562",
-    "name": "Yamask",
-    "types": "Ghost",
-    "species": "Spirit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.5 kg",
-    "abilities": "Mummy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+    "id": "1002",
+    "name": "Chien-Pao",
+    "types": "Dark, Ice",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "152.2 kg",
+    "abilities": "Sword-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png"
   }
 }
