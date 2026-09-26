@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T06:01:20.673404",
+  "timestamp": "2026-09-26T06:26:45.139800",
   "pokemon_data": {
-    "id": "0217",
-    "name": "Ursaring",
-    "types": "Normal",
-    "species": "Hibernator Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "125.8 kg",
-    "abilities": "Guts, Quick-Feet, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+    "id": "0318",
+    "name": "Carvanha",
+    "types": "Water, Dark",
+    "species": "Savage Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "20.8 kg",
+    "abilities": "Rough-Skin, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
   }
 }
