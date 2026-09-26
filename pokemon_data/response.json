@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T14:21:34.111742",
+  "timestamp": "2026-09-26T14:34:12.591951",
   "pokemon_data": {
-    "id": "0172",
-    "name": "Pichu",
+    "id": "0466",
+    "name": "Electivire",
     "types": "Electric",
-    "species": "Tiny Mouse Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.0 kg",
-    "abilities": "Static, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "138.6 kg",
+    "abilities": "Motor-Drive, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
   }
 }
