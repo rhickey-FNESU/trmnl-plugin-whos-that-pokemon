@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T02:01:01.674326",
+  "timestamp": "2026-09-26T02:21:48.932669",
   "pokemon_data": {
-    "id": "0814",
-    "name": "Raboot",
-    "types": "Fire",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.0 kg",
-    "abilities": "Blaze, Libero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+    "id": "0447",
+    "name": "Riolu",
+    "types": "Fighting",
+    "species": "Emanation Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "20.2 kg",
+    "abilities": "Steadfast, Inner-Focus, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
   }
 }
