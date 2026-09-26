@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T12:51:04.132733",
+  "timestamp": "2026-09-26T13:00:54.861472",
   "pokemon_data": {
-    "id": "0660",
-    "name": "Diggersby",
-    "types": "Normal, Ground",
-    "species": "Digging Pok\u00e9mon",
+    "id": "0801",
+    "name": "Magearna",
+    "types": "Steel, Fairy",
+    "species": "Artificial Pok\u00e9mon",
     "height": "1.0 m",
-    "weight": "42.4 kg",
-    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
+    "weight": "80.5 kg",
+    "abilities": "Soul-Heart",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png"
   }
 }
