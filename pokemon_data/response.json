@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T08:34:42.980750",
+  "timestamp": "2026-09-26T08:48:31.146832",
   "pokemon_data": {
-    "id": "0837",
-    "name": "Rolycoly",
-    "types": "Rock",
-    "species": "Coal Pok\u00e9mon",
+    "id": "0490",
+    "name": "Manaphy",
+    "types": "Water",
+    "species": "Seafaring Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "12.0 kg",
-    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+    "weight": "1.4 kg",
+    "abilities": "Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png"
   }
 }
