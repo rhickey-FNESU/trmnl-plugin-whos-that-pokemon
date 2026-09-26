@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T03:00:51.280217",
+  "timestamp": "2026-09-26T03:21:36.600175",
   "pokemon_data": {
-    "id": "0663",
-    "name": "Talonflame",
-    "types": "Fire, Flying",
-    "species": "Scorching Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "24.5 kg",
-    "abilities": "Flame-Body, Gale-Wings",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
+    "id": "0785",
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
