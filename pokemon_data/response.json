@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T19:32:12.955200",
+  "timestamp": "2026-09-26T19:45:54.015832",
   "pokemon_data": {
-    "id": "0336",
-    "name": "Seviper",
-    "types": "Poison",
-    "species": "Fang Snake Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "52.5 kg",
-    "abilities": "Shed-Skin, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png"
+    "id": "0481",
+    "name": "Mesprit",
+    "types": "Psychic",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
   }
 }
