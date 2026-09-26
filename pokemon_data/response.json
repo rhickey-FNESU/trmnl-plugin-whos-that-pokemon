@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T19:19:50.221944",
+  "timestamp": "2026-09-26T19:32:12.955200",
   "pokemon_data": {
-    "id": "0325",
-    "name": "Spoink",
-    "types": "Psychic",
-    "species": "Bounce Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "30.6 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+    "id": "0336",
+    "name": "Seviper",
+    "types": "Poison",
+    "species": "Fang Snake Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "52.5 kg",
+    "abilities": "Shed-Skin, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png"
   }
 }
