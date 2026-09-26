@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T11:01:23.853546",
+  "timestamp": "2026-09-26T11:20:42.874631",
   "pokemon_data": {
-    "id": "0562",
-    "name": "Yamask",
-    "types": "Ghost",
-    "species": "Spirit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.5 kg",
-    "abilities": "Mummy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+    "id": "0153",
+    "name": "Bayleef",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "15.8 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
   }
 }
