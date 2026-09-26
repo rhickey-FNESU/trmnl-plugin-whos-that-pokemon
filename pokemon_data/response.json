@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T01:20:42.466891",
+  "timestamp": "2026-09-26T01:33:31.354644",
   "pokemon_data": {
-    "id": "0589",
-    "name": "Escavalier",
-    "types": "Bug, Steel",
-    "species": "Cavalry Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "33.0 kg",
-    "abilities": "Swarm, Shell-Armor, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+    "id": "1001",
+    "name": "Wo-Chien",
+    "types": "Dark, Grass",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "74.2 kg",
+    "abilities": "Tablets-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
   }
 }
