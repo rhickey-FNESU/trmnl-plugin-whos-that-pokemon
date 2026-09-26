@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T07:01:05.568213",
+  "timestamp": "2026-09-26T07:21:06.950304",
   "pokemon_data": {
-    "id": "0261",
-    "name": "Poochyena",
-    "types": "Dark",
-    "species": "Bite Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "13.6 kg",
-    "abilities": "Run-Away, Quick-Feet, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
+    "id": "0376",
+    "name": "Metagross",
+    "types": "Steel, Psychic",
+    "species": "Iron Leg Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "550.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
   }
 }
