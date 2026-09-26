@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T16:48:16.934805",
+  "timestamp": "2026-09-26T17:00:57.620621",
   "pokemon_data": {
-    "id": "1020",
-    "name": "Gouging-Fire",
-    "types": "Fire, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "590.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png"
+    "id": "0502",
+    "name": "Dewott",
+    "types": "Water",
+    "species": "Discipline Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
   }
 }
