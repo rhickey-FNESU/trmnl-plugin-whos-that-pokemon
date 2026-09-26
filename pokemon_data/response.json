@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T13:46:22.890392",
+  "timestamp": "2026-09-26T14:01:06.283891",
   "pokemon_data": {
-    "id": "0545",
-    "name": "Scolipede",
-    "types": "Bug, Poison",
-    "species": "Megapede Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "200.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    "id": "0790",
+    "name": "Cosmoem",
+    "types": "Psychic",
+    "species": "Protostar Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "999.9 kg",
+    "abilities": "Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
   }
 }
