@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T16:22:34.023402",
+  "timestamp": "2026-09-26T16:34:56.714275",
   "pokemon_data": {
-    "id": "0364",
-    "name": "Sealeo",
-    "types": "Ice, Water",
-    "species": "Ball Roll Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "87.6 kg",
-    "abilities": "Thick-Fat, Ice-Body, Oblivious",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
+    "id": "0932",
+    "name": "Nacli",
+    "types": "Rock",
+    "species": "Rock Salt Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "16.0 kg",
+    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
   }
 }
