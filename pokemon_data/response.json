@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T05:33:31.728302",
+  "timestamp": "2026-09-26T05:47:43.216235",
   "pokemon_data": {
-    "id": "0514",
-    "name": "Simisear",
-    "types": "Fire",
-    "species": "Ember Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.0 kg",
-    "abilities": "Gluttony, Blaze",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+    "id": "0692",
+    "name": "Clauncher",
+    "types": "Water",
+    "species": "Water Gun Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.3 kg",
+    "abilities": "Mega-Launcher",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
   }
 }
