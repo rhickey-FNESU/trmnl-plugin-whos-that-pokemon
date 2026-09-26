@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T15:35:17.868310",
+  "timestamp": "2026-09-26T15:48:09.736478",
   "pokemon_data": {
-    "id": "0392",
-    "name": "Infernape",
-    "types": "Fire, Fighting",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "55.0 kg",
-    "abilities": "Blaze, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+    "id": "0562",
+    "name": "Yamask",
+    "types": "Ghost",
+    "species": "Spirit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.5 kg",
+    "abilities": "Mummy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
   }
 }
