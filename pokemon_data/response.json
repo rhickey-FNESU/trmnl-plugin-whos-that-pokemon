@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T05:00:47.239839",
+  "timestamp": "2026-09-26T05:21:11.880041",
   "pokemon_data": {
-    "id": "0784",
-    "name": "Kommo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
+    "id": "0080",
+    "name": "Slowbro",
+    "types": "Water, Psychic",
+    "species": "Hermit Crab Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "78.2 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+    "weight": "78.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
   }
 }
