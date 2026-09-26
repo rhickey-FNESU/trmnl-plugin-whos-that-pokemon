@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T00:01:23.595324",
+  "timestamp": "2026-09-26T00:28:07.279410",
   "pokemon_data": {
-    "id": "0673",
-    "name": "Gogoat",
-    "types": "Grass",
-    "species": "Mount Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "91.0 kg",
-    "abilities": "Sap-Sipper, Grass-Pelt",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png"
+    "id": "0623",
+    "name": "Golurk",
+    "types": "Ground, Ghost",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "2.8 m",
+    "weight": "330.0 kg",
+    "abilities": "Iron-Fist, Klutz, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
   }
 }
