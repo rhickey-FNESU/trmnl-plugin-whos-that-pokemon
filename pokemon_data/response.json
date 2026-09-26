@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T01:48:13.444398",
+  "timestamp": "2026-09-26T02:01:01.674326",
   "pokemon_data": {
-    "id": "0812",
-    "name": "Rillaboom",
-    "types": "Grass",
-    "species": "Drummer Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Overgrow, Grassy-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png"
+    "id": "0814",
+    "name": "Raboot",
+    "types": "Fire",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.0 kg",
+    "abilities": "Blaze, Libero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
   }
 }
