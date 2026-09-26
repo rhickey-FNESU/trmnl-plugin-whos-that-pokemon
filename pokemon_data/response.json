@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T03:48:01.539922",
+  "timestamp": "2026-09-26T04:01:07.391673",
   "pokemon_data": {
-    "id": "0675",
-    "name": "Pangoro",
-    "types": "Fighting, Dark",
-    "species": "Daunting Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "136.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
+    "id": "0842",
+    "name": "Appletun",
+    "types": "Grass, Dragon",
+    "species": "Apple Nectar Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "13.0 kg",
+    "abilities": "Ripen, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
   }
 }
