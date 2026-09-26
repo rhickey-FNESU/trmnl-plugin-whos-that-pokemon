@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T01:33:31.354644",
+  "timestamp": "2026-09-26T01:48:13.444398",
   "pokemon_data": {
-    "id": "1001",
-    "name": "Wo-Chien",
-    "types": "Dark, Grass",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "74.2 kg",
-    "abilities": "Tablets-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
+    "id": "0812",
+    "name": "Rillaboom",
+    "types": "Grass",
+    "species": "Drummer Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "90.0 kg",
+    "abilities": "Overgrow, Grassy-Surge",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png"
   }
 }
