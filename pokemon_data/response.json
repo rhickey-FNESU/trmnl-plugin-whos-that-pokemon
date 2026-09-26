@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T06:51:15.118288",
+  "timestamp": "2026-09-26T07:01:05.568213",
   "pokemon_data": {
-    "id": "0306",
-    "name": "Aggron",
-    "types": "Steel, Rock",
-    "species": "Iron Armor Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "360.0 kg",
-    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
+    "id": "0261",
+    "name": "Poochyena",
+    "types": "Dark",
+    "species": "Bite Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "13.6 kg",
+    "abilities": "Run-Away, Quick-Feet, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
   }
 }
