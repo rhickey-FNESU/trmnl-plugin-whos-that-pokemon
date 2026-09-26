@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T07:21:06.950304",
+  "timestamp": "2026-09-26T07:33:26.151025",
   "pokemon_data": {
-    "id": "0376",
-    "name": "Metagross",
-    "types": "Steel, Psychic",
-    "species": "Iron Leg Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "550.0 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+    "id": "0007",
+    "name": "Squirtle",
+    "types": "Water",
+    "species": "Tiny Turtle Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
   }
 }
