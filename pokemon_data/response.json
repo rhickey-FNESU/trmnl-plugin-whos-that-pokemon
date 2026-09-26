@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T18:00:49.205241",
+  "timestamp": "2026-09-26T18:24:29.673923",
   "pokemon_data": {
-    "id": "0273",
-    "name": "Seedot",
-    "types": "Grass",
-    "species": "Acorn Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "4.0 kg",
-    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png"
+    "id": "0449",
+    "name": "Hippopotas",
+    "types": "Ground",
+    "species": "Hippo Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "49.5 kg",
+    "abilities": "Sand-Stream, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
   }
 }
