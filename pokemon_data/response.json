@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T06:40:16.211847",
+  "timestamp": "2026-09-26T06:51:15.118288",
   "pokemon_data": {
-    "id": "0659",
-    "name": "Bunnelby",
-    "types": "Normal",
-    "species": "Digging Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.0 kg",
-    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
+    "id": "0306",
+    "name": "Aggron",
+    "types": "Steel, Rock",
+    "species": "Iron Armor Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "360.0 kg",
+    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
   }
 }
