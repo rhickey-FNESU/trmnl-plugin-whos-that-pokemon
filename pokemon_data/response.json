@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T02:48:29.990895",
+  "timestamp": "2026-09-26T03:00:51.280217",
   "pokemon_data": {
-    "id": "1025",
-    "name": "Pecharunt",
-    "types": "Poison, Ghost",
-    "species": "Subjugation Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Poison-Puppeteer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png"
+    "id": "0663",
+    "name": "Talonflame",
+    "types": "Fire, Flying",
+    "species": "Scorching Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "24.5 kg",
+    "abilities": "Flame-Body, Gale-Wings",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
   }
 }
