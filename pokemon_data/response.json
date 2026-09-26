@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T04:22:19.139754",
+  "timestamp": "2026-09-26T04:35:10.603599",
   "pokemon_data": {
-    "id": "0639",
-    "name": "Terrakion",
-    "types": "Rock, Fighting",
-    "species": "Cavern Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "260.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+    "id": "0581",
+    "name": "Swanna",
+    "types": "Water, Flying",
+    "species": "White Bird Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "24.2 kg",
+    "abilities": "Keen-Eye, Big-Pecks, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
   }
 }
