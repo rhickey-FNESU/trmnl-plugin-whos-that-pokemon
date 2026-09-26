@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T14:34:12.591951",
+  "timestamp": "2026-09-26T14:47:49.131651",
   "pokemon_data": {
-    "id": "0466",
-    "name": "Electivire",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "138.6 kg",
-    "abilities": "Motor-Drive, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    "id": "0560",
+    "name": "Scrafty",
+    "types": "Dark, Fighting",
+    "species": "Hoodlum Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "abilities": "Shed-Skin, Moxie, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
   }
 }
