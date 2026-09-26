@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T09:21:35.649761",
+  "timestamp": "2026-09-26T09:33:55.059670",
   "pokemon_data": {
-    "id": "0135",
-    "name": "Jolteon",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Volt-Absorb, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    "id": "0341",
+    "name": "Corphish",
+    "types": "Water",
+    "species": "Ruffian Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
   }
 }
