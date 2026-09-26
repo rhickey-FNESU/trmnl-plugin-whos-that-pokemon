@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T22:48:00.593505",
+  "timestamp": "2026-09-26T23:01:19.409085",
   "pokemon_data": {
-    "id": "0444",
-    "name": "Gabite",
-    "types": "Dragon, Ground",
-    "species": "Cave Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "56.0 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png"
+    "id": "0061",
+    "name": "Poliwhirl",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "20.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
   }
 }
