@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T09:00:49.650488",
+  "timestamp": "2026-09-26T09:21:35.649761",
   "pokemon_data": {
-    "id": "0750",
-    "name": "Mudsdale",
-    "types": "Ground",
-    "species": "Draft Horse Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "920.0 kg",
-    "abilities": "Own-Tempo, Stamina, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+    "id": "0135",
+    "name": "Jolteon",
+    "types": "Electric",
+    "species": "Lightning Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Volt-Absorb, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
   }
 }
