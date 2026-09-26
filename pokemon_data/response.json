@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T23:32:35.966784",
+  "timestamp": "2026-09-26T23:47:09.032868",
   "pokemon_data": {
-    "id": "0819",
-    "name": "Skwovet",
-    "types": "Normal",
-    "species": "Cheeky Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.5 kg",
-    "abilities": "Cheek-Pouch, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
+    "id": "0961",
+    "name": "Wugtrio",
+    "types": "Water",
+    "species": "Garden Eel Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "5.4 kg",
+    "abilities": "Gooey, Rattled, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png"
   }
 }
