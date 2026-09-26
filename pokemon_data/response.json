@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T19:45:54.015832",
+  "timestamp": "2026-09-26T20:01:00.732733",
   "pokemon_data": {
-    "id": "0481",
-    "name": "Mesprit",
+    "id": "0579",
+    "name": "Reuniclus",
     "types": "Psychic",
-    "species": "Emotion Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
+    "species": "Multiplying Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "20.1 kg",
+    "abilities": "Overcoat, Magic-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
   }
 }
