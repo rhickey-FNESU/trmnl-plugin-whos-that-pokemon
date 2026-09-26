@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T12:00:58.074899",
+  "timestamp": "2026-09-26T12:25:44.103711",
   "pokemon_data": {
-    "id": "0081",
-    "name": "Magnemite",
-    "types": "Electric, Steel",
-    "species": "Magnet Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.0 kg",
-    "abilities": "Magnet-Pull, Sturdy, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+    "id": "0248",
+    "name": "Tyranitar",
+    "types": "Rock, Dark",
+    "species": "Armor Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "202.0 kg",
+    "abilities": "Sand-Stream, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png"
   }
 }
