@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T21:01:04.315791",
+  "timestamp": "2026-09-27T21:21:36.529583",
   "pokemon_data": {
-    "id": "0194",
-    "name": "Wooper",
-    "types": "Water, Ground",
-    "species": "Water Fish Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.5 kg",
-    "abilities": "Damp, Water-Absorb, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png"
+    "id": "0449",
+    "name": "Hippopotas",
+    "types": "Ground",
+    "species": "Hippo Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "49.5 kg",
+    "abilities": "Sand-Stream, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
   }
 }
