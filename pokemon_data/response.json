@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T09:22:12.506234",
+  "timestamp": "2026-09-27T09:34:37.418244",
   "pokemon_data": {
-    "id": "0486",
-    "name": "Regigigas",
-    "types": "Normal",
-    "species": "Colossal Pok\u00e9mon",
-    "height": "3.7 m",
-    "weight": "420.0 kg",
-    "abilities": "Slow-Start",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png"
+    "id": "0688",
+    "name": "Binacle",
+    "types": "Rock, Water",
+    "species": "Two-Handed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "31.0 kg",
+    "abilities": "Tough-Claws, Sniper, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
   }
 }
