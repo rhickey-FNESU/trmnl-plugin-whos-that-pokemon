@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T23:20:50.832847",
+  "timestamp": "2026-09-27T23:33:38.311038",
   "pokemon_data": {
-    "id": "0920",
-    "name": "Lokix",
-    "types": "Bug, Dark",
-    "species": "Grasshopper Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "17.5 kg",
-    "abilities": "Swarm, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
+    "id": "0941",
+    "name": "Kilowattrel",
+    "types": "Electric, Flying",
+    "species": "Frigatebird Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "38.6 kg",
+    "abilities": "Wind-Power, Volt-Absorb, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png"
   }
 }
