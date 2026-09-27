@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T01:34:29.212100",
+  "timestamp": "2026-09-27T01:48:04.069798",
   "pokemon_data": {
-    "id": "0674",
-    "name": "Pancham",
-    "types": "Fighting",
-    "species": "Playful Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+    "id": "0683",
+    "name": "Aromatisse",
+    "types": "Fairy",
+    "species": "Fragrance Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "15.5 kg",
+    "abilities": "Healer, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
   }
 }
