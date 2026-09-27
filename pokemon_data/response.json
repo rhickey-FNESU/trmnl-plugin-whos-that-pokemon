@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T17:00:49.759562",
+  "timestamp": "2026-09-27T17:20:29.504242",
   "pokemon_data": {
-    "id": "0906",
-    "name": "Sprigatito",
-    "types": "Grass",
-    "species": "Grass Cat Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.1 kg",
-    "abilities": "Overgrow, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
+    "id": "0655",
+    "name": "Delphox",
+    "types": "Fire, Psychic",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.0 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
   }
 }
