@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T13:00:58.264064",
+  "timestamp": "2026-09-27T13:21:36.386793",
   "pokemon_data": {
-    "id": "0043",
-    "name": "Oddish",
-    "types": "Grass, Poison",
-    "species": "Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.4 kg",
-    "abilities": "Chlorophyll, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    "id": "0466",
+    "name": "Electivire",
+    "types": "Electric",
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "138.6 kg",
+    "abilities": "Motor-Drive, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
   }
 }
