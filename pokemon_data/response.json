@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T11:21:32.960130",
+  "timestamp": "2026-09-27T11:34:20.848739",
   "pokemon_data": {
-    "id": "0959",
-    "name": "Tinkaton",
-    "types": "Fairy, Steel",
-    "species": "Hammer Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "112.8 kg",
-    "abilities": "Mold-Breaker, Own-Tempo, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
+    "id": "0971",
+    "name": "Greavard",
+    "types": "Ghost",
+    "species": "Ghost Dog Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "35.0 kg",
+    "abilities": "Pickup, Fluffy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
   }
 }
