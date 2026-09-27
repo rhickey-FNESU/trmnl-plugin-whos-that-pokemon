@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T03:49:37.363405",
+  "timestamp": "2026-09-27T04:00:53.578277",
   "pokemon_data": {
-    "id": "0079",
-    "name": "Slowpoke",
-    "types": "Water, Psychic",
-    "species": "Dopey Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "36.0 kg",
-    "abilities": "Oblivious, Own-Tempo, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+    "id": "0886",
+    "name": "Drakloak",
+    "types": "Dragon, Ghost",
+    "species": "Caretaker Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "11.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
   }
 }
