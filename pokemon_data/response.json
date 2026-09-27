@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T12:01:05.042731",
+  "timestamp": "2026-09-27T12:26:33.941997",
   "pokemon_data": {
-    "id": "0264",
-    "name": "Linoone",
-    "types": "Normal",
-    "species": "Rushing Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "32.5 kg",
-    "abilities": "Pickup, Gluttony, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png"
+    "id": "0123",
+    "name": "Scyther",
+    "types": "Bug, Flying",
+    "species": "Mantis Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "56.0 kg",
+    "abilities": "Swarm, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
   }
 }
