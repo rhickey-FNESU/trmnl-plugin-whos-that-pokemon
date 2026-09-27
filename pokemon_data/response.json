@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T03:36:03.373924",
+  "timestamp": "2026-09-27T03:49:37.363405",
   "pokemon_data": {
-    "id": "0688",
-    "name": "Binacle",
-    "types": "Rock, Water",
-    "species": "Two-Handed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "31.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    "id": "0079",
+    "name": "Slowpoke",
+    "types": "Water, Psychic",
+    "species": "Dopey Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
   }
 }
