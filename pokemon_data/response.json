@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T03:00:58.471477",
+  "timestamp": "2026-09-27T03:22:43.339281",
   "pokemon_data": {
-    "id": "0314",
-    "name": "Illumise",
-    "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.7 kg",
-    "abilities": "Oblivious, Tinted-Lens, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    "id": "0458",
+    "name": "Mantyke",
+    "types": "Water, Flying",
+    "species": "Kite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "65.0 kg",
+    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
   }
 }
