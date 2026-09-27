@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T12:51:54.076788",
+  "timestamp": "2026-09-27T13:00:58.264064",
   "pokemon_data": {
-    "id": "0452",
-    "name": "Drapion",
-    "types": "Poison, Dark",
-    "species": "Ogre Scorpion Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "61.5 kg",
-    "abilities": "Battle-Armor, Sniper, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
+    "id": "0043",
+    "name": "Oddish",
+    "types": "Grass, Poison",
+    "species": "Weed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.4 kg",
+    "abilities": "Chlorophyll, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
   }
 }
