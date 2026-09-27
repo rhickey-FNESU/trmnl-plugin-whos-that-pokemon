@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T12:26:33.941997",
+  "timestamp": "2026-09-27T12:40:15.782403",
   "pokemon_data": {
-    "id": "0123",
-    "name": "Scyther",
-    "types": "Bug, Flying",
-    "species": "Mantis Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "id": "0545",
+    "name": "Scolipede",
+    "types": "Bug, Poison",
+    "species": "Megapede Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "200.5 kg",
+    "abilities": "Poison-Point, Swarm, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
   }
 }
