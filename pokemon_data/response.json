@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T10:34:33.678302",
+  "timestamp": "2026-09-27T10:47:29.267926",
   "pokemon_data": {
-    "id": "0190",
-    "name": "Aipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "11.5 kg",
-    "abilities": "Run-Away, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+    "id": "0594",
+    "name": "Alomomola",
+    "types": "Water",
+    "species": "Caring Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "31.6 kg",
+    "abilities": "Healer, Hydration, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
   }
 }
