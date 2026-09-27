@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T10:47:29.267926",
+  "timestamp": "2026-09-27T11:01:00.196867",
   "pokemon_data": {
-    "id": "0594",
-    "name": "Alomomola",
-    "types": "Water",
-    "species": "Caring Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "31.6 kg",
-    "abilities": "Healer, Hydration, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+    "id": "1010",
+    "name": "Iron-Leaves",
+    "types": "Grass, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "125.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png"
   }
 }
