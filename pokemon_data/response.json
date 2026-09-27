@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T11:34:20.848739",
+  "timestamp": "2026-09-27T11:47:28.840591",
   "pokemon_data": {
-    "id": "0971",
-    "name": "Greavard",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "35.0 kg",
-    "abilities": "Pickup, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+    "id": "0697",
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
