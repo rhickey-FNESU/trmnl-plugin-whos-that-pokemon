@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T23:47:09.032868",
+  "timestamp": "2026-09-27T00:01:25.033321",
   "pokemon_data": {
-    "id": "0961",
-    "name": "Wugtrio",
-    "types": "Water",
-    "species": "Garden Eel Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "5.4 kg",
-    "abilities": "Gooey, Rattled, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png"
+    "id": "0005",
+    "name": "Charmeleon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "abilities": "Blaze, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
   }
 }
