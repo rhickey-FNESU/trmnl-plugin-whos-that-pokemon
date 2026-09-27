@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T22:22:19.392099",
+  "timestamp": "2026-09-27T22:35:37.471282",
   "pokemon_data": {
-    "id": "0612",
-    "name": "Haxorus",
-    "types": "Dragon",
-    "species": "Axe Jaw Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "105.5 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+    "id": "0832",
+    "name": "Dubwool",
+    "types": "Normal",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "43.0 kg",
+    "abilities": "Fluffy, Steadfast, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
   }
 }
