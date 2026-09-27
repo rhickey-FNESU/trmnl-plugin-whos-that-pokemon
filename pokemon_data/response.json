@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T16:22:52.631771",
+  "timestamp": "2026-09-27T16:35:18.658031",
   "pokemon_data": {
-    "id": "0630",
-    "name": "Mandibuzz",
-    "types": "Dark, Flying",
-    "species": "Bone Vulture Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.5 kg",
-    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+    "id": "0874",
+    "name": "Stonjourner",
+    "types": "Rock",
+    "species": "Big Rock Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "520.0 kg",
+    "abilities": "Power-Spot",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
   }
 }
