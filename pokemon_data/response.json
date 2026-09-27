@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T00:01:25.033321",
+  "timestamp": "2026-09-27T00:30:29.720007",
   "pokemon_data": {
-    "id": "0005",
-    "name": "Charmeleon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.0 kg",
-    "abilities": "Blaze, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    "id": "0660",
+    "name": "Diggersby",
+    "types": "Normal, Ground",
+    "species": "Digging Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "42.4 kg",
+    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
   }
 }
