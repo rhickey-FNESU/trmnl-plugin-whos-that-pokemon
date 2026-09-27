@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T20:21:49.072319",
+  "timestamp": "2026-09-27T20:34:25.334661",
   "pokemon_data": {
-    "id": "0902",
-    "name": "Basculegion-Male",
-    "types": "Water, Ghost",
-    "species": "Big Fish Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
+    "id": "0225",
+    "name": "Delibird",
+    "types": "Ice, Flying",
+    "species": "Delivery Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "16.0 kg",
+    "abilities": "Vital-Spirit, Hustle, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
   }
 }
