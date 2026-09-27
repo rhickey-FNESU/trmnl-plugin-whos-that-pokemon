@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T15:34:38.797135",
+  "timestamp": "2026-09-27T15:47:09.799175",
   "pokemon_data": {
-    "id": "0150",
-    "name": "Mewtwo",
-    "types": "Psychic",
-    "species": "Genetic Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "122.0 kg",
-    "abilities": "Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+    "id": "0994",
+    "name": "Iron-Moth",
+    "types": "Fire, Poison",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
   }
 }
