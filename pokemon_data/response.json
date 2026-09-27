@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T17:20:29.504242",
+  "timestamp": "2026-09-27T17:33:29.577135",
   "pokemon_data": {
-    "id": "0655",
-    "name": "Delphox",
-    "types": "Fire, Psychic",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.0 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+    "id": "0789",
+    "name": "Cosmog",
+    "types": "Psychic",
+    "species": "Nebula Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.1 kg",
+    "abilities": "Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
   }
 }
