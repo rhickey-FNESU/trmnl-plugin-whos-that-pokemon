@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T14:21:25.526100",
+  "timestamp": "2026-09-27T14:34:20.317818",
   "pokemon_data": {
-    "id": "0622",
-    "name": "Golett",
-    "types": "Ground, Ghost",
-    "species": "Automaton Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "92.0 kg",
-    "abilities": "Iron-Fist, Klutz, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
+    "id": "0970",
+    "name": "Glimmora",
+    "types": "Rock, Poison",
+    "species": "Ore Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "45.0 kg",
+    "abilities": "Toxic-Debris, Corrosion",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
   }
 }
