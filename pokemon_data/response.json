@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T17:33:29.577135",
+  "timestamp": "2026-09-27T17:47:01.934478",
   "pokemon_data": {
-    "id": "0789",
-    "name": "Cosmog",
-    "types": "Psychic",
-    "species": "Nebula Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.1 kg",
-    "abilities": "Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+    "id": "0143",
+    "name": "Snorlax",
+    "types": "Normal",
+    "species": "Sleeping Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "460.0 kg",
+    "abilities": "Immunity, Thick-Fat, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
   }
 }
