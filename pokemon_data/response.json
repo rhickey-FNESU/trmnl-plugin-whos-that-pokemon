@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T10:21:32.542335",
+  "timestamp": "2026-09-27T10:34:33.678302",
   "pokemon_data": {
-    "id": "0386",
-    "name": "Deoxys-Normal",
-    "types": "Psychic",
-    "species": "Dna Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "60.8 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+    "id": "0190",
+    "name": "Aipom",
+    "types": "Normal",
+    "species": "Long Tail Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "11.5 kg",
+    "abilities": "Run-Away, Pickup, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
   }
 }
