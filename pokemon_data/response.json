@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T18:37:27.852848",
+  "timestamp": "2026-09-27T18:50:31.629118",
   "pokemon_data": {
-    "id": "0496",
-    "name": "Servine",
-    "types": "Grass",
-    "species": "Grass Snake Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+    "id": "0015",
+    "name": "Beedrill",
+    "types": "Bug, Poison",
+    "species": "Poison Bee Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Swarm, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
   }
 }
