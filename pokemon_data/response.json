@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T18:01:17.722050",
+  "timestamp": "2026-09-27T18:24:43.724469",
   "pokemon_data": {
-    "id": "0064",
-    "name": "Kadabra",
-    "types": "Psychic",
-    "species": "Psi Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "56.5 kg",
-    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+    "id": "0612",
+    "name": "Haxorus",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "105.5 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
   }
 }
