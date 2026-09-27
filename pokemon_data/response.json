@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T09:01:02.740928",
+  "timestamp": "2026-09-27T09:22:12.506234",
   "pokemon_data": {
-    "id": "0655",
-    "name": "Delphox",
-    "types": "Fire, Psychic",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.0 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+    "id": "0486",
+    "name": "Regigigas",
+    "types": "Normal",
+    "species": "Colossal Pok\u00e9mon",
+    "height": "3.7 m",
+    "weight": "420.0 kg",
+    "abilities": "Slow-Start",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png"
   }
 }
