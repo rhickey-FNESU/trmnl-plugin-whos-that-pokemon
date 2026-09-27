@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T21:47:01.162901",
+  "timestamp": "2026-09-27T22:00:57.890092",
   "pokemon_data": {
-    "id": "0575",
-    "name": "Gothorita",
-    "types": "Psychic",
-    "species": "Manipulate Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "18.0 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+    "id": "0823",
+    "name": "Corviknight",
+    "types": "Flying, Steel",
+    "species": "Raven Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "75.0 kg",
+    "abilities": "Pressure, Unnerve, Mirror-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
   }
 }
