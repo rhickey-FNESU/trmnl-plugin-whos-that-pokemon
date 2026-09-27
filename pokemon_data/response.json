@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T11:47:28.840591",
+  "timestamp": "2026-09-27T12:01:05.042731",
   "pokemon_data": {
-    "id": "0697",
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "id": "0264",
+    "name": "Linoone",
+    "types": "Normal",
+    "species": "Rushing Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "32.5 kg",
+    "abilities": "Pickup, Gluttony, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png"
   }
 }
