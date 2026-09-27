@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T15:21:39.884953",
+  "timestamp": "2026-09-27T15:34:38.797135",
   "pokemon_data": {
-    "id": "0323",
-    "name": "Camerupt",
-    "types": "Fire, Ground",
-    "species": "Eruption Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "220.0 kg",
-    "abilities": "Magma-Armor, Solid-Rock, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+    "id": "0150",
+    "name": "Mewtwo",
+    "types": "Psychic",
+    "species": "Genetic Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "122.0 kg",
+    "abilities": "Pressure, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
   }
 }
