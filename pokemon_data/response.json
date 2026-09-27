@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T16:35:18.658031",
+  "timestamp": "2026-09-27T16:49:27.283615",
   "pokemon_data": {
-    "id": "0874",
-    "name": "Stonjourner",
-    "types": "Rock",
-    "species": "Big Rock Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "520.0 kg",
-    "abilities": "Power-Spot",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    "id": "0057",
+    "name": "Primeape",
+    "types": "Fighting",
+    "species": "Pig Monkey Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Vital-Spirit, Anger-Point, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
   }
 }
