@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T02:23:36.993131",
+  "timestamp": "2026-09-28T02:37:01.000935",
   "pokemon_data": {
-    "id": "0414",
-    "name": "Mothim",
-    "types": "Bug, Flying",
-    "species": "Moth Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "23.3 kg",
-    "abilities": "Swarm, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
+    "id": "0687",
+    "name": "Malamar",
+    "types": "Dark, Psychic",
+    "species": "Overturning Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "47.0 kg",
+    "abilities": "Contrary, Suction-Cups, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
   }
 }
