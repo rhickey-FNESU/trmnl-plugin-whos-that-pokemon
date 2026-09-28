@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T09:39:58.935584",
+  "timestamp": "2026-09-28T09:52:38.135786",
   "pokemon_data": {
-    "id": "0027",
-    "name": "Sandshrew",
-    "types": "Ground",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "12.0 kg",
-    "abilities": "Sand-Veil, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+    "id": "0083",
+    "name": "Farfetchd",
+    "types": "Normal, Flying",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "15.0 kg",
+    "abilities": "Keen-Eye, Inner-Focus, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
   }
 }
