@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T08:27:20.145825",
+  "timestamp": "2026-09-28T08:39:56.586955",
   "pokemon_data": {
-    "id": "0274",
-    "name": "Nuzleaf",
-    "types": "Grass, Dark",
-    "species": "Wily Pok\u00e9mon",
+    "id": "0432",
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
     "height": "1.0 m",
-    "weight": "28.0 kg",
-    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
