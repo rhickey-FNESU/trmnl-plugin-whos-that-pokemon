@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T14:27:31.328201",
+  "timestamp": "2026-09-28T14:41:08.086050",
   "pokemon_data": {
-    "id": "0487",
-    "name": "Giratina-Altered",
-    "types": "Ghost, Dragon",
-    "species": "Renegade Pok\u00e9mon",
-    "height": "4.5 m",
-    "weight": "750.0 kg",
-    "abilities": "Pressure, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+    "id": "0220",
+    "name": "Swinub",
+    "types": "Ice, Ground",
+    "species": "Pig Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png"
   }
 }
