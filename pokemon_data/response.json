@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T10:02:46.466663",
+  "timestamp": "2026-09-28T10:25:33.805893",
   "pokemon_data": {
-    "id": "0306",
-    "name": "Aggron",
-    "types": "Steel, Rock",
-    "species": "Iron Armor Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "360.0 kg",
-    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
+    "id": "0488",
+    "name": "Cresselia",
+    "types": "Psychic",
+    "species": "Lunar Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "85.6 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
   }
 }
