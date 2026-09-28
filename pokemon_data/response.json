@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T21:02:10.826272",
+  "timestamp": "2026-09-28T21:23:04.505078",
   "pokemon_data": {
-    "id": "0669",
-    "name": "Flabebe",
-    "types": "Fairy",
-    "species": "Single Bloom Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.1 kg",
-    "abilities": "Flower-Veil, Symbiosis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+    "id": "0174",
+    "name": "Igglybuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
   }
 }
