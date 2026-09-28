@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T19:50:18.944812",
+  "timestamp": "2026-09-28T20:01:06.211854",
   "pokemon_data": {
-    "id": "0996",
-    "name": "Frigibax",
-    "types": "Dragon, Ice",
-    "species": "Ice Fin Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "17.0 kg",
-    "abilities": "Thermal-Exchange, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
+    "id": "1003",
+    "name": "Ting-Lu",
+    "types": "Dark, Ground",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "699.7 kg",
+    "abilities": "Vessel-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
   }
 }
