@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T18:27:08.889836",
+  "timestamp": "2026-09-28T18:42:03.720695",
   "pokemon_data": {
-    "id": "0931",
-    "name": "Squawkabilly-Green-Plumage",
-    "types": "Normal, Flying",
-    "species": "Parrot Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.4 kg",
-    "abilities": "Intimidate, Hustle, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png"
+    "id": "0865",
+    "name": "Sirfetchd",
+    "types": "Fighting",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "117.0 kg",
+    "abilities": "Steadfast, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
   }
 }
