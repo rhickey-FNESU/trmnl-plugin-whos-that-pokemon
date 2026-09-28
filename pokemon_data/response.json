@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T16:52:39.365519",
+  "timestamp": "2026-09-28T17:02:10.883648",
   "pokemon_data": {
-    "id": "0496",
-    "name": "Servine",
-    "types": "Grass",
-    "species": "Grass Snake Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+    "id": "0799",
+    "name": "Guzzlord",
+    "types": "Dark, Dragon",
+    "species": "Junkivore Pok\u00e9mon",
+    "height": "5.5 m",
+    "weight": "888.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
   }
 }
