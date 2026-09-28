@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T00:53:56.086606",
+  "timestamp": "2026-09-28T01:02:46.644709",
   "pokemon_data": {
-    "id": "0863",
-    "name": "Perrserker",
-    "types": "Steel",
-    "species": "Viking Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "28.0 kg",
-    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
+    "id": "0277",
+    "name": "Swellow",
+    "types": "Normal, Flying",
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "19.8 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
   }
 }
