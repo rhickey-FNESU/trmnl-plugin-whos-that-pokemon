@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T20:36:18.475846",
+  "timestamp": "2026-09-28T20:51:27.940020",
   "pokemon_data": {
-    "id": "0544",
-    "name": "Whirlipede",
-    "types": "Bug, Poison",
-    "species": "Curlipede Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "58.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
+    "id": "0957",
+    "name": "Tinkatink",
+    "types": "Fairy, Steel",
+    "species": "Metalsmith Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "8.9 kg",
+    "abilities": "Mold-Breaker, Own-Tempo, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png"
   }
 }
