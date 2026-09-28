@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T02:37:01.000935",
+  "timestamp": "2026-09-28T02:50:34.749222",
   "pokemon_data": {
-    "id": "0687",
-    "name": "Malamar",
-    "types": "Dark, Psychic",
-    "species": "Overturning Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "47.0 kg",
-    "abilities": "Contrary, Suction-Cups, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
+    "id": "0978",
+    "name": "Tatsugiri-Curly",
+    "types": "Dragon, Water",
+    "species": "Mimicry Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.0 kg",
+    "abilities": "Commander, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
   }
 }
