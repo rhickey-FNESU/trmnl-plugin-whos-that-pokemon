@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T11:51:43.651180",
+  "timestamp": "2026-09-28T12:01:02.763780",
   "pokemon_data": {
-    "id": "0167",
-    "name": "Spinarak",
-    "types": "Bug, Poison",
-    "species": "String Spit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+    "id": "0854",
+    "name": "Sinistea",
+    "types": "Ghost",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Weak-Armor, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
   }
 }
