@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T04:38:21.360213",
+  "timestamp": "2026-09-28T04:52:08.754961",
   "pokemon_data": {
-    "id": "0970",
-    "name": "Glimmora",
-    "types": "Rock, Poison",
-    "species": "Ore Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "45.0 kg",
-    "abilities": "Toxic-Debris, Corrosion",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
+    "id": "0077",
+    "name": "Ponyta",
+    "types": "Fire",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "abilities": "Run-Away, Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
   }
 }
