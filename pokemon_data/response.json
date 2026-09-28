@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T01:02:46.644709",
+  "timestamp": "2026-09-28T01:22:32.144294",
   "pokemon_data": {
-    "id": "0277",
-    "name": "Swellow",
-    "types": "Normal, Flying",
-    "species": "Swallow Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.8 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+    "id": "0432",
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
