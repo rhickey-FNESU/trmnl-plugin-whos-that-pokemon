@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T13:38:43.555471",
+  "timestamp": "2026-09-28T13:53:37.264950",
   "pokemon_data": {
-    "id": "0140",
-    "name": "Kabuto",
-    "types": "Rock, Water",
-    "species": "Shellfish Pok\u00e9mon",
-    "height": "0.5 m",
+    "id": "0756",
+    "name": "Shiinotic",
+    "types": "Grass, Fairy",
+    "species": "Illuminating Pok\u00e9mon",
+    "height": "1.0 m",
     "weight": "11.5 kg",
-    "abilities": "Swift-Swim, Battle-Armor, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+    "abilities": "Illuminate, Effect-Spore, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png"
   }
 }
