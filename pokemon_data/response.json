@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T07:06:02.813832",
+  "timestamp": "2026-09-28T07:26:11.910526",
   "pokemon_data": {
-    "id": "0508",
-    "name": "Stoutland",
-    "types": "Normal",
-    "species": "Big-Hearted Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "61.0 kg",
-    "abilities": "Intimidate, Sand-Rush, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+    "id": "0152",
+    "name": "Chikorita",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
   }
 }
