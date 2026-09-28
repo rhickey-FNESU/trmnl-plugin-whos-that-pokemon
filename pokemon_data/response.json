@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T02:01:25.489070",
+  "timestamp": "2026-09-28T02:23:36.993131",
   "pokemon_data": {
-    "id": "0362",
-    "name": "Glalie",
-    "types": "Ice",
-    "species": "Face Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "256.5 kg",
-    "abilities": "Inner-Focus, Ice-Body, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+    "id": "0414",
+    "name": "Mothim",
+    "types": "Bug, Flying",
+    "species": "Moth Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "23.3 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
   }
 }
