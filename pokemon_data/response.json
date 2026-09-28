@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T05:50:21.503249",
+  "timestamp": "2026-09-28T06:01:12.711942",
   "pokemon_data": {
-    "id": "0326",
-    "name": "Grumpig",
-    "types": "Psychic",
-    "species": "Manipulate Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "71.5 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
+    "id": "0765",
+    "name": "Oranguru",
+    "types": "Normal, Psychic",
+    "species": "Sage Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "76.0 kg",
+    "abilities": "Inner-Focus, Telepathy, Symbiosis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
   }
 }
