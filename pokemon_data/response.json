@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T19:03:12.912745",
+  "timestamp": "2026-09-28T19:23:12.675419",
   "pokemon_data": {
-    "id": "0267",
-    "name": "Beautifly",
-    "types": "Bug, Flying",
-    "species": "Butterfly Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.4 kg",
-    "abilities": "Swarm, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png"
+    "id": "1013",
+    "name": "Sinistcha",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.2 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
   }
 }
