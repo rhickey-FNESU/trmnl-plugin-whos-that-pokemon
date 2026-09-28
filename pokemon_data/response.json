@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T05:36:30.343266",
+  "timestamp": "2026-09-28T05:50:21.503249",
   "pokemon_data": {
-    "id": "0445",
-    "name": "Garchomp",
-    "types": "Dragon, Ground",
-    "species": "Mach Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "95.0 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+    "id": "0326",
+    "name": "Grumpig",
+    "types": "Psychic",
+    "species": "Manipulate Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "71.5 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
   }
 }
