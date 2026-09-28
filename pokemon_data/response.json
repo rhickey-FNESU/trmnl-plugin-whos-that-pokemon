@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T23:00:54.034699",
+  "timestamp": "2026-09-28T23:22:26.561213",
   "pokemon_data": {
-    "id": "0631",
-    "name": "Heatmor",
-    "types": "Fire",
-    "species": "Anteater Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "58.0 kg",
-    "abilities": "Gluttony, Flash-Fire, White-Smoke",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png"
+    "id": "0496",
+    "name": "Servine",
+    "types": "Grass",
+    "species": "Grass Snake Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "16.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
   }
 }
