@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T07:26:11.910526",
+  "timestamp": "2026-09-28T07:38:22.670903",
   "pokemon_data": {
-    "id": "0152",
-    "name": "Chikorita",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "6.4 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    "id": "0221",
+    "name": "Piloswine",
+    "types": "Ice, Ground",
+    "species": "Swine Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "55.8 kg",
+    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
   }
 }
