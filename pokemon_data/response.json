@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T12:47:38.167438",
+  "timestamp": "2026-09-28T13:03:12.355623",
   "pokemon_data": {
-    "id": "0762",
-    "name": "Steenee",
-    "types": "Grass",
-    "species": "Fruit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "8.2 kg",
-    "abilities": "Leaf-Guard, Oblivious, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png"
+    "id": "0925",
+    "name": "Maushold-Family-Of-Four",
+    "types": "Normal",
+    "species": "Family Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.8 kg",
+    "abilities": "Friend-Guard, Cheek-Pouch, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png"
   }
 }
