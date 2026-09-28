@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T11:38:10.577195",
+  "timestamp": "2026-09-28T11:51:43.651180",
   "pokemon_data": {
-    "id": "0051",
-    "name": "Dugtrio",
-    "types": "Ground",
-    "species": "Mole Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "33.3 kg",
-    "abilities": "Sand-Veil, Arena-Trap, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+    "id": "0167",
+    "name": "Spinarak",
+    "types": "Bug, Poison",
+    "species": "String Spit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
   }
 }
