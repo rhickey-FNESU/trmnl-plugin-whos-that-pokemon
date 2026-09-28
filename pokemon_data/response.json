@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T17:23:49.129234",
+  "timestamp": "2026-09-28T17:35:26.223788",
   "pokemon_data": {
-    "id": "0400",
-    "name": "Bibarel",
-    "types": "Normal, Water",
-    "species": "Beaver Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "31.5 kg",
-    "abilities": "Simple, Unaware, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
+    "id": "0526",
+    "name": "Gigalith",
+    "types": "Rock",
+    "species": "Compressed Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "260.0 kg",
+    "abilities": "Sturdy, Sand-Stream, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
   }
 }
