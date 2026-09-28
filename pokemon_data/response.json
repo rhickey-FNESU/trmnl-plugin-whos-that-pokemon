@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T01:22:32.144294",
+  "timestamp": "2026-09-28T01:35:15.631006",
   "pokemon_data": {
-    "id": "0432",
-    "name": "Purugly",
-    "types": "Normal",
-    "species": "Tiger Cat Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "43.8 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
+    "id": "0599",
+    "name": "Klink",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "21.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
   }
 }
