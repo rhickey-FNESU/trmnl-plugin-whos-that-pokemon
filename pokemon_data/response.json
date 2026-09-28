@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T23:22:26.561213",
+  "timestamp": "2026-09-28T23:34:47.043760",
   "pokemon_data": {
-    "id": "0496",
-    "name": "Servine",
-    "types": "Grass",
-    "species": "Grass Snake Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+    "id": "0457",
+    "name": "Lumineon",
+    "types": "Water",
+    "species": "Neon Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "24.0 kg",
+    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
   }
 }
