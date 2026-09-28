@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T23:34:47.043760",
+  "timestamp": "2026-09-28T23:49:05.655410",
   "pokemon_data": {
-    "id": "0457",
-    "name": "Lumineon",
-    "types": "Water",
-    "species": "Neon Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "24.0 kg",
-    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+    "id": "0352",
+    "name": "Kecleon",
+    "types": "Normal",
+    "species": "Color Swap Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "22.0 kg",
+    "abilities": "Color-Change, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png"
   }
 }
