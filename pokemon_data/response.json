@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T03:51:49.690541",
+  "timestamp": "2026-09-28T04:01:59.823019",
   "pokemon_data": {
-    "id": "0201",
-    "name": "Unown",
-    "types": "Psychic",
-    "species": "Symbol Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+    "id": "0339",
+    "name": "Barboach",
+    "types": "Water, Ground",
+    "species": "Whiskers Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "1.9 kg",
+    "abilities": "Oblivious, Anticipation, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
   }
 }
