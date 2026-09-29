@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T11:35:32.750633",
+  "timestamp": "2026-09-29T11:51:55.833420",
   "pokemon_data": {
-    "id": "0410",
-    "name": "Shieldon",
-    "types": "Rock, Steel",
-    "species": "Shield Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "57.0 kg",
-    "abilities": "Sturdy, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
+    "id": "0227",
+    "name": "Skarmory",
+    "types": "Steel, Flying",
+    "species": "Armor Bird Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "50.5 kg",
+    "abilities": "Keen-Eye, Sturdy, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
   }
 }
