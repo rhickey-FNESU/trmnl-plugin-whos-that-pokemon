@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T05:36:27.639025",
+  "timestamp": "2026-09-29T05:50:45.096865",
   "pokemon_data": {
-    "id": "1024",
-    "name": "Terapagos",
-    "types": "Normal",
-    "species": "Tera Pok\u00e9mon",
+    "id": "0955",
+    "name": "Flittle",
+    "types": "Psychic",
+    "species": "Frill Pok\u00e9mon",
     "height": "0.2 m",
-    "weight": "6.5 kg",
-    "abilities": "Tera-Shift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
+    "weight": "1.5 kg",
+    "abilities": "Anticipation, Frisk, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png"
   }
 }
