@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T00:29:53.713593",
+  "timestamp": "2026-09-29T00:46:34.474325",
   "pokemon_data": {
-    "id": "0870",
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "id": "0461",
+    "name": "Weavile",
+    "types": "Dark, Ice",
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "34.0 kg",
+    "abilities": "Pressure, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
   }
 }
