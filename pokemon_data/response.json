@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T09:38:33.394307",
+  "timestamp": "2026-09-29T09:53:02.567095",
   "pokemon_data": {
-    "id": "0758",
-    "name": "Salazzle",
-    "types": "Poison, Fire",
-    "species": "Toxic Lizard Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "22.2 kg",
-    "abilities": "Corrosion, Oblivious",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png"
+    "id": "0008",
+    "name": "Wartortle",
+    "types": "Water",
+    "species": "Turtle Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
   }
 }
