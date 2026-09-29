@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T23:33:32.331897",
+  "timestamp": "2026-09-29T23:47:57.854735",
   "pokemon_data": {
-    "id": "0655",
-    "name": "Delphox",
-    "types": "Fire, Psychic",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "39.0 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+    "id": "0152",
+    "name": "Chikorita",
+    "types": "Grass",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "abilities": "Overgrow, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
   }
 }
