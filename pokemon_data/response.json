@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T21:35:31.862614",
+  "timestamp": "2026-09-29T21:49:49.392947",
   "pokemon_data": {
-    "id": "0559",
-    "name": "Scraggy",
-    "types": "Dark, Fighting",
-    "species": "Shedding Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.8 kg",
-    "abilities": "Shed-Skin, Moxie, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
+    "id": "0078",
+    "name": "Rapidash",
+    "types": "Fire",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "95.0 kg",
+    "abilities": "Run-Away, Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
   }
 }
