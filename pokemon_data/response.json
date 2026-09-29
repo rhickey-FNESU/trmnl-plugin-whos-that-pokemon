@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T15:27:12.146670",
+  "timestamp": "2026-09-29T15:40:30.955485",
   "pokemon_data": {
-    "id": "0737",
-    "name": "Charjabug",
-    "types": "Bug, Electric",
-    "species": "Battery Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Battery",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
+    "id": "0358",
+    "name": "Chimecho",
+    "types": "Psychic",
+    "species": "Wind Chime Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
   }
 }
