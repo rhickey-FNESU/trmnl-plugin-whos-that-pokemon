@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T21:49:49.392947",
+  "timestamp": "2026-09-29T22:01:10.005580",
   "pokemon_data": {
-    "id": "0078",
-    "name": "Rapidash",
-    "types": "Fire",
-    "species": "Fire Horse Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "95.0 kg",
-    "abilities": "Run-Away, Flash-Fire, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+    "id": "0127",
+    "name": "Pinsir",
+    "types": "Bug",
+    "species": "Stag Beetle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "55.0 kg",
+    "abilities": "Hyper-Cutter, Mold-Breaker, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
   }
 }
