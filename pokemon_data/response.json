@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T14:04:58.810733",
+  "timestamp": "2026-09-29T14:26:04.614912",
   "pokemon_data": {
-    "id": "0658",
-    "name": "Greninja",
-    "types": "Water, Dark",
-    "species": "Ninja Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.0 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    "id": "0701",
+    "name": "Hawlucha",
+    "types": "Fighting, Flying",
+    "species": "Wrestling Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "21.5 kg",
+    "abilities": "Limber, Unburden, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
   }
 }
