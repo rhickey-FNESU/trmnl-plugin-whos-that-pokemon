@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T11:01:54.162809",
+  "timestamp": "2026-09-29T11:23:29.559786",
   "pokemon_data": {
-    "id": "0592",
-    "name": "Frillish-Male",
+    "id": "0902",
+    "name": "Basculegion-Male",
     "types": "Water, Ghost",
-    "species": "Floating Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "33.0 kg",
-    "abilities": "Water-Absorb, Cursed-Body, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+    "species": "Big Fish Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   }
 }
