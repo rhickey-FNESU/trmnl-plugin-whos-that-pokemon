@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T22:48:57.946465",
+  "timestamp": "2026-09-29T23:01:00.557056",
   "pokemon_data": {
-    "id": "0047",
-    "name": "Parasect",
-    "types": "Bug, Grass",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "29.5 kg",
-    "abilities": "Effect-Spore, Dry-Skin, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+    "id": "0239",
+    "name": "Elekid",
+    "types": "Electric",
+    "species": "Electric Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "23.5 kg",
+    "abilities": "Static, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
   }
 }
