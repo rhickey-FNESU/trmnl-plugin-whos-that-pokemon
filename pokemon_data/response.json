@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T05:50:45.096865",
+  "timestamp": "2026-09-29T06:02:03.987757",
   "pokemon_data": {
-    "id": "0955",
-    "name": "Flittle",
-    "types": "Psychic",
-    "species": "Frill Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.5 kg",
-    "abilities": "Anticipation, Frisk, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png"
+    "id": "0187",
+    "name": "Hoppip",
+    "types": "Grass, Flying",
+    "species": "Cottonweed Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "0.5 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
   }
 }
