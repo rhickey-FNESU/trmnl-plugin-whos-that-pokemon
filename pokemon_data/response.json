@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T01:50:20.029957",
+  "timestamp": "2026-09-29T02:01:17.337972",
   "pokemon_data": {
-    "id": "0014",
-    "name": "Kakuna",
-    "types": "Bug, Poison",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.0 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+    "id": "0493",
+    "name": "Arceus",
+    "types": "Normal",
+    "species": "Alpha Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "320.0 kg",
+    "abilities": "Multitype",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
   }
 }
