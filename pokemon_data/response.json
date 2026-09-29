@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T17:02:15.455927",
+  "timestamp": "2026-09-29T17:23:28.705321",
   "pokemon_data": {
-    "id": "0920",
-    "name": "Lokix",
-    "types": "Bug, Dark",
-    "species": "Grasshopper Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "17.5 kg",
-    "abilities": "Swarm, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
+    "id": "0929",
+    "name": "Dolliv",
+    "types": "Grass, Normal",
+    "species": "Olive Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.9 kg",
+    "abilities": "Early-Bird, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
   }
 }
