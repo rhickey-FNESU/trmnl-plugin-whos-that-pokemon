@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T19:36:30.495607",
+  "timestamp": "2026-09-29T19:50:28.008420",
   "pokemon_data": {
-    "id": "0422",
-    "name": "Shellos",
-    "types": "Water",
-    "species": "Sea Slug Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.3 kg",
-    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+    "id": "1000",
+    "name": "Gholdengo",
+    "types": "Steel, Ghost",
+    "species": "Coin Entity Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "30.0 kg",
+    "abilities": "Good-As-Gold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
   }
 }
