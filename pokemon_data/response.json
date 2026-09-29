@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T15:40:30.955485",
+  "timestamp": "2026-09-29T15:53:36.256693",
   "pokemon_data": {
-    "id": "0358",
-    "name": "Chimecho",
-    "types": "Psychic",
-    "species": "Wind Chime Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
+    "id": "0094",
+    "name": "Gengar",
+    "types": "Ghost, Poison",
+    "species": "Shadow Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.5 kg",
+    "abilities": "Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
   }
 }
