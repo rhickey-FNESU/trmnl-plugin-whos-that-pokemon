@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T20:37:43.799056",
+  "timestamp": "2026-09-29T20:50:43.303072",
   "pokemon_data": {
-    "id": "0477",
-    "name": "Dusknoir",
-    "types": "Ghost",
-    "species": "Gripper Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "106.6 kg",
-    "abilities": "Pressure, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
+    "id": "0449",
+    "name": "Hippopotas",
+    "types": "Ground",
+    "species": "Hippo Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "49.5 kg",
+    "abilities": "Sand-Stream, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
   }
 }
