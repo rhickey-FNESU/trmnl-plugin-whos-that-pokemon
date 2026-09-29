@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T20:25:22.308715",
+  "timestamp": "2026-09-29T20:37:43.799056",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "id": "0477",
+    "name": "Dusknoir",
+    "types": "Ghost",
+    "species": "Gripper Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "106.6 kg",
+    "abilities": "Pressure, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
   }
 }
