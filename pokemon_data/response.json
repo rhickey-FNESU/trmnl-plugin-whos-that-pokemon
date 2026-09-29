@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T12:30:37.506029",
+  "timestamp": "2026-09-29T12:55:53.505069",
   "pokemon_data": {
-    "id": "0460",
-    "name": "Abomasnow",
-    "types": "Grass, Ice",
-    "species": "Frost Tree Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "135.5 kg",
-    "abilities": "Snow-Warning, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png"
+    "id": "0535",
+    "name": "Tympole",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "4.5 kg",
+    "abilities": "Swift-Swim, Hydration, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
   }
 }
