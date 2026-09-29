@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T09:25:38.074200",
+  "timestamp": "2026-09-29T09:38:33.394307",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "id": "0758",
+    "name": "Salazzle",
+    "types": "Poison, Fire",
+    "species": "Toxic Lizard Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "22.2 kg",
+    "abilities": "Corrosion, Oblivious",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png"
   }
 }
