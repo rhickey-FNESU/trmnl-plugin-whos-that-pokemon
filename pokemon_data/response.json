@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T07:25:43.814060",
+  "timestamp": "2026-09-29T07:37:27.905027",
   "pokemon_data": {
-    "id": "0923",
-    "name": "Pawmot",
-    "types": "Electric, Fighting",
-    "species": "Hands-On Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "41.0 kg",
-    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
+    "id": "0097",
+    "name": "Hypno",
+    "types": "Psychic",
+    "species": "Hypnosis Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "75.6 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
   }
 }
