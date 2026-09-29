@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T19:50:28.008420",
+  "timestamp": "2026-09-29T20:02:28.007554",
   "pokemon_data": {
-    "id": "1000",
-    "name": "Gholdengo",
-    "types": "Steel, Ghost",
-    "species": "Coin Entity Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "30.0 kg",
-    "abilities": "Good-As-Gold",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
+    "id": "0167",
+    "name": "Spinarak",
+    "types": "Bug, Poison",
+    "species": "String Spit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
   }
 }
