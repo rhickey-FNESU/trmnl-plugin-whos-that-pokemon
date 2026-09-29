@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T07:04:15.413776",
+  "timestamp": "2026-09-29T07:25:43.814060",
   "pokemon_data": {
-    "id": "0742",
-    "name": "Cutiefly",
-    "types": "Bug, Fairy",
-    "species": "Bee Fly Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+    "id": "0923",
+    "name": "Pawmot",
+    "types": "Electric, Fighting",
+    "species": "Hands-On Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "41.0 kg",
+    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
   }
 }
