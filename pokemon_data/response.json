@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T22:36:29.528415",
+  "timestamp": "2026-09-29T22:48:57.946465",
   "pokemon_data": {
-    "id": "0050",
-    "name": "Diglett",
-    "types": "Ground",
-    "species": "Mole Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.8 kg",
-    "abilities": "Sand-Veil, Arena-Trap, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+    "id": "0047",
+    "name": "Parasect",
+    "types": "Bug, Grass",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Effect-Spore, Dry-Skin, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
   }
 }
