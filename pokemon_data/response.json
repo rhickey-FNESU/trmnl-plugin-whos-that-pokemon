@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T20:02:28.007554",
+  "timestamp": "2026-09-29T20:25:22.308715",
   "pokemon_data": {
-    "id": "0167",
-    "name": "Spinarak",
-    "types": "Bug, Poison",
-    "species": "String Spit Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
