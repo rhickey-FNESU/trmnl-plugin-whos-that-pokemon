@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T12:02:40.716748",
+  "timestamp": "2026-09-30T12:33:22.542723",
   "pokemon_data": {
-    "id": "0309",
-    "name": "Electrike",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png"
+    "id": "0190",
+    "name": "Aipom",
+    "types": "Normal",
+    "species": "Long Tail Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "11.5 kg",
+    "abilities": "Run-Away, Pickup, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
   }
 }
