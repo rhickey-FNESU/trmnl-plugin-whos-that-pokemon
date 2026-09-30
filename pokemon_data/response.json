@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T21:01:23.331520",
+  "timestamp": "2026-09-30T21:25:02.430022",
   "pokemon_data": {
-    "id": "0814",
-    "name": "Raboot",
-    "types": "Fire",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.0 kg",
-    "abilities": "Blaze, Libero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
