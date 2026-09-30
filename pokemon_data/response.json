@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T15:30:10.129643",
+  "timestamp": "2026-09-30T15:45:10.706226",
   "pokemon_data": {
-    "id": "0621",
-    "name": "Druddigon",
-    "types": "Dragon",
-    "species": "Cave Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "139.0 kg",
-    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+    "id": "0975",
+    "name": "Cetitan",
+    "types": "Ice",
+    "species": "Terra Whale Pok\u00e9mon",
+    "height": "4.5 m",
+    "weight": "700.0 kg",
+    "abilities": "Thick-Fat, Slush-Rush, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
   }
 }
