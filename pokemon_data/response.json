@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T02:23:10.690473",
+  "timestamp": "2026-09-30T02:36:14.469873",
   "pokemon_data": {
-    "id": "0286",
-    "name": "Breloom",
-    "types": "Grass, Fighting",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.2 kg",
-    "abilities": "Effect-Spore, Poison-Heal, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+    "id": "0629",
+    "name": "Vullaby",
+    "types": "Dark, Flying",
+    "species": "Diapered Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png"
   }
 }
