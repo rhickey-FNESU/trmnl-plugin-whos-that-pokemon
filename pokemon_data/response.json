@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T10:03:08.511487",
+  "timestamp": "2026-09-30T10:25:50.527582",
   "pokemon_data": {
-    "id": "0983",
-    "name": "Kingambit",
-    "types": "Dark, Steel",
-    "species": "Big Blade Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Defiant, Supreme-Overlord, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+    "id": "0986",
+    "name": "Brute-Bonnet",
+    "types": "Grass, Dark",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
   }
 }
