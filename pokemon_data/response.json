@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T20:24:36.641773",
+  "timestamp": "2026-09-30T20:36:03.720172",
   "pokemon_data": {
-    "id": "0688",
-    "name": "Binacle",
-    "types": "Rock, Water",
-    "species": "Two-Handed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "31.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    "id": "0935",
+    "name": "Charcadet",
+    "types": "Fire",
+    "species": "Fire Child Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.5 kg",
+    "abilities": "Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
   }
 }
