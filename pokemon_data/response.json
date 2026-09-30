@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T02:02:29.384659",
+  "timestamp": "2026-09-30T02:23:10.690473",
   "pokemon_data": {
-    "id": "0204",
-    "name": "Pineco",
-    "types": "Bug",
-    "species": "Bagworm Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "7.2 kg",
-    "abilities": "Sturdy, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png"
+    "id": "0286",
+    "name": "Breloom",
+    "types": "Grass, Fighting",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.2 kg",
+    "abilities": "Effect-Spore, Poison-Heal, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
   }
 }
