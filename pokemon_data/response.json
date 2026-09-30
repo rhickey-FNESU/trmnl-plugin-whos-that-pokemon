@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T19:50:01.840470",
+  "timestamp": "2026-09-30T20:01:33.043909",
   "pokemon_data": {
-    "id": "1007",
-    "name": "Koraidon",
-    "types": "Fighting, Dragon",
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
     "species": "Paradox Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "303.0 kg",
-    "abilities": "Orichalcum-Pulse",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
