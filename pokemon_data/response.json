@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T10:25:50.527582",
+  "timestamp": "2026-09-30T10:38:39.042916",
   "pokemon_data": {
-    "id": "0986",
-    "name": "Brute-Bonnet",
-    "types": "Grass, Dark",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "21.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
+    "id": "0553",
+    "name": "Krookodile",
+    "types": "Ground, Dark",
+    "species": "Intimidation Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "96.3 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
   }
 }
