@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T06:47:06.528982",
+  "timestamp": "2026-09-30T07:04:35.513073",
   "pokemon_data": {
-    "id": "0141",
-    "name": "Kabutops",
-    "types": "Rock, Water",
-    "species": "Shellfish Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "40.5 kg",
-    "abilities": "Swift-Swim, Battle-Armor, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+    "id": "0977",
+    "name": "Dondozo",
+    "types": "Water",
+    "species": "Big Catfish Pok\u00e9mon",
+    "height": "12.0 m",
+    "weight": "220.0 kg",
+    "abilities": "Unaware, Oblivious, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
   }
 }
