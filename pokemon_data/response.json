@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T08:41:19.795073",
+  "timestamp": "2026-09-30T08:53:38.621864",
   "pokemon_data": {
-    "id": "0123",
-    "name": "Scyther",
-    "types": "Bug, Flying",
-    "species": "Mantis Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "id": "0983",
+    "name": "Kingambit",
+    "types": "Dark, Steel",
+    "species": "Big Blade Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Defiant, Supreme-Overlord, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
   }
 }
