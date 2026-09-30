@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T09:38:17.393932",
+  "timestamp": "2026-09-30T09:53:22.806221",
   "pokemon_data": {
-    "id": "0728",
-    "name": "Popplio",
-    "types": "Water",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "7.5 kg",
-    "abilities": "Torrent, Liquid-Voice",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png"
+    "id": "0797",
+    "name": "Celesteela",
+    "types": "Steel, Flying",
+    "species": "Launch Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "999.9 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
   }
 }
