@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T16:27:57.972101",
+  "timestamp": "2026-09-30T16:40:37.383590",
   "pokemon_data": {
-    "id": "0530",
-    "name": "Excadrill",
-    "types": "Ground, Steel",
-    "species": "Subterrene Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "40.4 kg",
-    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+    "id": "0189",
+    "name": "Jumpluff",
+    "types": "Grass, Flying",
+    "species": "Cottonweed Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "3.0 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
   }
 }
