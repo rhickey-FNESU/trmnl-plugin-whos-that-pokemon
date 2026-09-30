@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T10:53:01.046090",
+  "timestamp": "2026-09-30T11:02:19.959985",
   "pokemon_data": {
-    "id": "0868",
-    "name": "Milcery",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+    "id": "0834",
+    "name": "Drednaw",
+    "types": "Water, Rock",
+    "species": "Bite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "115.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
   }
 }
