@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T17:24:51.884007",
+  "timestamp": "2026-09-30T17:36:18.362482",
   "pokemon_data": {
-    "id": "0586",
-    "name": "Sawsbuck",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "92.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    "id": "0679",
+    "name": "Honedge",
+    "types": "Steel, Ghost",
+    "species": "Sword Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "2.0 kg",
+    "abilities": "No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
   }
 }
