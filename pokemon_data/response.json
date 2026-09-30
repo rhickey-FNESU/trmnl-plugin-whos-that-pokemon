@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T09:53:22.806221",
+  "timestamp": "2026-09-30T10:03:08.511487",
   "pokemon_data": {
-    "id": "0797",
-    "name": "Celesteela",
-    "types": "Steel, Flying",
-    "species": "Launch Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "999.9 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
+    "id": "0983",
+    "name": "Kingambit",
+    "types": "Dark, Steel",
+    "species": "Big Blade Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Defiant, Supreme-Overlord, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
   }
 }
