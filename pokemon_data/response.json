@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T12:33:22.542723",
+  "timestamp": "2026-09-30T12:58:22.099135",
   "pokemon_data": {
-    "id": "0190",
-    "name": "Aipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "11.5 kg",
-    "abilities": "Run-Away, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
