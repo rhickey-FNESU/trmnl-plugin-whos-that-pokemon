@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T00:32:14.634888",
+  "timestamp": "2026-09-30T00:56:14.899813",
   "pokemon_data": {
-    "id": "0902",
-    "name": "Basculegion-Male",
-    "types": "Water, Ghost",
-    "species": "Big Fish Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
+    "id": "0589",
+    "name": "Escavalier",
+    "types": "Bug, Steel",
+    "species": "Cavalry Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "33.0 kg",
+    "abilities": "Swarm, Shell-Armor, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
   }
 }
