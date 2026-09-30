@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T11:02:19.959985",
+  "timestamp": "2026-09-30T11:23:10.804926",
   "pokemon_data": {
-    "id": "0834",
-    "name": "Drednaw",
-    "types": "Water, Rock",
-    "species": "Bite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "115.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+    "id": "0709",
+    "name": "Trevenant",
+    "types": "Ghost, Grass",
+    "species": "Elder Tree Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "71.0 kg",
+    "abilities": "Natural-Cure, Frisk, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
   }
 }
