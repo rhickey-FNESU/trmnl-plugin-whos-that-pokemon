@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T12:58:22.099135",
+  "timestamp": "2026-09-30T13:11:27.158032",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
+    "id": "0502",
+    "name": "Dewott",
+    "types": "Water",
+    "species": "Discipline Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "weight": "24.5 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
   }
 }
