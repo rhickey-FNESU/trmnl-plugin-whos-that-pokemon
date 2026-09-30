@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T07:52:37.590074",
+  "timestamp": "2026-09-30T08:03:33.650691",
   "pokemon_data": {
-    "id": "0038",
-    "name": "Ninetales",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.9 kg",
-    "abilities": "Flash-Fire, Drought",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+    "id": "0781",
+    "name": "Dhelmise",
+    "types": "Ghost, Grass",
+    "species": "Sea Creeper Pok\u00e9mon",
+    "height": "3.9 m",
+    "weight": "210.0 kg",
+    "abilities": "Steelworker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
   }
 }
