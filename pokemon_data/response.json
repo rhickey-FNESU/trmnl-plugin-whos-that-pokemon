@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T08:03:33.650691",
+  "timestamp": "2026-09-30T08:27:24.648900",
   "pokemon_data": {
-    "id": "0781",
-    "name": "Dhelmise",
-    "types": "Ghost, Grass",
-    "species": "Sea Creeper Pok\u00e9mon",
-    "height": "3.9 m",
-    "weight": "210.0 kg",
-    "abilities": "Steelworker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
+    "id": "0414",
+    "name": "Mothim",
+    "types": "Bug, Flying",
+    "species": "Moth Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "23.3 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
   }
 }
