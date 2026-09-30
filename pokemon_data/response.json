@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T01:50:35.575901",
+  "timestamp": "2026-09-30T02:02:29.384659",
   "pokemon_data": {
-    "id": "0253",
-    "name": "Grovyle",
-    "types": "Grass",
-    "species": "Wood Gecko Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "21.6 kg",
-    "abilities": "Overgrow, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+    "id": "0204",
+    "name": "Pineco",
+    "types": "Bug",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "7.2 kg",
+    "abilities": "Sturdy, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png"
   }
 }
