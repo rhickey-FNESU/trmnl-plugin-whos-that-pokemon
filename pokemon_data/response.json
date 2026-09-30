@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T01:35:37.873128",
+  "timestamp": "2026-09-30T01:50:35.575901",
   "pokemon_data": {
-    "id": "0973",
-    "name": "Flamigo",
-    "types": "Flying, Fighting",
-    "species": "Synchronize Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "37.0 kg",
-    "abilities": "Scrappy, Tangled-Feet, Costar",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png"
+    "id": "0253",
+    "name": "Grovyle",
+    "types": "Grass",
+    "species": "Wood Gecko Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "21.6 kg",
+    "abilities": "Overgrow, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
   }
 }
