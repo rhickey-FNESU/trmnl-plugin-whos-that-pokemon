@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T00:01:09.234437",
+  "timestamp": "2026-09-30T00:32:14.634888",
   "pokemon_data": {
-    "id": "0551",
-    "name": "Sandile",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.2 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+    "id": "0902",
+    "name": "Basculegion-Male",
+    "types": "Water, Ghost",
+    "species": "Big Fish Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   }
 }
