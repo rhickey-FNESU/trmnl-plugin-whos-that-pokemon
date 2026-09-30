@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T04:02:10.328275",
+  "timestamp": "2026-09-30T04:25:26.780106",
   "pokemon_data": {
-    "id": "0656",
-    "name": "Froakie",
+    "id": "0008",
+    "name": "Wartortle",
     "types": "Water",
-    "species": "Bubble Frog Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "7.0 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+    "species": "Turtle Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
   }
 }
