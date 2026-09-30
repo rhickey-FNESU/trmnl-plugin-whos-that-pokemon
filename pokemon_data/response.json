@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T15:12:10.498596",
+  "timestamp": "2026-09-30T15:30:10.129643",
   "pokemon_data": {
-    "id": "0118",
-    "name": "Goldeen",
-    "types": "Water",
-    "species": "Goldfish Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+    "id": "0621",
+    "name": "Druddigon",
+    "types": "Dragon",
+    "species": "Cave Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "139.0 kg",
+    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
   }
 }
