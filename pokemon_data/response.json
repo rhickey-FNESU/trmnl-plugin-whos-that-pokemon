@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T07:04:35.513073",
+  "timestamp": "2026-09-30T07:27:11.872833",
   "pokemon_data": {
-    "id": "0977",
-    "name": "Dondozo",
-    "types": "Water",
-    "species": "Big Catfish Pok\u00e9mon",
-    "height": "12.0 m",
-    "weight": "220.0 kg",
-    "abilities": "Unaware, Oblivious, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
