@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T14:05:01.954446",
+  "timestamp": "2026-09-30T14:28:10.043751",
   "pokemon_data": {
-    "id": "0309",
-    "name": "Electrike",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png"
+    "id": "0186",
+    "name": "Politoed",
+    "types": "Water",
+    "species": "Frog Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.9 kg",
+    "abilities": "Water-Absorb, Damp, Drizzle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
   }
 }
