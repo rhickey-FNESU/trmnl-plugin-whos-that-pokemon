@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T22:50:21.355655",
+  "timestamp": "2026-10-01T23:01:06.215958",
   "pokemon_data": {
-    "id": "0970",
-    "name": "Glimmora",
-    "types": "Rock, Poison",
-    "species": "Ore Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "45.0 kg",
-    "abilities": "Toxic-Debris, Corrosion",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
+    "id": "0249",
+    "name": "Lugia",
+    "types": "Psychic, Flying",
+    "species": "Diving Pok\u00e9mon",
+    "height": "5.2 m",
+    "weight": "216.0 kg",
+    "abilities": "Pressure, Multiscale",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png"
   }
 }
