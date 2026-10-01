@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T01:25:13.559411",
+  "timestamp": "2026-10-01T01:36:16.658077",
   "pokemon_data": {
-    "id": "0399",
-    "name": "Bidoof",
-    "types": "Normal",
-    "species": "Plump Mouse Pok\u00e9mon",
+    "id": "0441",
+    "name": "Chatot",
+    "types": "Normal, Flying",
+    "species": "Music Note Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "20.0 kg",
-    "abilities": "Simple, Unaware, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png"
+    "weight": "1.9 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
   }
 }
