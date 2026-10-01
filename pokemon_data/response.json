@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T09:53:29.985776",
+  "timestamp": "2026-10-01T10:04:10.243363",
   "pokemon_data": {
-    "id": "0424",
-    "name": "Ambipom",
+    "id": "0432",
+    "name": "Purugly",
     "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "20.3 kg",
-    "abilities": "Technician, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
