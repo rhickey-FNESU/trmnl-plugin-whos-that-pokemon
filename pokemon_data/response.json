@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T23:01:06.215958",
+  "timestamp": "2026-10-01T23:21:17.103660",
   "pokemon_data": {
-    "id": "0249",
-    "name": "Lugia",
-    "types": "Psychic, Flying",
-    "species": "Diving Pok\u00e9mon",
-    "height": "5.2 m",
-    "weight": "216.0 kg",
-    "abilities": "Pressure, Multiscale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png"
+    "id": "0433",
+    "name": "Chingling",
+    "types": "Psychic",
+    "species": "Bell Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.6 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
   }
 }
