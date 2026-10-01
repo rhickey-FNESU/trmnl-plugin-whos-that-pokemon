@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T16:24:57.106203",
+  "timestamp": "2026-10-01T16:36:54.195963",
   "pokemon_data": {
-    "id": "0641",
-    "name": "Tornadus-Incarnate",
-    "types": "Flying",
-    "species": "Cyclone Pok\u00e9mon",
+    "id": "0503",
+    "name": "Samurott",
+    "types": "Water",
+    "species": "Formidable Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "63.0 kg",
-    "abilities": "Prankster, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+    "weight": "94.6 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
   }
 }
