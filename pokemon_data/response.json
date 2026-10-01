@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T15:26:38.483690",
+  "timestamp": "2026-10-01T15:39:35.609514",
   "pokemon_data": {
-    "id": "0389",
-    "name": "Torterra",
-    "types": "Grass, Ground",
-    "species": "Continent Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "310.0 kg",
-    "abilities": "Overgrow, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
+    "id": "0401",
+    "name": "Kricketot",
+    "types": "Bug",
+    "species": "Cricket Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.2 kg",
+    "abilities": "Shed-Skin, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
   }
 }
