@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T14:07:34.183835",
+  "timestamp": "2026-10-01T14:27:53.524161",
   "pokemon_data": {
-    "id": "0732",
-    "name": "Trumbeak",
+    "id": "0018",
+    "name": "Pidgeot",
     "types": "Normal, Flying",
-    "species": "Bugle Beak Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "14.8 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
