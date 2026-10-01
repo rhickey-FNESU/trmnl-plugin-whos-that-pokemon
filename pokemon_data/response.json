@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T03:38:57.845723",
+  "timestamp": "2026-10-01T03:53:02.164210",
   "pokemon_data": {
-    "id": "0999",
-    "name": "Gimmighoul",
-    "types": "Ghost",
-    "species": "Coin Chest Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.0 kg",
-    "abilities": "Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
+    "id": "0146",
+    "name": "Moltres",
+    "types": "Fire, Flying",
+    "species": "Flame Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "60.0 kg",
+    "abilities": "Pressure, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png"
   }
 }
