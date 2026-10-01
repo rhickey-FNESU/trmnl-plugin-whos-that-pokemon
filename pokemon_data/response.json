@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T23:21:17.103660",
+  "timestamp": "2026-10-01T23:35:00.322566",
   "pokemon_data": {
-    "id": "0433",
-    "name": "Chingling",
-    "types": "Psychic",
-    "species": "Bell Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
+    "id": "0995",
+    "name": "Iron-Thorns",
+    "types": "Rock, Electric",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "303.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
   }
 }
