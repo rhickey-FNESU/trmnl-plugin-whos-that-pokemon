@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T16:51:28.837379",
+  "timestamp": "2026-10-01T17:04:01.299020",
   "pokemon_data": {
-    "id": "0118",
-    "name": "Goldeen",
-    "types": "Water",
-    "species": "Goldfish Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+    "id": "0252",
+    "name": "Treecko",
+    "types": "Grass",
+    "species": "Wood Gecko Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.0 kg",
+    "abilities": "Overgrow, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
   }
 }
