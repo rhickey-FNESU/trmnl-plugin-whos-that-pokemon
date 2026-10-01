@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T15:39:35.609514",
+  "timestamp": "2026-10-01T15:53:15.115520",
   "pokemon_data": {
-    "id": "0401",
-    "name": "Kricketot",
-    "types": "Bug",
-    "species": "Cricket Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.2 kg",
-    "abilities": "Shed-Skin, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
+    "id": "0680",
+    "name": "Doublade",
+    "types": "Steel, Ghost",
+    "species": "Sword Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "4.5 kg",
+    "abilities": "No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png"
   }
 }
