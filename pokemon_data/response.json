@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T21:52:09.243632",
+  "timestamp": "2026-10-01T22:01:21.567723",
   "pokemon_data": {
-    "id": "0348",
-    "name": "Armaldo",
-    "types": "Rock, Bug",
-    "species": "Plate Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "68.2 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
+    "id": "0281",
+    "name": "Kirlia",
+    "types": "Psychic, Fairy",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "20.2 kg",
+    "abilities": "Synchronize, Trace, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
   }
 }
