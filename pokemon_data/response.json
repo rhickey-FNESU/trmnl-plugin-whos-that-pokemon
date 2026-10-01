@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T23:35:00.322566",
+  "timestamp": "2026-10-01T23:49:31.316927",
   "pokemon_data": {
-    "id": "0995",
-    "name": "Iron-Thorns",
-    "types": "Rock, Electric",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "303.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
+    "id": "0406",
+    "name": "Budew",
+    "types": "Grass, Poison",
+    "species": "Bud Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.2 kg",
+    "abilities": "Natural-Cure, Poison-Point, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png"
   }
 }
