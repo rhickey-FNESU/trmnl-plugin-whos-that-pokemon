@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T21:37:23.943130",
+  "timestamp": "2026-10-01T21:52:09.243632",
   "pokemon_data": {
-    "id": "0917",
-    "name": "Tarountula",
-    "types": "Bug",
-    "species": "String Ball Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "4.0 kg",
-    "abilities": "Insomnia, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png"
+    "id": "0348",
+    "name": "Armaldo",
+    "types": "Rock, Bug",
+    "species": "Plate Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "68.2 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
   }
 }
