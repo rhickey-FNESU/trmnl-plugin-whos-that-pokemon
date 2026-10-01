@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T05:52:42.252537",
+  "timestamp": "2026-10-01T06:03:46.495905",
   "pokemon_data": {
-    "id": "0602",
-    "name": "Tynamo",
-    "types": "Electric",
-    "species": "Elefish Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
+    "id": "1014",
+    "name": "Okidogi",
+    "types": "Poison, Fighting",
+    "species": "Retainer Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "92.2 kg",
+    "abilities": "Toxic-Chain, Guard-Dog",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
   }
 }
