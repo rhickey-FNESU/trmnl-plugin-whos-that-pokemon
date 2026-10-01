@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T07:40:53.439460",
+  "timestamp": "2026-10-01T07:52:24.942957",
   "pokemon_data": {
-    "id": "1003",
-    "name": "Ting-Lu",
-    "types": "Dark, Ground",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "699.7 kg",
-    "abilities": "Vessel-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
+    "id": "0344",
+    "name": "Claydol",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "108.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
   }
 }
