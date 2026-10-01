@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T01:50:44.036030",
+  "timestamp": "2026-10-01T02:02:16.915394",
   "pokemon_data": {
-    "id": "0896",
-    "name": "Glastrier",
-    "types": "Ice",
-    "species": "Wild Horse Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "800.0 kg",
-    "abilities": "Chilling-Neigh",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
+    "id": "0671",
+    "name": "Florges",
+    "types": "Fairy",
+    "species": "Garden Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "10.0 kg",
+    "abilities": "Flower-Veil, Symbiosis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
   }
 }
