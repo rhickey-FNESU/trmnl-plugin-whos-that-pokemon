@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T01:07:37.504472",
+  "timestamp": "2026-10-01T01:25:13.559411",
   "pokemon_data": {
-    "id": "0839",
-    "name": "Coalossal",
-    "types": "Rock, Fire",
-    "species": "Coal Pok\u00e9mon",
-    "height": "2.8 m",
-    "weight": "310.5 kg",
-    "abilities": "Steam-Engine, Flame-Body, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+    "id": "0399",
+    "name": "Bidoof",
+    "types": "Normal",
+    "species": "Plump Mouse Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "20.0 kg",
+    "abilities": "Simple, Unaware, Moody",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png"
   }
 }
