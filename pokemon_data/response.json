@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T01:36:16.658077",
+  "timestamp": "2026-10-01T01:50:44.036030",
   "pokemon_data": {
-    "id": "0441",
-    "name": "Chatot",
-    "types": "Normal, Flying",
-    "species": "Music Note Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "1.9 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
+    "id": "0896",
+    "name": "Glastrier",
+    "types": "Ice",
+    "species": "Wild Horse Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "800.0 kg",
+    "abilities": "Chilling-Neigh",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
   }
 }
