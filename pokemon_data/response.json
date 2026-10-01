@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T18:29:43.246293",
+  "timestamp": "2026-10-01T18:46:07.520692",
   "pokemon_data": {
-    "id": "0034",
-    "name": "Nidoking",
-    "types": "Poison, Ground",
-    "species": "Drill Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "62.0 kg",
-    "abilities": "Poison-Point, Rivalry, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+    "id": "0763",
+    "name": "Tsareena",
+    "types": "Grass",
+    "species": "Fruit Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.4 kg",
+    "abilities": "Leaf-Guard, Queenly-Majesty, Sweet-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
   }
 }
