@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T11:52:44.676580",
+  "timestamp": "2026-10-01T12:03:54.119042",
   "pokemon_data": {
-    "id": "0755",
-    "name": "Morelull",
-    "types": "Grass, Fairy",
-    "species": "Illuminating Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.5 kg",
-    "abilities": "Illuminate, Effect-Spore, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png"
+    "id": "0600",
+    "name": "Klang",
+    "types": "Steel",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "51.0 kg",
+    "abilities": "Plus, Minus, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
   }
 }
