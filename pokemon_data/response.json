@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T07:52:24.942957",
+  "timestamp": "2026-10-01T08:03:32.351795",
   "pokemon_data": {
-    "id": "0344",
-    "name": "Claydol",
-    "types": "Ground, Psychic",
-    "species": "Clay Doll Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "108.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
+    "id": "0328",
+    "name": "Trapinch",
+    "types": "Ground",
+    "species": "Ant Pit Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "15.0 kg",
+    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
   }
 }
