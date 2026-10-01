@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T12:03:54.119042",
+  "timestamp": "2026-10-01T12:31:53.565551",
   "pokemon_data": {
-    "id": "0600",
-    "name": "Klang",
-    "types": "Steel",
-    "species": "Gear Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "51.0 kg",
-    "abilities": "Plus, Minus, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+    "id": "0128",
+    "name": "Tauros",
+    "types": "Normal",
+    "species": "Wild Bull Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "88.4 kg",
+    "abilities": "Intimidate, Anger-Point, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
   }
 }
