@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T08:27:52.204097",
+  "timestamp": "2026-10-01T08:42:21.168027",
   "pokemon_data": {
-    "id": "0016",
-    "name": "Pidgey",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    "id": "0708",
+    "name": "Phantump",
+    "types": "Ghost, Grass",
+    "species": "Stump Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "7.0 kg",
+    "abilities": "Natural-Cure, Frisk, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png"
   }
 }
