@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T02:51:49.214201",
+  "timestamp": "2026-10-01T03:02:12.233488",
   "pokemon_data": {
-    "id": "0820",
-    "name": "Greedent",
-    "types": "Normal",
-    "species": "Greedy Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "6.0 kg",
-    "abilities": "Cheek-Pouch, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
+    "id": "0551",
+    "name": "Sandile",
+    "types": "Ground, Dark",
+    "species": "Desert Croc Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "15.2 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
   }
 }
