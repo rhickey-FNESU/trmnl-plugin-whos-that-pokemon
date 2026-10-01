@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T17:52:39.446985",
+  "timestamp": "2026-10-01T18:03:43.882962",
   "pokemon_data": {
-    "id": "0165",
-    "name": "Ledyba",
-    "types": "Bug, Flying",
-    "species": "Five Star Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "10.8 kg",
-    "abilities": "Swarm, Early-Bird, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
+    "id": "0994",
+    "name": "Iron-Moth",
+    "types": "Fire, Poison",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
   }
 }
