@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T07:27:45.353046",
+  "timestamp": "2026-10-01T07:40:53.439460",
   "pokemon_data": {
-    "id": "0452",
-    "name": "Drapion",
-    "types": "Poison, Dark",
-    "species": "Ogre Scorpion Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "61.5 kg",
-    "abilities": "Battle-Armor, Sniper, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
+    "id": "1003",
+    "name": "Ting-Lu",
+    "types": "Dark, Ground",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "699.7 kg",
+    "abilities": "Vessel-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
   }
 }
