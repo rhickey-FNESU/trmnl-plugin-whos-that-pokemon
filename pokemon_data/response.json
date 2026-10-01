@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T03:02:12.233488",
+  "timestamp": "2026-10-01T03:25:29.262189",
   "pokemon_data": {
-    "id": "0551",
-    "name": "Sandile",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.2 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+    "id": "0809",
+    "name": "Melmetal",
+    "types": "Steel",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "800.0 kg",
+    "abilities": "Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
   }
 }
