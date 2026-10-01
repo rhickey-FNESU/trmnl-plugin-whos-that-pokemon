@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T18:03:43.882962",
+  "timestamp": "2026-10-01T18:29:43.246293",
   "pokemon_data": {
-    "id": "0994",
-    "name": "Iron-Moth",
-    "types": "Fire, Poison",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "36.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
+    "id": "0034",
+    "name": "Nidoking",
+    "types": "Poison, Ground",
+    "species": "Drill Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "62.0 kg",
+    "abilities": "Poison-Point, Rivalry, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
   }
 }
