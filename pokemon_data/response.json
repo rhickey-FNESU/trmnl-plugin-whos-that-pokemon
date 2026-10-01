@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T14:42:25.679710",
+  "timestamp": "2026-10-01T14:54:41.279894",
   "pokemon_data": {
-    "id": "0171",
-    "name": "Lanturn",
-    "types": "Water, Electric",
-    "species": "Light Pok\u00e9mon",
+    "id": "0521",
+    "name": "Unfezant",
+    "types": "Normal, Flying",
+    "species": "Proud Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "22.5 kg",
-    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
+    "weight": "29.0 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
   }
 }
