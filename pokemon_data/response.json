@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T13:56:46.006960",
+  "timestamp": "2026-10-01T14:07:34.183835",
   "pokemon_data": {
-    "id": "0069",
-    "name": "Bellsprout",
-    "types": "Grass, Poison",
-    "species": "Flower Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "4.0 kg",
-    "abilities": "Chlorophyll, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+    "id": "0732",
+    "name": "Trumbeak",
+    "types": "Normal, Flying",
+    "species": "Bugle Beak Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "14.8 kg",
+    "abilities": "Keen-Eye, Skill-Link, Pickup",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
   }
 }
