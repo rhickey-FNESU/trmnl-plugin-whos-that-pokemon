@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T15:02:27.707742",
+  "timestamp": "2026-10-01T15:26:38.483690",
   "pokemon_data": {
-    "id": "0962",
-    "name": "Bombirdier",
-    "types": "Flying, Dark",
-    "species": "Item Drop Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "42.9 kg",
-    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+    "id": "0389",
+    "name": "Torterra",
+    "types": "Grass, Ground",
+    "species": "Continent Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "310.0 kg",
+    "abilities": "Overgrow, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
   }
 }
