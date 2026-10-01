@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T04:53:31.392799",
+  "timestamp": "2026-10-01T05:02:31.119945",
   "pokemon_data": {
-    "id": "0823",
-    "name": "Corviknight",
-    "types": "Flying, Steel",
-    "species": "Raven Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "75.0 kg",
-    "abilities": "Pressure, Unnerve, Mirror-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+    "id": "0625",
+    "name": "Bisharp",
+    "types": "Dark, Steel",
+    "species": "Sword Blade Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "70.0 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
   }
 }
