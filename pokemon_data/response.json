@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T02:02:16.915394",
+  "timestamp": "2026-10-01T02:23:59.536656",
   "pokemon_data": {
-    "id": "0671",
-    "name": "Florges",
-    "types": "Fairy",
-    "species": "Garden Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "10.0 kg",
-    "abilities": "Flower-Veil, Symbiosis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+    "id": "0514",
+    "name": "Simisear",
+    "types": "Fire",
+    "species": "Ember Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Gluttony, Blaze",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
   }
 }
