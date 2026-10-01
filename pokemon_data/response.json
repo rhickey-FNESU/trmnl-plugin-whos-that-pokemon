@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-01T08:03:32.351795",
+  "timestamp": "2026-10-01T08:27:52.204097",
   "pokemon_data": {
-    "id": "0328",
-    "name": "Trapinch",
-    "types": "Ground",
-    "species": "Ant Pit Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "15.0 kg",
-    "abilities": "Hyper-Cutter, Arena-Trap, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+    "id": "0016",
+    "name": "Pidgey",
+    "types": "Normal, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
   }
 }
