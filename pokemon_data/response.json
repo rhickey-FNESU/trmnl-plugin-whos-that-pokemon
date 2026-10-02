@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T15:03:38.957524",
+  "timestamp": "2026-10-02T15:27:08.367822",
   "pokemon_data": {
-    "id": "0718",
-    "name": "Zygarde-50",
-    "types": "Dragon, Ground",
-    "species": "Order Pok\u00e9mon",
-    "height": "5.0 m",
-    "weight": "305.0 kg",
-    "abilities": "Aura-Break",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+    "id": "1006",
+    "name": "Iron-Valiant",
+    "types": "Fairy, Fighting",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "35.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png"
   }
 }
