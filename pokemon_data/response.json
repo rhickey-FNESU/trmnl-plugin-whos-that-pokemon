@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T20:01:22.368020",
+  "timestamp": "2026-10-02T20:23:18.030417",
   "pokemon_data": {
-    "id": "0536",
-    "name": "Palpitoad",
-    "types": "Water, Ground",
-    "species": "Vibration Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.0 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    "id": "0607",
+    "name": "Litwick",
+    "types": "Ghost, Fire",
+    "species": "Candle Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.1 kg",
+    "abilities": "Flash-Fire, Flame-Body, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
   }
 }
