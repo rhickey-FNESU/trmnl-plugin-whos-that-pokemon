@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T01:24:46.494386",
+  "timestamp": "2026-10-02T01:36:17.253451",
   "pokemon_data": {
-    "id": "0722",
-    "name": "Rowlet",
-    "types": "Grass, Flying",
-    "species": "Grass Quill Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
