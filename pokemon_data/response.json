@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T07:04:26.559700",
+  "timestamp": "2026-10-02T07:26:49.233109",
   "pokemon_data": {
-    "id": "0463",
-    "name": "Lickilicky",
-    "types": "Normal",
-    "species": "Licking Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "140.0 kg",
-    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
+    "id": "0497",
+    "name": "Serperior",
+    "types": "Grass",
+    "species": "Regal Pok\u00e9mon",
+    "height": "3.3 m",
+    "weight": "63.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
   }
 }
