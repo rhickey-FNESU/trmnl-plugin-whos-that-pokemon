@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T19:37:34.424329",
+  "timestamp": "2026-10-02T19:51:35.409294",
   "pokemon_data": {
-    "id": "0749",
-    "name": "Mudbray",
-    "types": "Ground",
-    "species": "Donkey Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Own-Tempo, Stamina, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+    "id": "0532",
+    "name": "Timburr",
+    "types": "Fighting",
+    "species": "Muscular Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "12.5 kg",
+    "abilities": "Guts, Sheer-Force, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
   }
 }
