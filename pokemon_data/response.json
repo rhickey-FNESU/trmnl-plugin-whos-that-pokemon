@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T00:32:11.161333",
+  "timestamp": "2026-10-02T00:55:16.251389",
   "pokemon_data": {
-    "id": "0457",
-    "name": "Lumineon",
-    "types": "Water",
-    "species": "Neon Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "24.0 kg",
-    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+    "id": "0115",
+    "name": "Kangaskhan",
+    "types": "Normal",
+    "species": "Parent Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "80.0 kg",
+    "abilities": "Early-Bird, Scrappy, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
   }
 }
