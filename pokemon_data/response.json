@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T08:50:51.783208",
+  "timestamp": "2026-10-02T09:03:10.605692",
   "pokemon_data": {
-    "id": "0119",
-    "name": "Seaking",
-    "types": "Water",
-    "species": "Goldfish Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "39.0 kg",
-    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+    "id": "0049",
+    "name": "Venomoth",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "12.5 kg",
+    "abilities": "Shield-Dust, Tinted-Lens, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
   }
 }
