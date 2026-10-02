@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T17:25:01.287553",
+  "timestamp": "2026-10-02T17:36:26.505973",
   "pokemon_data": {
-    "id": "1012",
-    "name": "Poltchageist",
-    "types": "Grass, Ghost",
-    "species": "Matcha Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "1.1 kg",
-    "abilities": "Hospitality, Heatproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+    "id": "0692",
+    "name": "Clauncher",
+    "types": "Water",
+    "species": "Water Gun Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.3 kg",
+    "abilities": "Mega-Launcher",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
   }
 }
