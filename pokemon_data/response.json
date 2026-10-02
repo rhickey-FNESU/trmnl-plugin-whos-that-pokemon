@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T01:04:00.413908",
+  "timestamp": "2026-10-02T01:24:46.494386",
   "pokemon_data": {
-    "id": "0261",
-    "name": "Poochyena",
-    "types": "Dark",
-    "species": "Bite Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "13.6 kg",
-    "abilities": "Run-Away, Quick-Feet, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
+    "id": "0722",
+    "name": "Rowlet",
+    "types": "Grass, Flying",
+    "species": "Grass Quill Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.5 kg",
+    "abilities": "Overgrow, Long-Reach",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
   }
 }
