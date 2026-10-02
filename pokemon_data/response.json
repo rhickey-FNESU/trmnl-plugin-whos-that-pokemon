@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T15:27:08.367822",
+  "timestamp": "2026-10-02T15:41:15.619840",
   "pokemon_data": {
-    "id": "1006",
-    "name": "Iron-Valiant",
-    "types": "Fairy, Fighting",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "35.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png"
+    "id": "0018",
+    "name": "Pidgeot",
+    "types": "Normal, Flying",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
   }
 }
