@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T13:04:52.497578",
+  "timestamp": "2026-10-02T13:26:48.624523",
   "pokemon_data": {
-    "id": "0318",
-    "name": "Carvanha",
-    "types": "Water, Dark",
-    "species": "Savage Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "20.8 kg",
-    "abilities": "Rough-Skin, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
+    "id": "0001",
+    "name": "Bulbasaur",
+    "types": "Grass, Poison",
+    "species": "Seed Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "6.9 kg",
+    "abilities": "Overgrow, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
   }
 }
