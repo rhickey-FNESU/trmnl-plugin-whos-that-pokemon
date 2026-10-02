@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T11:37:08.988314",
+  "timestamp": "2026-10-02T11:51:54.641015",
   "pokemon_data": {
-    "id": "0327",
-    "name": "Spinda",
-    "types": "Normal",
-    "species": "Spot Panda Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "5.0 kg",
-    "abilities": "Own-Tempo, Tangled-Feet, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png"
+    "id": "0890",
+    "name": "Eternatus",
+    "types": "Poison, Dragon",
+    "species": "Gigantic Pok\u00e9mon",
+    "height": "20.0 m",
+    "weight": "950.0 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
   }
 }
