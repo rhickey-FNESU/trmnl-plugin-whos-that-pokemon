@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T00:01:15.352841",
+  "timestamp": "2026-10-02T00:32:11.161333",
   "pokemon_data": {
-    "id": "0049",
-    "name": "Venomoth",
-    "types": "Bug, Poison",
-    "species": "Poison Moth Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "12.5 kg",
-    "abilities": "Shield-Dust, Tinted-Lens, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+    "id": "0457",
+    "name": "Lumineon",
+    "types": "Water",
+    "species": "Neon Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "24.0 kg",
+    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
   }
 }
