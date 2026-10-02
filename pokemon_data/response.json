@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T11:01:58.156633",
+  "timestamp": "2026-10-02T11:24:00.097467",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
