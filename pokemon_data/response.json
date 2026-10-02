@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T04:38:19.722422",
+  "timestamp": "2026-10-02T04:52:11.151948",
   "pokemon_data": {
-    "id": "0016",
-    "name": "Pidgey",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    "id": "0912",
+    "name": "Quaxly",
+    "types": "Water",
+    "species": "Duckling Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.1 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
   }
 }
