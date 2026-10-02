@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T10:24:17.119536",
+  "timestamp": "2026-10-02T10:37:04.884678",
   "pokemon_data": {
-    "id": "0726",
-    "name": "Torracat",
-    "types": "Fire",
-    "species": "Fire Cat Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "25.0 kg",
-    "abilities": "Blaze, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
+    "id": "0966",
+    "name": "Revavroom",
+    "types": "Steel, Poison",
+    "species": "Multi-Cyl Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "120.0 kg",
+    "abilities": "Overcoat, Filter",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
   }
 }
