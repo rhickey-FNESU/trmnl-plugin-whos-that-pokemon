@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T03:02:46.184039",
+  "timestamp": "2026-10-02T03:24:55.021944",
   "pokemon_data": {
-    "id": "0890",
-    "name": "Eternatus",
-    "types": "Poison, Dragon",
-    "species": "Gigantic Pok\u00e9mon",
-    "height": "20.0 m",
-    "weight": "950.0 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
+    "id": "0491",
+    "name": "Darkrai",
+    "types": "Dark",
+    "species": "Pitch-Black Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "50.5 kg",
+    "abilities": "Bad-Dreams",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
   }
 }
