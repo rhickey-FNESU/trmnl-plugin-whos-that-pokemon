@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T03:52:06.116132",
+  "timestamp": "2026-10-02T04:02:29.559035",
   "pokemon_data": {
-    "id": "0217",
-    "name": "Ursaring",
-    "types": "Normal",
-    "species": "Hibernator Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "125.8 kg",
-    "abilities": "Guts, Quick-Feet, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+    "id": "1011",
+    "name": "Dipplin",
+    "types": "Grass, Dragon",
+    "species": "Candy Apple Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "9.7 kg",
+    "abilities": "Supersweet-Syrup, Gluttony, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png"
   }
 }
