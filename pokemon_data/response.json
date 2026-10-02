@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T23:34:58.305477",
+  "timestamp": "2026-10-02T23:48:15.385954",
   "pokemon_data": {
-    "id": "0901",
-    "name": "Ursaluna",
-    "types": "Ground, Normal",
-    "species": "Peat Pok\u00e9mon",
-    "height": "2.4 m",
-    "weight": "290.0 kg",
-    "abilities": "Guts, Bulletproof, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+    "id": "0948",
+    "name": "Toedscool",
+    "types": "Ground, Grass",
+    "species": "Woodear Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "33.0 kg",
+    "abilities": "Mycelium-Might",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
   }
 }
