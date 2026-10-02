@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T13:40:33.587246",
+  "timestamp": "2026-10-02T13:53:34.444677",
   "pokemon_data": {
-    "id": "0070",
-    "name": "Weepinbell",
-    "types": "Grass, Poison",
-    "species": "Flycatcher Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "6.4 kg",
-    "abilities": "Chlorophyll, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+    "id": "0493",
+    "name": "Arceus",
+    "types": "Normal",
+    "species": "Alpha Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "320.0 kg",
+    "abilities": "Multitype",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
   }
 }
