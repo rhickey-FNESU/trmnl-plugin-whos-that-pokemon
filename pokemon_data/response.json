@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T14:41:46.523954",
+  "timestamp": "2026-10-02T14:55:17.275477",
   "pokemon_data": {
-    "id": "0624",
-    "name": "Pawniard",
-    "types": "Dark, Steel",
-    "species": "Sharp Blade Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+    "id": "0353",
+    "name": "Shuppet",
+    "types": "Ghost",
+    "species": "Puppet Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "2.3 kg",
+    "abilities": "Insomnia, Frisk, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
   }
 }
