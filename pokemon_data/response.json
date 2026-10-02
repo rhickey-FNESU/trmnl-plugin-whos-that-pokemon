@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T05:51:34.188763",
+  "timestamp": "2026-10-02T06:02:11.026581",
   "pokemon_data": {
-    "id": "0629",
-    "name": "Vullaby",
-    "types": "Dark, Flying",
-    "species": "Diapered Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png"
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
