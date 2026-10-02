@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T10:01:57.131319",
+  "timestamp": "2026-10-02T10:24:17.119536",
   "pokemon_data": {
-    "id": "0148",
-    "name": "Dragonair",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "4.0 m",
-    "weight": "16.5 kg",
-    "abilities": "Shed-Skin, Marvel-Scale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+    "id": "0726",
+    "name": "Torracat",
+    "types": "Fire",
+    "species": "Fire Cat Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "25.0 kg",
+    "abilities": "Blaze, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
   }
 }
