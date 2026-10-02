@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T14:55:17.275477",
+  "timestamp": "2026-10-02T15:03:38.957524",
   "pokemon_data": {
-    "id": "0353",
-    "name": "Shuppet",
-    "types": "Ghost",
-    "species": "Puppet Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "2.3 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    "id": "0718",
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
