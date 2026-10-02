@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T07:26:49.233109",
+  "timestamp": "2026-10-02T07:39:22.329539",
   "pokemon_data": {
-    "id": "0497",
-    "name": "Serperior",
-    "types": "Grass",
-    "species": "Regal Pok\u00e9mon",
-    "height": "3.3 m",
-    "weight": "63.0 kg",
-    "abilities": "Overgrow, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+    "id": "0985",
+    "name": "Scream-Tail",
+    "types": "Fairy, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "8.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png"
   }
 }
