@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T20:36:56.588172",
+  "timestamp": "2026-10-02T20:51:54.766905",
   "pokemon_data": {
-    "id": "0147",
-    "name": "Dratini",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "3.3 kg",
-    "abilities": "Shed-Skin, Marvel-Scale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+    "id": "0184",
+    "name": "Azumarill",
+    "types": "Water, Fairy",
+    "species": "Aqua Rabbit Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.5 kg",
+    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
   }
 }
