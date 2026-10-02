@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T20:51:54.766905",
+  "timestamp": "2026-10-02T21:02:20.313063",
   "pokemon_data": {
-    "id": "0184",
-    "name": "Azumarill",
-    "types": "Water, Fairy",
-    "species": "Aqua Rabbit Pok\u00e9mon",
+    "id": "0471",
+    "name": "Glaceon",
+    "types": "Ice",
+    "species": "Fresh Snow Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "28.5 kg",
-    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+    "weight": "25.9 kg",
+    "abilities": "Snow-Cloak, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
   }
 }
