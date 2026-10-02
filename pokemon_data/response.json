@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T06:02:11.026581",
+  "timestamp": "2026-10-02T06:29:42.705220",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "id": "0666",
+    "name": "Vivillon",
+    "types": "Bug, Flying",
+    "species": "Scale Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "17.0 kg",
+    "abilities": "Shield-Dust, Compound-Eyes, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
   }
 }
