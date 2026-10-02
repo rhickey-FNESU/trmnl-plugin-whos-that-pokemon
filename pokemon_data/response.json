@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T09:26:15.263158",
+  "timestamp": "2026-10-02T09:39:22.247894",
   "pokemon_data": {
-    "id": "0988",
-    "name": "Slither-Wing",
-    "types": "Bug, Fighting",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "92.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
