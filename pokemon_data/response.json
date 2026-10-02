@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T11:24:00.097467",
+  "timestamp": "2026-10-02T11:37:08.988314",
   "pokemon_data": {
-    "id": "1023",
-    "name": "Iron-Crown",
-    "types": "Steel, Psychic",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "156.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
+    "id": "0327",
+    "name": "Spinda",
+    "types": "Normal",
+    "species": "Spot Panda Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "5.0 kg",
+    "abilities": "Own-Tempo, Tangled-Feet, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png"
   }
 }
