@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T04:25:06.514074",
+  "timestamp": "2026-10-02T04:38:19.722422",
   "pokemon_data": {
-    "id": "0837",
-    "name": "Rolycoly",
-    "types": "Rock",
-    "species": "Coal Pok\u00e9mon",
+    "id": "0016",
+    "name": "Pidgey",
+    "types": "Normal, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "12.0 kg",
-    "abilities": "Steam-Engine, Heatproof, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+    "weight": "1.8 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
   }
 }
