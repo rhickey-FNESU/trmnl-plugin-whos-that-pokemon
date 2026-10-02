@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T10:37:04.884678",
+  "timestamp": "2026-10-02T10:51:51.103088",
   "pokemon_data": {
-    "id": "0966",
-    "name": "Revavroom",
-    "types": "Steel, Poison",
-    "species": "Multi-Cyl Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "120.0 kg",
-    "abilities": "Overcoat, Filter",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
+    "id": "0183",
+    "name": "Marill",
+    "types": "Water, Fairy",
+    "species": "Aqua Mouse Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "8.5 kg",
+    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png"
   }
 }
