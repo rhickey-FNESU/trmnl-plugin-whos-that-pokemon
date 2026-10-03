@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T08:36:21.160058",
+  "timestamp": "2026-10-03T08:55:15.837264",
   "pokemon_data": {
-    "id": "0419",
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "id": "0662",
+    "name": "Fletchinder",
+    "types": "Fire, Flying",
+    "species": "Ember Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "16.0 kg",
+    "abilities": "Flame-Body, Gale-Wings",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
   }
 }
