@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T06:31:08.185307",
+  "timestamp": "2026-10-03T07:02:53.240376",
   "pokemon_data": {
-    "id": "0624",
-    "name": "Pawniard",
-    "types": "Dark, Steel",
-    "species": "Sharp Blade Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+    "id": "0892",
+    "name": "Urshifu-Single-Strike",
+    "types": "Fighting, Dark",
+    "species": "Wushu Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "105.0 kg",
+    "abilities": "Unseen-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
   }
 }
