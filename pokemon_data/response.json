@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T04:40:37.857057",
+  "timestamp": "2026-10-03T04:51:32.467765",
   "pokemon_data": {
-    "id": "0221",
-    "name": "Piloswine",
-    "types": "Ice, Ground",
-    "species": "Swine Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "55.8 kg",
-    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+    "id": "0426",
+    "name": "Drifblim",
+    "types": "Ghost, Flying",
+    "species": "Blimp Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "15.0 kg",
+    "abilities": "Aftermath, Unburden, Flare-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
   }
 }
