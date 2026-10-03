@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T07:39:16.593912",
+  "timestamp": "2026-10-03T07:52:00.275722",
   "pokemon_data": {
-    "id": "0622",
-    "name": "Golett",
-    "types": "Ground, Ghost",
-    "species": "Automaton Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "92.0 kg",
-    "abilities": "Iron-Fist, Klutz, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
+    "id": "0833",
+    "name": "Chewtle",
+    "types": "Water",
+    "species": "Snapping Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
   }
 }
