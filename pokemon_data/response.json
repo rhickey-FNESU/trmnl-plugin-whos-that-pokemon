@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T08:55:15.837264",
+  "timestamp": "2026-10-03T09:03:52.181642",
   "pokemon_data": {
-    "id": "0662",
-    "name": "Fletchinder",
-    "types": "Fire, Flying",
-    "species": "Ember Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.0 kg",
-    "abilities": "Flame-Body, Gale-Wings",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+    "id": "0301",
+    "name": "Delcatty",
+    "types": "Normal",
+    "species": "Prim Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.6 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
   }
 }
