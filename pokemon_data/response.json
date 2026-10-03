@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T05:52:48.025132",
+  "timestamp": "2026-10-03T06:07:40.138374",
   "pokemon_data": {
-    "id": "0229",
-    "name": "Houndoom",
-    "types": "Dark, Fire",
-    "species": "Dark Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "35.0 kg",
-    "abilities": "Early-Bird, Flash-Fire, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+    "id": "0182",
+    "name": "Bellossom",
+    "types": "Grass",
+    "species": "Flower Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.8 kg",
+    "abilities": "Chlorophyll, Healer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
   }
 }
