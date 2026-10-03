@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T00:46:45.250920",
+  "timestamp": "2026-10-03T01:03:44.267361",
   "pokemon_data": {
-    "id": "1008",
-    "name": "Miraidon",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "240.0 kg",
-    "abilities": "Hadron-Engine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+    "id": "0611",
+    "name": "Fraxure",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "36.0 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
   }
 }
