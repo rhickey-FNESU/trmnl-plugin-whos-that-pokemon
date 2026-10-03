@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T23:48:15.385954",
+  "timestamp": "2026-10-03T00:00:56.128696",
   "pokemon_data": {
-    "id": "0948",
-    "name": "Toedscool",
-    "types": "Ground, Grass",
-    "species": "Woodear Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "33.0 kg",
-    "abilities": "Mycelium-Might",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
+    "id": "0237",
+    "name": "Hitmontop",
+    "types": "Fighting",
+    "species": "Handstand Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "48.0 kg",
+    "abilities": "Intimidate, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
   }
 }
