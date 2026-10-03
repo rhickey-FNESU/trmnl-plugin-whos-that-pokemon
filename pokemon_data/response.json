@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T07:25:26.773357",
+  "timestamp": "2026-10-03T07:39:16.593912",
   "pokemon_data": {
-    "id": "1021",
-    "name": "Raging-Bolt",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "5.2 m",
-    "weight": "480.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png"
+    "id": "0622",
+    "name": "Golett",
+    "types": "Ground, Ghost",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "92.0 kg",
+    "abilities": "Iron-Fist, Klutz, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
   }
 }
