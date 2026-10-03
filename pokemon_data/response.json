@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T09:50:37.443630",
+  "timestamp": "2026-10-03T10:00:51.686701",
   "pokemon_data": {
-    "id": "0122",
-    "name": "Mr-Mime",
-    "types": "Psychic, Fairy",
-    "species": "Barrier Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "54.5 kg",
-    "abilities": "Soundproof, Filter, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+    "id": "0347",
+    "name": "Anorith",
+    "types": "Rock, Bug",
+    "species": "Old Shrimp Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "12.5 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
   }
 }
