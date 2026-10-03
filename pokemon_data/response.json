@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T18:15:55.877731",
+  "timestamp": "2026-10-03T21:29:53.681806",
   "pokemon_data": {
-    "id": "0741",
-    "name": "Oricorio-Baile",
-    "types": "Fire, Flying",
-    "species": "Dancing Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "3.4 kg",
-    "abilities": "Dancer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+    "id": "0949",
+    "name": "Toedscruel",
+    "types": "Ground, Grass",
+    "species": "Woodear Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "58.0 kg",
+    "abilities": "Mycelium-Might",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png"
   }
 }
