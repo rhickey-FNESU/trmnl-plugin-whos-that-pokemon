@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T08:25:00.627136",
+  "timestamp": "2026-10-03T08:36:21.160058",
   "pokemon_data": {
-    "id": "0884",
-    "name": "Duraludon",
-    "types": "Steel, Dragon",
-    "species": "Alloy Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "40.0 kg",
-    "abilities": "Light-Metal, Heavy-Metal, Stalwart",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
+    "id": "0419",
+    "name": "Floatzel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
