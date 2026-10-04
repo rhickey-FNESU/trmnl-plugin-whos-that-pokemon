@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-04T10:22:46.461532",
+  "timestamp": "2026-10-04T15:25:58.487678",
   "pokemon_data": {
-    "id": "0868",
-    "name": "Milcery",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+    "id": "0583",
+    "name": "Vanillish",
+    "types": "Ice",
+    "species": "Icy Snow Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "41.0 kg",
+    "abilities": "Ice-Body, Snow-Cloak, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
   }
 }
