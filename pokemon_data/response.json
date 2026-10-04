@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-04T18:41:43.626718",
+  "timestamp": "2026-10-04T21:55:47.452358",
   "pokemon_data": {
-    "id": "0683",
-    "name": "Aromatisse",
-    "types": "Fairy",
-    "species": "Fragrance Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "15.5 kg",
-    "abilities": "Healer, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
+    "id": "0128",
+    "name": "Tauros",
+    "types": "Normal",
+    "species": "Wild Bull Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "88.4 kg",
+    "abilities": "Intimidate, Anger-Point, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
   }
 }
