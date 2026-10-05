@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-05T00:17:04.207685",
+  "timestamp": "2026-10-05T05:56:24.979358",
   "pokemon_data": {
-    "id": "0431",
-    "name": "Glameow",
-    "types": "Normal",
-    "species": "Catty Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "3.9 kg",
-    "abilities": "Limber, Own-Tempo, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png"
+    "id": "0667",
+    "name": "Litleo",
+    "types": "Fire, Normal",
+    "species": "Lion Cub Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.5 kg",
+    "abilities": "Rivalry, Unnerve, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
   }
 }
