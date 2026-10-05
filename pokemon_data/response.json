@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-05T12:59:14.328280",
+  "timestamp": "2026-10-05T20:57:28.398496",
   "pokemon_data": {
-    "id": "0446",
-    "name": "Munchlax",
+    "id": "1024",
+    "name": "Terapagos",
     "types": "Normal",
-    "species": "Big Eater Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "105.0 kg",
-    "abilities": "Pickup, Thick-Fat, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
+    "species": "Tera Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "6.5 kg",
+    "abilities": "Tera-Shift",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
   }
 }
