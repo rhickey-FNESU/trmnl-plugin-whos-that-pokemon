@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-04T21:55:47.452358",
+  "timestamp": "2026-10-05T00:17:04.207685",
   "pokemon_data": {
-    "id": "0128",
-    "name": "Tauros",
+    "id": "0431",
+    "name": "Glameow",
     "types": "Normal",
-    "species": "Wild Bull Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "88.4 kg",
-    "abilities": "Intimidate, Anger-Point, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+    "species": "Catty Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "3.9 kg",
+    "abilities": "Limber, Own-Tempo, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png"
   }
 }
