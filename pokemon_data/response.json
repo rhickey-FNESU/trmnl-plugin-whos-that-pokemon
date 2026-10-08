@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-08T01:17:22.290383",
+  "timestamp": "2026-10-08T07:34:23.489862",
   "pokemon_data": {
-    "id": "0782",
-    "name": "Jangmo-O",
-    "types": "Dragon",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "29.7 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
+    "id": "0676",
+    "name": "Furfrou",
+    "types": "Normal",
+    "species": "Poodle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "28.0 kg",
+    "abilities": "Fur-Coat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
   }
 }
