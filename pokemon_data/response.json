@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-07T21:33:37.555894",
+  "timestamp": "2026-10-08T01:17:22.290383",
   "pokemon_data": {
-    "id": "0526",
-    "name": "Gigalith",
-    "types": "Rock",
-    "species": "Compressed Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "260.0 kg",
-    "abilities": "Sturdy, Sand-Stream, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
+    "id": "0782",
+    "name": "Jangmo-O",
+    "types": "Dragon",
+    "species": "Scaly Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "29.7 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
   }
 }
