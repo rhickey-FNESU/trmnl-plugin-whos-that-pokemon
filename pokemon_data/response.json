@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T13:35:06.885906",
+  "timestamp": "2026-10-09T18:58:55.385253",
   "pokemon_data": {
-    "id": "0934",
-    "name": "Garganacl",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "240.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
+    "id": "0043",
+    "name": "Oddish",
+    "types": "Grass, Poison",
+    "species": "Weed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.4 kg",
+    "abilities": "Chlorophyll, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
   }
 }
