@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T06:28:41.554009",
+  "timestamp": "2026-10-09T13:35:06.885906",
   "pokemon_data": {
-    "id": "0597",
-    "name": "Ferroseed",
-    "types": "Grass, Steel",
-    "species": "Thorn Seed Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "18.8 kg",
-    "abilities": "Iron-Barbs",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
+    "id": "0934",
+    "name": "Garganacl",
+    "types": "Rock",
+    "species": "Rock Salt Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "240.0 kg",
+    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
   }
 }
