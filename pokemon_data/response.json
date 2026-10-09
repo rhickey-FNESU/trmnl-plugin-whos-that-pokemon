@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T18:58:55.385253",
+  "timestamp": "2026-10-09T23:00:19.362390",
   "pokemon_data": {
-    "id": "0043",
-    "name": "Oddish",
-    "types": "Grass, Poison",
-    "species": "Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.4 kg",
-    "abilities": "Chlorophyll, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    "id": "0372",
+    "name": "Shelgon",
+    "types": "Dragon",
+    "species": "Endurance Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "110.5 kg",
+    "abilities": "Rock-Head, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
   }
 }
