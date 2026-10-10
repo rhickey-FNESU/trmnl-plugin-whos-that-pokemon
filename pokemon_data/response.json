@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-10T14:42:45.659997",
+  "timestamp": "2026-10-10T18:50:42.672228",
   "pokemon_data": {
-    "id": "0968",
-    "name": "Orthworm",
-    "types": "Steel",
-    "species": "Earthworm Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "310.0 kg",
-    "abilities": "Earth-Eater, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+    "id": "0602",
+    "name": "Tynamo",
+    "types": "Electric",
+    "species": "Elefish Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
   }
 }
