@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-11T06:40:56.161144",
+  "timestamp": "2026-10-11T13:30:11.806202",
   "pokemon_data": {
-    "id": "0199",
-    "name": "Slowking",
-    "types": "Water, Psychic",
-    "species": "Royal Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "79.5 kg",
-    "abilities": "Oblivious, Own-Tempo, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
+    "id": "0814",
+    "name": "Raboot",
+    "types": "Fire",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.0 kg",
+    "abilities": "Blaze, Libero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
   }
 }
