@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-11T13:30:11.806202",
+  "timestamp": "2026-10-11T18:18:15.870332",
   "pokemon_data": {
-    "id": "0814",
-    "name": "Raboot",
-    "types": "Fire",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.0 kg",
-    "abilities": "Blaze, Libero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+    "id": "0265",
+    "name": "Wurmple",
+    "types": "Bug",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.6 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png"
   }
 }
