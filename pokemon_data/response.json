@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T18:12:54.193425",
+  "timestamp": "2026-10-13T22:42:19.977263",
   "pokemon_data": {
-    "id": "0232",
-    "name": "Donphan",
-    "types": "Ground",
-    "species": "Armor Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "120.0 kg",
-    "abilities": "Sturdy, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+    "id": "0272",
+    "name": "Ludicolo",
+    "types": "Water, Grass",
+    "species": "Carefree Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "55.0 kg",
+    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png"
   }
 }
