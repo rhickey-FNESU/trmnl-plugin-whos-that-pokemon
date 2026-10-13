@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T11:05:11.726673",
+  "timestamp": "2026-10-13T18:12:54.193425",
   "pokemon_data": {
-    "id": "0980",
-    "name": "Clodsire",
-    "types": "Poison, Ground",
-    "species": "Spiny Fish Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "223.0 kg",
-    "abilities": "Poison-Point, Water-Absorb, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
+    "id": "0232",
+    "name": "Donphan",
+    "types": "Ground",
+    "species": "Armor Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "120.0 kg",
+    "abilities": "Sturdy, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
   }
 }
