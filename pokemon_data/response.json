@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T01:23:05.560132",
+  "timestamp": "2026-10-14T06:16:25.237302",
   "pokemon_data": {
-    "id": "0922",
-    "name": "Pawmo",
-    "types": "Electric, Fighting",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.5 kg",
-    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png"
+    "id": "0916",
+    "name": "Oinkologne-Male",
+    "types": "Normal",
+    "species": "Hog Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Lingering-Aroma, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
   }
 }
