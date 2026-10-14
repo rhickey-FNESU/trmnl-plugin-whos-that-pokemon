@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T17:05:15.987017",
+  "timestamp": "2026-10-14T20:42:23.454153",
   "pokemon_data": {
-    "id": "0066",
-    "name": "Machop",
-    "types": "Fighting",
-    "species": "Superpower Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "19.5 kg",
-    "abilities": "Guts, No-Guard, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+    "id": "0937",
+    "name": "Ceruledge",
+    "types": "Fire, Ghost",
+    "species": "Fire Blades Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "62.0 kg",
+    "abilities": "Flash-Fire, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
   }
 }
