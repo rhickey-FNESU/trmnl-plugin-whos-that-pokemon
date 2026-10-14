@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T12:09:32.219354",
+  "timestamp": "2026-10-14T17:05:15.987017",
   "pokemon_data": {
-    "id": "0480",
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "id": "0066",
+    "name": "Machop",
+    "types": "Fighting",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "19.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
   }
 }
