@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T19:29:52.607786",
+  "timestamp": "2026-10-15T22:34:16.969095",
   "pokemon_data": {
-    "id": "0945",
-    "name": "Grafaiai",
-    "types": "Poison, Normal",
-    "species": "Toxic Monkey Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "27.2 kg",
-    "abilities": "Unburden, Poison-Touch, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+    "id": "1001",
+    "name": "Wo-Chien",
+    "types": "Dark, Grass",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "74.2 kg",
+    "abilities": "Tablets-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
   }
 }
