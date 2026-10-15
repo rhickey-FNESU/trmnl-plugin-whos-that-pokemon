@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T11:45:52.108700",
+  "timestamp": "2026-10-15T15:48:47.826108",
   "pokemon_data": {
-    "id": "0293",
-    "name": "Whismur",
-    "types": "Normal",
-    "species": "Whisper Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "16.3 kg",
-    "abilities": "Soundproof, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png"
+    "id": "0171",
+    "name": "Lanturn",
+    "types": "Water, Electric",
+    "species": "Light Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "22.5 kg",
+    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
   }
 }
