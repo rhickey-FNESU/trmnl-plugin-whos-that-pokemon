@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T06:24:35.980574",
+  "timestamp": "2026-10-15T11:45:52.108700",
   "pokemon_data": {
-    "id": "0914",
-    "name": "Quaquaval",
-    "types": "Water, Fighting",
-    "species": "Dancer Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "61.9 kg",
-    "abilities": "Torrent, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
+    "id": "0293",
+    "name": "Whismur",
+    "types": "Normal",
+    "species": "Whisper Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "16.3 kg",
+    "abilities": "Soundproof, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png"
   }
 }
