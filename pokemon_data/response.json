@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T17:59:28.665454",
+  "timestamp": "2026-10-16T20:30:50.101473",
   "pokemon_data": {
-    "id": "0341",
-    "name": "Corphish",
-    "types": "Water",
-    "species": "Ruffian Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.5 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
+    "id": "0546",
+    "name": "Cottonee",
+    "types": "Grass, Fairy",
+    "species": "Cotton Puff Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.6 kg",
+    "abilities": "Prankster, Infiltrator, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
   }
 }
