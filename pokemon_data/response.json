@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T20:30:50.101473",
+  "timestamp": "2026-10-16T22:59:59.679302",
   "pokemon_data": {
-    "id": "0546",
-    "name": "Cottonee",
-    "types": "Grass, Fairy",
-    "species": "Cotton Puff Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    "id": "0424",
+    "name": "Ambipom",
+    "types": "Normal",
+    "species": "Long Tail Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "20.3 kg",
+    "abilities": "Technician, Pickup, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
   }
 }
