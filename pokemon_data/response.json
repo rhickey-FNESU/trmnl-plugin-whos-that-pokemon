@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T20:56:08.327316",
+  "timestamp": "2026-10-17T22:45:25.078046",
   "pokemon_data": {
-    "id": "0596",
-    "name": "Galvantula",
-    "types": "Bug, Electric",
-    "species": "Elespider Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "14.3 kg",
-    "abilities": "Compound-Eyes, Unnerve, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+    "id": "0276",
+    "name": "Taillow",
+    "types": "Normal, Flying",
+    "species": "Tiny Swallow Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.3 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
   }
 }
