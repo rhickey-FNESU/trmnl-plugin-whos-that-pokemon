@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T16:21:46.947890",
+  "timestamp": "2026-10-17T18:36:42.056105",
   "pokemon_data": {
-    "id": "0361",
-    "name": "Snorunt",
-    "types": "Ice",
-    "species": "Snow Hat Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.8 kg",
-    "abilities": "Inner-Focus, Ice-Body, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+    "id": "0105",
+    "name": "Marowak",
+    "types": "Ground",
+    "species": "Bone Keeper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "45.0 kg",
+    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
   }
 }
