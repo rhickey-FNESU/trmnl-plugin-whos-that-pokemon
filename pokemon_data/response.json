@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T22:59:59.679302",
+  "timestamp": "2026-10-17T01:05:09.830882",
   "pokemon_data": {
-    "id": "0424",
-    "name": "Ambipom",
-    "types": "Normal",
-    "species": "Long Tail Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "20.3 kg",
-    "abilities": "Technician, Pickup, Skill-Link",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
+    "id": "0468",
+    "name": "Togekiss",
+    "types": "Fairy, Flying",
+    "species": "Jubilee Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "38.0 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
   }
 }
