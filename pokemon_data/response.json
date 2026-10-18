@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T16:31:47.776044",
+  "timestamp": "2026-10-18T18:54:22.397089",
   "pokemon_data": {
-    "id": "0354",
-    "name": "Banette",
-    "types": "Ghost",
-    "species": "Marionette Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "12.5 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+    "id": "0754",
+    "name": "Lurantis",
+    "types": "Grass",
+    "species": "Bloom Sickle Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "18.5 kg",
+    "abilities": "Leaf-Guard, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
   }
 }
