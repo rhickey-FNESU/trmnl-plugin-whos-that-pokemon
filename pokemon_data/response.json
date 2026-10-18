@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T04:52:42.425025",
+  "timestamp": "2026-10-18T09:10:59.795688",
   "pokemon_data": {
-    "id": "0051",
-    "name": "Dugtrio",
-    "types": "Ground",
-    "species": "Mole Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "33.3 kg",
-    "abilities": "Sand-Veil, Arena-Trap, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+    "id": "0903",
+    "name": "Sneasler",
+    "types": "Fighting, Poison",
+    "species": "Free Climb Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "43.0 kg",
+    "abilities": "Pressure, Unburden, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png"
   }
 }
