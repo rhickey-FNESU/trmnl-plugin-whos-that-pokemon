@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T00:27:53.678576",
+  "timestamp": "2026-10-18T04:52:42.425025",
   "pokemon_data": {
-    "id": "0135",
-    "name": "Jolteon",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Volt-Absorb, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    "id": "0051",
+    "name": "Dugtrio",
+    "types": "Ground",
+    "species": "Mole Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "33.3 kg",
+    "abilities": "Sand-Veil, Arena-Trap, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
   }
 }
