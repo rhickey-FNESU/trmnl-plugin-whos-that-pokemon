@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T18:54:22.397089",
+  "timestamp": "2026-10-18T21:06:55.379775",
   "pokemon_data": {
-    "id": "0754",
-    "name": "Lurantis",
-    "types": "Grass",
-    "species": "Bloom Sickle Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "18.5 kg",
-    "abilities": "Leaf-Guard, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+    "id": "0698",
+    "name": "Amaura",
+    "types": "Rock, Ice",
+    "species": "Tundra Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "25.2 kg",
+    "abilities": "Refrigerate, Snow-Warning",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
   }
 }
