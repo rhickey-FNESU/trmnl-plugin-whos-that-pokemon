@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T22:45:25.078046",
+  "timestamp": "2026-10-18T00:27:53.678576",
   "pokemon_data": {
-    "id": "0276",
-    "name": "Taillow",
-    "types": "Normal, Flying",
-    "species": "Tiny Swallow Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.3 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
+    "id": "0135",
+    "name": "Jolteon",
+    "types": "Electric",
+    "species": "Lightning Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Volt-Absorb, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
   }
 }
