@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T23:05:39.627869",
+  "timestamp": "2026-10-19T01:09:41.456330",
   "pokemon_data": {
-    "id": "0507",
-    "name": "Herdier",
-    "types": "Normal",
-    "species": "Loyal Dog Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "14.7 kg",
-    "abilities": "Intimidate, Sand-Rush, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
