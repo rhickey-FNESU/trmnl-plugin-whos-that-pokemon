@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-19T13:01:04.198733",
+  "timestamp": "2026-10-19T19:16:18.533902",
   "pokemon_data": {
-    "id": "0480",
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "id": "0915",
+    "name": "Lechonk",
+    "types": "Normal",
+    "species": "Hog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
   }
 }
