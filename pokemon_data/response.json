@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-20T06:09:21.430984",
+  "timestamp": "2026-10-20T11:28:31.606054",
   "pokemon_data": {
-    "id": "0499",
-    "name": "Pignite",
-    "types": "Fire, Fighting",
-    "species": "Fire Pig Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "55.5 kg",
-    "abilities": "Blaze, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+    "id": "0201",
+    "name": "Unown",
+    "types": "Psychic",
+    "species": "Symbol Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
   }
 }
