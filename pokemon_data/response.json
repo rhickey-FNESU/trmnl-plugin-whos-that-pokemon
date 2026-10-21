@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-21T00:53:58.092507",
+  "timestamp": "2026-10-21T05:25:37.310538",
   "pokemon_data": {
-    "id": "0343",
-    "name": "Baltoy",
-    "types": "Ground, Psychic",
-    "species": "Clay Doll Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "21.5 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
+    "id": "0861",
+    "name": "Grimmsnarl",
+    "types": "Dark, Fairy",
+    "species": "Bulk Up Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "61.0 kg",
+    "abilities": "Prankster, Frisk, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
   }
 }
