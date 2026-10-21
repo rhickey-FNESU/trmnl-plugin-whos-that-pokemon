@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-21T10:21:59.893142",
+  "timestamp": "2026-10-21T15:24:19.008618",
   "pokemon_data": {
-    "id": "0064",
-    "name": "Kadabra",
-    "types": "Psychic",
-    "species": "Psi Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "56.5 kg",
-    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+    "id": "0801",
+    "name": "Magearna",
+    "types": "Steel, Fairy",
+    "species": "Artificial Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "80.5 kg",
+    "abilities": "Soul-Heart",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png"
   }
 }
