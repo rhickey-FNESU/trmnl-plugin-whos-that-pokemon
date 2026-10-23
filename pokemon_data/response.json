@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T15:13:46.147685",
+  "timestamp": "2026-10-23T19:11:44.136395",
   "pokemon_data": {
-    "id": "0185",
-    "name": "Sudowoodo",
-    "types": "Rock",
-    "species": "Imitation Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "abilities": "Sturdy, Rock-Head, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
+    "id": "0733",
+    "name": "Toucannon",
+    "types": "Normal, Flying",
+    "species": "Cannon Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "26.0 kg",
+    "abilities": "Keen-Eye, Skill-Link, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
   }
 }
