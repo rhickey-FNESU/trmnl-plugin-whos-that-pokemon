@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T05:00:11.696842",
+  "timestamp": "2026-10-24T09:18:45.942671",
   "pokemon_data": {
-    "id": "0609",
-    "name": "Chandelure",
-    "types": "Ghost, Fire",
-    "species": "Luring Pok\u00e9mon",
+    "id": "0916",
+    "name": "Oinkologne-Male",
+    "types": "Normal",
+    "species": "Hog Pok\u00e9mon",
     "height": "1.0 m",
-    "weight": "34.3 kg",
-    "abilities": "Flash-Fire, Flame-Body, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
+    "weight": "120.0 kg",
+    "abilities": "Lingering-Aroma, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
   }
 }
