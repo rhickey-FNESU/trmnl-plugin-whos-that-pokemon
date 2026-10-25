@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T23:40:53.888839",
+  "timestamp": "2026-10-25T01:37:08.819277",
   "pokemon_data": {
-    "id": "0109",
-    "name": "Koffing",
-    "types": "Poison",
-    "species": "Poison Gas Pok\u00e9mon",
+    "id": "0648",
+    "name": "Meloetta-Aria",
+    "types": "Normal, Psychic",
+    "species": "Melody Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate, Neutralizing-Gas, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    "weight": "6.5 kg",
+    "abilities": "Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png"
   }
 }
