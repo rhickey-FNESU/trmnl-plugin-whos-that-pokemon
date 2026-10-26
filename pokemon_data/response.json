@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T06:28:27.953337",
+  "timestamp": "2026-10-26T13:24:45.605876",
   "pokemon_data": {
-    "id": "0594",
-    "name": "Alomomola",
-    "types": "Water",
-    "species": "Caring Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "31.6 kg",
-    "abilities": "Healer, Hydration, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+    "id": "0821",
+    "name": "Rookidee",
+    "types": "Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.8 kg",
+    "abilities": "Keen-Eye, Unnerve, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
   }
 }
