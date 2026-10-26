@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T13:24:45.605876",
+  "timestamp": "2026-10-26T19:25:51.365963",
   "pokemon_data": {
-    "id": "0821",
-    "name": "Rookidee",
-    "types": "Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Unnerve, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
+    "id": "0105",
+    "name": "Marowak",
+    "types": "Ground",
+    "species": "Bone Keeper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "45.0 kg",
+    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
   }
 }
