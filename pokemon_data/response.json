@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T19:25:51.365963",
+  "timestamp": "2026-10-26T23:11:59.736374",
   "pokemon_data": {
-    "id": "0105",
-    "name": "Marowak",
-    "types": "Ground",
-    "species": "Bone Keeper Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "45.0 kg",
-    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+    "id": "0861",
+    "name": "Grimmsnarl",
+    "types": "Dark, Fairy",
+    "species": "Bulk Up Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "61.0 kg",
+    "abilities": "Prankster, Frisk, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
   }
 }
