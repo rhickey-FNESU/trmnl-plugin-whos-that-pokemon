@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T19:30:50.652062",
+  "timestamp": "2026-10-28T23:30:09.724486",
   "pokemon_data": {
-    "id": "0776",
-    "name": "Turtonator",
-    "types": "Fire, Dragon",
-    "species": "Blast Turtle Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "212.0 kg",
-    "abilities": "Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+    "id": "0907",
+    "name": "Floragato",
+    "types": "Grass",
+    "species": "Grass Cat Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "12.2 kg",
+    "abilities": "Overgrow, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png"
   }
 }
