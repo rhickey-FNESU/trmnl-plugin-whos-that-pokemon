@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T00:19:21.452881",
+  "timestamp": "2026-10-30T06:04:49.857057",
   "pokemon_data": {
-    "id": "1014",
-    "name": "Okidogi",
-    "types": "Poison, Fighting",
-    "species": "Retainer Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "92.2 kg",
-    "abilities": "Toxic-Chain, Guard-Dog",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
+    "id": "0008",
+    "name": "Wartortle",
+    "types": "Water",
+    "species": "Turtle Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
   }
 }
