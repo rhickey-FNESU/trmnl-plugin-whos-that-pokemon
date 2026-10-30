@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T18:17:21.445791",
+  "timestamp": "2026-10-30T22:30:44.585811",
   "pokemon_data": {
-    "id": "0830",
-    "name": "Eldegoss",
-    "types": "Grass",
-    "species": "Cotton Bloom Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "2.5 kg",
-    "abilities": "Cotton-Down, Regenerator, Effect-Spore",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png"
+    "id": "0466",
+    "name": "Electivire",
+    "types": "Electric",
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "138.6 kg",
+    "abilities": "Motor-Drive, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
   }
 }
