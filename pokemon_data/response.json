@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T07:35:51.732658",
+  "timestamp": "2026-10-31T13:51:41.956043",
   "pokemon_data": {
-    "id": "0174",
-    "name": "Igglybuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Cute-Charm, Competitive, Friend-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+    "id": "0055",
+    "name": "Golduck",
+    "types": "Water",
+    "species": "Duck Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "76.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
   }
 }
