@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T22:30:44.585811",
+  "timestamp": "2026-10-31T01:47:13.141653",
   "pokemon_data": {
-    "id": "0466",
-    "name": "Electivire",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "138.6 kg",
-    "abilities": "Motor-Drive, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    "id": "0038",
+    "name": "Ninetales",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "19.9 kg",
+    "abilities": "Flash-Fire, Drought",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
   }
 }
