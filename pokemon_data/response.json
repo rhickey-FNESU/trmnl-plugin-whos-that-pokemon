@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T13:51:41.956043",
+  "timestamp": "2026-10-31T17:59:36.357490",
   "pokemon_data": {
-    "id": "0055",
-    "name": "Golduck",
-    "types": "Water",
-    "species": "Duck Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "76.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+    "id": "0294",
+    "name": "Loudred",
+    "types": "Normal",
+    "species": "Big Voice Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "40.5 kg",
+    "abilities": "Soundproof, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
   }
 }
