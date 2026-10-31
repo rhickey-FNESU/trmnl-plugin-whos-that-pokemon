@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T01:47:13.141653",
+  "timestamp": "2026-10-31T07:35:51.732658",
   "pokemon_data": {
-    "id": "0038",
-    "name": "Ninetales",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "19.9 kg",
-    "abilities": "Flash-Fire, Drought",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+    "id": "0174",
+    "name": "Igglybuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
   }
 }
