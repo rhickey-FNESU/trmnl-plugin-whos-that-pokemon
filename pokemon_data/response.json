@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T23:56:51.319895",
+  "timestamp": "2026-11-01T03:22:59.740522",
   "pokemon_data": {
-    "id": "0921",
-    "name": "Pawmi",
-    "types": "Electric",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.5 kg",
-    "abilities": "Static, Natural-Cure, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png"
+    "id": "0496",
+    "name": "Servine",
+    "types": "Grass",
+    "species": "Grass Snake Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "16.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
   }
 }
