@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T18:57:24.530686",
+  "timestamp": "2026-11-05T23:53:52.175369",
   "pokemon_data": {
-    "id": "0398",
-    "name": "Staraptor",
-    "types": "Normal, Flying",
-    "species": "Predator Pok\u00e9mon",
+    "id": "0783",
+    "name": "Hakamo-O",
+    "types": "Dragon, Fighting",
+    "species": "Scaly Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "24.9 kg",
-    "abilities": "Intimidate, Reckless",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
+    "weight": "47.0 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
   }
 }
