@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T18:25:24.800502",
+  "timestamp": "2026-11-06T23:18:56.097421",
   "pokemon_data": {
-    "id": "0915",
-    "name": "Lechonk",
-    "types": "Normal",
-    "species": "Hog Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
+    "id": "0622",
+    "name": "Golett",
+    "types": "Ground, Ghost",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "92.0 kg",
+    "abilities": "Iron-Fist, Klutz, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
   }
 }
