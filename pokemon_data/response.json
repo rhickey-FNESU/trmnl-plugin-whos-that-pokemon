@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T03:47:15.390663",
+  "timestamp": "2026-11-06T11:38:09.718875",
   "pokemon_data": {
-    "id": "0473",
-    "name": "Mamoswine",
-    "types": "Ice, Ground",
-    "species": "Twin Tusk Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "291.0 kg",
-    "abilities": "Oblivious, Snow-Cloak, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png"
+    "id": "1005",
+    "name": "Roaring-Moon",
+    "types": "Dragon, Dark",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "380.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png"
   }
 }
