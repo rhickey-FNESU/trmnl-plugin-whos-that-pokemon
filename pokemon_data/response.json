@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-08T23:16:30.327246",
+  "timestamp": "2026-11-09T02:46:12.852895",
   "pokemon_data": {
-    "id": "0095",
-    "name": "Onix",
-    "types": "Rock, Ground",
-    "species": "Rock Snake Pok\u00e9mon",
-    "height": "8.8 m",
-    "weight": "210.0 kg",
-    "abilities": "Rock-Head, Sturdy, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+    "id": "0688",
+    "name": "Binacle",
+    "types": "Rock, Water",
+    "species": "Two-Handed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "31.0 kg",
+    "abilities": "Tough-Claws, Sniper, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
   }
 }
