@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T10:27:55.278240",
+  "timestamp": "2026-11-09T20:54:30.762688",
   "pokemon_data": {
-    "id": "0845",
-    "name": "Cramorant",
-    "types": "Flying, Water",
-    "species": "Gulp Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "18.0 kg",
-    "abilities": "Gulp-Missile",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png"
+    "id": "0555",
+    "name": "Darmanitan-Standard",
+    "types": "Fire",
+    "species": "Blazing Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "92.9 kg",
+    "abilities": "Sheer-Force, Zen-Mode",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
   }
 }
