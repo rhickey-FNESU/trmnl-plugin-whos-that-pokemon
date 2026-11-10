@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T18:20:09.201440",
+  "timestamp": "2026-11-10T23:35:14.640027",
   "pokemon_data": {
-    "id": "0386",
-    "name": "Deoxys-Normal",
-    "types": "Psychic",
-    "species": "Dna Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "60.8 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+    "id": "0804",
+    "name": "Naganadel",
+    "types": "Poison, Dragon",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "3.6 m",
+    "weight": "150.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
   }
 }
