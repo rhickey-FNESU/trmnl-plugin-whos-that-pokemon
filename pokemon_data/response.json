@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-11T10:20:14.637049",
+  "timestamp": "2026-11-11T17:56:55.293706",
   "pokemon_data": {
-    "id": "0877",
-    "name": "Morpeko-Full-Belly",
-    "types": "Electric, Dark",
-    "species": "Two-Sided Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.0 kg",
-    "abilities": "Hunger-Switch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
+    "id": "0452",
+    "name": "Drapion",
+    "types": "Poison, Dark",
+    "species": "Ogre Scorpion Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "61.5 kg",
+    "abilities": "Battle-Armor, Sniper, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
   }
 }
