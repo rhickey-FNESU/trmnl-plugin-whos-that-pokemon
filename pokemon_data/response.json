@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T16:44:35.542755",
+  "timestamp": "2026-11-13T22:11:52.147505",
   "pokemon_data": {
-    "id": "0408",
-    "name": "Cranidos",
-    "types": "Rock",
-    "species": "Head Butt Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "31.5 kg",
-    "abilities": "Mold-Breaker, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
+    "id": "0738",
+    "name": "Vikavolt",
+    "types": "Bug, Electric",
+    "species": "Stag Beetle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "45.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
   }
 }
