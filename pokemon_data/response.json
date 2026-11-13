@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T08:43:53.020703",
+  "timestamp": "2026-11-13T16:44:35.542755",
   "pokemon_data": {
-    "id": "0468",
-    "name": "Togekiss",
-    "types": "Fairy, Flying",
-    "species": "Jubilee Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "38.0 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
+    "id": "0408",
+    "name": "Cranidos",
+    "types": "Rock",
+    "species": "Head Butt Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "31.5 kg",
+    "abilities": "Mold-Breaker, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
   }
 }
