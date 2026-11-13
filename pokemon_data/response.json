@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T01:31:59.712090",
+  "timestamp": "2026-11-13T08:43:53.020703",
   "pokemon_data": {
-    "id": "0633",
-    "name": "Deino",
-    "types": "Dark, Dragon",
-    "species": "Irate Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.3 kg",
-    "abilities": "Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+    "id": "0468",
+    "name": "Togekiss",
+    "types": "Fairy, Flying",
+    "species": "Jubilee Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "38.0 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
   }
 }
