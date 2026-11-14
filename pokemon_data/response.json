@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-14T20:11:09.268374",
+  "timestamp": "2026-11-14T23:52:30.466934",
   "pokemon_data": {
-    "id": "0325",
-    "name": "Spoink",
-    "types": "Psychic",
-    "species": "Bounce Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "30.6 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+    "id": "0670",
+    "name": "Floette",
+    "types": "Fairy",
+    "species": "Single Bloom Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.9 kg",
+    "abilities": "Flower-Veil, Symbiosis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
   }
 }
