@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T22:11:52.147505",
+  "timestamp": "2026-11-14T02:22:39.265665",
   "pokemon_data": {
-    "id": "0738",
-    "name": "Vikavolt",
-    "types": "Bug, Electric",
-    "species": "Stag Beetle Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "45.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
+    "id": "0318",
+    "name": "Carvanha",
+    "types": "Water, Dark",
+    "species": "Savage Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "20.8 kg",
+    "abilities": "Rough-Skin, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
   }
 }
