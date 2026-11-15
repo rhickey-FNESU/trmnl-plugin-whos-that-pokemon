@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-15T11:16:18.485859",
+  "timestamp": "2026-11-15T17:52:59.098641",
   "pokemon_data": {
-    "id": "0494",
-    "name": "Victini",
-    "types": "Psychic, Fire",
-    "species": "Victory Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.0 kg",
-    "abilities": "Victory-Star",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png"
+    "id": "0218",
+    "name": "Slugma",
+    "types": "Fire",
+    "species": "Lava Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "35.0 kg",
+    "abilities": "Magma-Armor, Flame-Body, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
   }
 }
