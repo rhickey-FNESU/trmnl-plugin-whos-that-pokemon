@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T01:57:24.908098",
+  "timestamp": "2026-11-16T08:50:26.159847",
   "pokemon_data": {
-    "id": "0347",
-    "name": "Anorith",
-    "types": "Rock, Bug",
-    "species": "Old Shrimp Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "12.5 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
+    "id": "0785",
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
