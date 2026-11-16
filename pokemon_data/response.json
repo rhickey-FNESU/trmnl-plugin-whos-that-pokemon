@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-15T22:08:25.895637",
+  "timestamp": "2026-11-16T01:57:24.908098",
   "pokemon_data": {
-    "id": "0271",
-    "name": "Lombre",
-    "types": "Water, Grass",
-    "species": "Jolly Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "32.5 kg",
-    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png"
+    "id": "0347",
+    "name": "Anorith",
+    "types": "Rock, Bug",
+    "species": "Old Shrimp Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "12.5 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
   }
 }
