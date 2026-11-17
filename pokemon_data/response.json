@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T02:15:16.566315",
+  "timestamp": "2026-11-17T10:43:28.520317",
   "pokemon_data": {
-    "id": "0213",
-    "name": "Shuckle",
-    "types": "Bug, Rock",
-    "species": "Mold Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "20.5 kg",
-    "abilities": "Sturdy, Gluttony, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
+    "id": "0869",
+    "name": "Alcremie",
+    "types": "Fairy",
+    "species": "Cream Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.5 kg",
+    "abilities": "Sweet-Veil, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
   }
 }
