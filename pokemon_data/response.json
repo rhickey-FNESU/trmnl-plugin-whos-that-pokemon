@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T18:58:13.771485",
+  "timestamp": "2026-11-17T02:15:16.566315",
   "pokemon_data": {
-    "id": "0115",
-    "name": "Kangaskhan",
-    "types": "Normal",
-    "species": "Parent Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "80.0 kg",
-    "abilities": "Early-Bird, Scrappy, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+    "id": "0213",
+    "name": "Shuckle",
+    "types": "Bug, Rock",
+    "species": "Mold Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "20.5 kg",
+    "abilities": "Sturdy, Gluttony, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
   }
 }
