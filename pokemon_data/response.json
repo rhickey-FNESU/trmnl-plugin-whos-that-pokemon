@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T01:42:59.339832",
+  "timestamp": "2026-11-18T09:07:44.676347",
   "pokemon_data": {
-    "id": "0428",
-    "name": "Lopunny",
-    "types": "Normal",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "33.3 kg",
-    "abilities": "Cute-Charm, Klutz, Limber",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png"
+    "id": "0230",
+    "name": "Kingdra",
+    "types": "Water, Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "152.0 kg",
+    "abilities": "Swift-Swim, Sniper, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
   }
 }
