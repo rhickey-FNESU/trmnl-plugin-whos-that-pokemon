@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T09:07:44.676347",
+  "timestamp": "2026-11-18T17:58:51.454622",
   "pokemon_data": {
-    "id": "0230",
-    "name": "Kingdra",
-    "types": "Water, Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "152.0 kg",
-    "abilities": "Swift-Swim, Sniper, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
+    "id": "0343",
+    "name": "Baltoy",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "21.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
   }
 }
