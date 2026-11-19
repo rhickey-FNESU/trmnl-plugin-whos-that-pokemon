@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T23:51:15.222212",
+  "timestamp": "2026-11-19T04:38:44.847455",
   "pokemon_data": {
-    "id": "0968",
-    "name": "Orthworm",
-    "types": "Steel",
-    "species": "Earthworm Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "310.0 kg",
-    "abilities": "Earth-Eater, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+    "id": "0893",
+    "name": "Zarude",
+    "types": "Dark, Grass",
+    "species": "Rogue Monkey Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "70.0 kg",
+    "abilities": "Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
   }
 }
