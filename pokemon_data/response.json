@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-22T21:14:21.825321",
+  "timestamp": "2026-11-23T01:41:44.899202",
   "pokemon_data": {
-    "id": "0943",
-    "name": "Mabosstiff",
-    "types": "Dark",
-    "species": "Boss Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "61.0 kg",
-    "abilities": "Intimidate, Guard-Dog, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png"
+    "id": "0401",
+    "name": "Kricketot",
+    "types": "Bug",
+    "species": "Cricket Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.2 kg",
+    "abilities": "Shed-Skin, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
   }
 }
