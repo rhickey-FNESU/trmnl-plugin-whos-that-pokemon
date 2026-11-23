@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-23T09:45:17.506709",
+  "timestamp": "2026-11-23T21:45:24.458763",
   "pokemon_data": {
-    "id": "0743",
-    "name": "Ribombee",
-    "types": "Bug, Fairy",
-    "species": "Bee Fly Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.5 kg",
-    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png"
+    "id": "1000",
+    "name": "Gholdengo",
+    "types": "Steel, Ghost",
+    "species": "Coin Entity Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "30.0 kg",
+    "abilities": "Good-As-Gold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
   }
 }
