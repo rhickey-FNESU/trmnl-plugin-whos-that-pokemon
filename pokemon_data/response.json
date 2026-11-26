@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-25T19:27:31.244582",
+  "timestamp": "2026-11-26T02:19:13.258950",
   "pokemon_data": {
-    "id": "0539",
-    "name": "Sawk",
-    "types": "Fighting",
-    "species": "Karate Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "51.0 kg",
-    "abilities": "Sturdy, Inner-Focus, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png"
+    "id": "0507",
+    "name": "Herdier",
+    "types": "Normal",
+    "species": "Loyal Dog Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "14.7 kg",
+    "abilities": "Intimidate, Sand-Rush, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
   }
 }
