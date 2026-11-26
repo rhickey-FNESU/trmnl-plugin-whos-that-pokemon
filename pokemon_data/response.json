@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-26T02:19:13.258950",
+  "timestamp": "2026-11-26T11:09:14.631145",
   "pokemon_data": {
-    "id": "0507",
-    "name": "Herdier",
-    "types": "Normal",
-    "species": "Loyal Dog Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "14.7 kg",
-    "abilities": "Intimidate, Sand-Rush, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+    "id": "0512",
+    "name": "Simisage",
+    "types": "Grass",
+    "species": "Thorn Monkey Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "30.5 kg",
+    "abilities": "Gluttony, Overgrow",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png"
   }
 }
