@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-27T20:09:02.786144",
+  "timestamp": "2026-11-28T02:38:24.652857",
   "pokemon_data": {
-    "id": "0403",
-    "name": "Shinx",
-    "types": "Electric",
-    "species": "Flash Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.5 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png"
+    "id": "0691",
+    "name": "Dragalge",
+    "types": "Poison, Dragon",
+    "species": "Mock Kelp Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "81.5 kg",
+    "abilities": "Poison-Point, Poison-Touch, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
   }
 }
